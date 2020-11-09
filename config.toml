@@ -1,0 +1,15 @@
+baseURL = "https://ie.shoogle.net/ireland-and-northern-ireland"
+languageCode = "en"
+title = "Ireland and Northern Ireland"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "ireland-and-northern-ireland"

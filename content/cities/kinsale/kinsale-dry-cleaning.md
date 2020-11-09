@@ -1,0 +1,4 @@
+---
+title: "Kinsale Dry Cleaning"
+url: /kinsale/kinsale-dry-cleaning/
+---

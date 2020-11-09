@@ -1,0 +1,4 @@
+---
+title: "Sovereign Sailing"
+url: /kinsale/sovereign-sailing/
+---
