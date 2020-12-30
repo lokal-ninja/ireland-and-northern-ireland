@@ -1,4 +1,4 @@
 ---
-title: "Regina - Nails"
+title: "Regina Nails"
 url: /kilkenny/regina-nails/
 ---
