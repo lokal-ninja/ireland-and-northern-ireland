@@ -1,12 +1,11 @@
-id: 5941342191
-type: node
-shop: supermarket
-latitude: 53.3506008
-longitude: -6.278943600000001
+id: 26943103
+type: way
+latitude: 53.397223100000005
+longitude: -6.305169500000001
 postcode: ""
 city: Dublin
-street: "Brunswick Street North"
+street: "Saint Margaret's Road"
 housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su,PH 09:00-21:00"
+opening_hours: ""
 website: ""
