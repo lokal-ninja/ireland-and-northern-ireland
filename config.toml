@@ -3,7 +3,7 @@ languageCode = "en"
 title = "Ireland and Northern Ireland"
 theme = "ln-base"
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "robotsTXT"]
 enableGitInfo = true
 
 [outputs]
@@ -14,3 +14,6 @@ enableGitInfo = true
   site = "Shoogle"
   org = "lokal-ninja"
   repo = "ireland-and-northern-ireland"
+
+[taxonomies]
+  shop = "shops"
