@@ -1,5 +1,5 @@
 ---
 title: "MacBlair"
 url: /belfast/macblair/
-shop: doityourself
+shop: hardware
 ---
