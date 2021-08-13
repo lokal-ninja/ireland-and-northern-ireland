@@ -1,6 +1,6 @@
 ---
 title: Portlaoise
 url: /portlaoise/
-latitude: 
-longitude: 
+latitude: 53.0340093
+longitude: -7.3000591
 ---

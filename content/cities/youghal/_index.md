@@ -1,6 +1,6 @@
 ---
 title: Youghal
 url: /youghal/
-latitude: 51.95
-longitude: -7.850556
+latitude: 51.9501476
+longitude: -7.8506647
 ---

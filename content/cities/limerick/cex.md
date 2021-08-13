@@ -1,5 +1,5 @@
 ---
-title: "CEX"
+title: "CeX"
 url: /limerick/cex/
-shop: video games
+shop: electronics
 ---
