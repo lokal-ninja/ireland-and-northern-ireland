@@ -1,6 +1,6 @@
 ---
 title: Moy
 url: /moy/
-latitude: 54.448185800000005
-longitude: -6.695715900000001
+latitude: 54.4467386
+longitude: -6.6911155
 ---
