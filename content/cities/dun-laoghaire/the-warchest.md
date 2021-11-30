@@ -1,5 +1,5 @@
 ---
 title: "The Warchest"
 url: /dun-laoghaire/the-warchest/
-shop: toys
+shop: games
 ---
