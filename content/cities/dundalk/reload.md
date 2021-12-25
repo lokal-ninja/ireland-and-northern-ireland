@@ -1,5 +1,5 @@
 ---
-title: "RELOAD"
+title: "Reload"
 url: /dundalk/reload/
 shop: clothes
 ---
