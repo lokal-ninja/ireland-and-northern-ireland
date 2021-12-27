@@ -1,5 +1,5 @@
 ---
 title: "Carmels"
 url: /nenagh/carmels/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Union Hall
 url: /union-hall/
-latitude: 
-longitude: 
+latitude: 51.558
+longitude: -9.14
 ---

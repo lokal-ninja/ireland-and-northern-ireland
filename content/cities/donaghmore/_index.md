@@ -1,6 +1,6 @@
 ---
 title: Donaghmore
 url: /donaghmore/
-latitude: 54.531352600000005
-longitude: -6.812480600000001
+latitude: 54.53
+longitude: -6.809
 ---

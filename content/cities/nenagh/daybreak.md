@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /nenagh/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

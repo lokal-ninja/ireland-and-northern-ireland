@@ -1,5 +1,5 @@
 ---
 title: "Woodies"
 url: /cork/woodies/
-shop: doityourself
+shop: Baumarkt
 ---

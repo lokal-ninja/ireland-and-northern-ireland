@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /dublin/spar-31/
-shop: convenience
+shop: Lebensmittel
 ---

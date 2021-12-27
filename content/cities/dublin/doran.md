@@ -1,5 +1,5 @@
 ---
 title: "Doran"
 url: /dublin/doran/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stillorgan Carpets"
 url: /stillorgan/stillorgan-carpets/
-shop: carpet
+shop: Teppiche
 ---

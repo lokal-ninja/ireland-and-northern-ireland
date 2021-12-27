@@ -1,6 +1,6 @@
 ---
 title: Ventry
 url: /ventry/
-latitude: 
-longitude: 
+latitude: 52.133
+longitude: -10.359
 ---

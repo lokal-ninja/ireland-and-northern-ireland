@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /lisburn/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

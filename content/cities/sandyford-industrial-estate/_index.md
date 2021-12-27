@@ -1,6 +1,6 @@
 ---
 title: Sandyford Industrial Estate
 url: /sandyford-industrial-estate/
-latitude: 
-longitude: 
+latitude: 53.28
+longitude: -6.213
 ---

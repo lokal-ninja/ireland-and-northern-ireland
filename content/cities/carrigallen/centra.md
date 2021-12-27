@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /carrigallen/centra/
-shop: convenience
+shop: Lebensmittel
 ---

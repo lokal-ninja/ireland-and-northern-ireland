@@ -1,6 +1,6 @@
 ---
 title: Dingle
 url: /dingle/
-latitude: 
-longitude: 
+latitude: 52.14
+longitude: -10.266
 ---

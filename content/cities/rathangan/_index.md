@@ -1,6 +1,6 @@
 ---
 title: Rathangan
 url: /rathangan/
-latitude: 53.22033020000001
-longitude: -6.992973500000001
+latitude: 53.222
+longitude: -6.992
 ---

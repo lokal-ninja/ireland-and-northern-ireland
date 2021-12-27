@@ -1,5 +1,5 @@
 ---
 title: "Keogh's"
 url: /ballyconneely/keoghs/
-shop: convenience
+shop: Lebensmittel
 ---

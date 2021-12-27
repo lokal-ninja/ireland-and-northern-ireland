@@ -1,5 +1,5 @@
 ---
 title: "El-Door"
 url: /cork/el-door/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Coagh
 url: /coagh/
-latitude: 54.6478693
-longitude: -6.6184389
+latitude: 54.655
+longitude: -6.621
 ---

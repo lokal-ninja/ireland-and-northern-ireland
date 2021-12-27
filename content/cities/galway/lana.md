@@ -1,5 +1,5 @@
 ---
 title: "Lana"
 url: /galway/lana/
-shop: tailor
+shop: Schneiderei
 ---

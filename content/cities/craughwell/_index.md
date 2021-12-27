@@ -1,6 +1,6 @@
 ---
 title: Craughwell
 url: /craughwell/
-latitude: 
-longitude: 
+latitude: 53.23
+longitude: -8.735
 ---

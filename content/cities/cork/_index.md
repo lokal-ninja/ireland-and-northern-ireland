@@ -1,6 +1,6 @@
 ---
 title: Cork
 url: /cork/
-latitude: 
-longitude: 
+latitude: 51.892
+longitude: -8.483
 ---

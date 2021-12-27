@@ -1,5 +1,5 @@
 ---
 title: "Neu"
 url: /ballincollig/neu/
-shop: clothes
+shop: Kleidung
 ---

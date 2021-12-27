@@ -1,5 +1,5 @@
 ---
 title: "E-Revolution"
 url: /dun-laoghaire/e-revolution/
-shop: bicycle
+shop: Fahrrad
 ---

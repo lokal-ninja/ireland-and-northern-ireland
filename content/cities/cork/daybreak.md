@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /cork/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

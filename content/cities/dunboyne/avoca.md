@@ -1,5 +1,5 @@
 ---
 title: "Avoca"
 url: /dunboyne/avoca/
-shop: garden centre
+shop: Garten-Center
 ---

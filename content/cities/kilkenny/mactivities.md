@@ -1,5 +1,5 @@
 ---
 title: "Mactivities"
 url: /kilkenny/mactivities/
-shop: toys
+shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /dun-laoghaire/ecco/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gort
 url: /gort/
-latitude: 51.669169200000006
-longitude: -9.9947456
+latitude: 53.063
+longitude: -8.822
 ---

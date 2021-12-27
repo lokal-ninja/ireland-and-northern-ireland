@@ -1,6 +1,6 @@
 ---
 title: Lissarda
 url: /lissarda/
-latitude: 
-longitude: 
+latitude: 51.852
+longitude: -8.864
 ---

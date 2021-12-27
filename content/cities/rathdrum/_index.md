@@ -1,6 +1,6 @@
 ---
 title: Rathdrum
 url: /rathdrum/
-latitude: 52.9316289
-longitude: -6.2313761
+latitude: 52.932
+longitude: -6.231
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ballymena/spar/
-shop: convenience
+shop: Lebensmittel
 ---

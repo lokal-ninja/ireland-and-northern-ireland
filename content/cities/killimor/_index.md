@@ -1,6 +1,6 @@
 ---
 title: Killimor
 url: /killimor/
-latitude: 53.1650604
-longitude: -8.2887968
+latitude: 53.167
+longitude: -8.296
 ---

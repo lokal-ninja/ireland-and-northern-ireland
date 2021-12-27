@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /galway/lidl-2/
-shop: supermarket
+shop: Supermarkt
 ---

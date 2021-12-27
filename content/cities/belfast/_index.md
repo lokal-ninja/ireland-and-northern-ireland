@@ -1,6 +1,6 @@
 ---
 title: Belfast
 url: /belfast/
-latitude: 
-longitude: 
+latitude: 54.579
+longitude: -5.951
 ---

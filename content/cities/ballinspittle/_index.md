@@ -1,6 +1,6 @@
 ---
 title: Ballinspittle
 url: /ballinspittle/
-latitude: 51.666677
-longitude: -8.5955782
+latitude: 51.667
+longitude: -8.595
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sallynoggin
 url: /sallynoggin/
-latitude: 
-longitude: 
+latitude: 53.275
+longitude: -6.138
 ---

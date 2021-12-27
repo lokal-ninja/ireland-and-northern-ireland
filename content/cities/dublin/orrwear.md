@@ -1,5 +1,5 @@
 ---
 title: "Orrwear"
 url: /dublin/orrwear/
-shop: clothes
+shop: Kleidung
 ---

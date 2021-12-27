@@ -1,6 +1,6 @@
 ---
 title: Naas
 url: /naas/
-latitude: 
-longitude: 
+latitude: 53.251
+longitude: -6.84
 ---

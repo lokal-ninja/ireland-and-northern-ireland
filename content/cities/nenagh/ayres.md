@@ -1,5 +1,5 @@
 ---
 title: "Ayres"
 url: /nenagh/ayres/
-shop: vacant
+shop: Leerstehend
 ---

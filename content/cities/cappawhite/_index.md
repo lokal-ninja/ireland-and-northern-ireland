@@ -1,6 +1,6 @@
 ---
 title: Cappawhite
 url: /cappawhite/
-latitude: 52.5816765
-longitude: -8.1661357
+latitude: 52.582
+longitude: -8.168
 ---

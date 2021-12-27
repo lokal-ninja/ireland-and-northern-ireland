@@ -1,6 +1,6 @@
 ---
 title: Drinagh, Wexford
 url: /drinagh-wexford/
-latitude: 
-longitude: 
+latitude: 52.313
+longitude: -6.459
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /lisburn/dobbies/
-shop: garden centre
+shop: Garten-Center
 ---

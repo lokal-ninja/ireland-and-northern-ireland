@@ -1,6 +1,6 @@
 ---
 title: Kilmeadan
 url: /kilmeadan/
-latitude: 52.2310498
-longitude: -7.2399854
+latitude: 52.233
+longitude: -7.242
 ---

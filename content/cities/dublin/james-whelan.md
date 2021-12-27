@@ -1,5 +1,5 @@
 ---
 title: "James Whelan"
 url: /dublin/james-whelan/
-shop: butcher
+shop: Metzgerei
 ---

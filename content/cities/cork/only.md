@@ -1,5 +1,5 @@
 ---
 title: "ONLY"
 url: /cork/only/
-shop: clothes
+shop: Kleidung
 ---

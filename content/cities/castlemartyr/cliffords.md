@@ -1,5 +1,5 @@
 ---
 title: "Clifford's"
 url: /castlemartyr/cliffords/
-shop: butcher
+shop: Metzgerei
 ---

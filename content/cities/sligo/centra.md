@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /sligo/centra/
-shop: convenience
+shop: Lebensmittel
 ---

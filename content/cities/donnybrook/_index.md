@@ -1,6 +1,6 @@
 ---
 title: Donnybrook
 url: /donnybrook/
-latitude: 51.8680912
-longitude: -8.4398199
+latitude: 53.322
+longitude: -6.238
 ---

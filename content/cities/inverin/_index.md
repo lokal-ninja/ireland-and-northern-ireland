@@ -1,6 +1,6 @@
 ---
 title: Inverin
 url: /inverin/
-latitude: 
-longitude: 
+latitude: 53.246
+longitude: -9.364
 ---

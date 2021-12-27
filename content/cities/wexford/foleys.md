@@ -1,5 +1,5 @@
 ---
 title: "Foleys"
 url: /wexford/foleys/
-shop: optician
+shop: Optiker
 ---

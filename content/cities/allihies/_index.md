@@ -1,6 +1,6 @@
 ---
 title: Allihies
 url: /allihies/
-latitude: 
-longitude: 
+latitude: 51.641
+longitude: -10.044
 ---

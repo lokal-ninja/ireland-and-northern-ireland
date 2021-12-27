@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /killarney/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

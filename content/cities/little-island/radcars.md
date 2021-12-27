@@ -1,5 +1,5 @@
 ---
 title: "RadCars"
 url: /little-island/radcars/
-shop: car repair
+shop: Autowerkstatt
 ---

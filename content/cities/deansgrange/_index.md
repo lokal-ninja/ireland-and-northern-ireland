@@ -1,6 +1,6 @@
 ---
 title: Deansgrange
 url: /deansgrange/
-latitude: 53.2782203
-longitude: -6.163731500000001
+latitude: 53.278
+longitude: -6.162
 ---

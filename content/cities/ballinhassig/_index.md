@@ -1,6 +1,6 @@
 ---
 title: Ballinhassig
 url: /ballinhassig/
-latitude: 51.812192100000004
-longitude: -8.5285968
+latitude: 51.812
+longitude: -8.531
 ---

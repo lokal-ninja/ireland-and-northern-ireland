@@ -1,5 +1,5 @@
 ---
 title: "Bestdrive"
 url: /wexford/bestdrive/
-shop: car repair
+shop: Autowerkstatt
 ---

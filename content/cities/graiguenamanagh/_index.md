@@ -1,6 +1,6 @@
 ---
 title: Graiguenamanagh
 url: /graiguenamanagh/
-latitude: 52.5406101
-longitude: -6.955399300000001
+latitude: 52.541
+longitude: -6.957
 ---

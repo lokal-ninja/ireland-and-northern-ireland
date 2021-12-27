@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /larne/peacocks/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bellissimo"
 url: /galway/bellissimo/
-shop: hairdresser
+shop: Friseur
 ---

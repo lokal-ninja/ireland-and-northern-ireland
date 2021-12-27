@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /rathangan/centra/
-shop: supermarket
+shop: Supermarkt
 ---

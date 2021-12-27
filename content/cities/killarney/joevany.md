@@ -1,5 +1,5 @@
 ---
 title: "Joevany"
 url: /killarney/joevany/
-shop: bag
+shop: Taschen & Koffer
 ---

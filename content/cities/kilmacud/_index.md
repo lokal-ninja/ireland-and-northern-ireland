@@ -1,6 +1,6 @@
 ---
 title: Kilmacud
 url: /kilmacud/
-latitude: 
-longitude: 
+latitude: 53.289
+longitude: -6.223
 ---

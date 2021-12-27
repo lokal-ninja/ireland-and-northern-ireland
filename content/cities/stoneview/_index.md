@@ -1,6 +1,6 @@
 ---
 title: Stoneview
 url: /stoneview/
-latitude: 
-longitude: 
+latitude: 51.945
+longitude: -8.544
 ---

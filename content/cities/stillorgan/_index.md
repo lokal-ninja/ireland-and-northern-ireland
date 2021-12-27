@@ -1,6 +1,6 @@
 ---
 title: Stillorgan
 url: /stillorgan/
-latitude: 53.2888378
-longitude: -6.198343
+latitude: 53.291
+longitude: -6.2
 ---

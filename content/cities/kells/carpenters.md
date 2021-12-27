@@ -1,5 +1,5 @@
 ---
 title: "Carpenters"
 url: /kells/carpenters/
-shop: butcher
+shop: Metzgerei
 ---

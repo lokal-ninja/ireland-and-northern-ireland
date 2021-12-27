@@ -1,6 +1,6 @@
 ---
 title: Carrigtwohill
 url: /carrigtwohill/
-latitude: 51.9094617
-longitude: -8.261180900000001
+latitude: 51.91
+longitude: -8.288
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BrayCloud9"
 url: /bray/braycloud9/
-shop: furniture
+shop: Möbel
 ---

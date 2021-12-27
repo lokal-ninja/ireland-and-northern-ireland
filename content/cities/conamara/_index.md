@@ -1,6 +1,6 @@
 ---
 title: Conamara
 url: /conamara/
-latitude: 
-longitude: 
+latitude: 53.323
+longitude: -9.737
 ---

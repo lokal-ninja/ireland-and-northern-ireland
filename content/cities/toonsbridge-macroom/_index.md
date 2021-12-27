@@ -1,6 +1,6 @@
 ---
 title: Toonsbridge, Macroom
 url: /toonsbridge-macroom/
-latitude: 
-longitude: 
+latitude: 51.881
+longitude: -9.024
 ---

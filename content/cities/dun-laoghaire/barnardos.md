@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /dun-laoghaire/barnardos/
-shop: charity
+shop: Gebrauchtwaren
 ---

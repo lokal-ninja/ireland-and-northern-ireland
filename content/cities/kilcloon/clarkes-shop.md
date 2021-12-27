@@ -1,5 +1,5 @@
 ---
 title: "Clarke's Shop"
 url: /kilcloon/clarkes-shop/
-shop: convenience
+shop: Lebensmittel
 ---

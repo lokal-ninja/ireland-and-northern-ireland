@@ -1,6 +1,6 @@
 ---
 title: Tandragee
 url: /tandragee/
-latitude: 54.0541284
-longitude: -6.9632575
+latitude: 54.356
+longitude: -6.414
 ---

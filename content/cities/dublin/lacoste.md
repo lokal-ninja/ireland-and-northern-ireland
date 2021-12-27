@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /dublin/lacoste/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cabinteely Village
 url: /cabinteely-village/
-latitude: 
-longitude: 
+latitude: 53.26
+longitude: -6.15
 ---

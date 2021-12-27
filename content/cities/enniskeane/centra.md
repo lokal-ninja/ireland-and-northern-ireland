@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /enniskeane/centra/
-shop: convenience
+shop: Lebensmittel
 ---

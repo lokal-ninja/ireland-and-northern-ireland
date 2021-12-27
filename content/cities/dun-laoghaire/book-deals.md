@@ -1,5 +1,5 @@
 ---
 title: "Book Deals"
 url: /dun-laoghaire/book-deals/
-shop: books
+shop: Bücher
 ---

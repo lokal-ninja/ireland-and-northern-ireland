@@ -1,6 +1,6 @@
 ---
 title: Dún Laoghaire
 url: /dun-laoghaire/
-latitude: 
-longitude: 
+latitude: 53.293
+longitude: -6.139
 ---

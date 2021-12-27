@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /kenmare/joules/
-shop: clothes
+shop: Kleidung
 ---

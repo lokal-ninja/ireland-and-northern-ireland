@@ -1,6 +1,6 @@
 ---
 title: Claregalway
 url: /claregalway/
-latitude: 
-longitude: 
+latitude: 53.358
+longitude: -8.931
 ---

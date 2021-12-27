@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /ennistymon/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castle Jewellers"
 url: /carlow/castle-jewellers/
-shop: vacant
+shop: Leerstehend
 ---

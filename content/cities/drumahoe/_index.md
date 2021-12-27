@@ -1,6 +1,6 @@
 ---
 title: Drumahoe
 url: /drumahoe/
-latitude: 54.9786603
-longitude: -7.272461600000001
+latitude: 54.976
+longitude: -7.269
 ---

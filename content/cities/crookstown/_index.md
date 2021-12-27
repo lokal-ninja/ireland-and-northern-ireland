@@ -1,6 +1,6 @@
 ---
 title: Crookstown
 url: /crookstown/
-latitude: 51.8413698
-longitude: -8.831026300000001
+latitude: 51.843
+longitude: -8.832
 ---

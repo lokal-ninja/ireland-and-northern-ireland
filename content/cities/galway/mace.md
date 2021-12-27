@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /galway/mace/
-shop: convenience
+shop: Lebensmittel
 ---

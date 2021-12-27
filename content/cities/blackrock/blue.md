@@ -1,5 +1,5 @@
 ---
 title: "Blue"
 url: /blackrock/blue/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jonzara"
 url: /lisburn/jonzara/
-shop: clothes
+shop: Kleidung
 ---

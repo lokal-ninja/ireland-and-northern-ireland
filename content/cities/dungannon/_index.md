@@ -1,6 +1,6 @@
 ---
 title: Dungannon
 url: /dungannon/
-latitude: 51.598094100000004
-longitude: -9.0872381
+latitude: 54.48
+longitude: -6.784
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /tempo/spar/
-shop: convenience
+shop: Lebensmittel
 ---

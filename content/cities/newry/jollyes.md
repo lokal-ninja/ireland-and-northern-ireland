@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /newry/jollyes/
-shop: pet
+shop: Tiere
 ---

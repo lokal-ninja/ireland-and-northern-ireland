@@ -1,6 +1,6 @@
 ---
 title: Kilgarvan
 url: /kilgarvan/
-latitude: 51.9037232
-longitude: -9.4398829
+latitude: 51.903
+longitude: -9.436
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /tullamore/centra/
-shop: supermarket
+shop: Supermarkt
 ---

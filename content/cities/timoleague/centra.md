@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /timoleague/centra/
-shop: convenience
+shop: Lebensmittel
 ---

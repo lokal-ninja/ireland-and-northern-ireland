@@ -1,5 +1,5 @@
 ---
 title: "KWS"
 url: /portlaoise/kws/
-shop: shop
+shop: Allgemein
 ---

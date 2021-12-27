@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /cork/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Shankill
 url: /shankill/
-latitude: 53.820506800000004
-longitude: -7.373999400000001
+latitude: 53.231
+longitude: -6.124
 ---

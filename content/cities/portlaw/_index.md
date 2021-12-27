@@ -1,6 +1,6 @@
 ---
 title: Portlaw
 url: /portlaw/
-latitude: 52.288332600000004
-longitude: -7.3205489
+latitude: 52.287
+longitude: -7.319
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The green grocer"
 url: /dublin/the-green-grocer/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

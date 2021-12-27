@@ -1,6 +1,6 @@
 ---
 title: Blanchardstown
 url: /blanchardstown/
-latitude: 53.3868998
-longitude: -6.3775408
+latitude: 53.386
+longitude: -6.379
 ---

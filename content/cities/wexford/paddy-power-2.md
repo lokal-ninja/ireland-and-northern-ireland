@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /wexford/paddy-power-2/
-shop: bookmaker
+shop: Wettbüro
 ---

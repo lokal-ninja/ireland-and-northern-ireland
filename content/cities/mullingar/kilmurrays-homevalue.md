@@ -1,5 +1,5 @@
 ---
 title: "Kilmurrays Homevalue"
 url: /mullingar/kilmurrays-homevalue/
-shop: hardware
+shop: Eisenwaren
 ---

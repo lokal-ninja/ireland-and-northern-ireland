@@ -1,6 +1,6 @@
 ---
 title: Millstreet
 url: /millstreet/
-latitude: 52.060231
-longitude: -9.0640113
+latitude: 52.06
+longitude: -9.061
 ---

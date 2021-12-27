@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /fermoy/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

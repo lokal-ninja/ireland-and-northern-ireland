@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /ballycanew/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

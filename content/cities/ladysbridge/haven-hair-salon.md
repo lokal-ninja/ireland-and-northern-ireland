@@ -1,5 +1,5 @@
 ---
 title: "Haven Hair Salon"
 url: /ladysbridge/haven-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

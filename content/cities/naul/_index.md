@@ -1,6 +1,6 @@
 ---
 title: Naul
 url: /naul/
-latitude: 53.585030200000006
-longitude: -6.2888697
+latitude: 53.586
+longitude: -6.29
 ---

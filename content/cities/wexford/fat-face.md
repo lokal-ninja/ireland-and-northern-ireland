@@ -1,5 +1,5 @@
 ---
 title: "Fat Face"
 url: /wexford/fat-face/
-shop: clothes
+shop: Kleidung
 ---

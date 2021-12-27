@@ -1,6 +1,6 @@
 ---
 title: Kilcoole
 url: /kilcoole/
-latitude: 53.1054131
-longitude: -6.0644448
+latitude: 53.1
+longitude: -6.073
 ---

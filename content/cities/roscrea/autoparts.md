@@ -1,5 +1,5 @@
 ---
 title: "Autoparts"
 url: /roscrea/autoparts/
-shop: car parts
+shop: Autoteile
 ---

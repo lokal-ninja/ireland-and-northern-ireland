@@ -1,5 +1,5 @@
 ---
 title: "Rothar"
 url: /dublin/rothar-2/
-shop: bicycle
+shop: Fahrrad
 ---

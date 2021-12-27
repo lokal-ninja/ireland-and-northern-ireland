@@ -1,6 +1,6 @@
 ---
 title: Glin
 url: /glin/
-latitude: 52.5717329
-longitude: -9.2856555
+latitude: 52.57
+longitude: -9.284
 ---

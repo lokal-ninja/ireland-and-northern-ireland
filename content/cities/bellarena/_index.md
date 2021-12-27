@@ -1,6 +1,6 @@
 ---
 title: Bellarena
 url: /bellarena/
-latitude: 
-longitude: 
+latitude: 55.141
+longitude: -6.944
 ---

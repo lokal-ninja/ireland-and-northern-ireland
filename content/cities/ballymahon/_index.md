@@ -1,6 +1,6 @@
 ---
 title: Ballymahon
 url: /ballymahon/
-latitude: 53.561728200000005
-longitude: -7.7617266
+latitude: 53.558
+longitude: -7.706
 ---

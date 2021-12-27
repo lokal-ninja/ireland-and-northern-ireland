@@ -1,6 +1,6 @@
 ---
 title: Longwood
 url: /longwood/
-latitude: 53.4550951
-longitude: -6.924239600000001
+latitude: 53.455
+longitude: -6.925
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Derek's Hardware"
 url: /dublin/dereks-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

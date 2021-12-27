@@ -1,6 +1,6 @@
 ---
 title: Bantry
 url: /bantry/
-latitude: 51.6797696
-longitude: -9.4523603
+latitude: 51.68
+longitude: -9.451
 ---

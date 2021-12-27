@@ -1,6 +1,6 @@
 ---
 title: Garvagh
 url: /garvagh/
-latitude: 54.7391298
-longitude: -7.1748937
+latitude: 54.985
+longitude: -6.686
 ---

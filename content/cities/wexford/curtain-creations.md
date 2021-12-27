@@ -1,5 +1,5 @@
 ---
 title: "Curtain Creations"
 url: /wexford/curtain-creations/
-shop: carpet
+shop: Teppiche
 ---

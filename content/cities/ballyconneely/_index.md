@@ -1,6 +1,6 @@
 ---
 title: Ballyconneely
 url: /ballyconneely/
-latitude: 53.4314905
-longitude: -10.0747505
+latitude: 53.431
+longitude: -10.076
 ---

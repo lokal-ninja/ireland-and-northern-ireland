@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /coleraine/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

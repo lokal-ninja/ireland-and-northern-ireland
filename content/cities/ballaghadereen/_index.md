@@ -1,6 +1,6 @@
 ---
 title: Ballaghadereen
 url: /ballaghadereen/
-latitude: 
-longitude: 
+latitude: 53.902
+longitude: -8.585
 ---

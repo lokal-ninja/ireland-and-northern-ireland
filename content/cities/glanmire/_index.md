@@ -1,6 +1,6 @@
 ---
 title: Glanmire
 url: /glanmire/
-latitude: 51.9196904
-longitude: -8.396040300000001
+latitude: 51.918
+longitude: -8.397
 ---

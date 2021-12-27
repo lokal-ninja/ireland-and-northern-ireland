@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /shanbally/spar/
-shop: convenience
+shop: Lebensmittel
 ---

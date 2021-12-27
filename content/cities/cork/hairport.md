@@ -1,5 +1,5 @@
 ---
 title: "HairPort"
 url: /cork/hairport/
-shop: hairdresser
+shop: Friseur
 ---

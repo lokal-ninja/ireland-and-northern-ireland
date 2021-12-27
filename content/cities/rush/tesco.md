@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /rush/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

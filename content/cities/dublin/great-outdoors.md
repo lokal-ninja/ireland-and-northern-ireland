@@ -1,5 +1,5 @@
 ---
 title: "Great Outdoors"
 url: /dublin/great-outdoors/
-shop: outdoor
+shop: Outdoor
 ---

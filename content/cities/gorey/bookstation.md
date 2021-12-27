@@ -1,5 +1,5 @@
 ---
 title: "Bookstation"
 url: /gorey/bookstation/
-shop: books
+shop: Bücher
 ---

@@ -1,6 +1,6 @@
 ---
 title: Scarriff
 url: /scarriff/
-latitude: 52.910978400000005
-longitude: -8.5315869
+latitude: 52.911
+longitude: -8.531
 ---

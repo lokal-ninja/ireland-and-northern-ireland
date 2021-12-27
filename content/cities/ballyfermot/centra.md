@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ballyfermot/centra/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dublin Airport
 url: /dublin-airport/
-latitude: 
-longitude: 
+latitude: 53.426
+longitude: -6.24
 ---

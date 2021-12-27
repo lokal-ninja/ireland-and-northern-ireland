@@ -1,5 +1,5 @@
 ---
 title: "Precious"
 url: /cookstown/precious/
-shop: shop
+shop: Allgemein
 ---

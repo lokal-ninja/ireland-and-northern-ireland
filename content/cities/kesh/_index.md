@@ -1,6 +1,6 @@
 ---
 title: Kesh
 url: /kesh/
-latitude: 54.5233599
-longitude: -7.722513800000001
+latitude: 54.522
+longitude: -7.723
 ---

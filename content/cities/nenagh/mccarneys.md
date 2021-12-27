@@ -1,5 +1,5 @@
 ---
 title: "McCarney's"
 url: /nenagh/mccarneys/
-shop: furniture
+shop: Möbel
 ---

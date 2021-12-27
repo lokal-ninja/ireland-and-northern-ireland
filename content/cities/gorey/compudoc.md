@@ -1,5 +1,5 @@
 ---
 title: "Compudoc"
 url: /gorey/compudoc/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /cornelscourt/paddy-power/
-shop: bookmaker
+shop: Wettbüro
 ---

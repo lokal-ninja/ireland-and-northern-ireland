@@ -1,6 +1,6 @@
 ---
 title: Thurles
 url: /thurles/
-latitude: 52.6801547
-longitude: -7.815100800000001
+latitude: 52.679
+longitude: -7.817
 ---

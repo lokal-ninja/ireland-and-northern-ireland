@@ -1,6 +1,6 @@
 ---
 title: Bangor
 url: /bangor/
-latitude: 54.663811300000006
-longitude: -5.6674943
+latitude: 54.664
+longitude: -5.665
 ---

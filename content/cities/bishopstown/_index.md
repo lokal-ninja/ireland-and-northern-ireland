@@ -1,6 +1,6 @@
 ---
 title: Bishopstown
 url: /bishopstown/
-latitude: 51.879606700000004
-longitude: -8.5166631
+latitude: 51.88
+longitude: -8.521
 ---

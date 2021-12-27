@@ -1,6 +1,6 @@
 ---
 title: Charleville
 url: /charleville/
-latitude: 
-longitude: 
+latitude: 52.355
+longitude: -8.684
 ---

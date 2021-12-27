@@ -1,5 +1,5 @@
 ---
 title: "Mandarin"
 url: /kilrush/mandarin/
-shop: shop
+shop: Allgemein
 ---

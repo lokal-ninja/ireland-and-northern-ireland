@@ -1,5 +1,5 @@
 ---
 title: "Revolution Laundry"
 url: /galway/revolution-laundry-2/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /dunmanway/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

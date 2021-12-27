@@ -1,5 +1,5 @@
 ---
 title: "McKerrins"
 url: /limerick/mckerrins/
-shop: copyshop
+shop: Kopieren
 ---

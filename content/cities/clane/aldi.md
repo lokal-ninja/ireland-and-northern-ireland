@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /clane/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

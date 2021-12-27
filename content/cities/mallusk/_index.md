@@ -1,6 +1,6 @@
 ---
 title: Mallusk
 url: /mallusk/
-latitude: 54.6754114
-longitude: -5.9875381
+latitude: 54.675
+longitude: -5.987
 ---

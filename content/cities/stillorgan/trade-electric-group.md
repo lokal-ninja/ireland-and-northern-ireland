@@ -1,5 +1,5 @@
 ---
 title: "Trade Electric Group"
 url: /stillorgan/trade-electric-group/
-shop: lamps
+shop: Lampen
 ---

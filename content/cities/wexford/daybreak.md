@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /wexford/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

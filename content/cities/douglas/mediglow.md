@@ -1,5 +1,5 @@
 ---
 title: "MediGlow"
 url: /douglas/mediglow/
-shop: shop
+shop: Allgemein
 ---

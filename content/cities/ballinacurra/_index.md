@@ -1,6 +1,6 @@
 ---
 title: Ballinacurra
 url: /ballinacurra/
-latitude: 51.7903025
-longitude: -8.7109546
+latitude: 51.892
+longitude: -8.163
 ---

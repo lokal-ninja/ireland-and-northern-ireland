@@ -1,6 +1,6 @@
 ---
 title: Geashill
 url: /geashill/
-latitude: 53.2353767
-longitude: -7.3221015000000005
+latitude: 53.236
+longitude: -7.324
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vincents"
 url: /wexford/vincents/
-shop: charity
+shop: Gebrauchtwaren
 ---

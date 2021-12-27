@@ -1,6 +1,6 @@
 ---
 title: Castlederg
 url: /castlederg/
-latitude: 54.7087956
-longitude: -7.593125000000001
+latitude: 54.678
+longitude: -7.621
 ---

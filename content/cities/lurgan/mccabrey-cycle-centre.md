@@ -1,5 +1,5 @@
 ---
 title: "McCabrey Cycle Centre"
 url: /lurgan/mccabrey-cycle-centre/
-shop: bicycle
+shop: Fahrrad
 ---

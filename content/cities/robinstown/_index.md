@@ -1,6 +1,6 @@
 ---
 title: Robinstown
 url: /robinstown/
-latitude: 53.4505964
-longitude: -7.389630800000001
+latitude: 53.594
+longitude: -6.728
 ---

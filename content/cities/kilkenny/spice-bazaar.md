@@ -1,5 +1,5 @@
 ---
 title: "Spice Bazaar"
 url: /kilkenny/spice-bazaar/
-shop: spices
+shop: Gewürze
 ---

@@ -1,6 +1,6 @@
 ---
 title: Swinford
 url: /swinford/
-latitude: 53.9435164
-longitude: -8.9498117
+latitude: 53.944
+longitude: -8.95
 ---

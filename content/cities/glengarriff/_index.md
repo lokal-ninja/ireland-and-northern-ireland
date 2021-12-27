@@ -1,6 +1,6 @@
 ---
 title: Glengarriff
 url: /glengarriff/
-latitude: 
-longitude: 
+latitude: 51.75
+longitude: -9.55
 ---

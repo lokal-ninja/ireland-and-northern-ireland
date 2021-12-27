@@ -1,5 +1,5 @@
 ---
 title: "Bitsnpieces"
 url: /dublin/bitsnpieces/
-shop: charity
+shop: Gebrauchtwaren
 ---

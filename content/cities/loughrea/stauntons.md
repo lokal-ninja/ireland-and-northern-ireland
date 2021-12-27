@@ -1,5 +1,5 @@
 ---
 title: "Stauntons"
 url: /loughrea/stauntons/
-shop: clothes
+shop: Kleidung
 ---

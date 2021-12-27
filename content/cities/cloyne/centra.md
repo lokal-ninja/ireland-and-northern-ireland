@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /cloyne/centra/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bradleys"
 url: /cork/bradleys/
-shop: deli
+shop: Feinkost
 ---

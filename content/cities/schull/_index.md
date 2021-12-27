@@ -1,6 +1,6 @@
 ---
 title: Schull
 url: /schull/
-latitude: 51.527102600000006
-longitude: -9.5469428
+latitude: 51.527
+longitude: -9.546
 ---

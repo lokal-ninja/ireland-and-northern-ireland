@@ -1,6 +1,6 @@
 ---
 title: Ballymakeera
 url: /ballymakeera/
-latitude: 
-longitude: 
+latitude: 51.934
+longitude: -9.136
 ---

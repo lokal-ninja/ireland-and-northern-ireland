@@ -1,5 +1,5 @@
 ---
 title: "Dan Dempsey's Tyres"
 url: /kinsale/dan-dempseys-tyres/
-shop: tyres
+shop: Reifen
 ---

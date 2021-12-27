@@ -1,5 +1,5 @@
 ---
 title: "NCBI Charity Shop"
 url: /bandon/ncbi-charity-shop/
-shop: charity
+shop: Gebrauchtwaren
 ---

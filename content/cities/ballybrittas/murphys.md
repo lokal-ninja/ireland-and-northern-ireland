@@ -1,5 +1,5 @@
 ---
 title: "Murphy's"
 url: /ballybrittas/murphys/
-shop: convenience
+shop: Lebensmittel
 ---

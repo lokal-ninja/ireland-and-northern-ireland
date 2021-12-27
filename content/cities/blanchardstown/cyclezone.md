@@ -1,5 +1,5 @@
 ---
 title: "Cyclezone"
 url: /blanchardstown/cyclezone/
-shop: bicycle
+shop: Fahrrad
 ---

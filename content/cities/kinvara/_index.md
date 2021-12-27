@@ -1,6 +1,6 @@
 ---
 title: Kinvara
 url: /kinvara/
-latitude: 
-longitude: 
+latitude: 53.139
+longitude: -8.938
 ---

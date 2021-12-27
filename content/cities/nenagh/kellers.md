@@ -1,5 +1,5 @@
 ---
 title: "Kellers"
 url: /nenagh/kellers/
-shop: funeral directors
+shop: Bestattungen
 ---

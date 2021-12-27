@@ -1,6 +1,6 @@
 ---
 title: Batterstown
 url: /batterstown/
-latitude: 53.67208350000001
-longitude: -6.6736274
+latitude: 53.469
+longitude: -6.536
 ---

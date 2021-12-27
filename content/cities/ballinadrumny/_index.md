@@ -1,6 +1,6 @@
 ---
 title: Ballinadrumny
 url: /ballinadrumny/
-latitude: 
-longitude: 
+latitude: 53.43
+longitude: -6.956
 ---

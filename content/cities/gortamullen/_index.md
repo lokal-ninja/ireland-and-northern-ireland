@@ -1,6 +1,6 @@
 ---
 title: Gortamullen
 url: /gortamullen/
-latitude: 
-longitude: 
+latitude: 51.9
+longitude: -9.609
 ---

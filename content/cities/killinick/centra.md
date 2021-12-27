@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /killinick/centra/
-shop: convenience
+shop: Lebensmittel
 ---

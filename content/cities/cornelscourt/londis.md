@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /cornelscourt/londis/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MotorView"
 url: /midleton/motorview/
-shop: car
+shop: Autohaus
 ---

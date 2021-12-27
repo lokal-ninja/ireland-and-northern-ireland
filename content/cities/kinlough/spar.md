@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /kinlough/spar/
-shop: convenience
+shop: Lebensmittel
 ---

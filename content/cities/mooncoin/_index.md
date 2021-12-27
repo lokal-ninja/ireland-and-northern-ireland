@@ -1,6 +1,6 @@
 ---
 title: Mooncoin
 url: /mooncoin/
-latitude: 52.29089870000001
-longitude: -7.2514947
+latitude: 52.292
+longitude: -7.254
 ---

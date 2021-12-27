@@ -1,5 +1,5 @@
 ---
 title: "Champion Sports"
 url: /cork/champion-sports/
-shop: sports
+shop: Sport
 ---

@@ -1,6 +1,6 @@
 ---
 title: Douglas East
 url: /douglas-east/
-latitude: 
-longitude: 
+latitude: 51.877
+longitude: -8.435
 ---

@@ -1,6 +1,6 @@
 ---
 title: Glasthule
 url: /glasthule/
-latitude: 
-longitude: 
+latitude: 53.287
+longitude: -6.123
 ---

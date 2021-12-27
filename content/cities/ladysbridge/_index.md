@@ -1,6 +1,6 @@
 ---
 title: Ladysbridge
 url: /ladysbridge/
-latitude: 
-longitude: 
+latitude: 51.898
+longitude: -8.044
 ---

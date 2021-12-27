@@ -1,6 +1,6 @@
 ---
 title: Kilronan
 url: /kilronan/
-latitude: 
-longitude: 
+latitude: 53.12
+longitude: -9.669
 ---

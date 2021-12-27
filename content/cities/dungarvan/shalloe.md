@@ -1,5 +1,5 @@
 ---
 title: "Shalloe"
 url: /dungarvan/shalloe/
-shop: newsagent
+shop: Zeitungen
 ---

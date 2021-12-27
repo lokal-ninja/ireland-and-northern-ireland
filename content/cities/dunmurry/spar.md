@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /dunmurry/spar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /ennis/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

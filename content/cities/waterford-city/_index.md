@@ -1,6 +1,6 @@
 ---
 title: Waterford City
 url: /waterford-city/
-latitude: 
-longitude: 
+latitude: 52.254
+longitude: -7.109
 ---

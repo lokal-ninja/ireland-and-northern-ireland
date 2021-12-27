@@ -1,6 +1,6 @@
 ---
 title: Rathmore
 url: /rathmore/
-latitude: 54.0181296
-longitude: -6.473275200000001
+latitude: 52.084
+longitude: -9.221
 ---

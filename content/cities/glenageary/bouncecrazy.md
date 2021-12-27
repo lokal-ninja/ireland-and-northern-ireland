@@ -1,5 +1,5 @@
 ---
 title: "BounceCrazy"
 url: /glenageary/bouncecrazy/
-shop: party
+shop: Partyzubehör
 ---

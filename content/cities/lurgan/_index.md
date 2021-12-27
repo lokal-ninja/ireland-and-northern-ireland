@@ -1,6 +1,6 @@
 ---
 title: Lurgan
 url: /lurgan/
-latitude: 54.460824
-longitude: -6.3292491
+latitude: 54.461
+longitude: -6.331
 ---

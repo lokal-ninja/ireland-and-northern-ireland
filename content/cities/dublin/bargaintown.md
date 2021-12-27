@@ -1,5 +1,5 @@
 ---
 title: "Bargaintown"
 url: /dublin/bargaintown/
-shop: furniture
+shop: Möbel
 ---

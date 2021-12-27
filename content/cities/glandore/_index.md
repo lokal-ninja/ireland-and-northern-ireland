@@ -1,6 +1,6 @@
 ---
 title: Glandore
 url: /glandore/
-latitude: 51.5655142
-longitude: -9.1192784
+latitude: 51.565
+longitude: -9.118
 ---

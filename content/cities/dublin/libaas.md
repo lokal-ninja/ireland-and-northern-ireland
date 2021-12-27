@@ -1,5 +1,5 @@
 ---
 title: "Libaas"
 url: /dublin/libaas/
-shop: clothes
+shop: Kleidung
 ---

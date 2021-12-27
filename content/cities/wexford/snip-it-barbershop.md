@@ -1,5 +1,5 @@
 ---
 title: "Snip It Barbershop"
 url: /wexford/snip-it-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

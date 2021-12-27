@@ -1,5 +1,5 @@
 ---
 title: "McCarthy"
 url: /kells/mccarthy/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

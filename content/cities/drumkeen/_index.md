@@ -1,6 +1,6 @@
 ---
 title: Drumkeen
 url: /drumkeen/
-latitude: 54.0600396
-longitude: -7.463257100000001
+latitude: 54.867
+longitude: -7.754
 ---

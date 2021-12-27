@@ -1,6 +1,6 @@
 ---
 title: Templemore
 url: /templemore/
-latitude: 52.794722
-longitude: -7.833889
+latitude: 52.797
+longitude: -7.832
 ---

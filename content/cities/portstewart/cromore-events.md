@@ -1,5 +1,5 @@
 ---
 title: "Cromore Events"
 url: /portstewart/cromore-events/
-shop: party
+shop: Partyzubehör
 ---

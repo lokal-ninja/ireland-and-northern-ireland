@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /dublin/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

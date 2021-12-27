@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /kinsale/centra/
-shop: convenience
+shop: Lebensmittel
 ---

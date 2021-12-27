@@ -1,6 +1,6 @@
 ---
 title: Kilkenny
 url: /kilkenny/
-latitude: 52.6510216
-longitude: -7.2484948000000005
+latitude: 52.652
+longitude: -7.253
 ---

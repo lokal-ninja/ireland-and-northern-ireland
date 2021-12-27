@@ -1,5 +1,5 @@
 ---
 title: "Villa"
 url: /cork/villa/
-shop: shop
+shop: Allgemein
 ---

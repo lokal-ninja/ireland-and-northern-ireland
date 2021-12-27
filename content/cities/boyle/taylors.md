@@ -1,5 +1,5 @@
 ---
 title: "Taylors"
 url: /boyle/taylors/
-shop: curtain
+shop: Gardinen
 ---

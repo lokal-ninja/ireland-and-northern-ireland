@@ -1,5 +1,5 @@
 ---
 title: "Discount World"
 url: /nenagh/discount-world/
-shop: variety store
+shop: Kramladen
 ---

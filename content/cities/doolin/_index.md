@@ -1,6 +1,6 @@
 ---
 title: Doolin
 url: /doolin/
-latitude: 53.0163287
-longitude: -9.3776097
+latitude: 53.013
+longitude: -9.386
 ---

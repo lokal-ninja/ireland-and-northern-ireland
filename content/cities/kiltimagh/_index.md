@@ -1,6 +1,6 @@
 ---
 title: Kiltimagh
 url: /kiltimagh/
-latitude: 53.85
-longitude: -9
+latitude: 53.851
+longitude: -8.999
 ---

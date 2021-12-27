@@ -1,5 +1,5 @@
 ---
 title: "Hanlon"
 url: /dublin/hanlon/
-shop: seafood
+shop: Fisch
 ---

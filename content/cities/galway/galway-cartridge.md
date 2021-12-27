@@ -1,5 +1,5 @@
 ---
 title: "Galway Cartridge"
 url: /galway/galway-cartridge/
-shop: copyshop
+shop: Kopieren
 ---

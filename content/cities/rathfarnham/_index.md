@@ -1,6 +1,6 @@
 ---
 title: Rathfarnham
 url: /rathfarnham/
-latitude: 53.2988099
-longitude: -6.2855388
+latitude: 53.297
+longitude: -6.297
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woodies"
 url: /dublin/woodies/
-shop: doityourself
+shop: Baumarkt
 ---

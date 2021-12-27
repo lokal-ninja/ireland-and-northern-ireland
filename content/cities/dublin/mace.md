@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /dublin/mace/
-shop: convenience
+shop: Lebensmittel
 ---

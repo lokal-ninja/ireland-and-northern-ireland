@@ -1,6 +1,6 @@
 ---
 title: Ferbane
 url: /ferbane/
-latitude: 53.2715862
-longitude: -7.8277732
+latitude: 53.272
+longitude: -7.828
 ---

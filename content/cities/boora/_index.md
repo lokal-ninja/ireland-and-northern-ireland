@@ -1,6 +1,6 @@
 ---
 title: Boora
 url: /boora/
-latitude: 
-longitude: 
+latitude: 53.216
+longitude: -7.73
 ---

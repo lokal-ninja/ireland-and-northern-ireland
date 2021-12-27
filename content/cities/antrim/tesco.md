@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /antrim/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sharfix"
 url: /dublin/sharfix/
-shop: electrical
+shop: Elektrisch
 ---

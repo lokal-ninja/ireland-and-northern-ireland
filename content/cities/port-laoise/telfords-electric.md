@@ -1,5 +1,5 @@
 ---
 title: "Telfords Electric"
 url: /port-laoise/telfords-electric/
-shop: electrical
+shop: Elektrisch
 ---

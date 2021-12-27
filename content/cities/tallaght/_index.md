@@ -1,6 +1,6 @@
 ---
 title: Tallaght
 url: /tallaght/
-latitude: 
-longitude: 
+latitude: 53.283
+longitude: -6.376
 ---

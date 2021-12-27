@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /cork/next/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ballinskelligs
 url: /ballinskelligs/
-latitude: 
-longitude: 
+latitude: 51.846
+longitude: -10.33
 ---

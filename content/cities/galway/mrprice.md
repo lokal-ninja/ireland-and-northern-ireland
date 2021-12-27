@@ -1,5 +1,5 @@
 ---
 title: "MrPrice"
 url: /galway/mrprice/
-shop: supermarket
+shop: Supermarkt
 ---

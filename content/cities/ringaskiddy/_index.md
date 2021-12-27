@@ -1,6 +1,6 @@
 ---
 title: Ringaskiddy
 url: /ringaskiddy/
-latitude: 51.827198200000005
-longitude: -8.3067151
+latitude: 51.835
+longitude: -8.367
 ---

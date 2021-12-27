@@ -1,5 +1,5 @@
 ---
 title: "Easons"
 url: /galway/easons/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eason"
 url: /bangor/eason/
-shop: books
+shop: Bücher
 ---

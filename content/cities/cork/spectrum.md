@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /cork/spectrum/
-shop: convenience
+shop: Lebensmittel
 ---

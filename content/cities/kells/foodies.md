@@ -1,5 +1,5 @@
 ---
 title: "Foodies"
 url: /kells/foodies/
-shop: shop
+shop: Allgemein
 ---

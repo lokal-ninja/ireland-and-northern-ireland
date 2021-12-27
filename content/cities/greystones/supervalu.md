@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /greystones/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

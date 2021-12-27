@@ -1,6 +1,6 @@
 ---
 title: Ballygawley
 url: /ballygawley/
-latitude: 54.800928400000004
-longitude: -7.63114
+latitude: 54.495
+longitude: -6.963
 ---

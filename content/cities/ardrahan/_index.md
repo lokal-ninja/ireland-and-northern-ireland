@@ -1,6 +1,6 @@
 ---
 title: Ardrahan
 url: /ardrahan/
-latitude: 53.15675
-longitude: -8.8059911
+latitude: 53.14
+longitude: -8.808
 ---

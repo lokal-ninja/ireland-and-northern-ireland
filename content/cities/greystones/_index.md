@@ -1,6 +1,6 @@
 ---
 title: Greystones
 url: /greystones/
-latitude: 53.144890100000005
-longitude: -6.0632184
+latitude: 53.127
+longitude: -6.064
 ---

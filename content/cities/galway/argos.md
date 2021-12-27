@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /galway/argos/
-shop: shop
+shop: Allgemein
 ---

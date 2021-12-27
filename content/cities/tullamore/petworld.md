@@ -1,5 +1,5 @@
 ---
 title: "Petworld"
 url: /tullamore/petworld/
-shop: pet
+shop: Tiere
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dundonald
 url: /dundonald/
-latitude: 54.5947412
-longitude: -5.8105342
+latitude: 54.593
+longitude: -5.802
 ---

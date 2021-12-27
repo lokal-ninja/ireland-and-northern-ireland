@@ -1,5 +1,5 @@
 ---
 title: "Eddie Lynch Garage"
 url: /killimor/eddie-lynch-garage/
-shop: car
+shop: Autohaus
 ---

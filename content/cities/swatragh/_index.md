@@ -1,6 +1,6 @@
 ---
 title: Swatragh
 url: /swatragh/
-latitude: 54.9075818
-longitude: -6.6621363
+latitude: 54.906
+longitude: -6.668
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ashford/centra/
-shop: convenience
+shop: Lebensmittel
 ---

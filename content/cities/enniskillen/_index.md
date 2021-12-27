@@ -1,6 +1,6 @@
 ---
 title: Enniskillen
 url: /enniskillen/
-latitude: 54.3448538
-longitude: -7.638936500000001
+latitude: 54.344
+longitude: -7.632
 ---

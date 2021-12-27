@@ -1,6 +1,6 @@
 ---
 title: Lisbellaw
 url: /lisbellaw/
-latitude: 54.3171222
-longitude: -7.5373355
+latitude: 54.317
+longitude: -7.537
 ---

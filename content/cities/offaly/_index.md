@@ -1,6 +1,6 @@
 ---
 title: Offaly
 url: /offaly/
-latitude: 
-longitude: 
+latitude: 52.985
+longitude: -7.925
 ---

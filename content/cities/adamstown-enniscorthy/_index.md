@@ -1,6 +1,6 @@
 ---
 title: Adamstown, Enniscorthy
 url: /adamstown-enniscorthy/
-latitude: 
-longitude: 
+latitude: 52.394
+longitude: -6.719
 ---

@@ -1,6 +1,6 @@
 ---
 title: Churchtown
 url: /churchtown/
-latitude: 54.80887430000001
-longitude: -7.5304082
+latitude: 53.295
+longitude: -6.259
 ---

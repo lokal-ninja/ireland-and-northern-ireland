@@ -1,5 +1,5 @@
 ---
 title: "Dogsbody"
 url: /dublin/dogsbody/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scalps"
 url: /dublin/scalps/
-shop: hairdresser
+shop: Friseur
 ---

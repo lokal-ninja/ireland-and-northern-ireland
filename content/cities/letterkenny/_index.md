@@ -1,6 +1,6 @@
 ---
 title: Letterkenny
 url: /letterkenny/
-latitude: 54.951793300000006
-longitude: -7.7354381000000005
+latitude: 54.951
+longitude: -7.731
 ---

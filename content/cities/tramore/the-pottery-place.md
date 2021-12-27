@@ -1,5 +1,5 @@
 ---
 title: "The Pottery Place"
 url: /tramore/the-pottery-place/
-shop: pottery
+shop: Töpferei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grandstand"
 url: /dun-laoghaire/grandstand/
-shop: sports
+shop: Sport
 ---

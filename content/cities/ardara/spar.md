@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ardara/spar/
-shop: supermarket
+shop: Supermarkt
 ---

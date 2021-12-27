@@ -1,6 +1,6 @@
 ---
 title: Glenageary
 url: /glenageary/
-latitude: 
-longitude: 
+latitude: 53.281
+longitude: -6.121
 ---

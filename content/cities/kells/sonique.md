@@ -1,5 +1,5 @@
 ---
 title: "Sonique"
 url: /kells/sonique/
-shop: hairdresser
+shop: Friseur
 ---

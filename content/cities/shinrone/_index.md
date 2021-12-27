@@ -1,6 +1,6 @@
 ---
 title: Shinrone
 url: /shinrone/
-latitude: 52.9841836
-longitude: -7.924489
+latitude: 52.966
+longitude: -7.893
 ---

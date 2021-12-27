@@ -1,6 +1,6 @@
 ---
 title: Tubbercurry
 url: /tubbercurry/
-latitude: 
-longitude: 
+latitude: 54.057
+longitude: -8.724
 ---

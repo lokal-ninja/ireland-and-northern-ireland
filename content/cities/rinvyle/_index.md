@@ -1,6 +1,6 @@
 ---
 title: Rinvyle
 url: /rinvyle/
-latitude: 53.6043334
-longitude: -9.987422500000001
+latitude: 53.598
+longitude: -9.977
 ---

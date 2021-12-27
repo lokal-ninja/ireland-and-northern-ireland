@@ -1,6 +1,6 @@
 ---
 title: Moyne
 url: /moyne/
-latitude: 52.865248400000006
-longitude: -6.4595576
+latitude: 52.734
+longitude: -7.713
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dripsey
 url: /dripsey/
-latitude: 51.914942200000006
-longitude: -8.7419911
+latitude: 51.912
+longitude: -8.725
 ---

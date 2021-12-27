@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /youghal/jysk/
-shop: furniture
+shop: Möbel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rosslea
 url: /rosslea/
-latitude: 
-longitude: 
+latitude: 54.236
+longitude: -7.23
 ---

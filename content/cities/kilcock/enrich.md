@@ -1,5 +1,5 @@
 ---
 title: "Enrich"
 url: /kilcock/enrich/
-shop: garden centre
+shop: Garten-Center
 ---

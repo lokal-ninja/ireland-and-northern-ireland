@@ -1,6 +1,6 @@
 ---
 title: Tobercurry
 url: /tobercurry/
-latitude: 54.0539302
-longitude: -8.730565
+latitude: 54.054
+longitude: -8.73
 ---

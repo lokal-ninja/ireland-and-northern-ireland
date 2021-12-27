@@ -1,6 +1,6 @@
 ---
 title: Fermoy
 url: /fermoy/
-latitude: 52.138166500000004
-longitude: -8.275223
+latitude: 52.138
+longitude: -8.273
 ---

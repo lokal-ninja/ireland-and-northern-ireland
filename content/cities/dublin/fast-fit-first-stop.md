@@ -1,5 +1,5 @@
 ---
 title: "Fast Fit / First Stop"
 url: /dublin/fast-fit-first-stop/
-shop: car repair
+shop: Autowerkstatt
 ---

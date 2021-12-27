@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /ballymena/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

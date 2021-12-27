@@ -1,6 +1,6 @@
 ---
 title: Crawfordsburn
 url: /crawfordsburn/
-latitude: 54.658431
-longitude: -5.727932
+latitude: 54.659
+longitude: -5.73
 ---

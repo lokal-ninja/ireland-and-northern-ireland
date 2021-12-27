@@ -1,6 +1,6 @@
 ---
 title: Moss-Side
 url: /moss-side/
-latitude: 
-longitude: 
+latitude: 55.154
+longitude: -6.41
 ---

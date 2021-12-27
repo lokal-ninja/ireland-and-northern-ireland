@@ -1,6 +1,6 @@
 ---
 title: Donegal Town
 url: /donegal-town/
-latitude: 
-longitude: 
+latitude: 54.654
+longitude: -8.11
 ---

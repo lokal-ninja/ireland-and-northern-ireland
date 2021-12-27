@@ -1,6 +1,6 @@
 ---
 title: Loughrea
 url: /loughrea/
-latitude: 53.1981624
-longitude: -8.5690594
+latitude: 53.199
+longitude: -8.566
 ---

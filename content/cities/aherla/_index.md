@@ -1,6 +1,6 @@
 ---
 title: Aherla
 url: /aherla/
-latitude: 51.853728800000006
-longitude: -8.7328302
+latitude: 51.857
+longitude: -8.733
 ---

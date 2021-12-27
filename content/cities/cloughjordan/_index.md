@@ -1,6 +1,6 @@
 ---
 title: Cloughjordan
 url: /cloughjordan/
-latitude: 
-longitude: 
+latitude: 52.943
+longitude: -8.037
 ---

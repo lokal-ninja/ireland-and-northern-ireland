@@ -1,6 +1,6 @@
 ---
 title: Drogheda
 url: /drogheda/
-latitude: 53.7149877
-longitude: -6.3524183
+latitude: 53.725
+longitude: -6.361
 ---

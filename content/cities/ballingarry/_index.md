@@ -1,6 +1,6 @@
 ---
 title: Ballingarry
 url: /ballingarry/
-latitude: 52.69023790000001
-longitude: -6.3258964
+latitude: 52.471
+longitude: -8.861
 ---

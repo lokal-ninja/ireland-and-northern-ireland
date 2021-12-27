@@ -1,5 +1,5 @@
 ---
 title: "Headcase"
 url: /waterford/headcase/
-shop: hairdresser
+shop: Friseur
 ---

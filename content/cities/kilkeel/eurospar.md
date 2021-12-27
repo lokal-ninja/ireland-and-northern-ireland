@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /kilkeel/eurospar/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Grange
 url: /grange/
-latitude: 51.868529
-longitude: -8.4468865
+latitude: 54.391
+longitude: -8.528
 ---

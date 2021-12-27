@@ -1,5 +1,5 @@
 ---
 title: "Egans Flowers"
 url: /limerick/egans-flowers/
-shop: florist
+shop: Blumen
 ---

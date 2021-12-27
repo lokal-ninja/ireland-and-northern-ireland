@@ -1,5 +1,5 @@
 ---
 title: "Emo"
 url: /wexford/emo/
-shop: convenience
+shop: Lebensmittel
 ---

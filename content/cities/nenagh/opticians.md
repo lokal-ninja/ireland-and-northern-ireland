@@ -1,5 +1,5 @@
 ---
 title: "Opticians"
 url: /nenagh/opticians/
-shop: optician
+shop: Optiker
 ---

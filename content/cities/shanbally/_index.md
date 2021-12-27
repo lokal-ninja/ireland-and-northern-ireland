@@ -1,6 +1,6 @@
 ---
 title: Shanbally
 url: /shanbally/
-latitude: 54.0537374
-longitude: -6.9742936
+latitude: 51.826
+longitude: -8.349
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acorn Water"
 url: /bandon/acorn-water/
-shop: shop
+shop: Allgemein
 ---

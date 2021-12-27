@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /rosscarbery/centra/
-shop: convenience
+shop: Lebensmittel
 ---

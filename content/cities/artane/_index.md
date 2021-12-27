@@ -1,6 +1,6 @@
 ---
 title: Artane
 url: /artane/
-latitude: 53.3825
-longitude: -6.202500000000001
+latitude: 53.384
+longitude: -6.214
 ---

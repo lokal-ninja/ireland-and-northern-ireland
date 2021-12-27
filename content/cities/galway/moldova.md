@@ -1,5 +1,5 @@
 ---
 title: "Moldova"
 url: /galway/moldova/
-shop: convenience
+shop: Lebensmittel
 ---

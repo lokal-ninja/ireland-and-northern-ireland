@@ -1,6 +1,6 @@
 ---
 title: Ballyforan
 url: /ballyforan/
-latitude: 
-longitude: 
+latitude: 53.471
+longitude: -8.268
 ---

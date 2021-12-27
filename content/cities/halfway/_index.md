@@ -1,6 +1,6 @@
 ---
 title: Halfway
 url: /halfway/
-latitude: 51.80442
-longitude: -8.570383300000001
+latitude: 51.805
+longitude: -8.57
 ---

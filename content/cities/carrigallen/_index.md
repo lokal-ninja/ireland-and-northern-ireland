@@ -1,6 +1,6 @@
 ---
 title: Carrigallen
 url: /carrigallen/
-latitude: 53.976953800000004
-longitude: -7.646246100000001
+latitude: 53.977
+longitude: -7.646
 ---

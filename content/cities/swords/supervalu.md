@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /swords/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

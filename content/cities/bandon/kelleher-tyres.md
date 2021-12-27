@@ -1,5 +1,5 @@
 ---
 title: "Kelleher Tyres"
 url: /bandon/kelleher-tyres/
-shop: tyres
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /comber/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

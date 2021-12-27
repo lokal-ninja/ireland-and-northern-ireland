@@ -1,6 +1,6 @@
 ---
 title: Oldtown
 url: /oldtown/
-latitude: 53.04359710000001
-longitude: -7.7942866
+latitude: 53.527
+longitude: -6.303
 ---

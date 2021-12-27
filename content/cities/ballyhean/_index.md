@@ -1,6 +1,6 @@
 ---
 title: Ballyhean
 url: /ballyhean/
-latitude: 53.7935147
-longitude: -9.315300800000001
+latitude: 53.795
+longitude: -9.315
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iago"
 url: /cork/iago/
-shop: cheese
+shop: Käse
 ---

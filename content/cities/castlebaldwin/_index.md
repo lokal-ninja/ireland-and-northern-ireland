@@ -1,6 +1,6 @@
 ---
 title: Castlebaldwin
 url: /castlebaldwin/
-latitude: 54.0795527
-longitude: -8.376337300000001
+latitude: 54.081
+longitude: -8.379
 ---

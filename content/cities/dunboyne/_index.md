@@ -1,6 +1,6 @@
 ---
 title: Dunboyne
 url: /dunboyne/
-latitude: 53.4194359
-longitude: -6.476018900000001
+latitude: 53.437
+longitude: -6.53
 ---

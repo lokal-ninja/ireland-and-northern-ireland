@@ -1,6 +1,6 @@
 ---
 title: Port Laoise
 url: /port-laoise/
-latitude: 
-longitude: 
+latitude: 53.034
+longitude: -7.298
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ballaghmore
 url: /ballaghmore/
-latitude: 52.9609053
-longitude: -7.694634700000001
+latitude: 52.961
+longitude: -7.695
 ---

@@ -1,6 +1,6 @@
 ---
 title: Carrickmines
 url: /carrickmines/
-latitude: 53.253235100000005
-longitude: -6.1718916
+latitude: 53.252
+longitude: -6.185
 ---

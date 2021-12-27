@@ -1,6 +1,6 @@
 ---
 title: Killinick
 url: /killinick/
-latitude: 52.2565747
-longitude: -6.4565561
+latitude: 52.257
+longitude: -6.456
 ---

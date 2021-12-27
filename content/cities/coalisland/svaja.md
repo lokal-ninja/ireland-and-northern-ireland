@@ -1,5 +1,5 @@
 ---
 title: "Svaja"
 url: /coalisland/svaja/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Slatterys"
 url: /nenagh/slatterys/
-shop: furniture
+shop: Möbel
 ---

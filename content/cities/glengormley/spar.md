@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /glengormley/spar/
-shop: convenience
+shop: Lebensmittel
 ---

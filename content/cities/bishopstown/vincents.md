@@ -1,5 +1,5 @@
 ---
 title: "Vincents"
 url: /bishopstown/vincents/
-shop: charity
+shop: Gebrauchtwaren
 ---

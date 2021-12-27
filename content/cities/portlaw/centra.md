@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /portlaw/centra/
-shop: convenience
+shop: Lebensmittel
 ---

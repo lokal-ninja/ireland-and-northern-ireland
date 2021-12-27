@@ -1,6 +1,6 @@
 ---
 title: Belmullet
 url: /belmullet/
-latitude: 
-longitude: 
+latitude: 54.198
+longitude: -10.038
 ---

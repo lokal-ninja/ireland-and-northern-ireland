@@ -1,5 +1,5 @@
 ---
 title: "Swatch"
 url: /dublin/swatch/
-shop: watches
+shop: Uhren
 ---

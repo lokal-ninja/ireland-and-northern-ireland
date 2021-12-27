@@ -1,6 +1,6 @@
 ---
 title: Ballyvolane
 url: /ballyvolane/
-latitude: 51.916977800000005
-longitude: -8.447126800000001
+latitude: 51.919
+longitude: -8.446
 ---

@@ -1,6 +1,6 @@
 ---
 title: Glounthaune
 url: /glounthaune/
-latitude: 51.9116039
-longitude: -8.3359594
+latitude: 51.908
+longitude: -8.364
 ---

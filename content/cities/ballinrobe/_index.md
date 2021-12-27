@@ -1,6 +1,6 @@
 ---
 title: Ballinrobe
 url: /ballinrobe/
-latitude: 53.622777500000005
-longitude: -9.220720700000001
+latitude: 53.627
+longitude: -9.217
 ---

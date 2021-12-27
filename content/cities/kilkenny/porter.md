@@ -1,5 +1,5 @@
 ---
 title: "Porter"
 url: /kilkenny/porter/
-shop: newsagent
+shop: Zeitungen
 ---

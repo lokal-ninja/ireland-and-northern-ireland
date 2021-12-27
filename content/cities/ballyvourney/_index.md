@@ -1,6 +1,6 @@
 ---
 title: Ballyvourney
 url: /ballyvourney/
-latitude: 
-longitude: 
+latitude: 51.937
+longitude: -9.148
 ---

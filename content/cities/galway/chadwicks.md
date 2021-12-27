@@ -1,5 +1,5 @@
 ---
 title: "Chadwicks"
 url: /galway/chadwicks/
-shop: doityourself
+shop: Baumarkt
 ---

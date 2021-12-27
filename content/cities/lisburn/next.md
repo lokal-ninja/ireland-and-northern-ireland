@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /lisburn/next/
-shop: clothes
+shop: Kleidung
 ---

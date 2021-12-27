@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /dublin/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

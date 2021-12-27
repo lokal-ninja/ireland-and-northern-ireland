@@ -1,6 +1,6 @@
 ---
 title: Ballinamore
 url: /ballinamore/
-latitude: 53.8290689
-longitude: -6.737460400000001
+latitude: 54.054
+longitude: -7.796
 ---

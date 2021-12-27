@@ -1,5 +1,5 @@
 ---
 title: "Compub"
 url: /galway/compub/
-shop: electronics
+shop: Elektronik
 ---

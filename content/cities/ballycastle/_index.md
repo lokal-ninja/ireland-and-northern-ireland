@@ -1,6 +1,6 @@
 ---
 title: Ballycastle
 url: /ballycastle/
-latitude: 55.2006882
-longitude: -6.250282
+latitude: 55.2
+longitude: -6.253
 ---

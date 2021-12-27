@@ -1,6 +1,6 @@
 ---
 title: Ahoghill
 url: /ahoghill/
-latitude: 54.85133140000001
-longitude: -6.365688400000001
+latitude: 54.852
+longitude: -6.366
 ---

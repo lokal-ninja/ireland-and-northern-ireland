@@ -1,5 +1,5 @@
 ---
 title: "VILA"
 url: /wexford/vila/
-shop: clothes
+shop: Kleidung
 ---

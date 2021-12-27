@@ -1,5 +1,5 @@
 ---
 title: "Johnston's Furniture"
 url: /ballymote/johnstons-furniture/
-shop: furniture
+shop: Möbel
 ---

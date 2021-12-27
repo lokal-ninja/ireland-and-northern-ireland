@@ -1,6 +1,6 @@
 ---
 title: Ballystrudder
 url: /ballystrudder/
-latitude: 
-longitude: 
+latitude: 54.778
+longitude: -5.713
 ---

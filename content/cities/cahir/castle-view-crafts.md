@@ -1,5 +1,5 @@
 ---
 title: "Castle View Crafts"
 url: /cahir/castle-view-crafts/
-shop: gift
+shop: Andenken
 ---

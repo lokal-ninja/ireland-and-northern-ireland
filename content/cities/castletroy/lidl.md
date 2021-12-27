@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /castletroy/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

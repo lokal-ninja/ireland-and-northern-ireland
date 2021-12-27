@@ -1,6 +1,6 @@
 ---
 title: Ballinasloe
 url: /ballinasloe/
-latitude: 53.3302722
-longitude: -8.221376000000001
+latitude: 53.331
+longitude: -8.224
 ---

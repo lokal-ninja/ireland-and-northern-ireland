@@ -1,6 +1,6 @@
 ---
 title: Timahoe
 url: /timahoe/
-latitude: 53.333328800000004
-longitude: -6.8371788
+latitude: 52.96
+longitude: -7.202
 ---

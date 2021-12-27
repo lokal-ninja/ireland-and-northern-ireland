@@ -1,6 +1,6 @@
 ---
 title: Manorhamilton
 url: /manorhamilton/
-latitude: 54.3040414
-longitude: -8.1754431
+latitude: 54.305
+longitude: -8.176
 ---

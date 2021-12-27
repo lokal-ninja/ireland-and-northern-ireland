@@ -1,5 +1,5 @@
 ---
 title: "Maxol"
 url: /navan/maxol/
-shop: convenience
+shop: Lebensmittel
 ---

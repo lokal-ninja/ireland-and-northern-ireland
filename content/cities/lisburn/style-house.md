@@ -1,5 +1,5 @@
 ---
 title: "Style House"
 url: /lisburn/style-house/
-shop: furniture
+shop: Möbel
 ---

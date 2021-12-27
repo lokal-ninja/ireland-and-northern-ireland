@@ -1,5 +1,5 @@
 ---
 title: "Glanbia"
 url: /dungarvan/glanbia/
-shop: garden centre
+shop: Garten-Center
 ---

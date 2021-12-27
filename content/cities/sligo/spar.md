@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /sligo/spar/
-shop: convenience
+shop: Lebensmittel
 ---

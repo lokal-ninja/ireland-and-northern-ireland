@@ -1,6 +1,6 @@
 ---
 title: Blarney
 url: /blarney/
-latitude: 
-longitude: 
+latitude: 51.933
+longitude: -8.566
 ---

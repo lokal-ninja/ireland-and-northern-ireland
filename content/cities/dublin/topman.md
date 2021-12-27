@@ -1,5 +1,5 @@
 ---
 title: "Topman"
 url: /dublin/topman/
-shop: clothes
+shop: Kleidung
 ---

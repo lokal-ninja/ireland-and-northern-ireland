@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /killarney/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

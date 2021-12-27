@@ -1,6 +1,6 @@
 ---
 title: Cloyne
 url: /cloyne/
-latitude: 51.8632525
-longitude: -8.120859900000001
+latitude: 51.863
+longitude: -8.121
 ---

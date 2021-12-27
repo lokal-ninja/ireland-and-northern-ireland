@@ -1,6 +1,6 @@
 ---
 title: Clara
 url: /clara/
-latitude: 53.3425
-longitude: -7.613889
+latitude: 53.344
+longitude: -7.615
 ---

@@ -1,6 +1,6 @@
 ---
 title: Co. Kildare
 url: /co-kildare/
-latitude: 
-longitude: 
+latitude: 53.441
+longitude: -6.963
 ---

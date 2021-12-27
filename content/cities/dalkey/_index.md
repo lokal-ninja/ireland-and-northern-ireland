@@ -1,6 +1,6 @@
 ---
 title: Dalkey
 url: /dalkey/
-latitude: 53.2782812
-longitude: -6.1074381
+latitude: 53.278
+longitude: -6.104
 ---

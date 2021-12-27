@@ -1,6 +1,6 @@
 ---
 title: Whitechurch
 url: /whitechurch/
-latitude: 53.277920800000004
-longitude: -6.2893897
+latitude: 51.979
+longitude: -8.509
 ---

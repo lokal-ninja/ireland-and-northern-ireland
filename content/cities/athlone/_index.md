@@ -1,6 +1,6 @@
 ---
 title: Athlone
 url: /athlone/
-latitude: 53.422843400000005
-longitude: -7.9425897
+latitude: 53.423
+longitude: -7.971
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cashel
 url: /cashel/
-latitude: 53.794517500000005
-longitude: -9.4027714
+latitude: 52.512
+longitude: -7.88
 ---

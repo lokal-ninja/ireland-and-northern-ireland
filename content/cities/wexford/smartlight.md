@@ -1,5 +1,5 @@
 ---
 title: "SmartLight"
 url: /wexford/smartlight/
-shop: lamps
+shop: Lampen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /tipperary/lidl/
-shop: supermarket
+shop: Supermarkt
 ---
