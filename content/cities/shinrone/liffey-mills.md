@@ -1,5 +1,5 @@
 ---
 title: "Liffey Mills"
-url: /offaly/liffey-mills/
+url: /shinrone/liffey-mills/
 shop: Allgemein
 ---
