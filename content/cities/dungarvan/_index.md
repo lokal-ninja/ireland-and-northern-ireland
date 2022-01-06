@@ -1,6 +1,6 @@
 ---
 title: Dungarvan
 url: /dungarvan/
-latitude: 52.093
-longitude: -7.623
+latitude: 52.089
+longitude: -7.621
 ---

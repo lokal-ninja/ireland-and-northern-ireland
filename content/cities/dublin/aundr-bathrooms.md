@@ -1,5 +1,5 @@
 ---
 title: "A&R Bathrooms"
 url: /dublin/aundr-bathrooms/
-shop: Allgemein
+shop: Badezimmer
 ---
