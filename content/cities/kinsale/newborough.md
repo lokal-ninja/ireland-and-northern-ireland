@@ -1,5 +1,5 @@
 ---
 title: "Newborough"
 url: /kinsale/newborough/
-shop: Kosmetik
+shop: beauty
 ---

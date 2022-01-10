@@ -1,5 +1,5 @@
 ---
 title: "Moldova"
 url: /kilkenny/moldova/
-shop: Supermarkt
+shop: supermarket
 ---

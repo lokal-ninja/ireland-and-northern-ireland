@@ -1,5 +1,5 @@
 ---
 title: "Browne's XL"
 url: /clogheen/brownes-xl/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Latitude Kinsale"
 url: /kinsale/latitude-kinsale/
-shop: Kunst
+shop: art
 ---

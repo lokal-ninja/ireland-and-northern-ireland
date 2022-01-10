@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Wholefoods"
 url: /wexford/rainbow-wholefoods/
-shop: Bioladen
+shop: health food
 ---

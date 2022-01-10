@@ -1,5 +1,5 @@
 ---
 title: "Meteor"
 url: /newbridge/meteor/
-shop: Handy
+shop: mobile phone
 ---

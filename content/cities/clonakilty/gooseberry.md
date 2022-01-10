@@ -1,5 +1,5 @@
 ---
 title: "Gooseberry"
 url: /clonakilty/gooseberry/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier Autobody"
 url: /dublin/premier-autobody/
-shop: Autowerkstatt
+shop: car repair
 ---

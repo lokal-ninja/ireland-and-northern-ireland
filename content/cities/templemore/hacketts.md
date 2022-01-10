@@ -1,5 +1,5 @@
 ---
 title: "Hacketts"
 url: /templemore/hacketts/
-shop: Wettbüro
+shop: bookmaker
 ---

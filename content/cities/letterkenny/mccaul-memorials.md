@@ -1,5 +1,5 @@
 ---
 title: "McCaul Memorials"
 url: /letterkenny/mccaul-memorials/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Mall"
 url: /cork/the-mall/
-shop: Lebensmittel
+shop: convenience
 ---

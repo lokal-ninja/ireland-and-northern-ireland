@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /belfast/cex-2/
-shop: Elektronik
+shop: electronics
 ---

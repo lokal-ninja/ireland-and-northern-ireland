@@ -1,5 +1,5 @@
 ---
 title: "Anne Maries"
 url: /nenagh/anne-maries/
-shop: Kleidung
+shop: clothes
 ---

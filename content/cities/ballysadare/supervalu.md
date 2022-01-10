@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /ballysadare/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biodecus"
 url: /kilkenny/biodecus/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DVD Centre"
 url: /dublin/dvd-centre/
-shop: Allgemein
+shop: shop
 ---

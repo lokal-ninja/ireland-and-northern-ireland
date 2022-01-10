@@ -1,5 +1,5 @@
 ---
 title: "XL"
 url: /bansha/xl/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Humphries Cycles"
 url: /dublin/humphries-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

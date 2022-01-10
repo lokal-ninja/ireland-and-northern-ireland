@@ -1,5 +1,5 @@
 ---
 title: "Nairns"
 url: /sligo/nairns/
-shop: Jalousien
+shop: window blind
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D C Floors"
 url: /carrickfergus/d-c-floors/
-shop: Teppiche
+shop: carpet
 ---

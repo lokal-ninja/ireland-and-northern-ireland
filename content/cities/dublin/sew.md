@@ -1,5 +1,5 @@
 ---
 title: "Sew"
 url: /dublin/sew/
-shop: Allgemein
+shop: shop
 ---

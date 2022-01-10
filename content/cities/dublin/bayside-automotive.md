@@ -1,5 +1,5 @@
 ---
 title: "Bayside Automotive"
 url: /dublin/bayside-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

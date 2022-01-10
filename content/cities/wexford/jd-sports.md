@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /wexford/jd-sports/
-shop: Sport
+shop: sports
 ---

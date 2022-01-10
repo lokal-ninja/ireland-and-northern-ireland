@@ -1,5 +1,5 @@
 ---
 title: "Larkin Lenihan Motors Ltd."
 url: /dublin/larkin-lenihan-motors-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Golf Style"
 url: /galway/golf-style/
-shop: Sport
+shop: sports
 ---

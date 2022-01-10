@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /sligo/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

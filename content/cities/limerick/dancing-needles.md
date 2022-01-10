@@ -1,5 +1,5 @@
 ---
 title: "Dancing Needles"
 url: /limerick/dancing-needles/
-shop: Schneiderei
+shop: tailor
 ---

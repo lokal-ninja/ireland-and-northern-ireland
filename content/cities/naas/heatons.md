@@ -1,5 +1,5 @@
 ---
 title: "Heatons"
 url: /naas/heatons/
-shop: Warenhaus
+shop: department store
 ---

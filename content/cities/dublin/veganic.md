@@ -1,5 +1,5 @@
 ---
 title: "Veganic"
 url: /dublin/veganic/
-shop: Bioladen
+shop: health food
 ---

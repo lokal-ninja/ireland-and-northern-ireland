@@ -1,5 +1,5 @@
 ---
 title: "Eileen's Beauty Salon"
 url: /kinsale/eileens-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mounttown Motors"
 url: /dun-laoghaire/mounttown-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

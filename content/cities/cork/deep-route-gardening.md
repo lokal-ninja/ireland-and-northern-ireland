@@ -1,5 +1,5 @@
 ---
 title: "Deep Route Garden­ing"
 url: /cork/deep-route-gardening/
-shop: Garten-Center
+shop: garden centre
 ---

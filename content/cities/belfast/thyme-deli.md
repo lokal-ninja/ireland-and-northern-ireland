@@ -1,5 +1,5 @@
 ---
 title: "Thyme Deli"
 url: /belfast/thyme-deli/
-shop: Feinkost
+shop: deli
 ---

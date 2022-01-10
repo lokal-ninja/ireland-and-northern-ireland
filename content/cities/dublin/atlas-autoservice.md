@@ -1,5 +1,5 @@
 ---
 title: "Atlas Autoservice"
 url: /dublin/atlas-autoservice/
-shop: Autowerkstatt
+shop: car repair
 ---

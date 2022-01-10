@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /cork/pandora-2/
-shop: Schmuck
+shop: jewelry
 ---

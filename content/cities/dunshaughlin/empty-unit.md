@@ -1,5 +1,5 @@
 ---
 title: "Empty Unit"
 url: /dunshaughlin/empty-unit/
-shop: Kleidung
+shop: clothes
 ---

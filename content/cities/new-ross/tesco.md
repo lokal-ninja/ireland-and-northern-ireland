@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /new-ross/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

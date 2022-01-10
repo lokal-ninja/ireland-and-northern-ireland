@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /larne/new-look/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glo Beauty Salon"
 url: /belfast/glo-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Starplan"
 url: /belfast/starplan/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /kilmeadan/centra/
-shop: Lebensmittel
+shop: convenience
 ---

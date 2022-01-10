@@ -1,5 +1,5 @@
 ---
 title: "Menary's"
 url: /larne/menarys/
-shop: Warenhaus
+shop: department store
 ---

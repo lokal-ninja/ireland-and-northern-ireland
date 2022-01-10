@@ -1,5 +1,5 @@
 ---
 title: "Essensuals"
 url: /dublin/essensuals/
-shop: Allgemein
+shop: shop
 ---

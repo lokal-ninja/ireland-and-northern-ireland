@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /mullingar/londis/
-shop: Supermarkt
+shop: supermarket
 ---

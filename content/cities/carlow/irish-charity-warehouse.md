@@ -1,5 +1,5 @@
 ---
 title: "Irish Charity Warehouse"
 url: /carlow/irish-charity-warehouse/
-shop: Supermarkt
+shop: supermarket
 ---

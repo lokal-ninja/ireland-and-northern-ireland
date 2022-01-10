@@ -1,5 +1,5 @@
 ---
 title: "Shoe"
 url: /dun-laoghaire/shoe/
-shop: Schuhe
+shop: shoes
 ---

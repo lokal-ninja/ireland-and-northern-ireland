@@ -1,5 +1,5 @@
 ---
 title: "Repair zone"
 url: /sligo/repair-zone/
-shop: Handy
+shop: mobile phone
 ---

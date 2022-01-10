@@ -1,5 +1,5 @@
 ---
 title: "Plush"
 url: /dublin/plush/
-shop: Raumausstattung
+shop: interior decoration
 ---

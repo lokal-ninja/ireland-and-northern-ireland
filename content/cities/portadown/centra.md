@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /portadown/centra/
-shop: Lebensmittel
+shop: convenience
 ---

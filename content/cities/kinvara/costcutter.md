@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /kinvara/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /cork/lush/
-shop: Kosmetik
+shop: beauty
 ---

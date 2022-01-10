@@ -1,5 +1,5 @@
 ---
 title: "Kinsale Storage Centre"
 url: /kinsale/kinsale-storage-centre/
-shop: Mieten
+shop: storage rental
 ---

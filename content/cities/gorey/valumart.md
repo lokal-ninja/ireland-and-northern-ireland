@@ -1,5 +1,5 @@
 ---
 title: "ValuMart"
 url: /gorey/valumart/
-shop: Raumausstattung
+shop: interior decoration
 ---

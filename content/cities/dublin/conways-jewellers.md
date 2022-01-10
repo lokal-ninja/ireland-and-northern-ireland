@@ -1,5 +1,5 @@
 ---
 title: "Conway's Jewellers"
 url: /dublin/conways-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /cork/halfords/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Linders Renault Finglas"
 url: /dublin/linders-renault-finglas/
-shop: Autohaus
+shop: car
 ---

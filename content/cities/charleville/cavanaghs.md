@@ -1,5 +1,5 @@
 ---
 title: "Cavanagh's"
 url: /charleville/cavanaghs/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lumination"
 url: /bandon/lumination/
-shop: Lampen
+shop: lamps
 ---

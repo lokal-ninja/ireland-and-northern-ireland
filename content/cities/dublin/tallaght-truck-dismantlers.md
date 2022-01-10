@@ -1,5 +1,5 @@
 ---
 title: "Tallaght Truck Dismantlers"
 url: /dublin/tallaght-truck-dismantlers/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Advanced Pitstop"
 url: /dublin/advanced-pitstop/
-shop: Autowerkstatt
+shop: car repair
 ---

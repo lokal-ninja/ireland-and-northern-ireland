@@ -1,5 +1,5 @@
 ---
 title: "The Zip Yard"
 url: /dublin/the-zip-yard/
-shop: Wäscherei
+shop: laundry
 ---

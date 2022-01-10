@@ -1,5 +1,5 @@
 ---
 title: "Woodquay Service Station"
 url: /galway/woodquay-service-station/
-shop: Allgemein
+shop: shop
 ---

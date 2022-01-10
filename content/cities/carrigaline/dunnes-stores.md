@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /carrigaline/dunnes-stores/
-shop: Supermarkt
+shop: supermarket
 ---

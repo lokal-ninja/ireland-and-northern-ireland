@@ -1,5 +1,5 @@
 ---
 title: "The Retro Gaming Store"
 url: /wexford/the-retro-gaming-store/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sligo Races - entrance"
 url: /sligo/sligo-races-entrance/
-shop: Tickets
+shop: ticket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bolands Craftshop"
 url: /kinsale/bolands-craftshop/
-shop: Andenken
+shop: gift
 ---

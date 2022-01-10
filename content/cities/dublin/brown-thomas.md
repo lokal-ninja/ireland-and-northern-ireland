@@ -1,5 +1,5 @@
 ---
 title: "Brown Thomas"
 url: /dublin/brown-thomas/
-shop: Kleidung
+shop: clothes
 ---

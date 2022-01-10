@@ -1,5 +1,5 @@
 ---
 title: "Evergreen Healthfoods"
 url: /galway/evergreen-healthfoods/
-shop: Bioladen
+shop: health food
 ---

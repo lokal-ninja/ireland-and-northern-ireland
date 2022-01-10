@@ -1,5 +1,5 @@
 ---
 title: "CycleBike"
 url: /inchicore/cyclebike/
-shop: Fahrrad
+shop: bicycle
 ---

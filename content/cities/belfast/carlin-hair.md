@@ -1,5 +1,5 @@
 ---
 title: "Carlin Hair"
 url: /belfast/carlin-hair/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross Hegarty Hairdressing"
 url: /cabinteely/ross-hegarty-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Define"
 url: /dublin/define/
-shop: Friseur
+shop: hairdresser
 ---

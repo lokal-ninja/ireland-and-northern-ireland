@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /nenagh/vodafone/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /clane/centra/
-shop: Lebensmittel
+shop: convenience
 ---

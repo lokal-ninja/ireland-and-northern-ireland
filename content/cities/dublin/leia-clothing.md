@@ -1,5 +1,5 @@
 ---
 title: "Leia Clothing"
 url: /dublin/leia-clothing/
-shop: Kleidung
+shop: clothes
 ---

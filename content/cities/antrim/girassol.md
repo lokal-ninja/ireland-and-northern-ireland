@@ -1,5 +1,5 @@
 ---
 title: "Girassol"
 url: /antrim/girassol/
-shop: Gebrauchtwaren
+shop: charity
 ---

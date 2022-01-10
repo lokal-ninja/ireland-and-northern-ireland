@@ -1,5 +1,5 @@
 ---
 title: "JamArt Factory"
 url: /dublin/jamart-factory/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Healthy Haven"
 url: /thurles/healthy-haven/
-shop: Bioladen
+shop: health food
 ---

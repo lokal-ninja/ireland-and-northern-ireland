@@ -1,5 +1,5 @@
 ---
 title: "LUX Flowers"
 url: /stillorgan/lux-flowers/
-shop: Blumen
+shop: florist
 ---

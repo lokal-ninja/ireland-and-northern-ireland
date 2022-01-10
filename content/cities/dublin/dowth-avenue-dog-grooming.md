@@ -1,5 +1,5 @@
 ---
 title: "Dowth Avenue Dog Grooming"
 url: /dublin/dowth-avenue-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

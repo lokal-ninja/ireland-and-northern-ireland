@@ -1,5 +1,5 @@
 ---
 title: "Palmsworth"
 url: /newbridge/palmsworth/
-shop: Kramladen
+shop: variety store
 ---

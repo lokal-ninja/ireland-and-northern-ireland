@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /maynooth/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

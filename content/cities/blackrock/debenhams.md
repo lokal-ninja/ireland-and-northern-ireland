@@ -1,5 +1,5 @@
 ---
 title: "Debenhams"
 url: /blackrock/debenhams/
-shop: Warenhaus
+shop: department store
 ---

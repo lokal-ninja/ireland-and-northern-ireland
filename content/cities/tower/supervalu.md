@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /tower/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

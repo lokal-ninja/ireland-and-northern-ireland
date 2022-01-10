@@ -1,5 +1,5 @@
 ---
 title: "Salon Shop"
 url: /bandon/salon-shop/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

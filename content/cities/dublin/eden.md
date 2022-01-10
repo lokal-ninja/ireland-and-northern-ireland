@@ -1,5 +1,5 @@
 ---
 title: "Eden"
 url: /dublin/eden/
-shop: Massage
+shop: massage
 ---

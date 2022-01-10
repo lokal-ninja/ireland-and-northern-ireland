@@ -1,5 +1,5 @@
 ---
 title: "Seville Motors"
 url: /dublin/seville-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

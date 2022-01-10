@@ -1,5 +1,5 @@
 ---
 title: "Eason"
 url: /coleraine/eason/
-shop: Bücher
+shop: books
 ---

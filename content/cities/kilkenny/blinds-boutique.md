@@ -1,5 +1,5 @@
 ---
 title: "Blinds Boutique"
 url: /kilkenny/blinds-boutique/
-shop: Allgemein
+shop: shop
 ---

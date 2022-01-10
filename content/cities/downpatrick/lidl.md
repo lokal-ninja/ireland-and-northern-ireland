@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /downpatrick/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

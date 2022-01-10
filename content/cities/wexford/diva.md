@@ -1,5 +1,5 @@
 ---
 title: "Diva"
 url: /wexford/diva/
-shop: Friseur
+shop: hairdresser
 ---

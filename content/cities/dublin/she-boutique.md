@@ -1,5 +1,5 @@
 ---
 title: "She Boutique"
 url: /dublin/she-boutique/
-shop: Kleidung
+shop: clothes
 ---

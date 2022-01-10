@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /wexford/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

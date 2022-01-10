@@ -1,5 +1,5 @@
 ---
 title: "Different Strokes"
 url: /midleton/different-strokes/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Homevalue"
 url: /wexford/homevalue/
-shop: Baumarkt
+shop: doityourself
 ---

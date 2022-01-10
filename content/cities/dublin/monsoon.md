@@ -1,5 +1,5 @@
 ---
 title: "Monsoon"
 url: /dublin/monsoon/
-shop: Kleidung
+shop: clothes
 ---

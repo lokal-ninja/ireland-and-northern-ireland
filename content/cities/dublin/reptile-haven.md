@@ -1,5 +1,5 @@
 ---
 title: "Reptile Haven"
 url: /dublin/reptile-haven/
-shop: Tiere
+shop: pet
 ---

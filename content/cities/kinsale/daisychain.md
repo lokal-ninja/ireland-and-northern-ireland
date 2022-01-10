@@ -1,5 +1,5 @@
 ---
 title: "Daisychain"
 url: /kinsale/daisychain/
-shop: Blumen
+shop: florist
 ---

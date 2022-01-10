@@ -1,5 +1,5 @@
 ---
 title: "Eason"
 url: /cork/eason/
-shop: Bücher
+shop: books
 ---

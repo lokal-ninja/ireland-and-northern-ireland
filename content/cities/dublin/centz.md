@@ -1,5 +1,5 @@
 ---
 title: "Centz"
 url: /dublin/centz/
-shop: Kramladen
+shop: variety store
 ---

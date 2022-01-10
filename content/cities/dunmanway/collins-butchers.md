@@ -1,5 +1,5 @@
 ---
 title: "Collins' Butchers"
 url: /dunmanway/collins-butchers/
-shop: Metzgerei
+shop: butcher
 ---

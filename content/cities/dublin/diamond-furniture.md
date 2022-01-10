@@ -1,5 +1,5 @@
 ---
 title: "Diamond Furniture"
 url: /dublin/diamond-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lock Safe Locksmiths"
 url: /dun-laoghaire/lock-safe-locksmiths/
-shop: Schlüsseldienst
+shop: locksmith
 ---

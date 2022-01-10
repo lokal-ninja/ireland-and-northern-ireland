@@ -1,5 +1,5 @@
 ---
 title: "Penneys"
 url: /dublin/penneys/
-shop: Warenhaus
+shop: department store
 ---

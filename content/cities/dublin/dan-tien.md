@@ -1,5 +1,5 @@
 ---
 title: "Dan-Tien"
 url: /dublin/dan-tien/
-shop: Allgemein
+shop: shop
 ---

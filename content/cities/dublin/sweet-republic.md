@@ -1,5 +1,5 @@
 ---
 title: "Sweet Republic"
 url: /dublin/sweet-republic/
-shop: Süßwaren
+shop: confectionery
 ---

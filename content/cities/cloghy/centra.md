@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /cloghy/centra/
-shop: Supermarkt
+shop: supermarket
 ---

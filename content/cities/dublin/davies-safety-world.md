@@ -1,5 +1,5 @@
 ---
 title: "Davies Safety World"
 url: /dublin/davies-safety-world/
-shop: Allgemein
+shop: shop
 ---

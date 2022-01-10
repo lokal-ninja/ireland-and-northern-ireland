@@ -1,5 +1,5 @@
 ---
 title: "Audi Centre Ballsbridge"
 url: /dublin/audi-centre-ballsbridge/
-shop: Autohaus
+shop: car
 ---

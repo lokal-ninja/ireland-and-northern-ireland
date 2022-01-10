@@ -1,5 +1,5 @@
 ---
 title: "Murphy's Garage"
 url: /cork/murphys-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

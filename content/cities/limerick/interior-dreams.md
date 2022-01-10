@@ -1,5 +1,5 @@
 ---
 title: "Interior Dreams"
 url: /limerick/interior-dreams/
-shop: Raumausstattung
+shop: interior decoration
 ---

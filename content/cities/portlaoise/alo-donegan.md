@@ -1,5 +1,5 @@
 ---
 title: "Alo Donegan"
 url: /portlaoise/alo-donegan/
-shop: Allgemein
+shop: shop
 ---

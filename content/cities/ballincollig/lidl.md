@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /ballincollig/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

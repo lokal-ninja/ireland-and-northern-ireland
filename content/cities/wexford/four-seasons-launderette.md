@@ -1,5 +1,5 @@
 ---
 title: "Four Seasons Launderette"
 url: /wexford/four-seasons-launderette/
-shop: Wäscherei
+shop: laundry
 ---

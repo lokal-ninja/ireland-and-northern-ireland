@@ -1,5 +1,5 @@
 ---
 title: "Timeless"
 url: /donaghcloney/timeless/
-shop: Friseur
+shop: hairdresser
 ---

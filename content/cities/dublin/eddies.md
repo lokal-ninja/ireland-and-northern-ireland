@@ -1,5 +1,5 @@
 ---
 title: "Eddie's"
 url: /dublin/eddies/
-shop: Lebensmittel
+shop: convenience
 ---

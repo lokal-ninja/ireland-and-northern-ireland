@@ -1,5 +1,5 @@
 ---
 title: "PC-universe.net (moved)"
 url: /dublin/pc-universe-net-moved/
-shop: Elektronik
+shop: electronics
 ---

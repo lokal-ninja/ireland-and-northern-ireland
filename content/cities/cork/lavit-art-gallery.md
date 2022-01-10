@@ -1,5 +1,5 @@
 ---
 title: "Lavit Art Gallery"
 url: /cork/lavit-art-gallery/
-shop: Kunst
+shop: art
 ---

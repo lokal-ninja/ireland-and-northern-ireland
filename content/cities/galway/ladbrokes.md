@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /galway/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

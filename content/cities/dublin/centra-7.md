@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /dublin/centra-7/
-shop: Lebensmittel
+shop: convenience
 ---

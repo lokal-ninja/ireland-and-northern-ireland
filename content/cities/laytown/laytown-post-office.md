@@ -1,5 +1,5 @@
 ---
 title: "Laytown Post Office"
 url: /laytown/laytown-post-office/
-shop: Supermarkt
+shop: supermarket
 ---

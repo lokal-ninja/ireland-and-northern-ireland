@@ -1,5 +1,5 @@
 ---
 title: "Moyvalley Tyre Centre"
 url: /ballinadrumny/moyvalley-tyre-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

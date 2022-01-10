@@ -1,5 +1,5 @@
 ---
 title: "Headlites"
 url: /dublin/headlites/
-shop: Friseur
+shop: hairdresser
 ---

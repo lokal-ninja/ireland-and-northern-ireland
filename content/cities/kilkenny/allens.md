@@ -1,5 +1,5 @@
 ---
 title: "Allens"
 url: /kilkenny/allens/
-shop: Haushaltsartikel
+shop: houseware
 ---

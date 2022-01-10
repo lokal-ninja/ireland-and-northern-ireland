@@ -1,5 +1,5 @@
 ---
 title: "JD Recovery Services"
 url: /glanmire/jd-recovery-services/
-shop: Autowerkstatt
+shop: car repair
 ---

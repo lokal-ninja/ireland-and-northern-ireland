@@ -1,5 +1,5 @@
 ---
 title: "The Kinsale Salon"
 url: /kinsale/the-kinsale-salon/
-shop: Kosmetik
+shop: beauty
 ---

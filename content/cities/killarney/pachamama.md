@@ -1,5 +1,5 @@
 ---
 title: "Pachamama"
 url: /killarney/pachamama/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Botanic Office Equipment"
 url: /dublin/botanic-office-equipment/
-shop: Allgemein
+shop: shop
 ---

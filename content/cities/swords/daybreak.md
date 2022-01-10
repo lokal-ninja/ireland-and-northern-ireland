@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /swords/daybreak/
-shop: Supermarkt
+shop: supermarket
 ---

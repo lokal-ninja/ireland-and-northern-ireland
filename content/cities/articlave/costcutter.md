@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /articlave/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

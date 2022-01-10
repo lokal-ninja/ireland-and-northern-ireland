@@ -1,5 +1,5 @@
 ---
 title: "Sally West"
 url: /gorey/sally-west/
-shop: Gardinen
+shop: curtain
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edge Hardware"
 url: /dublin/edge-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

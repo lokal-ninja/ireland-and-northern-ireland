@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /wexford/dealz/
-shop: Kramladen
+shop: variety store
 ---

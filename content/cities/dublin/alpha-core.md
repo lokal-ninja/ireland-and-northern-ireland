@@ -1,5 +1,5 @@
 ---
 title: "Alpha Core"
 url: /dublin/alpha-core/
-shop: Eisenwaren
+shop: hardware
 ---

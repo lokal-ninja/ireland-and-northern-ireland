@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /belfast/poundland/
-shop: Kramladen
+shop: variety store
 ---

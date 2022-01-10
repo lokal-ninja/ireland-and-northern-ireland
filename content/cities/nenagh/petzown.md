@@ -1,5 +1,5 @@
 ---
 title: "Petzown"
 url: /nenagh/petzown/
-shop: Tiere
+shop: pet
 ---

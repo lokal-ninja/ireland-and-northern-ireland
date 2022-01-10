@@ -1,5 +1,5 @@
 ---
 title: "Hair"
 url: /virginia/hair/
-shop: Friseur
+shop: hairdresser
 ---

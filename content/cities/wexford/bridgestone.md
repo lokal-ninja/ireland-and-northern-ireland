@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /wexford/bridgestone/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tiffany's"
 url: /kilkenny/tiffanys/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /cork/circle-k-2/
-shop: Lebensmittel
+shop: convenience
 ---

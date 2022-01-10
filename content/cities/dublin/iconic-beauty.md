@@ -1,5 +1,5 @@
 ---
 title: "Iconic Beauty"
 url: /dublin/iconic-beauty/
-shop: Kosmetik
+shop: beauty
 ---

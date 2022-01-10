@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /lisburn/spar-4/
-shop: Lebensmittel
+shop: convenience
 ---

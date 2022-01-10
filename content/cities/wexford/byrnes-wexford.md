@@ -1,5 +1,5 @@
 ---
 title: "Byrnes Wexford"
 url: /wexford/byrnes-wexford/
-shop: Autohaus
+shop: car
 ---

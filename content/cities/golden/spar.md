@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /golden/spar/
-shop: Lebensmittel
+shop: convenience
 ---

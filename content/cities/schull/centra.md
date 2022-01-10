@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /schull/centra/
-shop: Lebensmittel
+shop: convenience
 ---

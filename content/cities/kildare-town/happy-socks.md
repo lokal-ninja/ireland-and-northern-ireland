@@ -1,5 +1,5 @@
 ---
 title: "Happy Socks"
 url: /kildare-town/happy-socks/
-shop: Allgemein
+shop: shop
 ---

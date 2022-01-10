@@ -1,5 +1,5 @@
 ---
 title: "Greg's Garage"
 url: /castlebridge/gregs-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

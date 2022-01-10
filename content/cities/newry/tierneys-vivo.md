@@ -1,5 +1,5 @@
 ---
 title: "Tierney's Vivo"
 url: /newry/tierneys-vivo/
-shop: Supermarkt
+shop: supermarket
 ---

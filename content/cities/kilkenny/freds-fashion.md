@@ -1,5 +1,5 @@
 ---
 title: "Fred's Fashion"
 url: /kilkenny/freds-fashion/
-shop: Gebrauchtwaren
+shop: charity
 ---

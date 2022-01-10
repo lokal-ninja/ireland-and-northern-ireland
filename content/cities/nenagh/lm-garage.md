@@ -1,5 +1,5 @@
 ---
 title: "LM Garage"
 url: /nenagh/lm-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

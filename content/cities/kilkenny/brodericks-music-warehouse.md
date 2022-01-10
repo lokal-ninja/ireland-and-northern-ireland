@@ -1,5 +1,5 @@
 ---
 title: "Broderick's Music Warehouse"
 url: /kilkenny/brodericks-music-warehouse/
-shop: Instrumente
+shop: musical instrument
 ---

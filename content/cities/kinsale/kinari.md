@@ -1,5 +1,5 @@
 ---
 title: "Kinari"
 url: /kinsale/kinari/
-shop: Kleidung
+shop: clothes
 ---

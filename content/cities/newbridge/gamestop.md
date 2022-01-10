@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /newbridge/gamestop/
-shop: Videospiele
+shop: video games
 ---

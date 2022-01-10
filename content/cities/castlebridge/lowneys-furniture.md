@@ -1,5 +1,5 @@
 ---
 title: "Lowney's Furniture"
 url: /castlebridge/lowneys-furniture/
-shop: Möbel
+shop: furniture
 ---

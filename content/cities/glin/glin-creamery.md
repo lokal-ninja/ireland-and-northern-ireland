@@ -1,5 +1,5 @@
 ---
 title: "Glin Creamery"
 url: /glin/glin-creamery/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

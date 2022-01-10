@@ -1,5 +1,5 @@
 ---
 title: "The Cycle Shop"
 url: /dundalk/the-cycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

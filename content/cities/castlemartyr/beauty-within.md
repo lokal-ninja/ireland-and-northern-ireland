@@ -1,5 +1,5 @@
 ---
 title: "Beauty Within"
 url: /castlemartyr/beauty-within/
-shop: Kosmetik
+shop: beauty
 ---

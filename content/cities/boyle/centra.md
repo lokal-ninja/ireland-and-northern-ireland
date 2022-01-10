@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /boyle/centra/
-shop: Lebensmittel
+shop: convenience
 ---

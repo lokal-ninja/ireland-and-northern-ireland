@@ -1,5 +1,5 @@
 ---
 title: "Walsh's Pharmacy"
 url: /dingle/walshs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

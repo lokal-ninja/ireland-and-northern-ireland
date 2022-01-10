@@ -1,5 +1,5 @@
 ---
 title: "McSwineys"
 url: /crookstown/mcswineys/
-shop: Lebensmittel
+shop: convenience
 ---

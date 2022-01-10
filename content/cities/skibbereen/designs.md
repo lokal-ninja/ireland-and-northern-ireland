@@ -1,5 +1,5 @@
 ---
 title: "Designs"
 url: /skibbereen/designs/
-shop: Andenken
+shop: gift
 ---

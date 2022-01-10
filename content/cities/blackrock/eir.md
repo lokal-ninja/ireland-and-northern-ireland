@@ -1,5 +1,5 @@
 ---
 title: "Eir"
 url: /blackrock/eir/
-shop: Handy
+shop: mobile phone
 ---

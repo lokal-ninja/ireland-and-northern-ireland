@@ -1,5 +1,5 @@
 ---
 title: "Katwalk"
 url: /midleton/katwalk/
-shop: Kleidung
+shop: clothes
 ---

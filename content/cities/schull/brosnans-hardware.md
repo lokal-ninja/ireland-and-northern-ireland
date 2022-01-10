@@ -1,5 +1,5 @@
 ---
 title: "Brosnans Hardware"
 url: /schull/brosnans-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

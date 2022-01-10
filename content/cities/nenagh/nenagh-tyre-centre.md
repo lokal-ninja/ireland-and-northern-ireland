@@ -1,5 +1,5 @@
 ---
 title: "Nenagh Tyre Centre"
 url: /nenagh/nenagh-tyre-centre/
-shop: Reifen
+shop: tyres
 ---

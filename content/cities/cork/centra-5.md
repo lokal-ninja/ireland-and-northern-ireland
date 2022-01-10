@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /cork/centra-5/
-shop: Lebensmittel
+shop: convenience
 ---

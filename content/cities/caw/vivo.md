@@ -1,5 +1,5 @@
 ---
 title: "ViVO"
 url: /caw/vivo/
-shop: Lebensmittel
+shop: convenience
 ---

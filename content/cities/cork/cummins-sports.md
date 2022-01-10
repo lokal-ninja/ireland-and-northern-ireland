@@ -1,5 +1,5 @@
 ---
 title: "Cummins Sports"
 url: /cork/cummins-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /athboy/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

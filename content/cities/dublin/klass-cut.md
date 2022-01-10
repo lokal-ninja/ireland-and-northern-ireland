@@ -1,5 +1,5 @@
 ---
 title: "Klass Cut"
 url: /dublin/klass-cut/
-shop: Friseur
+shop: hairdresser
 ---

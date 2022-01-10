@@ -1,5 +1,5 @@
 ---
 title: "Zen"
 url: /wexford/zen/
-shop: Kosmetik
+shop: beauty
 ---

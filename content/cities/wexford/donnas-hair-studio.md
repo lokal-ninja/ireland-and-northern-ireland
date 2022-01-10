@@ -1,5 +1,5 @@
 ---
 title: "Donna's Hair Studio"
 url: /wexford/donnas-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

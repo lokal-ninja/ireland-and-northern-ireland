@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /killimor/costcutter/
-shop: Supermarkt
+shop: supermarket
 ---

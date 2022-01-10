@@ -1,5 +1,5 @@
 ---
 title: "Mobile Fix"
 url: /dublin/mobile-fix/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flame by Design"
 url: /cork/flame-by-design/
-shop: Kamine & Öfen
+shop: fireplace
 ---

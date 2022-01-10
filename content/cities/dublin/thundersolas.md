@@ -1,5 +1,5 @@
 ---
 title: "ThunderSolas"
 url: /dublin/thundersolas/
-shop: Leder
+shop: leather
 ---

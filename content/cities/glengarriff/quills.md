@@ -1,5 +1,5 @@
 ---
 title: "Quills"
 url: /glengarriff/quills/
-shop: Andenken
+shop: gift
 ---

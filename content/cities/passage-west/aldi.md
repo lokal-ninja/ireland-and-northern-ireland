@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /passage-west/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

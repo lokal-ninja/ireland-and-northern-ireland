@@ -1,5 +1,5 @@
 ---
 title: "Centra - Roslevan Stores"
 url: /ennis/centra-roslevan-stores/
-shop: Lebensmittel
+shop: convenience
 ---

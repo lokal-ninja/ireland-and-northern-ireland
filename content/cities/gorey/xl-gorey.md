@@ -1,5 +1,5 @@
 ---
 title: "XL Gorey"
 url: /gorey/xl-gorey/
-shop: Lebensmittel
+shop: convenience
 ---

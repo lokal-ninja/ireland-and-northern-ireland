@@ -1,5 +1,5 @@
 ---
 title: "Grugan Motors"
 url: /omagh/grugan-motors/
-shop: Autoteile
+shop: car parts
 ---

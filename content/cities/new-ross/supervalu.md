@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /new-ross/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

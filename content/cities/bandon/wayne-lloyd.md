@@ -1,5 +1,5 @@
 ---
 title: "Wayne Lloyd"
 url: /bandon/wayne-lloyd/
-shop: Friseur
+shop: hairdresser
 ---

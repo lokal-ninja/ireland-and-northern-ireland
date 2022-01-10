@@ -1,5 +1,5 @@
 ---
 title: "Aristokats"
 url: /dublin/aristokats/
-shop: Friseur
+shop: hairdresser
 ---

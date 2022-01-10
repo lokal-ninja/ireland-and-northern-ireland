@@ -1,5 +1,5 @@
 ---
 title: "Sew-n-Sew"
 url: /athy/sew-n-sew/
-shop: Schneiderei
+shop: tailor
 ---

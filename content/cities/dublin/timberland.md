@@ -1,5 +1,5 @@
 ---
 title: "Timberland"
 url: /dublin/timberland/
-shop: Kleidung
+shop: clothes
 ---

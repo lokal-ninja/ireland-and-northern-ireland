@@ -1,5 +1,5 @@
 ---
 title: "Murphy's Daybreak"
 url: /kenmare/murphys-daybreak/
-shop: Supermarkt
+shop: supermarket
 ---

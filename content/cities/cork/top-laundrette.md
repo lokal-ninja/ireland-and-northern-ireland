@@ -1,5 +1,5 @@
 ---
 title: "Top Laundrette"
 url: /cork/top-laundrette/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /waterford/vodafone/
-shop: Handy
+shop: mobile phone
 ---

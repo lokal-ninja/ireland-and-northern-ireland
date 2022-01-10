@@ -1,5 +1,5 @@
 ---
 title: "Mr Price Branded Bargains"
 url: /sligo/mr-price-branded-bargains/
-shop: Kramladen
+shop: variety store
 ---

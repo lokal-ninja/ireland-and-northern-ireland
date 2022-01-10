@@ -1,5 +1,5 @@
 ---
 title: "APddy the Butcher"
 url: /kildare/apddy-the-butcher/
-shop: Metzgerei
+shop: butcher
 ---

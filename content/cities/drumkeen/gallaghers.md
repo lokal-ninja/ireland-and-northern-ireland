@@ -1,5 +1,5 @@
 ---
 title: "Gallaghers"
 url: /drumkeen/gallaghers/
-shop: Autowerkstatt
+shop: car repair
 ---

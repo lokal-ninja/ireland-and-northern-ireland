@@ -1,5 +1,5 @@
 ---
 title: "Heaven's Cakes"
 url: /bandon/heavens-cakes/
-shop: Bäckerei
+shop: bakery
 ---

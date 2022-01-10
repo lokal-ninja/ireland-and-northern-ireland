@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /glounthaune/centra/
-shop: Lebensmittel
+shop: convenience
 ---

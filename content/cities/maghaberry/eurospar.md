@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /maghaberry/eurospar/
-shop: Supermarkt
+shop: supermarket
 ---

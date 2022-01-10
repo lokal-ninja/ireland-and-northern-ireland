@@ -1,5 +1,5 @@
 ---
 title: "Lynch's"
 url: /dublin/lynchs/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "unbound"
 url: /cork/unbound/
-shop: Kleidung
+shop: clothes
 ---

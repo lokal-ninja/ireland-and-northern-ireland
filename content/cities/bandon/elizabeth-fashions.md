@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth Fashions"
 url: /bandon/elizabeth-fashions/
-shop: Kleidung
+shop: clothes
 ---

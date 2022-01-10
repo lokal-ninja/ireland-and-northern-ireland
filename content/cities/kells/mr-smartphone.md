@@ -1,5 +1,5 @@
 ---
 title: "Mr SmartPhone"
 url: /kells/mr-smartphone/
-shop: Handy
+shop: mobile phone
 ---

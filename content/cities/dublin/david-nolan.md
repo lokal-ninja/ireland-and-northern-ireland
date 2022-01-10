@@ -1,5 +1,5 @@
 ---
 title: "David Nolan"
 url: /dublin/david-nolan/
-shop: Metzgerei
+shop: butcher
 ---

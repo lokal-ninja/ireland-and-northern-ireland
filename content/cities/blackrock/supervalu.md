@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /blackrock/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

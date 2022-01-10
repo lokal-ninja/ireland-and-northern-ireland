@@ -1,5 +1,5 @@
 ---
 title: "The Wash Basket"
 url: /clonakilty/the-wash-basket/
-shop: Wäscherei
+shop: laundry
 ---

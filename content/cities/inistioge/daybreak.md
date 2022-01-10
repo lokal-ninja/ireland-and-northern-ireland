@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /inistioge/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

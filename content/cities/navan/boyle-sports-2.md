@@ -1,5 +1,5 @@
 ---
 title: "Boyle Sports"
 url: /navan/boyle-sports-2/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frame F.X."
 url: /dublin/frame-f-x/
-shop: Rahmen
+shop: frame
 ---

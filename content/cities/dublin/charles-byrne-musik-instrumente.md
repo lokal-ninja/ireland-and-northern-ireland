@@ -1,5 +1,5 @@
 ---
 title: "Charles Byrne Musik Instrumente"
 url: /dublin/charles-byrne-musik-instrumente/
-shop: Instrumente
+shop: musical instrument
 ---

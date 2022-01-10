@@ -1,5 +1,5 @@
 ---
 title: "Kearns"
 url: /kilkenny/kearns/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boyle Sports"
 url: /macroom/boyle-sports/
-shop: Wettbüro
+shop: bookmaker
 ---

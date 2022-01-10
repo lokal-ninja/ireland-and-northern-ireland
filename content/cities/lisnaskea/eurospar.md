@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /lisnaskea/eurospar/
-shop: Supermarkt
+shop: supermarket
 ---

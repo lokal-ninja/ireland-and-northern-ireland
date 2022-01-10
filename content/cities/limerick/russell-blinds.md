@@ -1,5 +1,5 @@
 ---
 title: "Russell Blinds"
 url: /limerick/russell-blinds/
-shop: Jalousien
+shop: window blind
 ---

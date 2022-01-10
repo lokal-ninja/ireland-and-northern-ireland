@@ -1,5 +1,5 @@
 ---
 title: "Serendipity Kids"
 url: /dublin/serendipity-kids/
-shop: Kleidung
+shop: clothes
 ---

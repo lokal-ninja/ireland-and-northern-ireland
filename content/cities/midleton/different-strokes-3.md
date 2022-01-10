@@ -1,5 +1,5 @@
 ---
 title: "Different Strokes"
 url: /midleton/different-strokes-3/
-shop: Jalousien
+shop: window blind
 ---

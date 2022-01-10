@@ -1,5 +1,5 @@
 ---
 title: "The Haven"
 url: /dublin/the-haven/
-shop: Bestattungen
+shop: funeral directors
 ---

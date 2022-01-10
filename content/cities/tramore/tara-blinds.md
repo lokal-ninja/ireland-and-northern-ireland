@@ -1,5 +1,5 @@
 ---
 title: "Tara Blinds"
 url: /tramore/tara-blinds/
-shop: Gardinen
+shop: curtain
 ---

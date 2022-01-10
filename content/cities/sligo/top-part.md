@@ -1,5 +1,5 @@
 ---
 title: "Top part"
 url: /sligo/top-part/
-shop: Autoteile
+shop: car parts
 ---

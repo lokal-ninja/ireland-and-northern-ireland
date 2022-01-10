@@ -1,5 +1,5 @@
 ---
 title: "Stationery Super Store"
 url: /dublin/stationery-super-store/
-shop: Schreibwaren
+shop: office supplies
 ---

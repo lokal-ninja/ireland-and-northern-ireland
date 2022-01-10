@@ -1,5 +1,5 @@
 ---
 title: "Mandy's"
 url: /adamstown/mandys/
-shop: Friseur
+shop: hairdresser
 ---

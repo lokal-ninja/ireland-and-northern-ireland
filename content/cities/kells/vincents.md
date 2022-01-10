@@ -1,5 +1,5 @@
 ---
 title: "Vincent's"
 url: /kells/vincents/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /cork/gamestop/
-shop: Videospiele
+shop: video games
 ---

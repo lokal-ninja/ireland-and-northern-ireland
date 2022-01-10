@@ -1,5 +1,5 @@
 ---
 title: "M Mullins"
 url: /kilkenny/m-mullins/
-shop: Metzgerei
+shop: butcher
 ---

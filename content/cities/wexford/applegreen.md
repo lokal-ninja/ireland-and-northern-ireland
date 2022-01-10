@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /wexford/applegreen/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Irish Celtic Craftshop"
 url: /dublin/irish-celtic-craftshop/
-shop: Andenken
+shop: gift
 ---

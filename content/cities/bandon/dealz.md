@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /bandon/dealz/
-shop: Kramladen
+shop: variety store
 ---

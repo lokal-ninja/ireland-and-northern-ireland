@@ -1,5 +1,5 @@
 ---
 title: "Essee"
 url: /wexford/essee/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Gutter Bookshop"
 url: /dublin/the-gutter-bookshop/
-shop: Bücher
+shop: books
 ---

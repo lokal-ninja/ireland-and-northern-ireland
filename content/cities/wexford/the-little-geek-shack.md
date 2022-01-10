@@ -1,5 +1,5 @@
 ---
 title: "The Little Geek Shack"
 url: /wexford/the-little-geek-shack/
-shop: Bücher
+shop: books
 ---

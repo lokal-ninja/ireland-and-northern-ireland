@@ -1,5 +1,5 @@
 ---
 title: "Gamers World"
 url: /dublin/gamers-world/
-shop: Spielzeug
+shop: toys
 ---

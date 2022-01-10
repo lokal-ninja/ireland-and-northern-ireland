@@ -1,5 +1,5 @@
 ---
 title: "Fannin's"
 url: /clogher/fannins/
-shop: Autowerkstatt
+shop: car repair
 ---

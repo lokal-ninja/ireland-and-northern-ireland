@@ -1,5 +1,5 @@
 ---
 title: "Beauty Time"
 url: /dun-laoghaire/beauty-time/
-shop: Kosmetik
+shop: beauty
 ---

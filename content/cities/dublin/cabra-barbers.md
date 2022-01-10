@@ -1,5 +1,5 @@
 ---
 title: "Cabra Barbers"
 url: /dublin/cabra-barbers/
-shop: Friseur
+shop: hairdresser
 ---

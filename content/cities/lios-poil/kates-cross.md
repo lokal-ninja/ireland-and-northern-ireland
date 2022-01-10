@@ -1,5 +1,5 @@
 ---
 title: "Kate's Cross"
 url: /lios-poil/kates-cross/
-shop: Lebensmittel
+shop: convenience
 ---

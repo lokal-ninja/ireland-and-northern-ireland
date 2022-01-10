@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Sports"
 url: /ballincollig/lifestyle-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kate Kut's Barbers"
 url: /kilkenny/kate-kuts-barbers/
-shop: Friseur
+shop: hairdresser
 ---

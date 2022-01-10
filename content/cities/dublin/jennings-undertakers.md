@@ -1,5 +1,5 @@
 ---
 title: "Jennings Undertakers"
 url: /dublin/jennings-undertakers/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /mountrath/costcutter/
-shop: Supermarkt
+shop: supermarket
 ---

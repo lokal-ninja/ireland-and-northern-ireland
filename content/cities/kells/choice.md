@@ -1,5 +1,5 @@
 ---
 title: "Choice"
 url: /kells/choice/
-shop: Raumausstattung
+shop: interior decoration
 ---

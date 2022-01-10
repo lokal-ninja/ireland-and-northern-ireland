@@ -1,5 +1,5 @@
 ---
 title: "Crisp Cleaners"
 url: /dalkey/crisp-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

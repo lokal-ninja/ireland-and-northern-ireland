@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /downpatrick/peacocks/
-shop: Kleidung
+shop: clothes
 ---

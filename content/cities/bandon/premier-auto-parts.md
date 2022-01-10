@@ -1,5 +1,5 @@
 ---
 title: "Premier  Auto Parts"
 url: /bandon/premier-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atelier M"
 url: /maynooth/atelier-m/
-shop: Friseur
+shop: hairdresser
 ---

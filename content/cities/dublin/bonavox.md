@@ -1,5 +1,5 @@
 ---
 title: "Bonavox"
 url: /dublin/bonavox/
-shop: Hörgeräte
+shop: hearing aids
 ---

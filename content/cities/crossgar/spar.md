@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /crossgar/spar/
-shop: Lebensmittel
+shop: convenience
 ---

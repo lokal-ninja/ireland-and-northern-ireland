@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /lucan/eurospar/
-shop: Supermarkt
+shop: supermarket
 ---

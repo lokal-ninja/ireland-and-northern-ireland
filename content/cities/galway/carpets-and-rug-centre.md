@@ -1,5 +1,5 @@
 ---
 title: "Carpets and Rug Centre"
 url: /galway/carpets-and-rug-centre/
-shop: Möbel
+shop: furniture
 ---

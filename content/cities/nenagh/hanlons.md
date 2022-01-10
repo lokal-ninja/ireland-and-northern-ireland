@@ -1,5 +1,5 @@
 ---
 title: "Hanlon's"
 url: /nenagh/hanlons/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repair Shop N.I."
 url: /ballymena/repair-shop-n-i/
-shop: Eisenwaren
+shop: hardware
 ---

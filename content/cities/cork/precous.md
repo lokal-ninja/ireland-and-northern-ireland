@@ -1,5 +1,5 @@
 ---
 title: "Precous"
 url: /cork/precous/
-shop: Kosmetik
+shop: beauty
 ---

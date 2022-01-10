@@ -1,5 +1,5 @@
 ---
 title: "Folli Follie"
 url: /kildare-town/folli-follie/
-shop: Schmuck
+shop: jewelry
 ---

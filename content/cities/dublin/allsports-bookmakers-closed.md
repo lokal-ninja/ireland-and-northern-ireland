@@ -1,5 +1,5 @@
 ---
 title: "AllSports Bookmakers (Closed)"
 url: /dublin/allsports-bookmakers-closed/
-shop: Wettbüro
+shop: bookmaker
 ---

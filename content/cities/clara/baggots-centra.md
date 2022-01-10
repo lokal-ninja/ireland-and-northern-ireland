@@ -1,5 +1,5 @@
 ---
 title: "Baggots Centra"
 url: /clara/baggots-centra/
-shop: Supermarkt
+shop: supermarket
 ---

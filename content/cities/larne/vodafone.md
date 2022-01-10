@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /larne/vodafone/
-shop: Handy
+shop: mobile phone
 ---

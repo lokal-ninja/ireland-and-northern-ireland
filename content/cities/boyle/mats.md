@@ -1,5 +1,5 @@
 ---
 title: "Mats"
 url: /boyle/mats/
-shop: Friseur
+shop: hairdresser
 ---

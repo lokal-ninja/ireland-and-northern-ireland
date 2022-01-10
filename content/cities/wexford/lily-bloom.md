@@ -1,5 +1,5 @@
 ---
 title: "Lily Bloom"
 url: /wexford/lily-bloom/
-shop: Blumen
+shop: florist
 ---

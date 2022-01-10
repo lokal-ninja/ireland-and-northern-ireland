@@ -1,5 +1,5 @@
 ---
 title: "Leonard's"
 url: /drumkeeran/leonards/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PC Crash Repairs"
 url: /finglas/pc-crash-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

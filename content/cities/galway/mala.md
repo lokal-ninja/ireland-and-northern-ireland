@@ -1,5 +1,5 @@
 ---
 title: "Mála"
 url: /galway/mala/
-shop: Andenken
+shop: gift
 ---

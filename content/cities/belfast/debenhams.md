@@ -1,5 +1,5 @@
 ---
 title: "Debenhams"
 url: /belfast/debenhams/
-shop: Warenhaus
+shop: department store
 ---

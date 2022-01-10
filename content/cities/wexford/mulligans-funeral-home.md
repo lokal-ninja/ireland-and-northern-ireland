@@ -1,5 +1,5 @@
 ---
 title: "Mulligan's Funeral Home"
 url: /wexford/mulligans-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

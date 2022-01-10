@@ -1,5 +1,5 @@
 ---
 title: "Fitzgerald's Book Shop"
 url: /macroom/fitzgeralds-book-shop/
-shop: Bücher
+shop: books
 ---

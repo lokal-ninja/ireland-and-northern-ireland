@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /cork/spar/
-shop: Lebensmittel
+shop: convenience
 ---

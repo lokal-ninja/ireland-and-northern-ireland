@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /bishopstown/dunnes-stores/
-shop: Supermarkt
+shop: supermarket
 ---

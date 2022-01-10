@@ -1,5 +1,5 @@
 ---
 title: "Computerbits"
 url: /tubbercurry/computerbits/
-shop: Computer
+shop: computer
 ---

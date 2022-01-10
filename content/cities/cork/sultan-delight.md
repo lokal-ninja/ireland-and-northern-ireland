@@ -1,5 +1,5 @@
 ---
 title: "Sultan Delight"
 url: /cork/sultan-delight/
-shop: Allgemein
+shop: shop
 ---

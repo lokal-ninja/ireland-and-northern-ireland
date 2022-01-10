@@ -1,5 +1,5 @@
 ---
 title: "Richmond Stop"
 url: /dublin/richmond-stop/
-shop: Lebensmittel
+shop: convenience
 ---

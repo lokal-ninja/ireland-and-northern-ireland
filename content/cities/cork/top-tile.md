@@ -1,5 +1,5 @@
 ---
 title: "Top Tile"
 url: /cork/top-tile/
-shop: Fliesen
+shop: tiles
 ---

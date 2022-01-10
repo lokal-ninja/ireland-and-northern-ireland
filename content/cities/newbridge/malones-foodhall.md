@@ -1,5 +1,5 @@
 ---
 title: "Malones Foodhall"
 url: /newbridge/malones-foodhall/
-shop: Metzgerei
+shop: butcher
 ---

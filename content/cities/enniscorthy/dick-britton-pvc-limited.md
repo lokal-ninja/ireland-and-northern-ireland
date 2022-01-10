@@ -1,5 +1,5 @@
 ---
 title: "Dick Britton PVC Limited"
 url: /enniscorthy/dick-britton-pvc-limited/
-shop: Eisenwaren
+shop: hardware
 ---

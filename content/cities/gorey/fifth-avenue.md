@@ -1,5 +1,5 @@
 ---
 title: "Fifth Avenue"
 url: /gorey/fifth-avenue/
-shop: Kleidung
+shop: clothes
 ---

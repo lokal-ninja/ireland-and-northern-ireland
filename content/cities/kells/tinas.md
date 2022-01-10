@@ -1,5 +1,5 @@
 ---
 title: "Tina's"
 url: /kells/tinas/
-shop: Friseur
+shop: hairdresser
 ---

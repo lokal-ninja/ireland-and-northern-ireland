@@ -1,5 +1,5 @@
 ---
 title: "KHO"
 url: /dublin/kho/
-shop: Andenken
+shop: gift
 ---

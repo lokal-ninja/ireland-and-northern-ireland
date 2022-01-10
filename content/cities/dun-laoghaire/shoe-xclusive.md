@@ -1,5 +1,5 @@
 ---
 title: "Shoe Xclusive"
 url: /dun-laoghaire/shoe-xclusive/
-shop: Schuhe
+shop: shoes
 ---

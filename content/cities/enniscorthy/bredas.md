@@ -1,5 +1,5 @@
 ---
 title: "Breda's"
 url: /enniscorthy/bredas/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Extreme Clothing"
 url: /newbridge/extreme-clothing/
-shop: Kleidung
+shop: clothes
 ---

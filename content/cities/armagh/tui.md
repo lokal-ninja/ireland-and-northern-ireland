@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /armagh/tui/
-shop: Reisebüro
+shop: travel agency
 ---

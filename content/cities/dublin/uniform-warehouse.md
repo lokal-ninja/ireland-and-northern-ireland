@@ -1,5 +1,5 @@
 ---
 title: "Uniform Warehouse"
 url: /dublin/uniform-warehouse/
-shop: Kleidung
+shop: clothes
 ---

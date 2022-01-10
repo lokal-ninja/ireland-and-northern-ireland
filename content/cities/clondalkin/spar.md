@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /clondalkin/spar/
-shop: Lebensmittel
+shop: convenience
 ---

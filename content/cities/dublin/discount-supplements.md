@@ -1,5 +1,5 @@
 ---
 title: "Discount Supplements"
 url: /dublin/discount-supplements/
-shop: Bioladen
+shop: health food
 ---

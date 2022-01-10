@@ -1,5 +1,5 @@
 ---
 title: "Tierney and Co."
 url: /dun-laoghaire/tierney-and-co/
-shop: Schmuck
+shop: jewelry
 ---

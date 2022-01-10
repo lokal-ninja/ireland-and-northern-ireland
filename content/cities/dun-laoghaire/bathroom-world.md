@@ -1,5 +1,5 @@
 ---
 title: "Bathroom World"
 url: /dun-laoghaire/bathroom-world/
-shop: Eisenwaren
+shop: hardware
 ---

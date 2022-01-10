@@ -1,5 +1,5 @@
 ---
 title: "Link Road Motors"
 url: /ballincollig/link-road-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

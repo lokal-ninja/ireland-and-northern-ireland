@@ -1,5 +1,5 @@
 ---
 title: "Homefront"
 url: /bandon/homefront/
-shop: Raumausstattung
+shop: interior decoration
 ---

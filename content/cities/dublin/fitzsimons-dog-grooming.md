@@ -1,5 +1,5 @@
 ---
 title: "Fitzsimons Dog Grooming"
 url: /dublin/fitzsimons-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

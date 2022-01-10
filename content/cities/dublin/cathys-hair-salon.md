@@ -1,5 +1,5 @@
 ---
 title: "Cathy's Hair Salon"
 url: /dublin/cathys-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

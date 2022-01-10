@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /enniscorthy/vodafone/
-shop: Handy
+shop: mobile phone
 ---

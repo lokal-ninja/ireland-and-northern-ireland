@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /strabane/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

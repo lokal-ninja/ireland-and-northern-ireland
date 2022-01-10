@@ -1,5 +1,5 @@
 ---
 title: "ArtOffice"
 url: /balbriggan/artoffice/
-shop: Kunst
+shop: art
 ---

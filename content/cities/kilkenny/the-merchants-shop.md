@@ -1,5 +1,5 @@
 ---
 title: "The Merchant's Shop"
 url: /kilkenny/the-merchants-shop/
-shop: Andenken
+shop: gift
 ---

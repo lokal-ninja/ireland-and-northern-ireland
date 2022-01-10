@@ -1,5 +1,5 @@
 ---
 title: "GL West Cork Motors"
 url: /bandon/gl-west-cork-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

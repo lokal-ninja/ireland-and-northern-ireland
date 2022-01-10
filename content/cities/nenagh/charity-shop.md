@@ -1,5 +1,5 @@
 ---
 title: "Charity Shop"
 url: /nenagh/charity-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

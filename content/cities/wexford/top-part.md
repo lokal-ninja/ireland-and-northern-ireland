@@ -1,5 +1,5 @@
 ---
 title: "Top Part"
 url: /wexford/top-part/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Factory Carpet Outlet"
 url: /ballincollig/factory-carpet-outlet/
-shop: Fußböden
+shop: flooring
 ---

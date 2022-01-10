@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /galway/foodland/
-shop: Lebensmittel
+shop: convenience
 ---

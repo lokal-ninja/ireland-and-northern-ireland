@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /cork/dunnes-stores/
-shop: Supermarkt
+shop: supermarket
 ---

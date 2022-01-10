@@ -1,5 +1,5 @@
 ---
 title: "Mobi Care"
 url: /clonmel/mobi-care/
-shop: Computer
+shop: computer
 ---

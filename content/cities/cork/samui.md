@@ -1,5 +1,5 @@
 ---
 title: "Samui"
 url: /cork/samui/
-shop: Kleidung
+shop: clothes
 ---

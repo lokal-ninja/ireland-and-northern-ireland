@@ -1,5 +1,5 @@
 ---
 title: "Frank Doyle"
 url: /bray/frank-doyle/
-shop: Metzgerei
+shop: butcher
 ---

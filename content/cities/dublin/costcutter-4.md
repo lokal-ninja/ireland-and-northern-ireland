@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /dublin/costcutter-4/
-shop: Lebensmittel
+shop: convenience
 ---

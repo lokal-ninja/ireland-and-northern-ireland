@@ -1,5 +1,5 @@
 ---
 title: "Gerard"
 url: /galway/gerard/
-shop: Kleidung
+shop: clothes
 ---

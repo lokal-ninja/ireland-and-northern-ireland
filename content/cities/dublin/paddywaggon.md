@@ -1,5 +1,5 @@
 ---
 title: "Paddywaggon"
 url: /dublin/paddywaggon/
-shop: Allgemein
+shop: shop
 ---

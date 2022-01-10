@@ -1,5 +1,5 @@
 ---
 title: "Blingalicious"
 url: /dublin/blingalicious/
-shop: Kleidung
+shop: clothes
 ---

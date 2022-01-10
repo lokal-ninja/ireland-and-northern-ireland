@@ -1,5 +1,5 @@
 ---
 title: "Molloys Butchers"
 url: /waterford/molloys-butchers/
-shop: Metzgerei
+shop: butcher
 ---

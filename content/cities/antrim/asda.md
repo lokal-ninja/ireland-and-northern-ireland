@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /antrim/asda/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vaughan Shoes"
 url: /ballinrobe/vaughan-shoes/
-shop: Schuhe
+shop: shoes
 ---

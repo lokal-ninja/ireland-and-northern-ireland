@@ -1,5 +1,5 @@
 ---
 title: "Kells Decor"
 url: /kells/kells-decor/
-shop: Farben
+shop: paint
 ---

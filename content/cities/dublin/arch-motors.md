@@ -1,5 +1,5 @@
 ---
 title: "Arch Motors"
 url: /dublin/arch-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Horkans"
 url: /wicklow/horkans/
-shop: Garten-Center
+shop: garden centre
 ---

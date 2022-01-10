@@ -1,5 +1,5 @@
 ---
 title: "Freddie's"
 url: /castlebridge/freddies/
-shop: Lebensmittel
+shop: convenience
 ---

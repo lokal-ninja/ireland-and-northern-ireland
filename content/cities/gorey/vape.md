@@ -1,5 +1,5 @@
 ---
 title: "Vape"
 url: /gorey/vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

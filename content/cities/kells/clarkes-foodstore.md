@@ -1,5 +1,5 @@
 ---
 title: "Clarkes Foodstore"
 url: /kells/clarkes-foodstore/
-shop: Lebensmittel
+shop: convenience
 ---

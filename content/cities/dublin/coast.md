@@ -1,5 +1,5 @@
 ---
 title: "Coast"
 url: /dublin/coast/
-shop: Kleidung
+shop: clothes
 ---

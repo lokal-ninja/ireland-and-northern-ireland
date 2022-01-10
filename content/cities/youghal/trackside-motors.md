@@ -1,5 +1,5 @@
 ---
 title: "Trackside Motors"
 url: /youghal/trackside-motors/
-shop: Autohaus
+shop: car
 ---

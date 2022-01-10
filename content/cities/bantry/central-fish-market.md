@@ -1,5 +1,5 @@
 ---
 title: "Central Fish Market"
 url: /bantry/central-fish-market/
-shop: Fisch
+shop: seafood
 ---

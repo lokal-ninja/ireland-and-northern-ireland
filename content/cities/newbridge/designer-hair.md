@@ -1,5 +1,5 @@
 ---
 title: "Designer Hair"
 url: /newbridge/designer-hair/
-shop: Friseur
+shop: hairdresser
 ---

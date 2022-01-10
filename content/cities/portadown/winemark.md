@@ -1,5 +1,5 @@
 ---
 title: "Winemark"
 url: /portadown/winemark/
-shop: Spirituosen
+shop: alcohol
 ---

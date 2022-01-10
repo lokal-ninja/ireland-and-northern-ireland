@@ -1,5 +1,5 @@
 ---
 title: "Belfast Bicycle Workshop"
 url: /belfast/belfast-bicycle-workshop/
-shop: Fahrrad
+shop: bicycle
 ---

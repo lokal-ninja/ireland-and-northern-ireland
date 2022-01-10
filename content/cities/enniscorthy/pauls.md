@@ -1,5 +1,5 @@
 ---
 title: "Pauls"
 url: /enniscorthy/pauls/
-shop: Schuhe
+shop: shoes
 ---

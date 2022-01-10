@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /dublin/dunnes-stores-2/
-shop: Supermarkt
+shop: supermarket
 ---

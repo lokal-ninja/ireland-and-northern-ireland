@@ -1,5 +1,5 @@
 ---
 title: "The Village Hall"
 url: /cork/the-village-hall/
-shop: Gebrauchtwaren
+shop: charity
 ---

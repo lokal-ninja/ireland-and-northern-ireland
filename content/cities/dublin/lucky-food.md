@@ -1,5 +1,5 @@
 ---
 title: "Lucky Food"
 url: /dublin/lucky-food/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /cork/ecco/
-shop: Schuhe
+shop: shoes
 ---

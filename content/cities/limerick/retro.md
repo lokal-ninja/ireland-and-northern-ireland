@@ -1,5 +1,5 @@
 ---
 title: "Retro"
 url: /limerick/retro/
-shop: Friseur
+shop: hairdresser
 ---

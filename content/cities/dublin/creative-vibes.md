@@ -1,5 +1,5 @@
 ---
 title: "Creative Vibes"
 url: /dublin/creative-vibes/
-shop: Kosmetik
+shop: beauty
 ---

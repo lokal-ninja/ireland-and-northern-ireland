@@ -1,5 +1,5 @@
 ---
 title: "Car Gas Systems"
 url: /cork/car-gas-systems/
-shop: Autowerkstatt
+shop: car repair
 ---

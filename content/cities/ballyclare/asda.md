@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /ballyclare/asda/
-shop: Supermarkt
+shop: supermarket
 ---

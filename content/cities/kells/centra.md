@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /kells/centra/
-shop: Lebensmittel
+shop: convenience
 ---

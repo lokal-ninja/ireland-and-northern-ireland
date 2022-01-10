@@ -1,5 +1,5 @@
 ---
 title: "Greenisland Body Repair Centre"
 url: /carrickfergus/greenisland-body-repair-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wallis"
 url: /galway/wallis/
-shop: Kleidung
+shop: clothes
 ---

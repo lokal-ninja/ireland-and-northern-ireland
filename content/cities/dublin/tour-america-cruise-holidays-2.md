@@ -1,5 +1,5 @@
 ---
 title: "Tour America / Cruise Holidays"
 url: /dublin/tour-america-cruise-holidays-2/
-shop: Reisebüro
+shop: travel agency
 ---

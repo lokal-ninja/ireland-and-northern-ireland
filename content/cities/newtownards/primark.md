@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /newtownards/primark/
-shop: Kleidung
+shop: clothes
 ---

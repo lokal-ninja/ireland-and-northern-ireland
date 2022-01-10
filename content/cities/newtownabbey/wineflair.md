@@ -1,5 +1,5 @@
 ---
 title: "Wineflair"
 url: /newtownabbey/wineflair/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colman Doyle Furniture"
 url: /wexford/colman-doyle-furniture/
-shop: Möbel
+shop: furniture
 ---

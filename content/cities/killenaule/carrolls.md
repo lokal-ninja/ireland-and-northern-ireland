@@ -1,5 +1,5 @@
 ---
 title: "Carroll's"
 url: /killenaule/carrolls/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leafling Mercantile"
 url: /ballinspittle/leafling-mercantile/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /limerick/gamestop/
-shop: Videospiele
+shop: video games
 ---

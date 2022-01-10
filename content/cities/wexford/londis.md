@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /wexford/londis/
-shop: Lebensmittel
+shop: convenience
 ---

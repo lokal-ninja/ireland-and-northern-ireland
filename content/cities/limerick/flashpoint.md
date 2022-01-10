@@ -1,5 +1,5 @@
 ---
 title: "FlashPoint"
 url: /limerick/flashpoint/
-shop: Raumausstattung
+shop: interior decoration
 ---

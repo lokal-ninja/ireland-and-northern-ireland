@@ -1,5 +1,5 @@
 ---
 title: "Dressed"
 url: /bandon/dressed/
-shop: Kleidung
+shop: clothes
 ---

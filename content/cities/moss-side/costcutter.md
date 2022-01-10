@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /moss-side/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

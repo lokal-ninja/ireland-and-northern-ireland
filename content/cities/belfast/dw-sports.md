@@ -1,5 +1,5 @@
 ---
 title: "DW Sports"
 url: /belfast/dw-sports/
-shop: Sport
+shop: sports
 ---

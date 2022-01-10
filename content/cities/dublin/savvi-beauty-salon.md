@@ -1,5 +1,5 @@
 ---
 title: "Savvi Beauty Salon"
 url: /dublin/savvi-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

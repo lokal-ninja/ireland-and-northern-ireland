@@ -1,5 +1,5 @@
 ---
 title: "Donal's"
 url: /gorey/donals/
-shop: Kramladen
+shop: variety store
 ---

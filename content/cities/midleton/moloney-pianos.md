@@ -1,5 +1,5 @@
 ---
 title: "Moloney Pianos"
 url: /midleton/moloney-pianos/
-shop: Instrumente
+shop: musical instrument
 ---

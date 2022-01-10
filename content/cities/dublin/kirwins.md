@@ -1,5 +1,5 @@
 ---
 title: "Kirwin's"
 url: /dublin/kirwins/
-shop: Bestattungen
+shop: funeral directors
 ---

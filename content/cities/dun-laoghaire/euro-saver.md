@@ -1,5 +1,5 @@
 ---
 title: "Euro Saver"
 url: /dun-laoghaire/euro-saver/
-shop: Lebensmittel
+shop: convenience
 ---

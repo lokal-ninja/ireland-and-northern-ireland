@@ -1,5 +1,5 @@
 ---
 title: "Petland"
 url: /blackrock/petland/
-shop: Tiere
+shop: pet
 ---

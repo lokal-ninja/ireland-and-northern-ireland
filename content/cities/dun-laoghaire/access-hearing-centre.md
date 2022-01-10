@@ -1,5 +1,5 @@
 ---
 title: "Access Hearing Centre"
 url: /dun-laoghaire/access-hearing-centre/
-shop: Hörgeräte
+shop: hearing aids
 ---

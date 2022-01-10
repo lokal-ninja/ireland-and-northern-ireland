@@ -1,5 +1,5 @@
 ---
 title: "Techmate.ie"
 url: /dublin/techmate-ie/
-shop: Computer
+shop: computer
 ---

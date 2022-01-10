@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /bray/dunnes-stores/
-shop: Supermarkt
+shop: supermarket
 ---

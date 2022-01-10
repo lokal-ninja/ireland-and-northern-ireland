@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /bray/boots/
-shop: Drogerie
+shop: chemist
 ---

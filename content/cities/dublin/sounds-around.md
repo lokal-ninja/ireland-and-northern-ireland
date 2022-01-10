@@ -1,5 +1,5 @@
 ---
 title: "Sounds Around"
 url: /dublin/sounds-around/
-shop: Instrumente
+shop: musical instrument
 ---

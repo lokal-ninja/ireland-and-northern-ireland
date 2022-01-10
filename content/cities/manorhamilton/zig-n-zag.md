@@ -1,5 +1,5 @@
 ---
 title: "Zig N Zag"
 url: /manorhamilton/zig-n-zag/
-shop: Friseur
+shop: hairdresser
 ---

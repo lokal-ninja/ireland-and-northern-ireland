@@ -1,5 +1,5 @@
 ---
 title: "Zokia"
 url: /carlow/zokia/
-shop: Möbel
+shop: furniture
 ---

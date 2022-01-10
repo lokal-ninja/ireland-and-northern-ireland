@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /blackrock/vodafone/
-shop: Handy
+shop: mobile phone
 ---

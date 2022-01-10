@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /kiltimagh/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

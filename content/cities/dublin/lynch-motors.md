@@ -1,5 +1,5 @@
 ---
 title: "Lynch motors"
 url: /dublin/lynch-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

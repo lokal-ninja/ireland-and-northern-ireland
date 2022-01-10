@@ -1,5 +1,5 @@
 ---
 title: "Tara Stores"
 url: /gorey/tara-stores/
-shop: Gardinen
+shop: curtain
 ---

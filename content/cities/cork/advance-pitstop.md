@@ -1,5 +1,5 @@
 ---
 title: "Advance Pitstop"
 url: /cork/advance-pitstop/
-shop: Autowerkstatt
+shop: car repair
 ---

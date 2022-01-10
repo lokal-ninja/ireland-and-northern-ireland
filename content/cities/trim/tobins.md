@@ -1,5 +1,5 @@
 ---
 title: "Tobins"
 url: /trim/tobins/
-shop: Zeitungen
+shop: newsagent
 ---

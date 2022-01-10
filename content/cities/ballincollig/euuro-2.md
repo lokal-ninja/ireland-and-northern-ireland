@@ -1,5 +1,5 @@
 ---
 title: "€uro 2"
 url: /ballincollig/euuro-2/
-shop: Kramladen
+shop: variety store
 ---

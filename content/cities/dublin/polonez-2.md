@@ -1,5 +1,5 @@
 ---
 title: "Polonez"
 url: /dublin/polonez-2/
-shop: Supermarkt
+shop: supermarket
 ---

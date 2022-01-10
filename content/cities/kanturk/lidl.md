@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /kanturk/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

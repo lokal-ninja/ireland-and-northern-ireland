@@ -1,5 +1,5 @@
 ---
 title: "Sports Savers"
 url: /gorey/sports-savers/
-shop: Sport
+shop: sports
 ---

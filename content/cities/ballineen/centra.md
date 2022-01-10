@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ballineen/centra/
-shop: Lebensmittel
+shop: convenience
 ---

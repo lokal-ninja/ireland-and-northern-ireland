@@ -1,5 +1,5 @@
 ---
 title: "Azap Print"
 url: /carlow/azap-print/
-shop: Kopieren
+shop: copyshop
 ---

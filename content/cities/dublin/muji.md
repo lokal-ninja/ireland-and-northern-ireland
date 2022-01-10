@@ -1,5 +1,5 @@
 ---
 title: "Muji"
 url: /dublin/muji/
-shop: Warenhaus
+shop: department store
 ---

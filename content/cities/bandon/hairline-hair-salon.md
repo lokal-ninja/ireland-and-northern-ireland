@@ -1,5 +1,5 @@
 ---
 title: "Hairline Hair Salon"
 url: /bandon/hairline-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

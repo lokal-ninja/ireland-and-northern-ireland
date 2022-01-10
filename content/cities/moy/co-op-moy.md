@@ -1,5 +1,5 @@
 ---
 title: "Co-op Moy"
 url: /moy/co-op-moy/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boston Barbers"
 url: /swords/boston-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /bray/vodafone/
-shop: Handy
+shop: mobile phone
 ---

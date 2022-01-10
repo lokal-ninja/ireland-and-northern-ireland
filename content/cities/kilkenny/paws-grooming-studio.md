@@ -1,5 +1,5 @@
 ---
 title: "Paws Grooming Studio"
 url: /kilkenny/paws-grooming-studio/
-shop: Tiersalon
+shop: pet grooming
 ---

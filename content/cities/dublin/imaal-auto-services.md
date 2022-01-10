@@ -1,5 +1,5 @@
 ---
 title: "Imaal Auto Services"
 url: /dublin/imaal-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flexa"
 url: /blackrock/flexa/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "USIT"
 url: /dublin/usit/
-shop: Reisebüro
+shop: travel agency
 ---

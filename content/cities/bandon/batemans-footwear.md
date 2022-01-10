@@ -1,5 +1,5 @@
 ---
 title: "Bateman's Footwear"
 url: /bandon/batemans-footwear/
-shop: Schuhe
+shop: shoes
 ---

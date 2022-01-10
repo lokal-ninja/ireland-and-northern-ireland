@@ -1,5 +1,5 @@
 ---
 title: "Eir / Meteor"
 url: /dublin/eir-meteor/
-shop: Handy
+shop: mobile phone
 ---

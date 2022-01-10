@@ -1,5 +1,5 @@
 ---
 title: "Wexford Sewing Shop"
 url: /wexford/wexford-sewing-shop/
-shop: Nähzubehör
+shop: sewing
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smoke Free Ireland"
 url: /wexford/smoke-free-ireland/
-shop: E-Zigaretten
+shop: e-cigarette
 ---
