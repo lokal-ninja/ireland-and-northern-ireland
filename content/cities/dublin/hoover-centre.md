@@ -1,5 +1,5 @@
 ---
 title: "Hoover Centre"
 url: /dublin/hoover-centre/
-shop: shop
+shop: vacuum cleaner
 ---
