@@ -1,6 +1,6 @@
 ---
 title: Strabane
 url: /strabane/
-latitude: 54.831
-longitude: -7.469
+latitude: 54.826
+longitude: -7.464
 ---

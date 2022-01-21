@@ -1,5 +1,5 @@
 ---
 title: "World Of Wonder"
-url: /cork-city/world-of-wonder/
+url: /cork/world-of-wonder/
 shop: toys
 ---

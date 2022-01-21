@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
-url: /ballaghadereen/supervalu/
+url: /ballaghaderreen/supervalu/
 shop: supermarket
 ---

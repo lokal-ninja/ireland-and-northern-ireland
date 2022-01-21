@@ -1,5 +1,5 @@
 ---
 title: "Trade Part Specialists"
-url: /bt36-4pt/trade-part-specialists/
+url: /newtownabbey/trade-part-specialists/
 shop: car parts
 ---
