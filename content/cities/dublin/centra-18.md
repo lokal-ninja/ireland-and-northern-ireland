@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /dublin/centra-18/
-shop: supermarket
+shop: convenience
 ---
