@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /sligo/argos/
-shop: shop
+shop: catalogue
 ---

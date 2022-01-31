@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /wexford/argos/
-shop: shop
+shop: catalogue
 ---
