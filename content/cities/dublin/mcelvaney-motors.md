@@ -1,5 +1,5 @@
 ---
 title: "McElvaney Motors"
-url: /finglas/mcelvaney-motors/
+url: /dublin/mcelvaney-motors/
 shop: car
 ---
