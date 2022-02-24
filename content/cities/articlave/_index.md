@@ -1,6 +1,6 @@
 ---
 title: Articlave
 url: /articlave/
-latitude: 55.145
-longitude: -6.772
+latitude: 55.152
+longitude: -6.782
 ---
