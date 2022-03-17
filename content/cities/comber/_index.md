@@ -1,6 +1,6 @@
 ---
 title: Comber
 url: /comber/
-latitude: 54.551
-longitude: -5.746
+latitude: 54.55
+longitude: -5.745
 ---
