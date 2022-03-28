@@ -1,5 +1,5 @@
 ---
-title: "Woodies"
+title: "Woodie's"
 url: /galway/woodies/
 shop: doityourself
 ---
