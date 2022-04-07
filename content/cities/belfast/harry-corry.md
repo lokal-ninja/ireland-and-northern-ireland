@@ -1,5 +1,5 @@
 ---
 title: "Harry Corry"
 url: /belfast/harry-corry/
-shop: shop
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harry Corry"
 url: /wexford/harry-corry/
-shop: bed
+shop: interior decoration
 ---

@@ -1,6 +1,6 @@
 ---
 title: Navan
 url: /navan/
-latitude: 53.653
-longitude: -6.686
+latitude: 53.656
+longitude: -6.702
 ---

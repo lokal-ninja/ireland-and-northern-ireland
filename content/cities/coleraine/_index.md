@@ -1,6 +1,6 @@
 ---
 title: Coleraine
 url: /coleraine/
-latitude: 55.126
-longitude: -6.679
+latitude: 55.122
+longitude: -6.676
 ---

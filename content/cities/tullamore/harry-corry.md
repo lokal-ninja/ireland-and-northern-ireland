@@ -1,5 +1,5 @@
 ---
 title: "Harry Corry"
 url: /tullamore/harry-corry/
-shop: electronics
+shop: interior decoration
 ---
