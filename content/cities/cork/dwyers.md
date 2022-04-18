@@ -1,5 +1,5 @@
 ---
 title: "Dwyers"
 url: /cork/dwyers/
-shop: hardware
+shop: electrical
 ---
