@@ -2,5 +2,5 @@
 title: Booterstown
 url: /booterstown/
 latitude: 53.311
-longitude: -6.202
+longitude: -6.208
 ---

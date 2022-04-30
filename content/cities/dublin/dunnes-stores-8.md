@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /dublin/dunnes-stores-8/
-shop: supermarket
+shop: clothes
 ---
