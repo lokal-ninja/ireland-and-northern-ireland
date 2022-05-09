@@ -1,6 +1,6 @@
 ---
 title: Wicklow
 url: /wicklow/
-latitude: 53.147
-longitude: -6.124
+latitude: 52.987
+longitude: -6.054
 ---

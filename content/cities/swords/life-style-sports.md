@@ -1,5 +1,5 @@
 ---
-title: "life style sports"
+title: "Life Style Sports"
 url: /swords/life-style-sports/
-shop: clothes
+shop: sports
 ---

@@ -1,6 +1,6 @@
 ---
 title: Portarlington
 url: /portarlington/
-latitude: 53.157
-longitude: -7.186
+latitude: 53.151
+longitude: -7.18
 ---

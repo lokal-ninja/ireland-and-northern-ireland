@@ -1,6 +1,6 @@
 ---
 title: Kildare
 url: /kildare/
-latitude: 53.155
+latitude: 53.16
 longitude: -6.904
 ---
