@@ -7,5 +7,5 @@ city: Nenagh
 street: "Dublin Road"
 housenumber: 
 phone: ""
-opening_hours: "MON 9-7, TUE 9-7, WED 9-7, THU 9-9, FRI 9-9, SAT 9-7, SUN 10-7"
+opening_hours: "Mo-We,Sa 09:00-19:00; Th,Fr 09:00-21:00; Su 10:00-19:00"
 website: "https://www.homesavers.ie/store-locations/1024-nenagh-tipperary"
