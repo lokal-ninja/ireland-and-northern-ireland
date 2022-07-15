@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /newtownabbey/dunelm/
-shop: furniture
+shop: interior decoration
 ---
