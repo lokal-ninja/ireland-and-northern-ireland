@@ -1,6 +1,6 @@
 ---
 title: Portmarnock
 url: /portmarnock/
-latitude: 53.421
-longitude: -6.138
+latitude: 53.435
+longitude: -6.131
 ---

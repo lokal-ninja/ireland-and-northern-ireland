@@ -1,6 +1,6 @@
 ---
 title: Longford
 url: /longford/
-latitude: 53.631
-longitude: -7.581
+latitude: 53.726
+longitude: -7.785
 ---
