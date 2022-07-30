@@ -1,5 +1,5 @@
 ---
-title: "Penney's"
+title: "Penneys"
 url: /kilkenny/penneys/
 shop: clothes
 ---

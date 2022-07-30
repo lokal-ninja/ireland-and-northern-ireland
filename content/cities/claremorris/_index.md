@@ -1,6 +1,6 @@
 ---
 title: Claremorris
 url: /claremorris/
-latitude: 53.716
-longitude: -9.001
+latitude: 53.714
+longitude: -8.998
 ---
