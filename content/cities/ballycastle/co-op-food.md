@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /ballymena/co-op-food/
+url: /ballycastle/co-op-food/
 shop: convenience
 ---
