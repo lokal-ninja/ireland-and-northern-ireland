@@ -1,6 +1,6 @@
 ---
 title: Balbriggan
 url: /balbriggan/
-latitude: 53.611
-longitude: -6.221
+latitude: 53.607
+longitude: -6.197
 ---

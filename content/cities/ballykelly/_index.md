@@ -1,6 +1,6 @@
 ---
 title: Ballykelly
 url: /ballykelly/
-latitude: 55.045
-longitude: -7.017
+latitude: 55.044
+longitude: -7.019
 ---

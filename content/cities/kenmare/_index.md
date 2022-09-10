@@ -1,6 +1,6 @@
 ---
 title: Kenmare
 url: /kenmare/
-latitude: 51.88
-longitude: -9.583
+latitude: 51.885
+longitude: -9.581
 ---

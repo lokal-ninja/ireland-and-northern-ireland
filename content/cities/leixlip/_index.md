@@ -1,6 +1,6 @@
 ---
 title: Leixlip
 url: /leixlip/
-latitude: 53.365
-longitude: -6.517
+latitude: 53.362
+longitude: -6.502
 ---

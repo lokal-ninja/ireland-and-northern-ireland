@@ -1,6 +1,6 @@
 ---
 title: Athenry
 url: /athenry/
-latitude: 53.297
-longitude: -8.749
+latitude: 53.299
+longitude: -8.748
 ---

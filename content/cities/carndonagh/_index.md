@@ -1,6 +1,6 @@
 ---
 title: Carndonagh
 url: /carndonagh/
-latitude: 55.249
-longitude: -7.266
+latitude: 55.253
+longitude: -7.26
 ---

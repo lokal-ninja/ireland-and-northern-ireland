@@ -1,6 +1,6 @@
 ---
 title: Bagenalstown
 url: /bagenalstown/
-latitude: 52.703
-longitude: -6.956
+latitude: 52.702
+longitude: -6.961
 ---

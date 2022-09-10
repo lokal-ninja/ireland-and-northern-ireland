@@ -1,6 +1,6 @@
 ---
 title: Celbridge
 url: /celbridge/
-latitude: 53.358
-longitude: -6.548
+latitude: 53.338
+longitude: -6.533
 ---

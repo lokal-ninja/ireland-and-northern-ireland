@@ -1,6 +1,6 @@
 ---
 title: Ballynahinch
 url: /ballynahinch/
-latitude: 55.07
-longitude: -6.518
+latitude: 54.403
+longitude: -5.898
 ---

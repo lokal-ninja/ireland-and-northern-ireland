@@ -1,6 +1,6 @@
 ---
 title: Clifden
 url: /clifden/
-latitude: 53.489
-longitude: -10.013
+latitude: 53.488
+longitude: -10.024
 ---

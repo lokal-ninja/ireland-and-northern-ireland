@@ -1,6 +1,6 @@
 ---
 title: Bray
 url: /bray/
-latitude: 53.189
-longitude: -6.122
+latitude: 53.206
+longitude: -6.112
 ---

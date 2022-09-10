@@ -1,6 +1,6 @@
 ---
 title: Killybegs
 url: /killybegs/
-latitude: 54.637
-longitude: -8.445
+latitude: 54.645
+longitude: -8.432
 ---

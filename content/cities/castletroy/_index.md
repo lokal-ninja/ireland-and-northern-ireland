@@ -1,6 +1,6 @@
 ---
 title: Castletroy
 url: /castletroy/
-latitude: 52.668
-longitude: -8.551
+latitude: 52.666
+longitude: -8.552
 ---

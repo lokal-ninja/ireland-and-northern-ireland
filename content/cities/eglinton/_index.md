@@ -2,5 +2,5 @@
 title: Eglinton
 url: /eglinton/
 latitude: 55.027
-longitude: -7.179
+longitude: -7.18
 ---

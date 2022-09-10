@@ -1,6 +1,6 @@
 ---
 title: Killaloe
 url: /killaloe/
-latitude: 52.805
-longitude: -8.444
+latitude: 52.806
+longitude: -8.442
 ---
