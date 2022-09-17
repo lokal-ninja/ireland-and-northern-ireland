@@ -1,6 +1,6 @@
 ---
 title: Kilmuckridge
 url: /kilmuckridge/
-latitude: 52.513
-longitude: -6.285
+latitude: 52.511
+longitude: -6.286
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lahinch
 url: /lahinch/
-latitude: 52.932
+latitude: 52.933
 longitude: -9.346
 ---

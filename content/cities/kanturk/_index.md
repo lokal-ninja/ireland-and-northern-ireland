@@ -1,6 +1,6 @@
 ---
 title: Kanturk
 url: /kanturk/
-latitude: 52.172
-longitude: -8.904
+latitude: 52.179
+longitude: -8.908
 ---

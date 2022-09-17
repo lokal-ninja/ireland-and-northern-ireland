@@ -1,5 +1,5 @@
 ---
 title: "Megamix"
 url: /wexford/megamix/
-shop: shop
+shop: variety store
 ---

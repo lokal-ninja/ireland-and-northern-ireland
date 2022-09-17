@@ -1,6 +1,6 @@
 ---
 title: Tuam
 url: /tuam/
-latitude: 53.515
-longitude: -8.855
+latitude: 53.51
+longitude: -8.844
 ---

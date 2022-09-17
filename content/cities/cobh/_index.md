@@ -1,6 +1,6 @@
 ---
 title: Cobh
 url: /cobh/
-latitude: 51.851
-longitude: -8.294
+latitude: 51.85
+longitude: -8.293
 ---

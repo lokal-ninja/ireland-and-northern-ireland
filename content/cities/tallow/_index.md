@@ -1,6 +1,6 @@
 ---
 title: Tallow
 url: /tallow/
-latitude: 52.094
+latitude: 52.093
 longitude: -8.007
 ---

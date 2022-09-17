@@ -1,6 +1,6 @@
 ---
 title: Edenderry
 url: /edenderry/
-latitude: 53.343
-longitude: -7.058
+latitude: 53.345
+longitude: -7.045
 ---

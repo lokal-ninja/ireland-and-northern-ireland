@@ -1,6 +1,6 @@
 ---
 title: Newcastle West
 url: /newcastle-west/
-latitude: 52.451
-longitude: -9.061
+latitude: 52.448
+longitude: -9.053
 ---

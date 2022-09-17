@@ -1,6 +1,6 @@
 ---
 title: Coachford
 url: /coachford/
-latitude: 51.915
-longitude: -8.818
+latitude: 51.909
+longitude: -8.788
 ---

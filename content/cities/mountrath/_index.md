@@ -1,6 +1,6 @@
 ---
 title: Mountrath
 url: /mountrath/
-latitude: 53.001
+latitude: 53.002
 longitude: -7.474
 ---

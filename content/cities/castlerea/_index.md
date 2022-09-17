@@ -1,6 +1,6 @@
 ---
 title: Castlerea
 url: /castlerea/
-latitude: 53.769
-longitude: -8.495
+latitude: 53.771
+longitude: -8.504
 ---

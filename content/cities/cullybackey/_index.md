@@ -2,5 +2,5 @@
 title: Cullybackey
 url: /cullybackey/
 latitude: 54.888
-longitude: -6.353
+longitude: -6.354
 ---

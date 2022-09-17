@@ -1,6 +1,6 @@
 ---
 title: Omagh
 url: /omagh/
-latitude: 54.611
-longitude: -7.324
+latitude: 54.592
+longitude: -7.317
 ---
