@@ -1,5 +1,5 @@
 ---
-title: "STITCH"
+title: "Stitch"
 url: /limerick/stitch/
 shop: clothes
 ---
