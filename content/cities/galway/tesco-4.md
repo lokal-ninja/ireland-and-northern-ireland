@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
-url: /galway/tesco-3/
+url: /galway/tesco-4/
 shop: supermarket
 ---
