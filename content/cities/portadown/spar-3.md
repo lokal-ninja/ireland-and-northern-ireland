@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /dublin-airport/spar/
+url: /portadown/spar-3/
 shop: convenience
 ---
