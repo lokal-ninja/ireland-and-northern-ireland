@@ -1,6 +1,6 @@
 ---
 title: Oranmore
 url: /oranmore/
-latitude: 53.264
-longitude: -8.926
+latitude: 53.273
+longitude: -8.93
 ---

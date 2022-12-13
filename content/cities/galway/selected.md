@@ -1,5 +1,5 @@
 ---
-title: "Selected"
+title: "SELECTED"
 url: /galway/selected/
 shop: clothes
 ---
