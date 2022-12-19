@@ -1,6 +1,6 @@
 ---
 title: Carnmore
 url: /carnmore/
-latitude: 53.304
-longitude: -8.942
+latitude: 53.303
+longitude: -8.928
 ---
