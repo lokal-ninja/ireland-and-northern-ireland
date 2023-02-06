@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
-url: /dublin/daybreak-9/
+url: /ashbourne/daybreak-2/
 shop: convenience
 ---

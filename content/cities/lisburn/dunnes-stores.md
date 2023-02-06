@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /lisburn/dunnes-stores/
-shop: clothes
+shop: department store
 ---
