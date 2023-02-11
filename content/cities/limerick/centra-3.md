@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /limerick/centra-3/
+url: /limerick/centra/
 shop: supermarket
 ---

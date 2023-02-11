@@ -1,5 +1,5 @@
 ---
 title: "The Curtain & Blind Shop"
-url: /macroom/the-curtain-and-blind-shop-2/
+url: /macroom/the-curtain-and-blind-shop/
 shop: window blind
 ---

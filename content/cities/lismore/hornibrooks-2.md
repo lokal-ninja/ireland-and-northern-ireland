@@ -1,5 +1,5 @@
 ---
 title: "Hornibrooks"
-url: /lismore/hornibrooks-2/
+url: /lismore/hornibrooks/
 shop: car
 ---

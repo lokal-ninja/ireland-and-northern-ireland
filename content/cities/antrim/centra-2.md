@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /antrim/centra-2/
+url: /antrim/centra/
 shop: convenience
 ---

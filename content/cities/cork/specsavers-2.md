@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
-url: /cork/specsavers-2/
+url: /cork/specsavers/
 shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /millstreet/centra-2/
+url: /millstreet/centra/
 shop: convenience
 ---

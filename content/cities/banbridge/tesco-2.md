@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
-url: /banbridge/tesco-2/
+url: /banbridge/tesco/
 shop: supermarket
 ---
