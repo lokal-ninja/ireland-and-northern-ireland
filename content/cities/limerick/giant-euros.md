@@ -1,5 +1,5 @@
 ---
 title: "Giant Euros"
 url: /limerick/giant-euros/
-shop: shop
+shop: variety store
 ---

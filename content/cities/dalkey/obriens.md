@@ -1,5 +1,5 @@
 ---
-title: "O'Brien's"
+title: "O'Briens"
 url: /dalkey/obriens/
 shop: alcohol
 ---
