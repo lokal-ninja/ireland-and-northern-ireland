@@ -1,5 +1,5 @@
 ---
 title: "FirstStop"
 url: /dublin/firststop/
-shop: car parts
+shop: car repair
 ---
