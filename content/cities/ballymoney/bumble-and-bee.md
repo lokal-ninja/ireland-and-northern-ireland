@@ -1,5 +1,5 @@
 ---
 title: "Bumble & Bee"
 url: /ballymoney/bumble-and-bee/
-shop: boutique
+shop: clothes
 ---
