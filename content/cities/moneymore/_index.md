@@ -1,6 +1,6 @@
 ---
 title: Moneymore
 url: /moneymore/
-latitude: 54.691
-longitude: -6.67
+latitude: 54.695
+longitude: -6.666
 ---
