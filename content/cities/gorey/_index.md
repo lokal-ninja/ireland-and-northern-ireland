@@ -1,6 +1,6 @@
 ---
 title: Gorey
 url: /gorey/
-latitude: 52.676
-longitude: -6.291
+latitude: 52.672
+longitude: -6.297
 ---
