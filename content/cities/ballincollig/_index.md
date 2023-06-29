@@ -1,6 +1,6 @@
 ---
 title: Ballincollig
 url: /ballincollig/
-latitude: 51.886
-longitude: -8.592
+latitude: 51.889
+longitude: -8.593
 ---
