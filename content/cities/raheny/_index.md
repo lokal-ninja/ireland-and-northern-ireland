@@ -2,5 +2,5 @@
 title: Raheny
 url: /raheny/
 latitude: 53.38
-longitude: -6.174
+longitude: -6.177
 ---
