@@ -1,5 +1,5 @@
 ---
 title: "Finbarr Galvin"
 url: /bandon/finbarr-galvin/
-shop: car
+shop: car repair
 ---
