@@ -1,6 +1,6 @@
 ---
 title: Newbuildings
 url: /newbuildings/
-latitude: 54.96
-longitude: -7.357
+latitude: 54.962
+longitude: -7.356
 ---
