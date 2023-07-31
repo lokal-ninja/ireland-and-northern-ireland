@@ -1,6 +1,6 @@
 ---
 title: Londonderry
 url: /londonderry/
-latitude: 54.995
-longitude: -7.318
+latitude: 55.019
+longitude: -7.342
 ---
