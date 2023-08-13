@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ardara/centra/
-shop: convenience
+shop: supermarket
 ---
