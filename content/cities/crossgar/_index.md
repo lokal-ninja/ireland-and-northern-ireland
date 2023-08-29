@@ -1,6 +1,6 @@
 ---
 title: Crossgar
 url: /crossgar/
-latitude: 54.397
-longitude: -5.76
+latitude: 54.399
+longitude: -5.764
 ---
