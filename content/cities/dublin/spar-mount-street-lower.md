@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /dublin/spar/
+url: /dublin/spar-mount-street-lower/
 shop: convenience
 ---

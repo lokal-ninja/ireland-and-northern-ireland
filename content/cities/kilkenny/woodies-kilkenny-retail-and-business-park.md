@@ -1,5 +1,5 @@
 ---
 title: "Woodie's"
-url: /kilkenny/woodies/
+url: /kilkenny/woodies-kilkenny-retail-and-business-park/
 shop: doityourself
 ---

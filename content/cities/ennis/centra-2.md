@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /ennis/centra/
+url: /ennis/centra-2/
 shop: supermarket
 ---

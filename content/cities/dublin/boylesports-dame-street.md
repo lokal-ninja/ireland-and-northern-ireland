@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
-url: /dublin/boylesports/
+url: /dublin/boylesports-dame-street/
 shop: bookmaker
 ---

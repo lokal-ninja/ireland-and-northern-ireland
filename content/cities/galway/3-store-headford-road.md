@@ -1,5 +1,5 @@
 ---
 title: "3 Store"
-url: /galway/3-store/
+url: /galway/3-store-headford-road/
 shop: mobile phone
 ---

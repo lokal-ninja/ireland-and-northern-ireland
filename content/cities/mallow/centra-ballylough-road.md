@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /mallow/centra/
+url: /mallow/centra-ballylough-road/
 shop: supermarket
 ---

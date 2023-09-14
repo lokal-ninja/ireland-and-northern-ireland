@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
-url: /kilkenny/supervalu/
+url: /kilkenny/supervalu-bohernatounish-road/
 shop: supermarket
 ---

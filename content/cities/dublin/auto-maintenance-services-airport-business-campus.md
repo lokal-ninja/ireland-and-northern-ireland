@@ -1,5 +1,5 @@
 ---
 title: "Auto Maintenance Services"
-url: /dublin/auto-maintenance-services/
+url: /dublin/auto-maintenance-services-airport-business-campus/
 shop: car
 ---

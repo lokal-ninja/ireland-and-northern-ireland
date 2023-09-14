@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
-url: /bangor/tesco/
+url: /bangor/tesco-bloomfield-road-south/
 shop: convenience
 ---

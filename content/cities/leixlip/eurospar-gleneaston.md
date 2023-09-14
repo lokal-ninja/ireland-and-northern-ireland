@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
-url: /leixlip/eurospar/
+url: /leixlip/eurospar-gleneaston/
 shop: supermarket
 ---

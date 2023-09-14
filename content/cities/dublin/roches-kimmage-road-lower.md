@@ -1,5 +1,5 @@
 ---
 title: "Roches"
-url: /dublin/roches/
+url: /dublin/roches-kimmage-road-lower/
 shop: hairdresser
 ---

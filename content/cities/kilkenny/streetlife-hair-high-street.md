@@ -1,5 +1,5 @@
 ---
 title: "Streetlife Hair"
-url: /kilkenny/streetlife-hair/
+url: /kilkenny/streetlife-hair-high-street/
 shop: hairdresser
 ---

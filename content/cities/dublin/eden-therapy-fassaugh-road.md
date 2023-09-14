@@ -1,5 +1,5 @@
 ---
 title: "Eden Therapy"
-url: /dublin/eden-therapy/
+url: /dublin/eden-therapy-fassaugh-road/
 shop: beauty
 ---

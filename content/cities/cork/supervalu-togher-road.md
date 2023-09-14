@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
-url: /cork/supervalu/
+url: /cork/supervalu-togher-road/
 shop: supermarket
 ---

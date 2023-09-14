@@ -1,5 +1,5 @@
 ---
 title: "On the Run"
-url: /dublin/on-the-run/
+url: /dublin/on-the-run-kimmage-road-lower/
 shop: convenience
 ---

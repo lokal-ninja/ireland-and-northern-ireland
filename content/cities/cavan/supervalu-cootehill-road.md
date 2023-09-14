@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
-url: /cavan/supervalu/
+url: /cavan/supervalu-cootehill-road/
 shop: supermarket
 ---

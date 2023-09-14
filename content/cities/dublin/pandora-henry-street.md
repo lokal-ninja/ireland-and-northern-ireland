@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
-url: /dublin/pandora/
+url: /dublin/pandora-henry-street/
 shop: jewelry
 ---

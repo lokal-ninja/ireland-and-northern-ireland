@@ -1,5 +1,5 @@
 ---
 title: "XL"
-url: /galway/xl/
+url: /galway/xl-upper-salthill-road/
 shop: convenience
 ---

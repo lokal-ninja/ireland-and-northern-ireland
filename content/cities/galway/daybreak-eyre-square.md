@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
-url: /galway/daybreak/
+url: /galway/daybreak-eyre-square/
 shop: convenience
 ---

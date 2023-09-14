@@ -1,5 +1,5 @@
 ---
 title: "Fine Wines"
-url: /limerick/fine-wines/
+url: /limerick/fine-wines-roches-street/
 shop: alcohol
 ---

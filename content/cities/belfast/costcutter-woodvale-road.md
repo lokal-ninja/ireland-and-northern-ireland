@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /belfast/costcutter/
+url: /belfast/costcutter-woodvale-road/
 shop: convenience
 ---

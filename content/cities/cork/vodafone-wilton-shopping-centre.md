@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /cork/vodafone/
+url: /cork/vodafone-wilton-shopping-centre/
 shop: mobile phone
 ---

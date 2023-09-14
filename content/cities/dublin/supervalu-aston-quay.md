@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
-url: /dublin/supervalu/
+url: /dublin/supervalu-aston-quay/
 shop: supermarket
 ---

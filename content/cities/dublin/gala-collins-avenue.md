@@ -1,5 +1,5 @@
 ---
 title: "Gala"
-url: /dublin/gala/
+url: /dublin/gala-collins-avenue/
 shop: convenience
 ---

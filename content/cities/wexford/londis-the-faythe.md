@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /wexford/londis/
+url: /wexford/londis-the-faythe/
 shop: convenience
 ---

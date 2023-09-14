@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
-url: /newtownabbey/tesco/
+url: /newtownabbey/tesco-church-road/
 shop: convenience
 ---

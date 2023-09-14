@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /galway/vodafone/
+url: /galway/vodafone-william-street/
 shop: mobile phone
 ---

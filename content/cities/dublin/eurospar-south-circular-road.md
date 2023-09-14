@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
-url: /dublin/eurospar/
+url: /dublin/eurospar-south-circular-road/
 shop: supermarket
 ---

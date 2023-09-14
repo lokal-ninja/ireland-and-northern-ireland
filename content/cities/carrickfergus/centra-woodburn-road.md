@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /carrickfergus/centra/
+url: /carrickfergus/centra-woodburn-road/
 shop: convenience
 ---

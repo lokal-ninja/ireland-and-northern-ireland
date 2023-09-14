@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /athlone/centra/
+url: /athlone/centra-church-street/
 shop: convenience
 ---

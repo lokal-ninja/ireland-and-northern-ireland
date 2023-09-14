@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /newtownabbey/spar/
+url: /newtownabbey/spar-jordanstown-road/
 shop: convenience
 ---

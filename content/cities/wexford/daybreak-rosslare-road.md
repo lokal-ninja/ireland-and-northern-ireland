@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
-url: /wexford/daybreak/
+url: /wexford/daybreak-rosslare-road/
 shop: convenience
 ---

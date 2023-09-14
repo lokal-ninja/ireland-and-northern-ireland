@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /dublin/spar/
+url: /dublin/spar-glasnevin-avenue/
 shop: convenience
 ---

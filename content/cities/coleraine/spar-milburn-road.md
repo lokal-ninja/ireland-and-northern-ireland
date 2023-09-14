@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /coleraine/spar/
+url: /coleraine/spar-milburn-road/
 shop: convenience
 ---

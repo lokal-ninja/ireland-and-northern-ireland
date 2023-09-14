@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
-url: /waterford/dunnes-stores/
+url: /waterford/dunnes-stores-2/
 shop: supermarket
 ---

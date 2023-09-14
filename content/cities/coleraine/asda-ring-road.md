@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /coleraine/asda/
+url: /coleraine/asda-ring-road/
 shop: convenience
 ---

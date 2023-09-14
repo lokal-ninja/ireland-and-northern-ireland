@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /tallaght/centra/
+url: /tallaght/centra-old-bawn-shopping-centre/
 shop: convenience
 ---

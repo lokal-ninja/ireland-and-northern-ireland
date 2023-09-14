@@ -1,5 +1,5 @@
 ---
 title: "Fields"
-url: /dublin/fields/
+url: /dublin/fields-henry-street/
 shop: jewelry
 ---

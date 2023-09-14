@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
-url: /dublin/swarovski/
+url: /dublin/swarovski-grafton-street/
 shop: jewelry
 ---

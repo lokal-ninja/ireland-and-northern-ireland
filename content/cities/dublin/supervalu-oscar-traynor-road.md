@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
-url: /dublin/supervalu/
+url: /dublin/supervalu-oscar-traynor-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ViVO"
-url: /belfast/vivo/
+url: /belfast/vivo-donegall-park-avenue/
 shop: convenience
 ---

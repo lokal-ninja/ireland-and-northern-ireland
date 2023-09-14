@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /bandon/centra/
+url: /bandon/centra-new-road/
 shop: convenience
 ---

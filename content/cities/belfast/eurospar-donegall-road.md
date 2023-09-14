@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
-url: /belfast/eurospar/
+url: /belfast/eurospar-donegall-road/
 shop: supermarket
 ---

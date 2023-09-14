@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /tandragee/spar/
+url: /tandragee/spar-mill-street/
 shop: convenience
 ---

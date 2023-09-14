@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
-url: /galway/eurogiant/
+url: /galway/eurogiant-eglinton-street/
 shop: variety store
 ---

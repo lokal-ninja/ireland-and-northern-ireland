@@ -1,5 +1,5 @@
 ---
 title: "Nourish"
-url: /dublin/nourish/
+url: /dublin/nourish-morehampton-road/
 shop: health food
 ---

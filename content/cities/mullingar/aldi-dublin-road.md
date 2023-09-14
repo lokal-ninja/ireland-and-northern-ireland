@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /mullingar/aldi/
+url: /mullingar/aldi-dublin-road/
 shop: supermarket
 ---

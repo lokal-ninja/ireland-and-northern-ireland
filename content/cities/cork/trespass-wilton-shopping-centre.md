@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
-url: /cork/trespass/
+url: /cork/trespass-wilton-shopping-centre/
 shop: outdoor
 ---

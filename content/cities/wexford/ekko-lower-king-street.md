@@ -1,5 +1,5 @@
 ---
 title: "EKKO"
-url: /wexford/ekko/
+url: /wexford/ekko-lower-king-street/
 shop: beauty
 ---

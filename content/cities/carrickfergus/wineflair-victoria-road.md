@@ -1,5 +1,5 @@
 ---
 title: "Wineflair"
-url: /carrickfergus/wineflair/
+url: /carrickfergus/wineflair-victoria-road/
 shop: alcohol
 ---

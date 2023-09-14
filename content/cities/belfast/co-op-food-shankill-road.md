@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /belfast/co-op-food/
+url: /belfast/co-op-food-shankill-road/
 shop: convenience
 ---

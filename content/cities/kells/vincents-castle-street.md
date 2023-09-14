@@ -1,5 +1,5 @@
 ---
 title: "Vincent's"
-url: /kells/vincents/
+url: /kells/vincents-castle-street/
 shop: charity
 ---

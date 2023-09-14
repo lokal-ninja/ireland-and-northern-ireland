@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /bangor/centra/
+url: /bangor/centra-balloo-road/
 shop: convenience
 ---

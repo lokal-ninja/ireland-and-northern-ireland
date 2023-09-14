@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
-url: /kilkenny/ladbrokes/
+url: /kilkenny/ladbrokes-castlecomer-road/
 shop: bookmaker
 ---

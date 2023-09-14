@@ -1,5 +1,5 @@
 ---
 title: "Eason"
-url: /dublin/eason/
+url: /dublin/eason-nassau-street/
 shop: books
 ---

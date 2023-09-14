@@ -1,5 +1,5 @@
 ---
 title: "Penneys"
-url: /cork/penneys/
+url: /cork/penneys-saint-patricks-street/
 shop: clothes
 ---

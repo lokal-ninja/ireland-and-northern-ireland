@@ -1,5 +1,5 @@
 ---
 title: "Winemark"
-url: /belfast/winemark/
-shop: alcohol
+url: /belfast/winemark-beersbridge-road/
+shop: wine
 ---

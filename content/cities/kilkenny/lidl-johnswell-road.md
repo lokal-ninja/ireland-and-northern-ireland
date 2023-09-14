@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /kilkenny/lidl/
+url: /kilkenny/lidl-johnswell-road/
 shop: supermarket
 ---

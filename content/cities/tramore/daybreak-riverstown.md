@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
-url: /tramore/daybreak/
+url: /tramore/daybreak-riverstown/
 shop: convenience
 ---

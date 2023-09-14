@@ -1,5 +1,5 @@
 ---
 title: "Lush"
-url: /dublin/lush/
+url: /dublin/lush-henry-street/
 shop: beauty
 ---

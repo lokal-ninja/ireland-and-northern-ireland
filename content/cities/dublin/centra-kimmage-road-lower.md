@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /dublin/centra/
+url: /dublin/centra-kimmage-road-lower/
 shop: convenience
 ---

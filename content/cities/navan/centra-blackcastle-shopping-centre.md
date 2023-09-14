@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /navan/centra/
+url: /navan/centra-blackcastle-shopping-centre/
 shop: convenience
 ---

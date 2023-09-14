@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /dublin/circle-k/
+url: /dublin/circle-k-nassau-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
-url: /dublin/ecco/
+url: /dublin/ecco-grafton-street/
 shop: shoes
 ---

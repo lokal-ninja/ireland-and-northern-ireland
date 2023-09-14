@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
-url: /dublin/eurogiant/
+url: /dublin/eurogiant-phibsborough-road/
 shop: variety store
 ---

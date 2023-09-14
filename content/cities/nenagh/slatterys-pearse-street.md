@@ -1,5 +1,5 @@
 ---
 title: "Slatterys"
-url: /nenagh/slatterys/
+url: /nenagh/slatterys-pearse-street/
 shop: clothes
 ---

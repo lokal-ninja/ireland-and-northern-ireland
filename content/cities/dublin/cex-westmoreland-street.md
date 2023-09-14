@@ -1,5 +1,5 @@
 ---
 title: "CeX"
-url: /dublin/cex/
+url: /dublin/cex-westmoreland-street/
 shop: electronics
 ---

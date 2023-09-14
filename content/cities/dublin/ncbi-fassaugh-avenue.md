@@ -1,5 +1,5 @@
 ---
 title: "NCBI"
-url: /dublin/ncbi/
+url: /dublin/ncbi-fassaugh-avenue/
 shop: charity
 ---

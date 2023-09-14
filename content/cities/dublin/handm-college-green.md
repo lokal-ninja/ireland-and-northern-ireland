@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /dublin/handm/
+url: /dublin/handm-college-green/
 shop: clothes
 ---

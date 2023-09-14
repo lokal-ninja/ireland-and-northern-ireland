@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
-url: /midleton/supervalu/
+url: /midleton/supervalu-the-green/
 shop: supermarket
 ---

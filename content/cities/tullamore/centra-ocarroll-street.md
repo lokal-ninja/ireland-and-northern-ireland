@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /tullamore/centra/
+url: /tullamore/centra-ocarroll-street/
 shop: convenience
 ---

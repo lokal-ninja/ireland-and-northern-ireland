@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
-url: /strabane/nisa-local/
+url: /strabane/nisa-local-lifford-road/
 shop: alcohol
 ---

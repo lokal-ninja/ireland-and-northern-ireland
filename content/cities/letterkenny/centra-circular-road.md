@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /letterkenny/centra/
+url: /letterkenny/centra-circular-road/
 shop: supermarket
 ---

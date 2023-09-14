@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
-url: /tallaght/supervalu/
+url: /tallaght/supervalu-heatherview-road/
 shop: supermarket
 ---

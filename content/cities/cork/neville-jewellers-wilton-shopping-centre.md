@@ -1,5 +1,5 @@
 ---
 title: "Neville Jewellers"
-url: /cork/neville-jewellers/
+url: /cork/neville-jewellers-wilton-shopping-centre/
 shop: jewelry
 ---

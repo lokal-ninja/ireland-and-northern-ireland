@@ -1,5 +1,5 @@
 ---
 title: "Mace"
-url: /cork/mace/
+url: /cork/mace-pearse-road/
 shop: convenience
 ---

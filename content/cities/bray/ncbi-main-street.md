@@ -1,5 +1,5 @@
 ---
 title: "NCBI"
-url: /bray/ncbi/
+url: /bray/ncbi-main-street/
 shop: charity
 ---

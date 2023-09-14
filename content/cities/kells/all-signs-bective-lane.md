@@ -1,5 +1,5 @@
 ---
 title: "All Signs"
-url: /kells/all-signs/
+url: /kells/all-signs-bective-lane/
 shop: shop
 ---

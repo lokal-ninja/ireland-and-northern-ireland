@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /newtownabbey/spar/
+url: /newtownabbey/spar-kings-crescent/
 shop: supermarket
 ---

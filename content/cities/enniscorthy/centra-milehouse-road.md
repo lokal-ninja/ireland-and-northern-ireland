@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /enniscorthy/centra/
+url: /enniscorthy/centra-milehouse-road/
 shop: convenience
 ---

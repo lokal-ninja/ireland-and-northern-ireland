@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /maynooth/centra/
+url: /maynooth/centra-main-street/
 shop: convenience
 ---

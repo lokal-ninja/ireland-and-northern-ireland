@@ -1,5 +1,5 @@
 ---
 title: "Woodie's"
-url: /galway/woodies/
+url: /galway/woodies-headford-road/
 shop: doityourself
 ---

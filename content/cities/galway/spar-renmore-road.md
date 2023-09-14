@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /galway/spar/
+url: /galway/spar-renmore-road/
 shop: convenience
 ---

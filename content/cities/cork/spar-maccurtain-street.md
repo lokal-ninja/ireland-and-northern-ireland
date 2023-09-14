@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /cork/spar/
+url: /cork/spar-maccurtain-street/
 shop: supermarket
 ---

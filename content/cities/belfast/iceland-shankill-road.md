@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /belfast/iceland/
+url: /belfast/iceland-shankill-road/
 shop: frozen food
 ---

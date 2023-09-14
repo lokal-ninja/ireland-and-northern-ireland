@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
-url: /galway/boylesports/
+url: /galway/boylesports-seamus-quirke-road/
 shop: bookmaker
 ---

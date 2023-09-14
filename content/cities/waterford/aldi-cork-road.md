@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /waterford/aldi/
+url: /waterford/aldi-cork-road/
 shop: supermarket
 ---

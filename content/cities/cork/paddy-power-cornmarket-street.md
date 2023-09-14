@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
-url: /cork/paddy-power/
+url: /cork/paddy-power-cornmarket-street/
 shop: bookmaker
 ---

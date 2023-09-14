@@ -1,5 +1,5 @@
 ---
 title: "JKCs"
-url: /nenagh/jkcs/
+url: /nenagh/jkcs-pearse-street/
 shop: toys
 ---

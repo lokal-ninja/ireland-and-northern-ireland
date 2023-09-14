@@ -1,5 +1,5 @@
 ---
 title: "CeX"
-url: /limerick/cex/
+url: /limerick/cex-parkway-roundabout/
 shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /sligo/centra/
+url: /sligo/centra-cartron-village/
 shop: convenience
 ---

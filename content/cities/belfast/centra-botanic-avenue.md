@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /belfast/centra/
+url: /belfast/centra-botanic-avenue/
 shop: convenience
 ---

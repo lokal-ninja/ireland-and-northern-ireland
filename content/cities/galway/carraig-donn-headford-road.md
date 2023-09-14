@@ -1,5 +1,5 @@
 ---
 title: "Carraig Donn"
-url: /galway/carraig-donn/
+url: /galway/carraig-donn-headford-road/
 shop: clothes
 ---

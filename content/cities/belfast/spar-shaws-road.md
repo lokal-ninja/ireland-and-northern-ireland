@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /belfast/spar/
+url: /belfast/spar-shaws-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
-url: /enniscorthy/boylesports/
+url: /enniscorthy/boylesports-duffry-hill/
 shop: bookmaker
 ---

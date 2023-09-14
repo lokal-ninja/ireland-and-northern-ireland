@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
-url: /dublin/daybreak/
+url: /dublin/daybreak-clonliffe-road/
 shop: convenience
 ---

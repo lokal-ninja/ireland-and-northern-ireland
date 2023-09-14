@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /dublin/handm/
+url: /dublin/handm-mary-street/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /lucan/centra/
+url: /lucan/centra-griffeen-centre/
 shop: convenience
 ---

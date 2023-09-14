@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
-url: /newry/supervalu/
+url: /newry/supervalu-hill-street/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /charleville/centra/
+url: /charleville/centra-main-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mace"
-url: /dublin/mace/
+url: /dublin/mace-kimmage-road-lower/
 shop: convenience
 ---

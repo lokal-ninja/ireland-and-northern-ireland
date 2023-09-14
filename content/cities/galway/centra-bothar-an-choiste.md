@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /galway/centra/
+url: /galway/centra-bothar-an-choiste/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /killarney/centra/
+url: /killarney/centra-rock-road/
 shop: supermarket
 ---

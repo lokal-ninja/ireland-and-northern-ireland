@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /swords/centra/
+url: /swords/centra-swords-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eir"
-url: /limerick/eir/
+url: /limerick/eir-parkway-roundabout/
 shop: mobile phone
 ---

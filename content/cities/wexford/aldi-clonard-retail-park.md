@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /wexford/aldi/
+url: /wexford/aldi-clonard-retail-park/
 shop: supermarket
 ---

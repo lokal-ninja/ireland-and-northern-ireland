@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /lucan/centra/
+url: /lucan/centra-foxborough-road/
 shop: convenience
 ---

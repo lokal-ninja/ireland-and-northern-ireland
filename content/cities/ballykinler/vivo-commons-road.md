@@ -1,5 +1,5 @@
 ---
 title: "ViVO"
-url: /ballykinler/vivo/
+url: /ballykinler/vivo-commons-road/
 shop: convenience
 ---

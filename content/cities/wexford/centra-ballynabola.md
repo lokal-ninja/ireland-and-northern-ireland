@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /wexford/centra/
+url: /wexford/centra-ballynabola/
 shop: convenience
 ---

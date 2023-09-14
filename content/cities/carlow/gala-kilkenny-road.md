@@ -1,5 +1,5 @@
 ---
 title: "Gala"
-url: /carlow/gala/
+url: /carlow/gala-kilkenny-road/
 shop: convenience
 ---

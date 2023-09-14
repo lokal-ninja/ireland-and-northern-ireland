@@ -1,5 +1,5 @@
 ---
 title: "Hickeys"
-url: /cork/hickeys/
+url: /cork/hickeys-maylor-street/
 shop: houseware
 ---

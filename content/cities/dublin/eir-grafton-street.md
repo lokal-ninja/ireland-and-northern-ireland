@@ -1,5 +1,5 @@
 ---
 title: "Eir"
-url: /dublin/eir/
+url: /dublin/eir-grafton-street/
 shop: mobile phone
 ---

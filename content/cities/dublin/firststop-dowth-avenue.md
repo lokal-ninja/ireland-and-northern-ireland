@@ -1,5 +1,5 @@
 ---
 title: "FirstStop"
-url: /dublin/firststop/
+url: /dublin/firststop-dowth-avenue/
 shop: car repair
 ---

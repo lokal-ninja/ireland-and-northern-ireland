@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
-url: /dublin/oxfam/
+url: /dublin/oxfam-phibsborough-road/
 shop: charity
 ---

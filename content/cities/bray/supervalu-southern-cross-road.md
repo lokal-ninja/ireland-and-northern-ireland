@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
-url: /bray/supervalu/
+url: /bray/supervalu-southern-cross-road/
 shop: supermarket
 ---

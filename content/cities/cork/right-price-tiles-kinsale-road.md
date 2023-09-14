@@ -1,5 +1,5 @@
 ---
 title: "Right Price Tiles"
-url: /cork/right-price-tiles/
+url: /cork/right-price-tiles-kinsale-road/
 shop: flooring
 ---

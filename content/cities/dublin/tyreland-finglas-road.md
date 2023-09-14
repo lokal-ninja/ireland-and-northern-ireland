@@ -1,5 +1,5 @@
 ---
 title: "Tyreland"
-url: /dublin/tyreland/
+url: /dublin/tyreland-finglas-road/
 shop: tyres
 ---

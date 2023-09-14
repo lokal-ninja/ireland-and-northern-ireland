@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /blarney/centra/
+url: /blarney/centra-the-square/
 shop: convenience
 ---

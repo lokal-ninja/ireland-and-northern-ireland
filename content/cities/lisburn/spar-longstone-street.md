@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /lisburn/spar/
+url: /lisburn/spar-longstone-street/
 shop: convenience
 ---

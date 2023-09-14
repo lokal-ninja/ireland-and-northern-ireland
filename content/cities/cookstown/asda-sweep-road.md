@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /cookstown/asda/
+url: /cookstown/asda-sweep-road/
 shop: convenience
 ---

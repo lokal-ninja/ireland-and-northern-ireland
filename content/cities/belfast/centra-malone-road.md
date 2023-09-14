@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /belfast/centra/
+url: /belfast/centra-malone-road/
 shop: convenience
 ---

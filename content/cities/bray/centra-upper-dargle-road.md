@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /bray/centra/
+url: /bray/centra-upper-dargle-road/
 shop: supermarket
 ---

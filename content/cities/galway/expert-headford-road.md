@@ -1,5 +1,5 @@
 ---
 title: "Expert"
-url: /galway/expert/
+url: /galway/expert-headford-road/
 shop: electronics
 ---

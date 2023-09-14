@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
-url: /cork/waterstones/
+url: /cork/waterstones-saint-patrick-street/
 shop: books
 ---

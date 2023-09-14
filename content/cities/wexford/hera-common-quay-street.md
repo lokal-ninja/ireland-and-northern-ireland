@@ -1,5 +1,5 @@
 ---
 title: "Hera"
-url: /wexford/hera/
+url: /wexford/hera-common-quay-street/
 shop: clothes
 ---

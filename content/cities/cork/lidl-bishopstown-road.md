@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /cork/lidl/
+url: /cork/lidl-bishopstown-road/
 shop: supermarket
 ---

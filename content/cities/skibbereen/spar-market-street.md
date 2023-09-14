@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /skibbereen/spar/
+url: /skibbereen/spar-market-street/
 shop: convenience
 ---

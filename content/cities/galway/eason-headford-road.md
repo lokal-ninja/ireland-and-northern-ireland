@@ -1,5 +1,5 @@
 ---
 title: "Eason"
-url: /galway/eason/
+url: /galway/eason-headford-road/
 shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
-url: /wexford/paddy-power/
+url: /wexford/paddy-power-whitemill-road/
 shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpenters"
-url: /kells/carpenters/
+url: /kells/carpenters-farrell-street/
 shop: florist
 ---

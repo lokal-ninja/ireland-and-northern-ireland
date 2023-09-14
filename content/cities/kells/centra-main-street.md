@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /kells/centra/
+url: /kells/centra-main-street/
 shop: supermarket
 ---

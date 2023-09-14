@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /newbridge/centra/
+url: /newbridge/centra-2/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /waterford/centra/
+url: /waterford/centra-meaghers-quay/
 shop: convenience
 ---

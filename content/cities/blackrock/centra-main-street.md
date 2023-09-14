@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /blackrock/centra/
+url: /blackrock/centra-main-street/
 shop: convenience
 ---

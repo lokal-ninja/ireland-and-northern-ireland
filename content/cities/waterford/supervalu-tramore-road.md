@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
-url: /waterford/supervalu/
+url: /waterford/supervalu-tramore-road/
 shop: supermarket
 ---

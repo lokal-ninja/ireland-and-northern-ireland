@@ -1,5 +1,5 @@
 ---
 title: "Hardware"
-url: /dublin/hardware/
+url: /dublin/hardware-kimmage-road-lower/
 shop: hardware
 ---

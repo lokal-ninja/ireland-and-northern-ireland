@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /waterford/centra/
+url: /waterford/centra-john-street/
 shop: convenience
 ---

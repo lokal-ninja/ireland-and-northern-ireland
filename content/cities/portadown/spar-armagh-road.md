@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /portadown/spar/
+url: /portadown/spar-armagh-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
-url: /tralee/tesco/
+url: /tralee/tesco-2/
 shop: supermarket
 ---

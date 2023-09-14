@@ -1,5 +1,5 @@
 ---
 title: "Life in Motion"
-url: /dublin/life-in-motion/
+url: /dublin/life-in-motion-harolds-cross-road/
 shop: bicycle
 ---

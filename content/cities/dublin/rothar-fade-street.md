@@ -1,5 +1,5 @@
 ---
 title: "Rothar"
-url: /dublin/rothar/
+url: /dublin/rothar-fade-street/
 shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /enniskillen/centra/
+url: /enniskillen/centra-dublin-road/
 shop: convenience
 ---

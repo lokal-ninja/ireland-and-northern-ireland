@@ -1,6 +1,6 @@
 ---
 title: Bunclody
 url: /bunclody/
-latitude: 52.657
-longitude: -6.659
+latitude: 52.652
+longitude: -6.649
 ---

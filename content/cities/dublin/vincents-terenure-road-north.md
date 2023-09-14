@@ -1,5 +1,5 @@
 ---
 title: "Vincent's"
-url: /dublin/vincents/
+url: /dublin/vincents-terenure-road-north/
 shop: clothes
 ---

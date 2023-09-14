@@ -1,5 +1,5 @@
 ---
 title: "Diesel"
-url: /dublin/diesel/
+url: /dublin/diesel-henry-street/
 shop: clothes
 ---

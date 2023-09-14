@@ -1,5 +1,5 @@
 ---
 title: "O'Briens"
-url: /dublin/obriens/
+url: /dublin/obriens-finglas-road/
 shop: alcohol
 ---

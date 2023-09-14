@@ -1,5 +1,5 @@
 ---
 title: "Ticketmaster"
-url: /dublin/ticketmaster/
+url: /dublin/ticketmaster-st-stephens-green/
 shop: ticket
 ---

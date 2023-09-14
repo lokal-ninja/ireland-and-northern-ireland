@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /killarney/centra/
+url: /killarney/centra-new-street/
 shop: convenience
 ---
