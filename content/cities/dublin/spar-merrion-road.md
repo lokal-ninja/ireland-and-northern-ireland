@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /dublin/spar-liffey-street-lower/
+url: /dublin/spar-merrion-road/
 shop: convenience
 ---
