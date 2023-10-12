@@ -1,6 +1,6 @@
 ---
 title: Ballymena
 url: /ballymena/
-latitude: 54.858
-longitude: -6.263
+latitude: 54.857
+longitude: -6.27
 ---

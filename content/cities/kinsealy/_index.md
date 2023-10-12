@@ -1,6 +1,6 @@
 ---
 title: Kinsealy
 url: /kinsealy/
-latitude: 53.446
-longitude: -6.201
+latitude: 53.42
+longitude: -6.176
 ---

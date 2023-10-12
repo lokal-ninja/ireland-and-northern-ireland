@@ -1,5 +1,5 @@
 ---
-title: "HomeSavers"
+title: "Homesavers"
 url: /dublin/homesavers/
-shop: interior decoration
+shop: shop
 ---
