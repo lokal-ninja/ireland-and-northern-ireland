@@ -1,6 +1,6 @@
 ---
 title: Doirí Beaga
 url: /doiri-beaga/
-latitude: 55.077
-longitude: -8.292
+latitude: 55.079
+longitude: -8.291
 ---

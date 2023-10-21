@@ -1,6 +1,6 @@
 ---
 title: Monaghan
 url: /monaghan/
-latitude: 54.247
-longitude: -6.969
+latitude: 54.239
+longitude: -6.968
 ---

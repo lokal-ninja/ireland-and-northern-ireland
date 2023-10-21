@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ballyconnell/spar/
-shop: supermarket
+shop: convenience
 ---
