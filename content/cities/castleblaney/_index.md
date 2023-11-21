@@ -1,6 +1,6 @@
 ---
 title: Castleblaney
 url: /castleblaney/
-latitude: 54.123
-longitude: -6.744
+latitude: 54.124
+longitude: -6.747
 ---
