@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /ballymoney/centra/
+url: /limerick/centra-3/
 shop: supermarket
 ---
