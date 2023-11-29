@@ -1,5 +1,5 @@
 ---
 title: "Get Fresh"
-url: /dublin/get-fresh-sundrive-road/
+url: /dublin/get-fresh-galtymore-road/
 shop: convenience
 ---
