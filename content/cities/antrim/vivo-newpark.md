@@ -1,5 +1,5 @@
 ---
 title: "ViVO"
-url: /antrim/vivo-high-street/
+url: /antrim/vivo-newpark/
 shop: convenience
 ---

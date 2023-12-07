@@ -1,5 +1,5 @@
 ---
 title: "Mace"
-url: /wexford/mace-newtown-road/
+url: /wexford/mace-new-line-road/
 shop: convenience
 ---
