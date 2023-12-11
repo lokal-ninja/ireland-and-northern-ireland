@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
-url: /newry/boylesports-francis-street/
+url: /newry/boylesports-the-mall/
 shop: bookmaker
 ---
