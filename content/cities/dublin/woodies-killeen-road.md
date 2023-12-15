@@ -1,5 +1,5 @@
 ---
 title: "Woodie's"
-url: /dublin/woodies-slaney-road/
+url: /dublin/woodies-killeen-road/
 shop: doityourself
 ---

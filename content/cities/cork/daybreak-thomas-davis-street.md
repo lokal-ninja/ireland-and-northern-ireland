@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
-url: /cork/daybreak-college-road/
+url: /cork/daybreak-thomas-davis-street/
 shop: convenience
 ---
