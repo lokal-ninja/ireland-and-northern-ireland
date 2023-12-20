@@ -1,5 +1,5 @@
 ---
 title: "Kilkenny Design Centre"
 url: /kilkenny/kilkenny-design-centre/
-shop: art
+shop: gift
 ---
