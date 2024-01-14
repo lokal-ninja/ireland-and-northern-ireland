@@ -1,5 +1,5 @@
 ---
 title: "Gadget Fix"
 url: /adare/gadget-fix/
-shop: shop
+shop: mobile phone
 ---
