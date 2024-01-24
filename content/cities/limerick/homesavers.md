@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /limerick/homesavers/
-shop: shop
+shop: garden centre
 ---

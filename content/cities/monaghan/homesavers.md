@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /monaghan/homesavers/
-shop: shop
+shop: garden centre
 ---
