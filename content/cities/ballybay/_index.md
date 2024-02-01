@@ -1,6 +1,6 @@
 ---
 title: Ballybay
 url: /ballybay/
-latitude: 54.128
-longitude: -6.903
+latitude: 54.126
+longitude: -6.901
 ---

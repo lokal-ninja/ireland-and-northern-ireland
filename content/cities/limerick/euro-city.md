@@ -1,5 +1,5 @@
 ---
 title: "Euro City"
 url: /limerick/euro-city/
-shop: shop
+shop: general
 ---
