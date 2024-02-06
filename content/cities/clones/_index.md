@@ -1,6 +1,6 @@
 ---
 title: Clones
 url: /clones/
-latitude: 54.193
-longitude: -7.257
+latitude: 54.182
+longitude: -7.226
 ---
