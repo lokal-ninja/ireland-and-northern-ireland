@@ -1,6 +1,6 @@
 ---
 title: Sandyford
 url: /sandyford/
-latitude: 53.271
-longitude: -6.225
+latitude: 53.274
+longitude: -6.214
 ---
