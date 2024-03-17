@@ -1,5 +1,5 @@
 ---
-title: "Rosaleens Flowers"
+title: "Rosaleen's Flowers"
 url: /wexford/rosaleens-flowers/
 shop: florist
 ---
