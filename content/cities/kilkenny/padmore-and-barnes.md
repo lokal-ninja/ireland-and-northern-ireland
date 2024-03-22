@@ -1,5 +1,5 @@
 ---
-title: "Padmore & Barnes"
+title: "Padmore and Barnes"
 url: /kilkenny/padmore-and-barnes/
-shop: shoes
+shop: camera
 ---
