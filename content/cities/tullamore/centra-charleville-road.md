@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /cork/centra-tory-top-road/
+url: /tullamore/centra-charleville-road/
 shop: convenience
 ---

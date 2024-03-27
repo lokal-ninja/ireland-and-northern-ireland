@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /tullamore/centra-collins-lane/
+url: /cork/centra-curraheen-road/
 shop: convenience
 ---
