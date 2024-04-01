@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /bangor/tesco/
-shop: convenience
+shop: supermarket
 ---
