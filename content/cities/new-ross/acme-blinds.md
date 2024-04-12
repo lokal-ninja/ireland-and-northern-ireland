@@ -1,5 +1,5 @@
 ---
 title: "ACME Blinds"
 url: /new-ross/acme-blinds/
-shop: shop
+shop: window blind
 ---
