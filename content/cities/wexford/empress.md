@@ -1,5 +1,5 @@
 ---
 title: "Empress"
 url: /wexford/empress/
-shop: shop
+shop: clothes
 ---
