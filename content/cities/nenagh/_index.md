@@ -1,6 +1,6 @@
 ---
 title: Nenagh
 url: /nenagh/
-latitude: 52.872
-longitude: -8.197
+latitude: 52.862
+longitude: -8.199
 ---
