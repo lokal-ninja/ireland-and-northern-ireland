@@ -1,5 +1,5 @@
 ---
-title: "Ar Mobile Tech"
+title: "AR Mobile Tech"
 url: /waterford/ar-mobile-tech/
 shop: mobile phone
 ---
