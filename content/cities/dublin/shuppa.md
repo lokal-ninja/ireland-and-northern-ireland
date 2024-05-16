@@ -1,5 +1,5 @@
 ---
 title: "Shuppa"
 url: /dublin/shuppa/
-shop: supermarket
+shop: outpost
 ---

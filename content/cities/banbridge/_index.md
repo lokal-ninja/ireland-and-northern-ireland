@@ -1,6 +1,6 @@
 ---
 title: Banbridge
 url: /banbridge/
-latitude: 54.349
-longitude: -6.276
+latitude: 54.347
+longitude: -6.27
 ---

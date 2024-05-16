@@ -1,5 +1,5 @@
 ---
 title: "Lulu"
 url: /wexford/lulu/
-shop: boutique
+shop: hairdresser
 ---
