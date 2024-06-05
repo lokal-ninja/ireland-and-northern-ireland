@@ -1,6 +1,6 @@
 ---
 title: Ballina
 url: /ballina/
-latitude: 52.809
-longitude: -8.437
+latitude: 54.115
+longitude: -9.141
 ---
