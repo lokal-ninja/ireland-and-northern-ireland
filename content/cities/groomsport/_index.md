@@ -1,6 +1,6 @@
 ---
 title: Groomsport
 url: /groomsport/
-latitude: 54.676
+latitude: 54.675
 longitude: -5.618
 ---

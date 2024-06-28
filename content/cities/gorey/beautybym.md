@@ -1,5 +1,5 @@
 ---
-title: "BeautyBym"
+title: "BeautyByM"
 url: /gorey/beautybym/
 shop: beauty
 ---

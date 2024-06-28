@@ -1,11 +1,11 @@
-id: 816313440
-type: way
-latitude: 53.40752
-longitude: -6.27259
-postcode: "D11 X2NC"
+id: 11987608793
+type: node
+latitude: 53.3492
+longitude: -6.2595
+postcode: "D01H6K0"
 city: Dublin
-street: "Saint Margaret's Road"
-housenumber: 
+street: "O'Connell Street Lower"
+housenumber: 18-27
 phone: "+353-1-2530166"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00"
-website: "https://www.decathlon.ie"
+opening_hours: "Mo-We 09:00-20:00, Th-Fr 09:00-21:00, Sa 09:00-19:00, Su 10:00-19:00"
+website: "https://www.decathlon.ie/"
