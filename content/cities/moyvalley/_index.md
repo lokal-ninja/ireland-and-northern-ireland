@@ -1,6 +1,6 @@
 ---
 title: Moyvalley
 url: /moyvalley/
-latitude: 53.436
-longitude: -6.942
+latitude: 53.433
+longitude: -6.959
 ---
