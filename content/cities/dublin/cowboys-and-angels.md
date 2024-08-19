@@ -1,5 +1,5 @@
 ---
-title: "Cowboy's and Angels"
+title: "Cowboys and Angels"
 url: /dublin/cowboys-and-angels/
 shop: hairdresser
 ---

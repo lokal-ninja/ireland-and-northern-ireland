@@ -1,6 +1,6 @@
 ---
 title: Dunshaughlin
 url: /dunshaughlin/
-latitude: 53.511
-longitude: -6.539
+latitude: 53.514
+longitude: -6.541
 ---

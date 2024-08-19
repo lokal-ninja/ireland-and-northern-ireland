@@ -1,6 +1,6 @@
 ---
 title: Rosslare Harbour
 url: /rosslare-harbour/
-latitude: 52.249
-longitude: -6.337
+latitude: 52.253
+longitude: -6.335
 ---
