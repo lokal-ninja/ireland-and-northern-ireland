@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /galway/boylesports-seacrest/
-shop: bookmaker
+shop: Wettbüro
 ---

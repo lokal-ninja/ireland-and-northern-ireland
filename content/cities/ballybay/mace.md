@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /ballybay/mace/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brasiliero"
 url: /dublin/brasiliero/
-shop: convenience
+shop: Lebensmittel
 ---

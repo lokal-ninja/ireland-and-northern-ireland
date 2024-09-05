@@ -1,5 +1,5 @@
 ---
 title: "Moreish"
 url: /donabate/moreish/
-shop: deli
+shop: Feinkost
 ---

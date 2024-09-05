@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /coalisland/spar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sundry Laundry"
 url: /dublin/sundry-laundry/
-shop: laundry
+shop: Wäscherei
 ---

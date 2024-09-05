@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /armagh/centra/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /lavey/centra/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /lismore/mace/
-shop: convenience
+shop: Lebensmittel
 ---

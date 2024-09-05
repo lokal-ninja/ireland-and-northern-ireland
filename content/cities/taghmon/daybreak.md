@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /taghmon/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

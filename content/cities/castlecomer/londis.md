@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /castlecomer/londis/
-shop: supermarket
+shop: Supermarkt
 ---

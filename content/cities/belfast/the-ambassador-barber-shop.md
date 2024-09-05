@@ -1,5 +1,5 @@
 ---
 title: "The Ambassador Barber Shop"
 url: /belfast/the-ambassador-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

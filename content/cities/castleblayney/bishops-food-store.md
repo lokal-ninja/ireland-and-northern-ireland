@@ -1,5 +1,5 @@
 ---
 title: "Bishop's Food Store"
 url: /castleblayney/bishops-food-store/
-shop: convenience
+shop: Lebensmittel
 ---

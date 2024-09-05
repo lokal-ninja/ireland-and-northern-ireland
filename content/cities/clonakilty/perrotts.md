@@ -1,5 +1,5 @@
 ---
 title: "Perrotts"
 url: /clonakilty/perrotts/
-shop: furniture
+shop: Möbel
 ---

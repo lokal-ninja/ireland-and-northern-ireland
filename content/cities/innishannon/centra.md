@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /innishannon/centra/
-shop: convenience
+shop: Lebensmittel
 ---

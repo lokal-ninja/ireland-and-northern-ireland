@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /celbridge/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boghall Dry Cleaner"
 url: /bray/boghall-dry-cleaner/
-shop: laundry
+shop: Wäscherei
 ---

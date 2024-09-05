@@ -1,5 +1,5 @@
 ---
 title: "Stella's"
 url: /banagher/stellas/
-shop: hairdresser
+shop: Friseur
 ---

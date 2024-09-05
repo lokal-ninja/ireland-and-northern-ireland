@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /newtownabbey/hobbycraft/
-shop: craft
+shop: Basteln
 ---

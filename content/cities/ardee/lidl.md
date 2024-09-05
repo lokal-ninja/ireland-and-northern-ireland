@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /ardee/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ratoath/centra/
-shop: convenience
+shop: Lebensmittel
 ---

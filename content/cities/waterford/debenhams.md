@@ -1,5 +1,5 @@
 ---
 title: "Debenhams"
 url: /waterford/debenhams/
-shop: department store
+shop: Warenhaus
 ---

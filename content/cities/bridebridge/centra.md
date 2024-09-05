@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /bridebridge/centra/
-shop: convenience
+shop: Lebensmittel
 ---

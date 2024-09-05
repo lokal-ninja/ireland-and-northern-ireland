@@ -1,5 +1,5 @@
 ---
 title: "Natural Flooring Co."
 url: /dublin/natural-flooring-co/
-shop: carpet
+shop: Teppiche
 ---

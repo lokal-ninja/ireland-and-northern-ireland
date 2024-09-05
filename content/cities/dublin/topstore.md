@@ -1,5 +1,5 @@
 ---
 title: "Topstore"
 url: /dublin/topstore/
-shop: clothes
+shop: Kleidung
 ---

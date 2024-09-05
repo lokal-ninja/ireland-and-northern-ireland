@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /blanchardstown/spar/
-shop: convenience
+shop: Lebensmittel
 ---

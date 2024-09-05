@@ -1,5 +1,5 @@
 ---
 title: "Hilarys"
 url: /enfield/hilarys/
-shop: shop
+shop: Allgemein
 ---

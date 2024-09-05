@@ -1,5 +1,5 @@
 ---
 title: "parfumarija"
 url: /dublin/parfumarija/
-shop: perfumery
+shop: Parfümerie
 ---

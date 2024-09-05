@@ -1,5 +1,5 @@
 ---
 title: "Petmania"
 url: /limerick/petmania/
-shop: pet
+shop: Tiere
 ---

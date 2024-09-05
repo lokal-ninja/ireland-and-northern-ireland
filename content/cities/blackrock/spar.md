@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /blackrock/spar/
-shop: convenience
+shop: Lebensmittel
 ---

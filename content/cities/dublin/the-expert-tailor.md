@@ -1,5 +1,5 @@
 ---
 title: "The Expert Tailor"
 url: /dublin/the-expert-tailor/
-shop: tattoo
+shop: Tattoo
 ---

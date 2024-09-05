@@ -1,5 +1,5 @@
 ---
 title: "Reid's"
 url: /enniscorthy/reids/
-shop: alcohol
+shop: Spirituosen
 ---

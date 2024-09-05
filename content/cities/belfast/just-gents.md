@@ -1,5 +1,5 @@
 ---
 title: "Just Gents"
 url: /belfast/just-gents/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skyline Travel"
 url: /dublin/skyline-travel/
-shop: travel agency
+shop: Reisebüro
 ---

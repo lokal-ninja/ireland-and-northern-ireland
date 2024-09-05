@@ -1,5 +1,5 @@
 ---
 title: "Pizza Max"
 url: /dun-laoghaire/pizza-max/
-shop: convenience
+shop: Lebensmittel
 ---

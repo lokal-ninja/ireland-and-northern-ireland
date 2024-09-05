@@ -1,5 +1,5 @@
 ---
 title: "Roumers"
 url: /dublin/roumers/
-shop: pet grooming
+shop: Tiersalon
 ---

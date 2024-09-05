@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /galway/loccitane/
-shop: beauty
+shop: Kosmetik
 ---

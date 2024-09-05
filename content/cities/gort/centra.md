@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /gort/centra/
-shop: convenience
+shop: Lebensmittel
 ---

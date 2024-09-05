@@ -1,5 +1,5 @@
 ---
 title: "The Doolin Chocolate Shop"
 url: /doolin/the-doolin-chocolate-shop/
-shop: chocolate
+shop: Schokolade
 ---

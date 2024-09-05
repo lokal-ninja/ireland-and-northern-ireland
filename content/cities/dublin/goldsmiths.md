@@ -1,5 +1,5 @@
 ---
 title: "Goldsmiths"
 url: /dublin/goldsmiths/
-shop: jewelry
+shop: Schmuck
 ---

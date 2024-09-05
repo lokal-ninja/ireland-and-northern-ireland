@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /coleraine/dreams/
-shop: bed
+shop: Betten
 ---

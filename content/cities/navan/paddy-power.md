@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /navan/paddy-power/
-shop: bookmaker
+shop: Wettbüro
 ---

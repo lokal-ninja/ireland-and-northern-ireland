@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /new-ross/paddy-power/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MacBlair"
 url: /downpatrick/macblair/
-shop: hardware
+shop: Eisenwaren
 ---

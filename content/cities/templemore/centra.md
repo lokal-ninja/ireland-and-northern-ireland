@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /templemore/centra/
-shop: convenience
+shop: Lebensmittel
 ---

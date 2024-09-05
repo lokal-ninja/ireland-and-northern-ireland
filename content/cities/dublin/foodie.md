@@ -1,5 +1,5 @@
 ---
 title: "Foodie"
 url: /dublin/foodie/
-shop: deli
+shop: Feinkost
 ---

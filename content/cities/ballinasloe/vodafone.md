@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /ballinasloe/vodafone/
-shop: mobile phone
+shop: Handy
 ---

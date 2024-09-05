@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /kildare/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barryroe Co-Op."
 url: /ballinspittle/barryroe-co-op/
-shop: supermarket
+shop: Supermarkt
 ---

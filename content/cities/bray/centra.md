@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /bray/centra/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ballygally/spar/
-shop: convenience
+shop: Lebensmittel
 ---

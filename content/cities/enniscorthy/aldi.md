@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /enniscorthy/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

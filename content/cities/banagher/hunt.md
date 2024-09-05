@@ -1,5 +1,5 @@
 ---
 title: "Hunt"
 url: /banagher/hunt/
-shop: shop
+shop: Allgemein
 ---

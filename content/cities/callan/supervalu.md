@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /callan/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

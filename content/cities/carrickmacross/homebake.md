@@ -1,5 +1,5 @@
 ---
 title: "Homebake"
 url: /carrickmacross/homebake/
-shop: bakery
+shop: Bäckerei
 ---

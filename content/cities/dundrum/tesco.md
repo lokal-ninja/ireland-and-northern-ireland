@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /dundrum/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

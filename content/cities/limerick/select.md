@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /limerick/select/
-shop: hifi
+shop: Hifi
 ---

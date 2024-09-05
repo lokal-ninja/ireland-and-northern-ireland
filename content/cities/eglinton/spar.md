@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /eglinton/spar/
-shop: convenience
+shop: Lebensmittel
 ---

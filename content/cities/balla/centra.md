@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /balla/centra/
-shop: convenience
+shop: Lebensmittel
 ---

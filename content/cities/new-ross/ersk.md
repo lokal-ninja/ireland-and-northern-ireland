@@ -1,5 +1,5 @@
 ---
 title: "Ersk"
 url: /new-ross/ersk/
-shop: clothes
+shop: Kleidung
 ---

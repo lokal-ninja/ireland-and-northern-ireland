@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /kilmacrennan/spar/
-shop: convenience
+shop: Lebensmittel
 ---

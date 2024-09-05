@@ -1,5 +1,5 @@
 ---
 title: "Annsborough Stores"
 url: /castlewellan/annsborough-stores/
-shop: convenience
+shop: Lebensmittel
 ---

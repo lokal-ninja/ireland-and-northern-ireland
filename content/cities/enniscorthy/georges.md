@@ -1,5 +1,5 @@
 ---
 title: "Georges"
 url: /enniscorthy/georges/
-shop: hairdresser
+shop: Friseur
 ---

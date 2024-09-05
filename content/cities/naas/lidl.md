@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /naas/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

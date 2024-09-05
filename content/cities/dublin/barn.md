@@ -1,5 +1,5 @@
 ---
 title: "Barn"
 url: /dublin/barn/
-shop: toys
+shop: Spielzeug
 ---

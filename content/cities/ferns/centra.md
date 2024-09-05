@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ferns/centra/
-shop: convenience
+shop: Lebensmittel
 ---

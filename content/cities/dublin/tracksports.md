@@ -1,5 +1,5 @@
 ---
 title: "Tracksports"
 url: /dublin/tracksports/
-shop: bookmaker
+shop: Wettbüro
 ---

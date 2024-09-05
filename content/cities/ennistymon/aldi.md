@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ennistymon/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

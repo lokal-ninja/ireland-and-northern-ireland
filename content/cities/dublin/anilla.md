@@ -1,5 +1,5 @@
 ---
 title: "Anilla"
 url: /dublin/anilla/
-shop: beauty
+shop: Kosmetik
 ---

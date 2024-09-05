@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /cullybackey/eurospar/
-shop: supermarket
+shop: Supermarkt
 ---

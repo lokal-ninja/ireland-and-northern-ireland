@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /tramore/centra/
-shop: convenience
+shop: Lebensmittel
 ---

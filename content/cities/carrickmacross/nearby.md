@@ -1,5 +1,5 @@
 ---
 title: "Nearby"
 url: /carrickmacross/nearby/
-shop: convenience
+shop: Lebensmittel
 ---

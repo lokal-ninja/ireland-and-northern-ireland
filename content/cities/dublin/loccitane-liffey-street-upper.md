@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /dublin/loccitane-liffey-street-upper/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madigan"
 url: /dublin/madigan/
-shop: clothes
+shop: Kleidung
 ---

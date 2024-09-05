@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /oola/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Turloughs"
 url: /dublin/turloughs/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

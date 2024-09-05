@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /claremorris/centra/
-shop: convenience
+shop: Lebensmittel
 ---

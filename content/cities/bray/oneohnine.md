@@ -1,5 +1,5 @@
 ---
 title: "OneOhNine"
 url: /bray/oneohnine/
-shop: clothes
+shop: Kleidung
 ---

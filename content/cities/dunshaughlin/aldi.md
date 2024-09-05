@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /dunshaughlin/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

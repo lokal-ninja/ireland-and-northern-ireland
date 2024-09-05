@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /oranmore/spar/
-shop: convenience
+shop: Lebensmittel
 ---

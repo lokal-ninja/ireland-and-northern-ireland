@@ -1,5 +1,5 @@
 ---
 title: "Dacia"
 url: /galway/dacia/
-shop: car
+shop: Autohaus
 ---

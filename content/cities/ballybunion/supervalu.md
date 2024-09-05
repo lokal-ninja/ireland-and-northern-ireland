@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /ballybunion/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ViVO"
 url: /ballycastle/vivo/
-shop: convenience
+shop: Lebensmittel
 ---

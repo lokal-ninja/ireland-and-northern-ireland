@@ -1,5 +1,5 @@
 ---
 title: "Sepam"
 url: /clonmel/sepam/
-shop: supermarket
+shop: Supermarkt
 ---

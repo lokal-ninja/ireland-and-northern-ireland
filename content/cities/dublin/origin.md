@@ -1,5 +1,5 @@
 ---
 title: "Origin"
 url: /dublin/origin/
-shop: hairdresser
+shop: Friseur
 ---

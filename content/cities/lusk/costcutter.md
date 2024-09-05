@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /lusk/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

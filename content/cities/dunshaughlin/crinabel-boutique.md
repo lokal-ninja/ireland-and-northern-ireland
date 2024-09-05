@@ -1,5 +1,5 @@
 ---
 title: "Crinabel Boutique"
 url: /dunshaughlin/crinabel-boutique/
-shop: clothes
+shop: Kleidung
 ---

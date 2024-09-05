@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /mullingar/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

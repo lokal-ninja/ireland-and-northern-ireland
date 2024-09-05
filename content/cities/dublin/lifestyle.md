@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle"
 url: /dublin/lifestyle/
-shop: sports
+shop: Sport
 ---

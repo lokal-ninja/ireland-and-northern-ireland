@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ennis/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

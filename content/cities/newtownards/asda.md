@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /newtownards/asda/
-shop: supermarket
+shop: Supermarkt
 ---

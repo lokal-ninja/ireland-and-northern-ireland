@@ -1,5 +1,5 @@
 ---
 title: "enibas"
 url: /schull/enibas/
-shop: jewelry
+shop: Schmuck
 ---

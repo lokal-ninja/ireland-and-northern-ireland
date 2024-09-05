@@ -1,5 +1,5 @@
 ---
 title: "Decwell's Hardware"
 url: /dublin/decwells-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

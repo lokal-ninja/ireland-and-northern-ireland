@@ -1,5 +1,5 @@
 ---
 title: "Emme"
 url: /dublin/emme/
-shop: clothes
+shop: Kleidung
 ---

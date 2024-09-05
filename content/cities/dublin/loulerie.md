@@ -1,5 +1,5 @@
 ---
 title: "Loulerie"
 url: /dublin/loulerie/
-shop: jewelry
+shop: Schmuck
 ---

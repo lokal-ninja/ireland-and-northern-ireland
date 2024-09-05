@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /castledawson/eurospar/
-shop: supermarket
+shop: Supermarkt
 ---

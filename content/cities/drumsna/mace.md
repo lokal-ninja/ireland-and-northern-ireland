@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /drumsna/mace/
-shop: convenience
+shop: Lebensmittel
 ---

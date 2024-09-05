@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ballinasloe/spar/
-shop: convenience
+shop: Lebensmittel
 ---

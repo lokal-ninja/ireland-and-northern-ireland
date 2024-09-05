@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /kilcock/centra/
-shop: convenience
+shop: Lebensmittel
 ---

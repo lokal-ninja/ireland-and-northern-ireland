@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /waterford/smyths/
-shop: toys
+shop: Spielzeug
 ---

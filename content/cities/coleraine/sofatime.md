@@ -1,5 +1,5 @@
 ---
 title: "Sofatime"
 url: /coleraine/sofatime/
-shop: furniture
+shop: Möbel
 ---

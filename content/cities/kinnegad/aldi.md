@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /kinnegad/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

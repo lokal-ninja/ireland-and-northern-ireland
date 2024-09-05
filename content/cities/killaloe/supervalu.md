@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /killaloe/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

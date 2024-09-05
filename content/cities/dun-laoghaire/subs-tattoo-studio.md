@@ -1,5 +1,5 @@
 ---
 title: "Subs Tattoo Studio"
 url: /dun-laoghaire/subs-tattoo-studio/
-shop: tattoo
+shop: Tattoo
 ---

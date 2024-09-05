@@ -1,5 +1,5 @@
 ---
 title: "Trim"
 url: /dublin/trim/
-shop: hairdresser
+shop: Friseur
 ---

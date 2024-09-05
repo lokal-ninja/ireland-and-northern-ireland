@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /graiguenamanagh/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

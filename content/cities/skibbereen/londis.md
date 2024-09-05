@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /skibbereen/londis/
-shop: convenience
+shop: Lebensmittel
 ---

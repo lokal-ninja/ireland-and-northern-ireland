@@ -1,5 +1,5 @@
 ---
 title: "Hiremax"
 url: /kells/hiremax/
-shop: tools
+shop: Werkzeuge
 ---

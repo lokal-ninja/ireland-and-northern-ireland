@@ -1,5 +1,5 @@
 ---
 title: "ViVO"
 url: /belfast/vivo/
-shop: convenience
+shop: Lebensmittel
 ---

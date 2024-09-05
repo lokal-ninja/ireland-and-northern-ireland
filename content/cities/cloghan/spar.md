@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /cloghan/spar/
-shop: convenience
+shop: Lebensmittel
 ---

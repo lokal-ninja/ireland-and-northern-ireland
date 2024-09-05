@@ -1,5 +1,5 @@
 ---
 title: "Zamba Shoes"
 url: /belfast/zamba-shoes/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Redwood"
 url: /ashbourne/redwood/
-shop: shop
+shop: Allgemein
 ---

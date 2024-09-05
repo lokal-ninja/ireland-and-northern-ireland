@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /limerick/foodland/
-shop: supermarket
+shop: Supermarkt
 ---

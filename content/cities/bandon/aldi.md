@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bandon/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

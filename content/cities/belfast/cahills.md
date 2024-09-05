@@ -1,5 +1,5 @@
 ---
 title: "Cahill’s"
 url: /belfast/cahills/
-shop: clothes
+shop: Kleidung
 ---

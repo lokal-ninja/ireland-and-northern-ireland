@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
 url: /sligo/homebase/
-shop: garden centre
+shop: Garten-Center
 ---

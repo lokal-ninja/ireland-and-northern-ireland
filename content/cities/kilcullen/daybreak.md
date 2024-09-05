@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /kilcullen/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

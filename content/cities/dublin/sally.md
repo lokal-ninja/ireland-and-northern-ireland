@@ -1,5 +1,5 @@
 ---
 title: "Sally"
 url: /dublin/sally/
-shop: beauty
+shop: Kosmetik
 ---

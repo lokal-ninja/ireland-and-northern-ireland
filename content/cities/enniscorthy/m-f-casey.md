@@ -1,5 +1,5 @@
 ---
 title: "M. F. Casey"
 url: /enniscorthy/m-f-casey/
-shop: watches
+shop: Uhren
 ---

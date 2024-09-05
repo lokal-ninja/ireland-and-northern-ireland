@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /whitegate/eurospar/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maxol"
 url: /wexford/maxol/
-shop: convenience
+shop: Lebensmittel
 ---

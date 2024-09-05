@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /milford/homesavers/
-shop: garden centre
+shop: Garten-Center
 ---

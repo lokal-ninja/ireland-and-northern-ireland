@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /dundrum/centra/
-shop: convenience
+shop: Lebensmittel
 ---

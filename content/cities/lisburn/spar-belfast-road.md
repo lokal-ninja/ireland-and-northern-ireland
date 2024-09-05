@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /lisburn/spar-belfast-road/
-shop: convenience
+shop: Lebensmittel
 ---

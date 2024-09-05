@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /maynooth/londis/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eason"
 url: /wexford/eason/
-shop: books
+shop: Bücher
 ---

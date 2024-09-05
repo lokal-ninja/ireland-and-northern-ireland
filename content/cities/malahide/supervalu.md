@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /malahide/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ViVO"
 url: /ballyrobert/vivo/
-shop: convenience
+shop: Lebensmittel
 ---

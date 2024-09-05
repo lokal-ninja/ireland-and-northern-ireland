@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /kilkee/mace/
-shop: supermarket
+shop: Supermarkt
 ---

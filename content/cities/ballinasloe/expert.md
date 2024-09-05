@@ -1,5 +1,5 @@
 ---
 title: "Expert"
 url: /ballinasloe/expert/
-shop: electronics
+shop: Elektronik
 ---

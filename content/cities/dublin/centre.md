@@ -1,5 +1,5 @@
 ---
 title: "____________ Centre"
 url: /dublin/centre/
-shop: shop
+shop: Allgemein
 ---

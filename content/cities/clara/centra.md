@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /clara/centra/
-shop: supermarket
+shop: Supermarkt
 ---

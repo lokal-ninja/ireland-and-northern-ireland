@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /bandon/specsavers/
-shop: optician
+shop: Optiker
 ---

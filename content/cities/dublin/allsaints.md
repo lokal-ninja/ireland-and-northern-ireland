@@ -1,5 +1,5 @@
 ---
 title: "AllSaints"
 url: /dublin/allsaints/
-shop: clothes
+shop: Kleidung
 ---

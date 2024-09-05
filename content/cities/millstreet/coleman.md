@@ -1,5 +1,5 @@
 ---
 title: "Coleman"
 url: /millstreet/coleman/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /limerick/centra/
-shop: convenience
+shop: Lebensmittel
 ---

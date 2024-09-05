@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /knocktopher/centra/
-shop: convenience
+shop: Lebensmittel
 ---

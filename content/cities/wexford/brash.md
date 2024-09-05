@@ -1,5 +1,5 @@
 ---
 title: "Brash"
 url: /wexford/brash/
-shop: hairdresser
+shop: Friseur
 ---

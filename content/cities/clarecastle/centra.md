@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /clarecastle/centra/
-shop: convenience
+shop: Lebensmittel
 ---

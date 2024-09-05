@@ -1,5 +1,5 @@
 ---
 title: "Kiernan Designs"
 url: /castleknock/kiernan-designs/
-shop: shop
+shop: Allgemein
 ---

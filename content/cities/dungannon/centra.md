@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /dungannon/centra/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ballygar/centra/
-shop: convenience
+shop: Lebensmittel
 ---

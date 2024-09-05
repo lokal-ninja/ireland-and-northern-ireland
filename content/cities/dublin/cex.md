@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /dublin/cex/
-shop: electronics
+shop: Elektronik
 ---

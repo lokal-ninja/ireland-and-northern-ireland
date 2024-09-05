@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /magherafelt/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

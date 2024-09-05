@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /roscommon/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

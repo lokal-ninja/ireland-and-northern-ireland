@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /shanbally/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

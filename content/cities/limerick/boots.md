@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /limerick/boots/
-shop: chemist
+shop: Drogerie
 ---

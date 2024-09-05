@@ -1,5 +1,5 @@
 ---
 title: "Straffan Antiques"
 url: /dublin/straffan-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

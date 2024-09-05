@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /claudy/spar/
-shop: convenience
+shop: Lebensmittel
 ---

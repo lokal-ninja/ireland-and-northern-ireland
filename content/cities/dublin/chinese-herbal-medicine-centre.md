@@ -1,5 +1,5 @@
 ---
 title: "Chinese Herbal Medicine Centre"
 url: /dublin/chinese-herbal-medicine-centre/
-shop: vacant
+shop: Leerstehend
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /abbeyfeale/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

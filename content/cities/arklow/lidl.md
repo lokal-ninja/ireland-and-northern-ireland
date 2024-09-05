@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /arklow/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /mullingar/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vintage"
 url: /dublin/vintage/
-shop: furniture
+shop: Möbel
 ---

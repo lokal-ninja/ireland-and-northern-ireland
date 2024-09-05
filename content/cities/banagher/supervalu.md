@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /banagher/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /belfast/hobbycraft/
-shop: craft
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /donabate/mace/
-shop: convenience
+shop: Lebensmittel
 ---

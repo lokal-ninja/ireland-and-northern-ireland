@@ -1,5 +1,5 @@
 ---
 title: "Cantec"
 url: /galway/cantec/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /navan/smyths/
-shop: toys
+shop: Spielzeug
 ---

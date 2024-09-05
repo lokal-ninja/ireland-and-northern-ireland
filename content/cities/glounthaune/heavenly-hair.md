@@ -1,5 +1,5 @@
 ---
 title: "Heavenly Hair"
 url: /glounthaune/heavenly-hair/
-shop: hairdresser
+shop: Friseur
 ---

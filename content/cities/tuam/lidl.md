@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /tuam/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

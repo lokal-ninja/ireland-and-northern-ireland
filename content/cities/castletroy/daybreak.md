@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /castletroy/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

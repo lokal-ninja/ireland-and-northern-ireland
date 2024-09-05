@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /clonmel/spar/
-shop: convenience
+shop: Lebensmittel
 ---

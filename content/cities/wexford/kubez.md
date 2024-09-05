@@ -1,5 +1,5 @@
 ---
 title: "Kubez"
 url: /wexford/kubez/
-shop: beauty
+shop: Kosmetik
 ---

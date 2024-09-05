@@ -1,5 +1,5 @@
 ---
 title: "iBrows"
 url: /waterford/ibrows/
-shop: beauty
+shop: Kosmetik
 ---

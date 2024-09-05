@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /killorglin/eurospar/
-shop: supermarket
+shop: Supermarkt
 ---

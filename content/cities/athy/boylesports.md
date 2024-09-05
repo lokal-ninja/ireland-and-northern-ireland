@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /athy/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

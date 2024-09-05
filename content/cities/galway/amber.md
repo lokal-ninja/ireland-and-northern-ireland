@@ -1,5 +1,5 @@
 ---
 title: "Amber"
 url: /galway/amber/
-shop: gift
+shop: Andenken
 ---

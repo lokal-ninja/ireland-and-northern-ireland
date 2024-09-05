@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /blessington/centra/
-shop: convenience
+shop: Lebensmittel
 ---

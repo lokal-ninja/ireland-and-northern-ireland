@@ -1,5 +1,5 @@
 ---
 title: "ExtraMart"
 url: /dublin/extramart/
-shop: convenience
+shop: Lebensmittel
 ---

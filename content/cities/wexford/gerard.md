@@ -1,5 +1,5 @@
 ---
 title: "Gerard"
 url: /wexford/gerard/
-shop: clothes
+shop: Kleidung
 ---

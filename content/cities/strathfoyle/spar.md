@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /strathfoyle/spar/
-shop: supermarket
+shop: Supermarkt
 ---

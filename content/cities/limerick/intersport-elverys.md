@@ -1,5 +1,5 @@
 ---
 title: "Intersport Elverys"
 url: /limerick/intersport-elverys/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petmania"
 url: /navan/petmania/
-shop: pet
+shop: Tiere
 ---

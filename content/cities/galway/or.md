@@ -1,5 +1,5 @@
 ---
 title: "ór"
 url: /galway/or/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Neptune"
 url: /kilkenny/neptune/
-shop: furniture
+shop: Möbel
 ---

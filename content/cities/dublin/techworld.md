@@ -1,5 +1,5 @@
 ---
 title: "Techworld"
 url: /dublin/techworld/
-shop: electronics
+shop: Elektronik
 ---

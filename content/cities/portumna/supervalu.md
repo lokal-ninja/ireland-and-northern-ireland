@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /portumna/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

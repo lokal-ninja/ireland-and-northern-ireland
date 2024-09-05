@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /wexford/cex/
-shop: electronics
+shop: Elektronik
 ---

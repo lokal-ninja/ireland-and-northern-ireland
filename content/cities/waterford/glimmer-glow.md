@@ -1,5 +1,5 @@
 ---
 title: "Glimmer Glow"
 url: /waterford/glimmer-glow/
-shop: beauty
+shop: Kosmetik
 ---

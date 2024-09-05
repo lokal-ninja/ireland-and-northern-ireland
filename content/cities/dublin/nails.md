@@ -1,5 +1,5 @@
 ---
 title: "Nails"
 url: /dublin/nails/
-shop: beauty
+shop: Kosmetik
 ---

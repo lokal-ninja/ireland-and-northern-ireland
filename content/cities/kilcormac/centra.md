@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /kilcormac/centra/
-shop: supermarket
+shop: Supermarkt
 ---

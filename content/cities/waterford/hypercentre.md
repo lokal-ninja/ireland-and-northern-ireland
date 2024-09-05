@@ -1,5 +1,5 @@
 ---
 title: "Hypercentre"
 url: /waterford/hypercentre/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /wexford/nissan/
-shop: car
+shop: Autohaus
 ---

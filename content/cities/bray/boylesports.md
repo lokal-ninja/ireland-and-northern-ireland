@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /bray/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /swatragh/mace/
-shop: convenience
+shop: Lebensmittel
 ---

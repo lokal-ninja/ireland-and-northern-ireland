@@ -1,5 +1,5 @@
 ---
 title: "The Crew"
 url: /dublin/the-crew/
-shop: hairdresser
+shop: Friseur
 ---

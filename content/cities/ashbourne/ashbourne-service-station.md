@@ -1,5 +1,5 @@
 ---
 title: "Ashbourne Service Station"
 url: /ashbourne/ashbourne-service-station/
-shop: convenience
+shop: Lebensmittel
 ---

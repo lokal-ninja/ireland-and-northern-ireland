@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /kinsale/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

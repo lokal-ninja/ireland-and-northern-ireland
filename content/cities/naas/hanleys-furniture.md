@@ -1,5 +1,5 @@
 ---
 title: "Hanley's Furniture"
 url: /naas/hanleys-furniture/
-shop: furniture
+shop: Möbel
 ---

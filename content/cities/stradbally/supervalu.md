@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /stradbally/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

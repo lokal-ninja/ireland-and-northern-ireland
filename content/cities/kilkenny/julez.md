@@ -1,5 +1,5 @@
 ---
 title: "julez"
 url: /kilkenny/julez/
-shop: piercing
+shop: Piercing
 ---

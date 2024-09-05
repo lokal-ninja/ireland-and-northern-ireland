@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /athlone/spar/
-shop: convenience
+shop: Lebensmittel
 ---

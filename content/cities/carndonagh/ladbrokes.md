@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /carndonagh/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

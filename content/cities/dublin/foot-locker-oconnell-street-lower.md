@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /dublin/foot-locker-oconnell-street-lower/
-shop: shoes
+shop: Schuhe
 ---

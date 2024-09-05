@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /killarney/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

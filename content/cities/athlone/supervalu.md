@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /athlone/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

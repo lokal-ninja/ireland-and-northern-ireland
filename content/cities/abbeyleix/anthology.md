@@ -1,5 +1,5 @@
 ---
 title: "Anthology"
 url: /abbeyleix/anthology/
-shop: art
+shop: Kunst
 ---

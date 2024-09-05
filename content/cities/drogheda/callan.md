@@ -1,5 +1,5 @@
 ---
 title: "Callan"
 url: /drogheda/callan/
-shop: vacant
+shop: Leerstehend
 ---

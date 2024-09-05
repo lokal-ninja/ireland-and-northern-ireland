@@ -1,5 +1,5 @@
 ---
 title: "Scarlet Slippers"
 url: /dublin/scarlet-slippers/
-shop: shoes
+shop: Schuhe
 ---

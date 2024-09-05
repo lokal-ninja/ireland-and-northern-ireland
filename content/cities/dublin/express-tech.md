@@ -1,5 +1,5 @@
 ---
 title: "Express Tech"
 url: /dublin/express-tech/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /carrickfergus/eurospar-victoria-road/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /mitchelstown/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

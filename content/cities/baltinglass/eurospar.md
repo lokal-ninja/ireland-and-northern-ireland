@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /baltinglass/eurospar/
-shop: supermarket
+shop: Supermarkt
 ---

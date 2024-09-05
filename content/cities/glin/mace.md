@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /glin/mace/
-shop: convenience
+shop: Lebensmittel
 ---

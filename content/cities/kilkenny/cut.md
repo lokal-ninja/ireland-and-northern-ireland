@@ -1,5 +1,5 @@
 ---
 title: "Cut"
 url: /kilkenny/cut/
-shop: hairdresser
+shop: Friseur
 ---

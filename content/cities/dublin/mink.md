@@ -1,5 +1,5 @@
 ---
 title: "Mink"
 url: /dublin/mink/
-shop: beauty
+shop: Kosmetik
 ---

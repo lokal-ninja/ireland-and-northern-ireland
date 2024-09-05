@@ -1,5 +1,5 @@
 ---
 title: "Flowercraft"
 url: /enniscorthy/flowercraft/
-shop: florist
+shop: Blumen
 ---

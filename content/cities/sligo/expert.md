@@ -1,5 +1,5 @@
 ---
 title: "Expert"
 url: /sligo/expert/
-shop: electronics
+shop: Elektronik
 ---

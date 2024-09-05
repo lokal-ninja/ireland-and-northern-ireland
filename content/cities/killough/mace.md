@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /killough/mace/
-shop: convenience
+shop: Lebensmittel
 ---

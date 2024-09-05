@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /corofin/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

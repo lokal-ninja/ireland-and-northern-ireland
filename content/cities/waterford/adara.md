@@ -1,5 +1,5 @@
 ---
 title: "Adara"
 url: /waterford/adara/
-shop: clothes
+shop: Kleidung
 ---

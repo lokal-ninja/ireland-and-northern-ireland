@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /baltinglass/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

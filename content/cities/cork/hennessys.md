@@ -1,5 +1,5 @@
 ---
 title: "Hennessys"
 url: /cork/hennessys/
-shop: alcohol
+shop: Spirituosen
 ---

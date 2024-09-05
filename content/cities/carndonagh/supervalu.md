@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /carndonagh/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

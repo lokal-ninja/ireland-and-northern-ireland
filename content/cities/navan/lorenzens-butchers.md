@@ -1,5 +1,5 @@
 ---
 title: "Lorenzen's Butchers"
 url: /navan/lorenzens-butchers/
-shop: butcher
+shop: Metzgerei
 ---

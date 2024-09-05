@@ -1,5 +1,5 @@
 ---
 title: "MUM"
 url: /enniscorthy/mum/
-shop: fabric
+shop: Textil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /galway/londis/
-shop: convenience
+shop: Lebensmittel
 ---

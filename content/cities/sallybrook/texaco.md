@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /sallybrook/texaco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ICE"
 url: /dublin/ice/
-shop: car repair
+shop: Autowerkstatt
 ---

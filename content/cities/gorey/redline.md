@@ -1,5 +1,5 @@
 ---
 title: "Redline"
 url: /gorey/redline/
-shop: hairdresser
+shop: Friseur
 ---

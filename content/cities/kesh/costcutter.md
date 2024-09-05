@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /kesh/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

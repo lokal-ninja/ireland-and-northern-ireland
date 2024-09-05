@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /ballybofey/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

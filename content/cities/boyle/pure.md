@@ -1,5 +1,5 @@
 ---
 title: "Pure"
 url: /boyle/pure/
-shop: furniture
+shop: Möbel
 ---

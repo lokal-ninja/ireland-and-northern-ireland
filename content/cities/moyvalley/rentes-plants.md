@@ -1,5 +1,5 @@
 ---
 title: "Rentes Plants"
 url: /moyvalley/rentes-plants/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Billiard Co."
 url: /dublin/the-billiard-co/
-shop: sports
+shop: Sport
 ---

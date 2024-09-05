@@ -1,5 +1,5 @@
 ---
 title: "Sarah's Boutique"
 url: /galway/sarahs-boutique/
-shop: clothes
+shop: Kleidung
 ---

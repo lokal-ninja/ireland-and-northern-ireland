@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /campile/centra/
-shop: convenience
+shop: Lebensmittel
 ---

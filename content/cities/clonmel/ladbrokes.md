@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /clonmel/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

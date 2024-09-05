@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /annagry/spar/
-shop: convenience
+shop: Lebensmittel
 ---

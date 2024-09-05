@@ -1,5 +1,5 @@
 ---
 title: "Corribe Tackle"
 url: /galway/corribe-tackle/
-shop: fishing
+shop: Angeln
 ---

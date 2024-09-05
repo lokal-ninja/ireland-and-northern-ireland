@@ -1,5 +1,5 @@
 ---
 title: "Salingers"
 url: /cork/salingers/
-shop: tailor
+shop: Schneiderei
 ---

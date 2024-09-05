@@ -1,5 +1,5 @@
 ---
 title: "Samaritans"
 url: /kilkenny/samaritans/
-shop: charity
+shop: Gebrauchtwaren
 ---

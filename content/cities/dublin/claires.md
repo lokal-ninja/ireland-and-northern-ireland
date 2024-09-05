@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /dublin/claires/
-shop: boutique
+shop: Modehaus
 ---

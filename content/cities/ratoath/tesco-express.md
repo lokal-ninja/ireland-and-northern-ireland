@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /ratoath/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

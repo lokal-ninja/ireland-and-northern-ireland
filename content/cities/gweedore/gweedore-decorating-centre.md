@@ -1,5 +1,5 @@
 ---
 title: "Gweedore Decorating Centre"
 url: /gweedore/gweedore-decorating-centre/
-shop: paint
+shop: Farben
 ---

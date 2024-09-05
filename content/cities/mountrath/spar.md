@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /mountrath/spar/
-shop: supermarket
+shop: Supermarkt
 ---

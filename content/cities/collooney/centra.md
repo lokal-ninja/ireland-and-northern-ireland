@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /collooney/centra/
-shop: convenience
+shop: Lebensmittel
 ---

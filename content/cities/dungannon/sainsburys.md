@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /dungannon/sainsburys/
-shop: supermarket
+shop: Supermarkt
 ---

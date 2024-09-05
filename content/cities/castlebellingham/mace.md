@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /castlebellingham/mace/
-shop: convenience
+shop: Lebensmittel
 ---

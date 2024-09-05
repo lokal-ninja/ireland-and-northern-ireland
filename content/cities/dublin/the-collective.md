@@ -1,5 +1,5 @@
 ---
 title: "The Collective"
 url: /dublin/the-collective/
-shop: jewelry
+shop: Schmuck
 ---

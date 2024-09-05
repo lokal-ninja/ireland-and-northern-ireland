@@ -1,5 +1,5 @@
 ---
 title: "Flower Power"
 url: /glounthaune/flower-power/
-shop: florist
+shop: Blumen
 ---

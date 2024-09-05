@@ -1,6 +1,6 @@
 ---
 title: Sligo
 url: /sligo/
-latitude: 54.271
-longitude: -8.476
+latitude: 54.268
+longitude: -8.473
 ---

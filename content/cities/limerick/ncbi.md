@@ -1,5 +1,5 @@
 ---
 title: "NCBI"
 url: /limerick/ncbi/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /roscrea/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

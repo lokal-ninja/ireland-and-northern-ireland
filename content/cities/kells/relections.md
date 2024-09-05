@@ -1,5 +1,5 @@
 ---
 title: "Relections"
 url: /kells/relections/
-shop: shop
+shop: Allgemein
 ---

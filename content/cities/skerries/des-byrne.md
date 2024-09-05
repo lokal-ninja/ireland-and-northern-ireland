@@ -1,5 +1,5 @@
 ---
 title: "Des Byrne"
 url: /skerries/des-byrne/
-shop: butcher
+shop: Metzgerei
 ---

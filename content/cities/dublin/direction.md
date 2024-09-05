@@ -1,5 +1,5 @@
 ---
 title: "Direction"
 url: /dublin/direction/
-shop: clothes
+shop: Kleidung
 ---

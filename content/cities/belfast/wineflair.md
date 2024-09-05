@@ -1,5 +1,5 @@
 ---
 title: "WineFlair"
 url: /belfast/wineflair/
-shop: alcohol
+shop: Spirituosen
 ---

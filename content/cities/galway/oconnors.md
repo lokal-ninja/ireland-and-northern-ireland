@@ -1,5 +1,5 @@
 ---
 title: "O'Connors"
 url: /galway/oconnors/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Doorware"
 url: /galway/doorware/
-shop: hardware
+shop: Eisenwaren
 ---

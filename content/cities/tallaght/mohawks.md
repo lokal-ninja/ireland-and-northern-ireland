@@ -1,5 +1,5 @@
 ---
 title: "Mohawks"
 url: /tallaght/mohawks/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orlik"
 url: /gorey/orlik/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

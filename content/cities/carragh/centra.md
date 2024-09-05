@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /carragh/centra/
-shop: supermarket
+shop: Supermarkt
 ---

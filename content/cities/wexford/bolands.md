@@ -1,5 +1,5 @@
 ---
 title: "Bolands"
 url: /wexford/bolands/
-shop: car
+shop: Autohaus
 ---

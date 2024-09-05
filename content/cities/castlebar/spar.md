@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /castlebar/spar/
-shop: convenience
+shop: Lebensmittel
 ---

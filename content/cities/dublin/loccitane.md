@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /dublin/loccitane/
-shop: beauty
+shop: Kosmetik
 ---

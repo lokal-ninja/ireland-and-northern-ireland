@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /urlingford/centra/
-shop: convenience
+shop: Lebensmittel
 ---

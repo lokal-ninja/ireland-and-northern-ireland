@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /greystones/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rongs"
 url: /dublin/rongs/
-shop: supermarket
+shop: Supermarkt
 ---

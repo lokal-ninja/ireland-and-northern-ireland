@@ -1,5 +1,5 @@
 ---
 title: "Hugmie"
 url: /tallaght/hugmie/
-shop: electronics
+shop: Elektronik
 ---

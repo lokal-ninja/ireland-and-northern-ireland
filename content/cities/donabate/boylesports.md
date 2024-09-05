@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /donabate/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

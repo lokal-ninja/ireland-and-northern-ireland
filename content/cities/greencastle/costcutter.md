@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /greencastle/costcutter/
-shop: supermarket
+shop: Supermarkt
 ---

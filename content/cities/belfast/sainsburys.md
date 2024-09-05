@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /belfast/sainsburys/
-shop: supermarket
+shop: Supermarkt
 ---

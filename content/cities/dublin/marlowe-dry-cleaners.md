@@ -1,5 +1,5 @@
 ---
 title: "Marlowe Dry Cleaners"
 url: /dublin/marlowe-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

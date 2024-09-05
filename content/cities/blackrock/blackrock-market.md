@@ -1,5 +1,5 @@
 ---
 title: "Blackrock Market"
 url: /blackrock/blackrock-market/
-shop: outdoor
+shop: Outdoor
 ---

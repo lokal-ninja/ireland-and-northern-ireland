@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mallow/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

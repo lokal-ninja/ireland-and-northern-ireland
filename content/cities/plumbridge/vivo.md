@@ -1,5 +1,5 @@
 ---
 title: "ViVO"
 url: /plumbridge/vivo/
-shop: convenience
+shop: Lebensmittel
 ---

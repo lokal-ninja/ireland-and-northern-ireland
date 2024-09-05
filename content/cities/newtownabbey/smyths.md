@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /newtownabbey/smyths/
-shop: toys
+shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CountryLife"
 url: /new-ross/countrylife/
-shop: garden centre
+shop: Garten-Center
 ---

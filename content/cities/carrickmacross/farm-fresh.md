@@ -1,5 +1,5 @@
 ---
 title: "Farm Fresh"
 url: /carrickmacross/farm-fresh/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

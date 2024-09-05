@@ -1,5 +1,5 @@
 ---
 title: "Hairstyling"
 url: /carrickmacross/hairstyling/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McNally"
 url: /dublin/mcnally/
-shop: kitchen
+shop: Küchen
 ---

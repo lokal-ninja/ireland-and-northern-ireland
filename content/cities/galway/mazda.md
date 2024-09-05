@@ -1,5 +1,5 @@
 ---
 title: "Mazda"
 url: /galway/mazda/
-shop: car
+shop: Autohaus
 ---

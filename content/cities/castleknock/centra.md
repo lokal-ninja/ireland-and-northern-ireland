@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /castleknock/centra/
-shop: convenience
+shop: Lebensmittel
 ---

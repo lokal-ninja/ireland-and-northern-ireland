@@ -1,5 +1,5 @@
 ---
 title: "Stitches"
 url: /galway/stitches/
-shop: tailor
+shop: Schneiderei
 ---

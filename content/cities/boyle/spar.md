@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /boyle/spar/
-shop: convenience
+shop: Lebensmittel
 ---

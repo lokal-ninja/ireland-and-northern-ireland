@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /cappoquin/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

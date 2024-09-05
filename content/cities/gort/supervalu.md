@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /gort/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /ballymena/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

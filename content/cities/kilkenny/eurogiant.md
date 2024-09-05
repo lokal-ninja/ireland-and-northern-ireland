@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /kilkenny/eurogiant/
-shop: variety store
+shop: Kramladen
 ---

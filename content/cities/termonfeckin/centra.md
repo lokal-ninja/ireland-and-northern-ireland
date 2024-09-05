@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /termonfeckin/centra/
-shop: convenience
+shop: Lebensmittel
 ---

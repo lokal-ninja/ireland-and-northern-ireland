@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /belfast/centra-donegall-square-east/
-shop: convenience
+shop: Lebensmittel
 ---

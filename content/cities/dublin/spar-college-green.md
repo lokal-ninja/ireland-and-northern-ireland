@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /dublin/spar-college-green/
-shop: convenience
+shop: Lebensmittel
 ---

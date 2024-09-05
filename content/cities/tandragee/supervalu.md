@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /tandragee/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

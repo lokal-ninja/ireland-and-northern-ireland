@@ -1,5 +1,5 @@
 ---
 title: "O'Malleys"
 url: /dublin/omalleys/
-shop: shop
+shop: Allgemein
 ---

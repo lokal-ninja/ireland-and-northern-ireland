@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /tipperary/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

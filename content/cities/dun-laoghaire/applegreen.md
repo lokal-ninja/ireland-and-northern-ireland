@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /dun-laoghaire/applegreen/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gatzby"
 url: /ratoath/gatzby/
-shop: hairdresser
+shop: Friseur
 ---

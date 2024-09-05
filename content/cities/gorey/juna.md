@@ -1,5 +1,5 @@
 ---
 title: "Juna"
 url: /gorey/juna/
-shop: gift
+shop: Andenken
 ---

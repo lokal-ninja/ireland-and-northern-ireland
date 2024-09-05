@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /macroom/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

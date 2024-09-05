@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /stillorgan/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

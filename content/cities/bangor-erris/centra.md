@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /bangor-erris/centra/
-shop: supermarket
+shop: Supermarkt
 ---

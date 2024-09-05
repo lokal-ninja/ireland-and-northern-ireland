@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /kilworth/centra/
-shop: convenience
+shop: Lebensmittel
 ---

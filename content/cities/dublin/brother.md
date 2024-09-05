@@ -1,5 +1,5 @@
 ---
 title: "Brother"
 url: /dublin/brother/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Babooshka"
 url: /wexford/babooshka/
-shop: clothes
+shop: Kleidung
 ---

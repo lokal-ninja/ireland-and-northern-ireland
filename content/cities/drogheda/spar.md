@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /drogheda/spar/
-shop: convenience
+shop: Lebensmittel
 ---

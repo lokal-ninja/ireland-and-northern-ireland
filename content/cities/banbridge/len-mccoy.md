@@ -1,5 +1,5 @@
 ---
 title: "Len McCoy"
 url: /banbridge/len-mccoy/
-shop: garden centre
+shop: Garten-Center
 ---

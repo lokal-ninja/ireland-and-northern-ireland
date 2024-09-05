@@ -1,5 +1,5 @@
 ---
 title: "Linnane"
 url: /ennistimon/linnane/
-shop: shop
+shop: Allgemein
 ---

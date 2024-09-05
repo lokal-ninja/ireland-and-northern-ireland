@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /naul/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

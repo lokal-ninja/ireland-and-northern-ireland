@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /castleblayney/centra/
-shop: convenience
+shop: Lebensmittel
 ---

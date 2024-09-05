@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /charlestown/spar/
-shop: convenience
+shop: Lebensmittel
 ---

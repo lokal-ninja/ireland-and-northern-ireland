@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /ashbourne/jysk/
-shop: furniture
+shop: Möbel
 ---

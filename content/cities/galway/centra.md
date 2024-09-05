@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /galway/centra/
-shop: convenience
+shop: Lebensmittel
 ---

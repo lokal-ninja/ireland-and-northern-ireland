@@ -1,5 +1,5 @@
 ---
 title: "Newsspot"
 url: /dublin/newsspot/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valumart"
 url: /dublin/valumart/
-shop: variety store
+shop: Kramladen
 ---

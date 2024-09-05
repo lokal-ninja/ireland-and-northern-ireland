@@ -1,5 +1,5 @@
 ---
 title: "Kavanaghs"
 url: /waterford/kavanaghs/
-shop: convenience
+shop: Lebensmittel
 ---

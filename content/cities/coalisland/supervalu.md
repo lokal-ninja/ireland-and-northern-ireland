@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /coalisland/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

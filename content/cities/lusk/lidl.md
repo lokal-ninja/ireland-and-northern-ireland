@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /lusk/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /cookstown/argos/
-shop: catalogue
+shop: Katalog
 ---

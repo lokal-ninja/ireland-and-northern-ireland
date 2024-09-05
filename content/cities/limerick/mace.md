@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /limerick/mace/
-shop: convenience
+shop: Lebensmittel
 ---

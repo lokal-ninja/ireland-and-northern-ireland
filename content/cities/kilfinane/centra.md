@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /kilfinane/centra/
-shop: convenience
+shop: Lebensmittel
 ---

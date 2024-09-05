@@ -1,5 +1,5 @@
 ---
 title: "Camera Repair"
 url: /dublin/camera-repair/
-shop: photo
+shop: Foto
 ---

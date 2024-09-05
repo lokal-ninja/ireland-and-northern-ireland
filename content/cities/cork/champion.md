@@ -1,5 +1,5 @@
 ---
 title: "Champion"
 url: /cork/champion/
-shop: clothes
+shop: Kleidung
 ---

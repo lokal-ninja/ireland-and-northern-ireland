@@ -1,5 +1,5 @@
 ---
 title: "Hairdresser"
 url: /kilcock/hairdresser/
-shop: hairdresser
+shop: Friseur
 ---

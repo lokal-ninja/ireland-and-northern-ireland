@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /cork/argos/
-shop: catalogue
+shop: Katalog
 ---

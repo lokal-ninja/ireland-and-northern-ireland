@@ -1,5 +1,5 @@
 ---
 title: "Dempsey"
 url: /enniscorthy/dempsey/
-shop: shop
+shop: Allgemein
 ---

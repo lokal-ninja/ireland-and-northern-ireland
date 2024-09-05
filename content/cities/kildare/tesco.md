@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /kildare/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

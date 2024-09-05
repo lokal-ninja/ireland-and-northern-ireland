@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /waterford/homesavers-2/
-shop: garden centre
+shop: Garten-Center
 ---

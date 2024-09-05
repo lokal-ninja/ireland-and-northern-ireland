@@ -1,5 +1,5 @@
 ---
 title: "Campus"
 url: /dublin/campus/
-shop: convenience
+shop: Lebensmittel
 ---

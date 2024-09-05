@@ -1,5 +1,5 @@
 ---
 title: "Tanya's"
 url: /richhill/tanyas/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McGreals"
 url: /galway/mcgreals/
-shop: convenience
+shop: Lebensmittel
 ---

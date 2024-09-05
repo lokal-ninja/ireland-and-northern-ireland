@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /rathcoole/centra/
-shop: convenience
+shop: Lebensmittel
 ---

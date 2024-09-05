@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /youghal/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

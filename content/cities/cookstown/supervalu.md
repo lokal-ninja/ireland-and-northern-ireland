@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /cookstown/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

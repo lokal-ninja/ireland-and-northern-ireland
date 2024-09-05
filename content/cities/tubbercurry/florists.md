@@ -1,5 +1,5 @@
 ---
 title: "Florists"
 url: /tubbercurry/florists/
-shop: florist
+shop: Blumen
 ---

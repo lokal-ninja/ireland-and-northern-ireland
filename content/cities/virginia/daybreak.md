@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /virginia/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

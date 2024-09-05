@@ -1,5 +1,5 @@
 ---
 title: "Petworld"
 url: /tallaght/petworld/
-shop: pet
+shop: Tiere
 ---

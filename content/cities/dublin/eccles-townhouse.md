@@ -1,5 +1,5 @@
 ---
 title: "Eccles Townhouse"
 url: /dublin/eccles-townhouse/
-shop: deli
+shop: Feinkost
 ---

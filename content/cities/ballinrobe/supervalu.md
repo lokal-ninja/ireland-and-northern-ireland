@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /ballinrobe/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /dublin/londis/
-shop: convenience
+shop: Lebensmittel
 ---

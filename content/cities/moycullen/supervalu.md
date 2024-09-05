@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /moycullen/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

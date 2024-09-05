@@ -1,5 +1,5 @@
 ---
 title: "Whitewash"
 url: /dublin/whitewash/
-shop: laundry
+shop: Wäscherei
 ---

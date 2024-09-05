@@ -1,5 +1,5 @@
 ---
 title: "Balfes"
 url: /dublin/balfes/
-shop: shop
+shop: Allgemein
 ---

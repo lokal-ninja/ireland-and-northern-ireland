@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /londonderry/primark/
-shop: clothes
+shop: Kleidung
 ---

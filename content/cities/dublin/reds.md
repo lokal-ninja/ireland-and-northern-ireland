@@ -1,5 +1,5 @@
 ---
 title: "Reds"
 url: /dublin/reds/
-shop: hairdresser
+shop: Friseur
 ---

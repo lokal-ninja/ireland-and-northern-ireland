@@ -1,5 +1,5 @@
 ---
 title: "Sculpted"
 url: /dundrum/sculpted/
-shop: beauty
+shop: Kosmetik
 ---

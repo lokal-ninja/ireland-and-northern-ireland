@@ -1,5 +1,5 @@
 ---
 title: "MemoryC"
 url: /celbridge/memoryc/
-shop: computer
+shop: Computer
 ---

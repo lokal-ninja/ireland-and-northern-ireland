@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /letterkenny/peugeot/
-shop: car
+shop: Autohaus
 ---

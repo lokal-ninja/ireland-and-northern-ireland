@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /castleblayney/londis/
-shop: convenience
+shop: Lebensmittel
 ---

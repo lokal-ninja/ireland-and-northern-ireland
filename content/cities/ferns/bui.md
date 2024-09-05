@@ -1,5 +1,5 @@
 ---
 title: "Bui"
 url: /ferns/bui/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dougans"
 url: /portglenone/dougans/
-shop: furniture
+shop: Möbel
 ---

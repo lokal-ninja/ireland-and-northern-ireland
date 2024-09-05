@@ -1,5 +1,5 @@
 ---
 title: "Vineleaf"
 url: /dublin/vineleaf/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lúnasa Farm"
 url: /clarecastle/lunasa-farm/
-shop: butcher
+shop: Metzgerei
 ---

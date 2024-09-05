@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /carrowdore/eurospar/
-shop: supermarket
+shop: Supermarkt
 ---

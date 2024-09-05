@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /navan/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

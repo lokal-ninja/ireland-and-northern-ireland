@@ -1,5 +1,5 @@
 ---
 title: "Monaghans"
 url: /sligo/monaghans/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /athy/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /tallaght/carpetright/
-shop: carpet
+shop: Teppiche
 ---

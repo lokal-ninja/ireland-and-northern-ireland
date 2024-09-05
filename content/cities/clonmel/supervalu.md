@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /clonmel/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

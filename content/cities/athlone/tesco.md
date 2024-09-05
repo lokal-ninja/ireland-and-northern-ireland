@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /athlone/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

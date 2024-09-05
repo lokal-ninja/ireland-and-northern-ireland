@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /drogheda/specsavers/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /tullow/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

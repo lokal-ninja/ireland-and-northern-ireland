@@ -1,5 +1,5 @@
 ---
 title: "Teknos"
 url: /magherafelt/teknos/
-shop: paint
+shop: Farben
 ---

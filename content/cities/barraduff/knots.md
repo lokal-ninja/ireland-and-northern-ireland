@@ -1,5 +1,5 @@
 ---
 title: "Knots"
 url: /barraduff/knots/
-shop: hairdresser
+shop: Friseur
 ---

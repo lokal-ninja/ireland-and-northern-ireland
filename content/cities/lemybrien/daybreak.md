@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /lemybrien/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

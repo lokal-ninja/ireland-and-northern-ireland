@@ -1,5 +1,5 @@
 ---
 title: "Eason"
 url: /gorey/eason/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /killybegs/centra/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cork City Ford"
 url: /cork/cork-city-ford/
-shop: car
+shop: Autohaus
 ---

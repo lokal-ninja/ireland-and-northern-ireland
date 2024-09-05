@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /belfast/iceland-antrim-road/
-shop: frozen food
+shop: Tiefkühl
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lorcan Bryne Interiors"
 url: /gorey/lorcan-bryne-interiors/
-shop: kitchen
+shop: Küchen
 ---

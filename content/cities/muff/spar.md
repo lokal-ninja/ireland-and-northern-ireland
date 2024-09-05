@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /muff/spar/
-shop: convenience
+shop: Lebensmittel
 ---

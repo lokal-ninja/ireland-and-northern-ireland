@@ -1,5 +1,5 @@
 ---
 title: "Sweet Notes"
 url: /dunshaughlin/sweet-notes/
-shop: shop
+shop: Allgemein
 ---

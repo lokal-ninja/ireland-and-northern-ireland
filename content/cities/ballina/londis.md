@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /ballina/londis/
-shop: convenience
+shop: Lebensmittel
 ---

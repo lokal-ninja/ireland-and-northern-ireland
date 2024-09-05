@@ -1,5 +1,5 @@
 ---
 title: "Winemark"
 url: /belfast/winemark/
-shop: wine
+shop: Wein
 ---

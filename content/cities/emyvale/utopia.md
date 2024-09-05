@@ -1,5 +1,5 @@
 ---
 title: "Utopia"
 url: /emyvale/utopia/
-shop: optician
+shop: Optiker
 ---

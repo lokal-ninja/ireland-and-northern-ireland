@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /ballymote/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jenny's"
 url: /kinsale/jennys/
-shop: shop
+shop: Allgemein
 ---

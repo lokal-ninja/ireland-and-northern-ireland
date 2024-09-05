@@ -1,5 +1,5 @@
 ---
 title: "U Mirka"
 url: /new-ross/u-mirka/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calendar Club"
 url: /dublin/calendar-club/
-shop: gift
+shop: Andenken
 ---

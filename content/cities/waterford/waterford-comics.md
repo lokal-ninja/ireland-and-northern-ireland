@@ -1,5 +1,5 @@
 ---
 title: "Waterford Comics"
 url: /waterford/waterford-comics/
-shop: collector
+shop: Sammler
 ---

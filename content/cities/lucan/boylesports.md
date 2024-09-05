@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /lucan/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

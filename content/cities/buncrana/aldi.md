@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /buncrana/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /rathcoole/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

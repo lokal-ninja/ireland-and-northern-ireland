@@ -1,5 +1,5 @@
 ---
 title: "Woodie's"
 url: /mullingar/woodies/
-shop: doityourself
+shop: Baumarkt
 ---

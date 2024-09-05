@@ -1,5 +1,5 @@
 ---
 title: "Cronin Kitchens"
 url: /killeagh/cronin-kitchens/
-shop: kitchen
+shop: Küchen
 ---

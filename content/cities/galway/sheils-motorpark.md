@@ -1,5 +1,5 @@
 ---
 title: "Sheils Motorpark"
 url: /galway/sheils-motorpark/
-shop: car
+shop: Autohaus
 ---

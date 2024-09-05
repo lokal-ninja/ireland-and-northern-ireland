@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /dublin/dunnes-stores-grange-road/
-shop: supermarket
+shop: Supermarkt
 ---

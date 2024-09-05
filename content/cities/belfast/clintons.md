@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /belfast/clintons/
-shop: gift
+shop: Andenken
 ---

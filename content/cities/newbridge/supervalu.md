@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /newbridge/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

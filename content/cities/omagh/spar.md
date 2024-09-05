@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /omagh/spar/
-shop: convenience
+shop: Lebensmittel
 ---

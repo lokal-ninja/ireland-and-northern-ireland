@@ -1,5 +1,5 @@
 ---
 title: "Laundrette"
 url: /limerick/laundrette/
-shop: laundry
+shop: Wäscherei
 ---

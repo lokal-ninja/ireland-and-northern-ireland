@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /newbridge/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

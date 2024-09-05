@@ -1,5 +1,5 @@
 ---
 title: "Waterford Antiques"
 url: /waterford/waterford-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

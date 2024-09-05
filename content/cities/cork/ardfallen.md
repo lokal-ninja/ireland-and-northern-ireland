@@ -1,5 +1,5 @@
 ---
 title: "Ardfallen"
 url: /cork/ardfallen/
-shop: mall
+shop: Einkaufszentrum
 ---

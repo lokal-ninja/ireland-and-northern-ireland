@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /kilcock/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

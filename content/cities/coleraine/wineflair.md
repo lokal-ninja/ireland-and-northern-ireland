@@ -1,5 +1,5 @@
 ---
 title: "Wineflair"
 url: /coleraine/wineflair/
-shop: alcohol
+shop: Spirituosen
 ---

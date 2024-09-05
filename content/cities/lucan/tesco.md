@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /lucan/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

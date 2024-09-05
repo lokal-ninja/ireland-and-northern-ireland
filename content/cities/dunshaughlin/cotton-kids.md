@@ -1,5 +1,5 @@
 ---
 title: "Cotton Kids"
 url: /dunshaughlin/cotton-kids/
-shop: clothes
+shop: Kleidung
 ---

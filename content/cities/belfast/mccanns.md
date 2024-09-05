@@ -1,5 +1,5 @@
 ---
 title: "McCanns"
 url: /belfast/mccanns/
-shop: military
+shop: Militär
 ---

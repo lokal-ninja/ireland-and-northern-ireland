@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /lucan/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

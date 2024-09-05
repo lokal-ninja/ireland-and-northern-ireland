@@ -1,5 +1,5 @@
 ---
 title: "The Belgrove"
 url: /dublin/the-belgrove/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /dungannon/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

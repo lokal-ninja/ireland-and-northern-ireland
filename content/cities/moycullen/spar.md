@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /moycullen/spar/
-shop: convenience
+shop: Lebensmittel
 ---

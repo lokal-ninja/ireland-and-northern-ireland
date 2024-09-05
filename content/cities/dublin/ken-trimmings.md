@@ -1,5 +1,5 @@
 ---
 title: "Ken Trimmings"
 url: /dublin/ken-trimmings/
-shop: tailor
+shop: Schneiderei
 ---

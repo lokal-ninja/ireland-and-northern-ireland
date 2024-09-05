@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /bray/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

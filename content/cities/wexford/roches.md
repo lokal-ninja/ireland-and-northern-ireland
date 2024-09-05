@@ -1,5 +1,5 @@
 ---
 title: "Roches"
 url: /wexford/roches/
-shop: convenience
+shop: Lebensmittel
 ---

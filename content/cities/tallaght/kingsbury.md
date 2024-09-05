@@ -1,5 +1,5 @@
 ---
 title: "Kingsbury"
 url: /tallaght/kingsbury/
-shop: furniture
+shop: Möbel
 ---

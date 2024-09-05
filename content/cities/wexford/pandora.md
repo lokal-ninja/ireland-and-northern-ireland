@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /wexford/pandora/
-shop: jewelry
+shop: Schmuck
 ---

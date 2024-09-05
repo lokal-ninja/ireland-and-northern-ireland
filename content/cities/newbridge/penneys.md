@@ -1,5 +1,5 @@
 ---
 title: "Penneys"
 url: /newbridge/penneys/
-shop: clothes
+shop: Kleidung
 ---

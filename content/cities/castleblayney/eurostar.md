@@ -1,5 +1,5 @@
 ---
 title: "EuroStar"
 url: /castleblayney/eurostar/
-shop: variety store
+shop: Kramladen
 ---

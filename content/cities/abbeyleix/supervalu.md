@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /abbeyleix/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

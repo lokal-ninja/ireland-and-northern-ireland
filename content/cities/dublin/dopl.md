@@ -1,5 +1,5 @@
 ---
 title: "dopl."
 url: /dublin/dopl/
-shop: shoes
+shop: Schuhe
 ---

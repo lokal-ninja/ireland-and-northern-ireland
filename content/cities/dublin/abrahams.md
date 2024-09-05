@@ -1,5 +1,5 @@
 ---
 title: "Abrahams"
 url: /dublin/abrahams/
-shop: clothes
+shop: Kleidung
 ---

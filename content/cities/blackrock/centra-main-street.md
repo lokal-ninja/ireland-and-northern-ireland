@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /blackrock/centra-main-street/
-shop: convenience
+shop: Lebensmittel
 ---

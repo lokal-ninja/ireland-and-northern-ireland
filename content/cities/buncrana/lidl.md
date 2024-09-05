@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /buncrana/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

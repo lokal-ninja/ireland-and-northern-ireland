@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /lisbellaw/spar/
-shop: supermarket
+shop: Supermarkt
 ---

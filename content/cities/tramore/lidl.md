@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /tramore/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

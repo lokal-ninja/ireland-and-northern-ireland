@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /galway/next/
-shop: clothes
+shop: Kleidung
 ---

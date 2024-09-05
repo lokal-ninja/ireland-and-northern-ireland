@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /craigavon/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

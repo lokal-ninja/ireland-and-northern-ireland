@@ -1,5 +1,5 @@
 ---
 title: "Penneys"
 url: /carlow/penneys/
-shop: clothes
+shop: Kleidung
 ---

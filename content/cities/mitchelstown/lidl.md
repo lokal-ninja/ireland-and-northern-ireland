@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /mitchelstown/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

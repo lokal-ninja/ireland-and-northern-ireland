@@ -1,5 +1,5 @@
 ---
 title: "Headlines Newsagents"
 url: /galway/headlines-newsagents/
-shop: convenience
+shop: Lebensmittel
 ---

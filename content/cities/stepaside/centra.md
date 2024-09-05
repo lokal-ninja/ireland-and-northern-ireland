@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /stepaside/centra/
-shop: convenience
+shop: Lebensmittel
 ---

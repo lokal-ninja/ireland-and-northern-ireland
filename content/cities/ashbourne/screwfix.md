@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /ashbourne/screwfix/
-shop: hardware
+shop: Eisenwaren
 ---

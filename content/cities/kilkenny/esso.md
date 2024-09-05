@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /kilkenny/esso/
-shop: convenience
+shop: Lebensmittel
 ---

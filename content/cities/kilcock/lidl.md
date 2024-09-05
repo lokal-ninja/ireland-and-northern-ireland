@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /kilcock/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

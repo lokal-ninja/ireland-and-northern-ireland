@@ -1,5 +1,5 @@
 ---
 title: "O'Briens"
 url: /citywest/obriens/
-shop: alcohol
+shop: Spirituosen
 ---

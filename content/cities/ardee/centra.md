@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ardee/centra/
-shop: supermarket
+shop: Supermarkt
 ---

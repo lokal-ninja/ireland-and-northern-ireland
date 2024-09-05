@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /dublin/centra/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /donaghmore/centra/
-shop: convenience
+shop: Lebensmittel
 ---

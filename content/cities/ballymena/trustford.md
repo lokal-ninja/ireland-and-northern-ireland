@@ -1,5 +1,5 @@
 ---
 title: "TrustFord"
 url: /ballymena/trustford/
-shop: car
+shop: Autohaus
 ---

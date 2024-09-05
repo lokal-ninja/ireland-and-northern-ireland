@@ -1,5 +1,5 @@
 ---
 title: "Bubbles Launderette"
 url: /navan/bubbles-launderette/
-shop: laundry
+shop: Wäscherei
 ---

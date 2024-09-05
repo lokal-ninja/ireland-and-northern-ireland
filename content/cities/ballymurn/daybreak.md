@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /ballymurn/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

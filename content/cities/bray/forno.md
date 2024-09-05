@@ -1,5 +1,5 @@
 ---
 title: "Forno"
 url: /bray/forno/
-shop: bakery
+shop: Bäckerei
 ---

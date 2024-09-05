@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /letterbreen/spar/
-shop: convenience
+shop: Lebensmittel
 ---

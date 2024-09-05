@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /waterford/skechers/
-shop: shoes
+shop: Schuhe
 ---

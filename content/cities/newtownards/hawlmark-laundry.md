@@ -1,5 +1,5 @@
 ---
 title: "Hawlmark Laundry"
 url: /newtownards/hawlmark-laundry/
-shop: laundry
+shop: Wäscherei
 ---

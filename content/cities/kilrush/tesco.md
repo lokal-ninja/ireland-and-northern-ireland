@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /kilrush/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

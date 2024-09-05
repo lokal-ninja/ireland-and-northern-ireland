@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /clane/homesavers/
-shop: garden centre
+shop: Garten-Center
 ---

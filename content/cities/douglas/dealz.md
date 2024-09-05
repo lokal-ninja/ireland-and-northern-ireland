@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /douglas/dealz/
-shop: variety store
+shop: Kramladen
 ---

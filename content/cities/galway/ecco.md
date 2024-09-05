@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /galway/ecco/
-shop: shoes
+shop: Schuhe
 ---

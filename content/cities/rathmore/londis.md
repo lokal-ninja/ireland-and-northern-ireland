@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /rathmore/londis/
-shop: convenience
+shop: Lebensmittel
 ---

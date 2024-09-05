@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /kildorrery/centra/
-shop: convenience
+shop: Lebensmittel
 ---

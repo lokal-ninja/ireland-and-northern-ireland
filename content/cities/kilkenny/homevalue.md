@@ -1,5 +1,5 @@
 ---
 title: "Homevalue"
 url: /kilkenny/homevalue/
-shop: shop
+shop: Allgemein
 ---

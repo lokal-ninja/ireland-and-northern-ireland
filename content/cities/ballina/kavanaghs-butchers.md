@@ -1,5 +1,5 @@
 ---
 title: "Kavanaghs Butchers"
 url: /ballina/kavanaghs-butchers/
-shop: butcher
+shop: Metzgerei
 ---

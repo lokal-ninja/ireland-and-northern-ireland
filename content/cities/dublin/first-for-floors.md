@@ -1,5 +1,5 @@
 ---
 title: "First for Floors"
 url: /dublin/first-for-floors/
-shop: doityourself
+shop: Baumarkt
 ---

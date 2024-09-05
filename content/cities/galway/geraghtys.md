@@ -1,5 +1,5 @@
 ---
 title: "Geraghty's"
 url: /galway/geraghtys/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Army Surplus"
 url: /portlaoise/army-surplus/
-shop: charity
+shop: Gebrauchtwaren
 ---

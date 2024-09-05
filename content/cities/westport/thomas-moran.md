@@ -1,5 +1,5 @@
 ---
 title: "Thomas Moran"
 url: /westport/thomas-moran/
-shop: gift
+shop: Andenken
 ---

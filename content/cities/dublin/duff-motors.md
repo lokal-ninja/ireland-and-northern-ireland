@@ -1,5 +1,5 @@
 ---
 title: "Duff Motors"
 url: /dublin/duff-motors/
-shop: car repair
+shop: Autowerkstatt
 ---

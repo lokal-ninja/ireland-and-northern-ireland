@@ -1,5 +1,5 @@
 ---
 title: "Blu"
 url: /wexford/blu/
-shop: bathroom
+shop: Badezimmer
 ---

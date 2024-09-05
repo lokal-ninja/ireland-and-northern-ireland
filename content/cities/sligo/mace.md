@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /sligo/mace/
-shop: convenience
+shop: Lebensmittel
 ---

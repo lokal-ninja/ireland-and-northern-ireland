@@ -1,5 +1,5 @@
 ---
 title: "Gourmet Pantry"
 url: /kinsale/gourmet-pantry/
-shop: deli
+shop: Feinkost
 ---

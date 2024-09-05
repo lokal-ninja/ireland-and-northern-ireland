@@ -1,5 +1,5 @@
 ---
 title: "Vincent's"
 url: /ballina/vincents/
-shop: charity
+shop: Gebrauchtwaren
 ---

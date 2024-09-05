@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /portglenone/eurospar/
-shop: supermarket
+shop: Supermarkt
 ---

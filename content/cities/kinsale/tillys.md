@@ -1,5 +1,5 @@
 ---
 title: "Tilly's"
 url: /kinsale/tillys/
-shop: gift
+shop: Andenken
 ---

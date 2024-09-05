@@ -1,5 +1,5 @@
 ---
 title: "Classic Fireplaces"
 url: /little-island/classic-fireplaces/
-shop: fireplace
+shop: Kamine & Öfen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toals"
 url: /portglenone/toals/
-shop: bookmaker
+shop: Wettbüro
 ---

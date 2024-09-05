@@ -1,5 +1,5 @@
 ---
 title: "Penneys"
 url: /castlebar/penneys/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /ballyvolane/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

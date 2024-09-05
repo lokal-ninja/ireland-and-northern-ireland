@@ -1,5 +1,5 @@
 ---
 title: "Michel"
 url: /cork/michel/
-shop: jewelry
+shop: Schmuck
 ---

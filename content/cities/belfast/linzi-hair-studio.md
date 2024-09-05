@@ -1,5 +1,5 @@
 ---
 title: "Linzi Hair Studio"
 url: /belfast/linzi-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

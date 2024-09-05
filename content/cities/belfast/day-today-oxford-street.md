@@ -1,5 +1,5 @@
 ---
 title: "Day-Today"
 url: /belfast/day-today-oxford-street/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /dromore/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

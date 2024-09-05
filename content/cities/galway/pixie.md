@@ -1,5 +1,5 @@
 ---
 title: "Pixie"
 url: /galway/pixie/
-shop: hairdresser
+shop: Friseur
 ---

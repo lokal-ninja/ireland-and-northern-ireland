@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /tubbercurry/spar/
-shop: convenience
+shop: Lebensmittel
 ---

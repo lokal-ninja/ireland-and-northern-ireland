@@ -1,5 +1,5 @@
 ---
 title: "McKennas"
 url: /ballinamuck/mckennas/
-shop: convenience
+shop: Lebensmittel
 ---

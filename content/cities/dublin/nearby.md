@@ -1,5 +1,5 @@
 ---
 title: "Nearby"
 url: /dublin/nearby/
-shop: convenience
+shop: Lebensmittel
 ---

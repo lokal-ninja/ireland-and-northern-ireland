@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /dunmanway/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

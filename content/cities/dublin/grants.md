@@ -1,5 +1,5 @@
 ---
 title: "Grants"
 url: /dublin/grants/
-shop: clothes
+shop: Kleidung
 ---

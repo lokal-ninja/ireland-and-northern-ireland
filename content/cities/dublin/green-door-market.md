@@ -1,5 +1,5 @@
 ---
 title: "Green Door Market"
 url: /dublin/green-door-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

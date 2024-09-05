@@ -1,5 +1,5 @@
 ---
 title: "Dimples"
 url: /virginia/dimples/
-shop: beauty
+shop: Kosmetik
 ---

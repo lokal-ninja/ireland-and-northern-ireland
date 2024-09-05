@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /tramore/daybreak/
-shop: convenience
+shop: Lebensmittel
 ---

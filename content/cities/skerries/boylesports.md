@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /skerries/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

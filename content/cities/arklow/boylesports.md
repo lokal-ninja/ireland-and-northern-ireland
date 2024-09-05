@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /arklow/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

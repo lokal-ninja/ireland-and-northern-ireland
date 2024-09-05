@@ -1,5 +1,5 @@
 ---
 title: "Penneys"
 url: /tallaght/penneys/
-shop: clothes
+shop: Kleidung
 ---

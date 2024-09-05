@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /callan/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

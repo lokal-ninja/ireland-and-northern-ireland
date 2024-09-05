@@ -1,5 +1,5 @@
 ---
 title: "VILA"
 url: /galway/vila/
-shop: clothes
+shop: Kleidung
 ---

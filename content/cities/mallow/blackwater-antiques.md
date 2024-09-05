@@ -1,5 +1,5 @@
 ---
 title: "Blackwater Antiques"
 url: /mallow/blackwater-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

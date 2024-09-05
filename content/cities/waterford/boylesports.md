@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /waterford/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

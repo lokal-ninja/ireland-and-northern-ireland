@@ -1,5 +1,5 @@
 ---
 title: "Padoca"
 url: /dublin/padoca/
-shop: bakery
+shop: Bäckerei
 ---

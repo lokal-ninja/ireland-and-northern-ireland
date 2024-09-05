@@ -1,5 +1,5 @@
 ---
 title: "Seven"
 url: /enfield/seven/
-shop: hairdresser
+shop: Friseur
 ---

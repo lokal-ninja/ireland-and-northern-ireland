@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /omagh/centra/
-shop: convenience
+shop: Lebensmittel
 ---

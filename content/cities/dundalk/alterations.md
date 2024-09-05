@@ -1,5 +1,5 @@
 ---
 title: "Alterations"
 url: /dundalk/alterations/
-shop: tailor
+shop: Schneiderei
 ---

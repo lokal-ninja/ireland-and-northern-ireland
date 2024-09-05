@@ -1,5 +1,5 @@
 ---
 title: "Nailux"
 url: /wexford/nailux/
-shop: beauty
+shop: Kosmetik
 ---

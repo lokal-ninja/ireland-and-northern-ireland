@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /nenagh/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crown Decorating Centre"
 url: /cork/crown-decorating-centre/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /claudy/centra/
-shop: convenience
+shop: Lebensmittel
 ---

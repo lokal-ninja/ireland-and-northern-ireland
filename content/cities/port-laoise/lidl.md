@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /port-laoise/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

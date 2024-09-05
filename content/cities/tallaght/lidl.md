@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /tallaght/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

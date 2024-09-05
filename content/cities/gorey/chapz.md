@@ -1,5 +1,5 @@
 ---
 title: "Chapz"
 url: /gorey/chapz/
-shop: hairdresser
+shop: Friseur
 ---

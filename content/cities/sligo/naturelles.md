@@ -1,5 +1,5 @@
 ---
 title: "Naturelles"
 url: /sligo/naturelles/
-shop: hairdresser
+shop: Friseur
 ---

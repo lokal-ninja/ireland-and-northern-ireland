@@ -1,5 +1,5 @@
 ---
 title: "Grapevine"
 url: /dalkey/grapevine/
-shop: wine
+shop: Wein
 ---

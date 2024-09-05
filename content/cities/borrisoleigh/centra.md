@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /borrisoleigh/centra/
-shop: convenience
+shop: Lebensmittel
 ---

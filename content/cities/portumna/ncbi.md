@@ -1,5 +1,5 @@
 ---
 title: "NCBI"
 url: /portumna/ncbi/
-shop: charity
+shop: Gebrauchtwaren
 ---

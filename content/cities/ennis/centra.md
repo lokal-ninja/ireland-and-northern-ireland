@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ennis/centra/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "International Books"
 url: /dublin/international-books/
-shop: books
+shop: Bücher
 ---

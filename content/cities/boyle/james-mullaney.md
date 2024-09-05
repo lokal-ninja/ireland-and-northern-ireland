@@ -1,5 +1,5 @@
 ---
 title: "James Mullaney"
 url: /boyle/james-mullaney/
-shop: shop
+shop: Allgemein
 ---

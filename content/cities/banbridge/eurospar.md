@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /banbridge/eurospar/
-shop: supermarket
+shop: Supermarkt
 ---

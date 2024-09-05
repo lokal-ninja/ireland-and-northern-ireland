@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /kilkenny/pandora/
-shop: jewelry
+shop: Schmuck
 ---

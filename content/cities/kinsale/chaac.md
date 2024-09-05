@@ -1,5 +1,5 @@
 ---
 title: "Chaac"
 url: /kinsale/chaac/
-shop: clothes
+shop: Kleidung
 ---

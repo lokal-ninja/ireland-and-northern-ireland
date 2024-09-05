@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /gorey/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

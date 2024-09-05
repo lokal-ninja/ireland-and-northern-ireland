@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ennis/spar/
-shop: convenience
+shop: Lebensmittel
 ---

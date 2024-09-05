@@ -1,5 +1,5 @@
 ---
 title: "Scissors"
 url: /ballybay/scissors/
-shop: hairdresser
+shop: Friseur
 ---

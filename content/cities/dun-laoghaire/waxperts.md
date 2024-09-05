@@ -1,5 +1,5 @@
 ---
 title: "Waxperts"
 url: /dun-laoghaire/waxperts/
-shop: beauty
+shop: Kosmetik
 ---

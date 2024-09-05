@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /bangor/mace/
-shop: convenience
+shop: Lebensmittel
 ---

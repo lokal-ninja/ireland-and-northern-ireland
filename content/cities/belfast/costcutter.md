@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /belfast/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

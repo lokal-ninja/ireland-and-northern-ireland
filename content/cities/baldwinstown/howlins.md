@@ -1,5 +1,5 @@
 ---
 title: "Howlins"
 url: /baldwinstown/howlins/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

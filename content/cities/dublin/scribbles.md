@@ -1,5 +1,5 @@
 ---
 title: "Scribbles"
 url: /dublin/scribbles/
-shop: convenience
+shop: Lebensmittel
 ---

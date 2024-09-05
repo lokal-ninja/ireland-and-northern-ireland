@@ -1,5 +1,5 @@
 ---
 title: "Hale"
 url: /galway/hale/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

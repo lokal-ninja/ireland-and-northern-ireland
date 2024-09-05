@@ -1,5 +1,5 @@
 ---
 title: "Zara's Threading Bar"
 url: /waterford/zaras-threading-bar/
-shop: beauty
+shop: Kosmetik
 ---

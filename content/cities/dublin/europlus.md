@@ -1,5 +1,5 @@
 ---
 title: "EuroPlus"
 url: /dublin/europlus/
-shop: variety store
+shop: Kramladen
 ---

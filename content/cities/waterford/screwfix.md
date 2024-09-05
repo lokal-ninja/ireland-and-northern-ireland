@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /waterford/screwfix/
-shop: hardware
+shop: Eisenwaren
 ---

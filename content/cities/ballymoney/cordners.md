@@ -1,5 +1,5 @@
 ---
 title: "Cordners"
 url: /ballymoney/cordners/
-shop: clothes
+shop: Kleidung
 ---

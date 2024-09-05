@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /rathangan/londis/
-shop: supermarket
+shop: Supermarkt
 ---

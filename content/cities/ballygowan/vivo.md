@@ -1,5 +1,5 @@
 ---
 title: "ViVO"
 url: /ballygowan/vivo/
-shop: convenience
+shop: Lebensmittel
 ---

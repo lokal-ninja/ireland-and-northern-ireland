@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /cobh/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

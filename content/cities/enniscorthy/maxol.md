@@ -1,5 +1,5 @@
 ---
 title: "Maxol"
 url: /enniscorthy/maxol/
-shop: convenience
+shop: Lebensmittel
 ---

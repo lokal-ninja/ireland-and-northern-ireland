@@ -1,5 +1,5 @@
 ---
 title: "Skin City Tattoo"
 url: /dublin/skin-city-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

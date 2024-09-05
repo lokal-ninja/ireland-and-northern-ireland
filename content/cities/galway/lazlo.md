@@ -1,5 +1,5 @@
 ---
 title: "Lazlo"
 url: /galway/lazlo/
-shop: jewelry
+shop: Schmuck
 ---

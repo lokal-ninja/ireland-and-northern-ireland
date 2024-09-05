@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ballinamallard/spar/
-shop: supermarket
+shop: Supermarkt
 ---

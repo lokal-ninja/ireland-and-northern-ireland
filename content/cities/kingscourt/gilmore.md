@@ -1,5 +1,5 @@
 ---
 title: "Gilmore"
 url: /kingscourt/gilmore/
-shop: car
+shop: Autohaus
 ---

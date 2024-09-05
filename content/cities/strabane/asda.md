@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /strabane/asda/
-shop: supermarket
+shop: Supermarkt
 ---

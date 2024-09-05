@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ballyduff/centra/
-shop: convenience
+shop: Lebensmittel
 ---

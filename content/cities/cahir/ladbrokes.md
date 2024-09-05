@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /cahir/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /portlaoise/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

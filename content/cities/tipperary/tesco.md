@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /tipperary/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

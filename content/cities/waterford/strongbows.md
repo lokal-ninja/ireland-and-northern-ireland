@@ -1,5 +1,5 @@
 ---
 title: "Strongbows"
 url: /waterford/strongbows/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /fintona/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

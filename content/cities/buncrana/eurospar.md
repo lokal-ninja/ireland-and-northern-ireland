@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /buncrana/eurospar/
-shop: supermarket
+shop: Supermarkt
 ---

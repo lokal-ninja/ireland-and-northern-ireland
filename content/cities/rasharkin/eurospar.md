@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /rasharkin/eurospar/
-shop: supermarket
+shop: Supermarkt
 ---

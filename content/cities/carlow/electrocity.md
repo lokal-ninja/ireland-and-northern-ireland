@@ -1,5 +1,5 @@
 ---
 title: "Electrocity"
 url: /carlow/electrocity/
-shop: electronics
+shop: Elektronik
 ---

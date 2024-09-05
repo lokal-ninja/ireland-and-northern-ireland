@@ -1,5 +1,5 @@
 ---
 title: "MySatNav.ie"
 url: /dun-laoghaire/mysatnav-ie/
-shop: electronics
+shop: Elektronik
 ---

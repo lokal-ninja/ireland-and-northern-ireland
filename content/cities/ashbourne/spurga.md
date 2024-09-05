@@ -1,5 +1,5 @@
 ---
 title: "Spurga"
 url: /ashbourne/spurga/
-shop: convenience
+shop: Lebensmittel
 ---

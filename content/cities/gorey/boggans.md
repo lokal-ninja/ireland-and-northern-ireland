@@ -1,5 +1,5 @@
 ---
 title: "Boggans"
 url: /gorey/boggans/
-shop: car
+shop: Autohaus
 ---

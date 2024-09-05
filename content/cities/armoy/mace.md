@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /armoy/mace/
-shop: supermarket
+shop: Supermarkt
 ---

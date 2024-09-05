@@ -1,5 +1,5 @@
 ---
 title: "Schuh"
 url: /galway/schuh/
-shop: shoes
+shop: Schuhe
 ---

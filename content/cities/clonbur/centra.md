@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /clonbur/centra/
-shop: convenience
+shop: Lebensmittel
 ---

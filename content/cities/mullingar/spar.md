@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /mullingar/spar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Revolve"
 url: /gorey/revolve/
-shop: bicycle
+shop: Fahrrad
 ---

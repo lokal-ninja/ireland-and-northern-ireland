@@ -1,5 +1,5 @@
 ---
 title: "Therapie"
 url: /limerick/therapie/
-shop: beauty
+shop: Kosmetik
 ---

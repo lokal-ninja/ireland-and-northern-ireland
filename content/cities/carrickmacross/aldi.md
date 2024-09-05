@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /carrickmacross/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

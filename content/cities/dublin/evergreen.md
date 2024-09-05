@@ -1,5 +1,5 @@
 ---
 title: "Evergreen"
 url: /dublin/evergreen/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

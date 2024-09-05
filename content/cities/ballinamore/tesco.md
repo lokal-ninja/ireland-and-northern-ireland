@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /ballinamore/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

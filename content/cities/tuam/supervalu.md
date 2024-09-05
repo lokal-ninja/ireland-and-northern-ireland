@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /tuam/supervalu/
-shop: supermarket
+shop: Supermarkt
 ---

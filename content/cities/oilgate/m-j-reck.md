@@ -1,5 +1,5 @@
 ---
 title: "M.J. Reck"
 url: /oilgate/m-j-reck/
-shop: carpet
+shop: Teppiche
 ---
