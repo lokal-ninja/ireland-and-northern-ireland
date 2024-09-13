@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /clonmel/eurogiant/
-shop: Kramladen
+shop: variety store
 ---

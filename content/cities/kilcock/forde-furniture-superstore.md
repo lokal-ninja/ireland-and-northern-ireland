@@ -1,5 +1,5 @@
 ---
 title: "Forde Furniture Superstore"
 url: /kilcock/forde-furniture-superstore/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /banbridge/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

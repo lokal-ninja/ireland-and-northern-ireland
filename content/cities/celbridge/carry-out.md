@@ -1,5 +1,5 @@
 ---
 title: "Carry Out"
 url: /celbridge/carry-out/
-shop: Spirituosen
+shop: alcohol
 ---

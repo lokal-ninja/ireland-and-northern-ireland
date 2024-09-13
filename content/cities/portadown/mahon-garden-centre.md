@@ -1,5 +1,5 @@
 ---
 title: "Mahon Garden Centre"
 url: /portadown/mahon-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

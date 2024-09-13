@@ -1,5 +1,5 @@
 ---
 title: "McHughs"
 url: /dublin/mchughs/
-shop: Spirituosen
+shop: alcohol
 ---

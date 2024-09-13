@@ -1,5 +1,5 @@
 ---
 title: "Alias Hair"
 url: /belfast/alias-hair/
-shop: Friseur
+shop: hairdresser
 ---

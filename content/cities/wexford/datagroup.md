@@ -1,5 +1,5 @@
 ---
 title: "Datagroup"
 url: /wexford/datagroup/
-shop: Kopieren
+shop: copyshop
 ---

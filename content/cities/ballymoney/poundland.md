@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /ballymoney/poundland/
-shop: Kramladen
+shop: variety store
 ---

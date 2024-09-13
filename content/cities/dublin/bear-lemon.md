@@ -1,5 +1,5 @@
 ---
 title: "Bear Lemon"
 url: /dublin/bear-lemon/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /belfast/mace/
-shop: Lebensmittel
+shop: convenience
 ---

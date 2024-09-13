@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /swords/ecco/
-shop: Schuhe
+shop: shoes
 ---

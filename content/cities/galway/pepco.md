@@ -1,5 +1,5 @@
 ---
 title: "Pepco"
 url: /galway/pepco/
-shop: Kramladen
+shop: variety store
 ---

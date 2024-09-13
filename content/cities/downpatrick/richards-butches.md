@@ -1,5 +1,5 @@
 ---
 title: "Richards Butches"
 url: /downpatrick/richards-butches/
-shop: Metzgerei
+shop: butcher
 ---

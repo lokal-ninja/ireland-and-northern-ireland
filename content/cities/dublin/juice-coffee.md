@@ -1,5 +1,5 @@
 ---
 title: "Juice + Coffee"
 url: /dublin/juice-coffee/
-shop: Allgemein
+shop: shop
 ---

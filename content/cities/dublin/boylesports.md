@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /dublin/boylesports/
-shop: Wettbüro
+shop: bookmaker
 ---

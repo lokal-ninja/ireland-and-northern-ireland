@@ -1,5 +1,5 @@
 ---
 title: "Fogarty’s"
 url: /thurles/fogartys/
-shop: Lebensmittel
+shop: convenience
 ---

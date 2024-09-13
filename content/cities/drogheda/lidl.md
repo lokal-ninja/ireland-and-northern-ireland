@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /drogheda/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

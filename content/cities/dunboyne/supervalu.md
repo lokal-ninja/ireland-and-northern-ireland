@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /dunboyne/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

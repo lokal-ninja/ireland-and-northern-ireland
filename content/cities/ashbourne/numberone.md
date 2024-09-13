@@ -1,5 +1,5 @@
 ---
 title: "NumberOne"
 url: /ashbourne/numberone/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /larne/spar/
-shop: Lebensmittel
+shop: convenience
 ---

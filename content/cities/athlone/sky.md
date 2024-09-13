@@ -1,5 +1,5 @@
 ---
 title: "Sky"
 url: /athlone/sky/
-shop: Handy
+shop: mobile phone
 ---

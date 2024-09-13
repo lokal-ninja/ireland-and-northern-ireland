@@ -1,5 +1,5 @@
 ---
 title: "School Necessities"
 url: /tramore/school-necessities/
-shop: Schreibwaren
+shop: office supplies
 ---

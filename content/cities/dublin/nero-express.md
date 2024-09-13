@@ -1,5 +1,5 @@
 ---
 title: "Nero Express"
 url: /dublin/nero-express/
-shop: Kiosk
+shop: kiosk
 ---

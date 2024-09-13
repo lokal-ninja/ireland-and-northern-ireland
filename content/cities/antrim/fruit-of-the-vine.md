@@ -1,5 +1,5 @@
 ---
 title: "Fruit of the Vine"
 url: /antrim/fruit-of-the-vine/
-shop: Spirituosen
+shop: alcohol
 ---

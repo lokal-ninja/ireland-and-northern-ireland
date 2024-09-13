@@ -1,5 +1,5 @@
 ---
 title: "The Tanning Studio"
 url: /waterford/the-tanning-studio/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dance City"
 url: /limerick/dance-city/
-shop: Kleidung
+shop: clothes
 ---

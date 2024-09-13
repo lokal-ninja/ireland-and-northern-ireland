@@ -1,5 +1,5 @@
 ---
 title: "Revolution Laundry"
 url: /new-ross/revolution-laundry/
-shop: Wäscherei
+shop: laundry
 ---

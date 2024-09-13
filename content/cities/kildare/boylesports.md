@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /kildare/boylesports/
-shop: Wettbüro
+shop: bookmaker
 ---

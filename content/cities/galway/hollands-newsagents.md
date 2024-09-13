@@ -1,5 +1,5 @@
 ---
 title: "Hollands Newsagents"
 url: /galway/hollands-newsagents/
-shop: Lebensmittel
+shop: convenience
 ---

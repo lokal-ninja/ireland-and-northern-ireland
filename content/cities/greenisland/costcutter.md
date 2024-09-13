@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /greenisland/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

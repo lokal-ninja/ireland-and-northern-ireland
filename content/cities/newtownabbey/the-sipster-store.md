@@ -1,5 +1,5 @@
 ---
 title: "The Sipster Store"
 url: /newtownabbey/the-sipster-store/
-shop: Spirituosen
+shop: alcohol
 ---

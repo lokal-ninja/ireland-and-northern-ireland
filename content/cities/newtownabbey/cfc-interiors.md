@@ -1,5 +1,5 @@
 ---
 title: "CFC Interiors"
 url: /newtownabbey/cfc-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

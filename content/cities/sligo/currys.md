@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /sligo/currys/
-shop: Elektronik
+shop: electronics
 ---

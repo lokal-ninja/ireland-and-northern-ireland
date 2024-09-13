@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /ballycastle/co-op-food/
-shop: Lebensmittel
+shop: convenience
 ---

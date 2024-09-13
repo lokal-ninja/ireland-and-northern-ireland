@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /blackrock/sue-ryder/
-shop: Gebrauchtwaren
+shop: charity
 ---

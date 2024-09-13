@@ -1,5 +1,5 @@
 ---
 title: "Woodie's"
 url: /lucan/woodies/
-shop: Baumarkt
+shop: doityourself
 ---

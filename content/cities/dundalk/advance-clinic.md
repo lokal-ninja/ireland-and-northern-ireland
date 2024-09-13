@@ -1,5 +1,5 @@
 ---
 title: "Advance Clinic"
 url: /dundalk/advance-clinic/
-shop: Kosmetik
+shop: beauty
 ---

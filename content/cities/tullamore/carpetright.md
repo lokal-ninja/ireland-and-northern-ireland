@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /tullamore/carpetright/
-shop: Teppiche
+shop: carpet
 ---

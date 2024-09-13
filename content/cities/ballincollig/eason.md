@@ -1,5 +1,5 @@
 ---
 title: "Eason"
 url: /ballincollig/eason/
-shop: Bücher
+shop: books
 ---

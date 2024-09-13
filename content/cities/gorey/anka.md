@@ -1,5 +1,5 @@
 ---
 title: "Anka"
 url: /gorey/anka/
-shop: Wäscherei
+shop: laundry
 ---

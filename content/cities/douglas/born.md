@@ -1,5 +1,5 @@
 ---
 title: "Born"
 url: /douglas/born/
-shop: Kleidung
+shop: clothes
 ---

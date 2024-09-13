@@ -1,5 +1,5 @@
 ---
 title: "Right Price Tile"
 url: /navan/right-price-tile/
-shop: Fliesen
+shop: tiles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /wexford/roots/
-shop: Friseur
+shop: hairdresser
 ---

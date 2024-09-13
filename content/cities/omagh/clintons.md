@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /omagh/clintons/
-shop: Andenken
+shop: gift
 ---

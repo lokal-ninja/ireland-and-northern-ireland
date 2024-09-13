@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /dromara/eurospar/
-shop: Supermarkt
+shop: supermarket
 ---

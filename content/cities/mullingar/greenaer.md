@@ -1,5 +1,5 @@
 ---
 title: "Greenaer"
 url: /mullingar/greenaer/
-shop: Fahrrad
+shop: bicycle
 ---

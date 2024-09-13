@@ -1,5 +1,5 @@
 ---
 title: "Stonechat"
 url: /dublin/stonechat/
-shop: Schmuck
+shop: jewelry
 ---

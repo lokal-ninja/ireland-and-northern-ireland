@@ -1,5 +1,5 @@
 ---
 title: "Munchkins"
 url: /gorey/munchkins/
-shop: Babysachen
+shop: baby goods
 ---

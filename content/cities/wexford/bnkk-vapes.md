@@ -1,5 +1,5 @@
 ---
 title: "BNKK Vapes"
 url: /wexford/bnkk-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

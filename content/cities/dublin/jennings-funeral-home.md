@@ -1,5 +1,5 @@
 ---
 title: "Jennings Funeral Home"
 url: /dublin/jennings-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Campbell's"
 url: /new-ross/campbells/
-shop: Allgemein
+shop: shop
 ---

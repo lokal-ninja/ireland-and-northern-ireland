@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /macroom/dunnes-stores/
-shop: Supermarkt
+shop: supermarket
 ---

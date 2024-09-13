@@ -1,5 +1,5 @@
 ---
 title: "Lir Bridal"
 url: /gorey/lir-bridal/
-shop: Kleidung
+shop: clothes
 ---

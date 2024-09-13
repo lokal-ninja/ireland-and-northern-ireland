@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /scarriff/centra/
-shop: Supermarkt
+shop: supermarket
 ---

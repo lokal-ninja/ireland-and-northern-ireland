@@ -1,5 +1,5 @@
 ---
 title: "Donovan's"
 url: /moneygall/donovans/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /rathcoole/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "O'Briens"
 url: /malahide/obriens/
-shop: Spirituosen
+shop: alcohol
 ---

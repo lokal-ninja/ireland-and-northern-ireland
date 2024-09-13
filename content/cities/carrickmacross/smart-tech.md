@@ -1,5 +1,5 @@
 ---
 title: "Smart Tech"
 url: /carrickmacross/smart-tech/
-shop: Elektronik
+shop: electronics
 ---

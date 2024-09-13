@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /galway/pandora/
-shop: Schmuck
+shop: jewelry
 ---

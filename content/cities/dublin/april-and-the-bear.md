@@ -1,5 +1,5 @@
 ---
 title: "April and the Bear"
 url: /dublin/april-and-the-bear/
-shop: Raumausstattung
+shop: interior decoration
 ---

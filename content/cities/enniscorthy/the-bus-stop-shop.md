@@ -1,5 +1,5 @@
 ---
 title: "The Bus Stop Shop"
 url: /enniscorthy/the-bus-stop-shop/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "John Banks Tyres"
 url: /cork/john-banks-tyres/
-shop: Reifen
+shop: tyres
 ---

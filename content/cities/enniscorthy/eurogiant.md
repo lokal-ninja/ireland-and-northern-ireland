@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /enniscorthy/eurogiant/
-shop: Kramladen
+shop: variety store
 ---

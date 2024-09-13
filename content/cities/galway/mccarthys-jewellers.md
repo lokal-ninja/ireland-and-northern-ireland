@@ -1,5 +1,5 @@
 ---
 title: "McCarthy's Jewellers"
 url: /galway/mccarthys-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

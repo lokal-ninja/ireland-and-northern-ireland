@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /portarlington/centra/
-shop: Lebensmittel
+shop: convenience
 ---

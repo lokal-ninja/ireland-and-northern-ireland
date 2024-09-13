@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bundoran/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

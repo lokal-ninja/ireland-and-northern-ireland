@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /foxrock/dunnes-stores/
-shop: Warenhaus
+shop: department store
 ---

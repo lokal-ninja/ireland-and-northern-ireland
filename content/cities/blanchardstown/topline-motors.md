@@ -1,5 +1,5 @@
 ---
 title: "Topline Motors"
 url: /blanchardstown/topline-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fresh Dry Cleaners"
 url: /dublin/fresh-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jim Rock Motors"
 url: /dublin/jim-rock-motors/
-shop: Autohaus
+shop: car
 ---

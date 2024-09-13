@@ -1,5 +1,5 @@
 ---
 title: "Phones Made Easy"
 url: /charleville/phones-made-easy/
-shop: Handy
+shop: mobile phone
 ---

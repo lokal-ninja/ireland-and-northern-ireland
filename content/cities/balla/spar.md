@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /balla/spar/
-shop: Lebensmittel
+shop: convenience
 ---

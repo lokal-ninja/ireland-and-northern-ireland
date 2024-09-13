@@ -1,5 +1,5 @@
 ---
 title: "ASICS"
 url: /dublin/asics/
-shop: Schuhe
+shop: shoes
 ---

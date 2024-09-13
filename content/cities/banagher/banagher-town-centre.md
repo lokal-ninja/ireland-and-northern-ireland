@@ -1,5 +1,5 @@
 ---
 title: "Banagher Town Centre"
 url: /banagher/banagher-town-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

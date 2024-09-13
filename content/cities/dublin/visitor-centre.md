@@ -1,5 +1,5 @@
 ---
 title: "Visitor Centre"
 url: /dublin/visitor-centre/
-shop: Tickets
+shop: ticket
 ---

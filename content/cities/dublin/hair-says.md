@@ -1,5 +1,5 @@
 ---
 title: "Hair Says"
 url: /dublin/hair-says/
-shop: Friseur
+shop: hairdresser
 ---

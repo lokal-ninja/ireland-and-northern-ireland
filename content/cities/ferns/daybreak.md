@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /ferns/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

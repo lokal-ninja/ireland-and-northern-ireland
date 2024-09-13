@@ -1,5 +1,5 @@
 ---
 title: "Corrib Memorials"
 url: /galway/corrib-memorials/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr. Price"
 url: /ashbourne/mr-price/
-shop: Kramladen
+shop: variety store
 ---

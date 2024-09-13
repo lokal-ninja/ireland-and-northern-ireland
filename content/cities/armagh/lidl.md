@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /armagh/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

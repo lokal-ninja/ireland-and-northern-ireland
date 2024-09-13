@@ -1,5 +1,5 @@
 ---
 title: "Murphy Jewellers"
 url: /wexford/murphy-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

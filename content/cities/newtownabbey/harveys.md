@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /newtownabbey/harveys/
-shop: Möbel
+shop: furniture
 ---

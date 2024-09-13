@@ -1,5 +1,5 @@
 ---
 title: "Dillingers"
 url: /carrickfergus/dillingers/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /rathmore/centra/
-shop: Lebensmittel
+shop: convenience
 ---

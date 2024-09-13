@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /galway/dunnes-stores-seamus-quirke-road/
-shop: Supermarkt
+shop: supermarket
 ---

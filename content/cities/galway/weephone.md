@@ -1,5 +1,5 @@
 ---
 title: "Weephone"
 url: /galway/weephone/
-shop: Handy
+shop: mobile phone
 ---

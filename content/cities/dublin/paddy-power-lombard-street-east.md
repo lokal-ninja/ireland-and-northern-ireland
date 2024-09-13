@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /dublin/paddy-power-lombard-street-east/
-shop: Wettbüro
+shop: bookmaker
 ---

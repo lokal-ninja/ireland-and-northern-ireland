@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /edenderry/dunnes-stores/
-shop: Supermarkt
+shop: supermarket
 ---

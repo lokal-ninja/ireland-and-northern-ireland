@@ -1,5 +1,5 @@
 ---
 title: "Jebb Tools"
 url: /shanballymore/jebb-tools/
-shop: Werkzeuge
+shop: tools
 ---

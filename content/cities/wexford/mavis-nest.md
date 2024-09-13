@@ -1,5 +1,5 @@
 ---
 title: "Mavis Nest"
 url: /wexford/mavis-nest/
-shop: Kosmetik
+shop: beauty
 ---

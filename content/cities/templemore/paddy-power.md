@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /templemore/paddy-power/
-shop: Wettbüro
+shop: bookmaker
 ---

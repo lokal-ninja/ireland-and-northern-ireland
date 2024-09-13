@@ -1,5 +1,5 @@
 ---
 title: "Cross's Funeral Home Ltd."
 url: /limerick/crosss-funeral-home-ltd/
-shop: Bestattungen
+shop: funeral directors
 ---

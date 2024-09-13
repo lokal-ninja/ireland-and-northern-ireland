@@ -1,5 +1,5 @@
 ---
 title: "Home Focus"
 url: /dun-laoghaire/home-focus/
-shop: Textil
+shop: fabric
 ---

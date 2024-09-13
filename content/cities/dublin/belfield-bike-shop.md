@@ -1,5 +1,5 @@
 ---
 title: "Belfield Bike Shop"
 url: /dublin/belfield-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

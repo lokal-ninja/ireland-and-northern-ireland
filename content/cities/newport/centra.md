@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /newport/centra/
-shop: Lebensmittel
+shop: convenience
 ---

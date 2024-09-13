@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /tallow/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /ballymena/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

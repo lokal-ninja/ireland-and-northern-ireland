@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /belturbet/centra/
-shop: Supermarkt
+shop: supermarket
 ---

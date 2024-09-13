@@ -1,5 +1,5 @@
 ---
 title: "First Stop"
 url: /galway/first-stop/
-shop: Autowerkstatt
+shop: car repair
 ---

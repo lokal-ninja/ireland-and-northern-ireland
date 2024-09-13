@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /monaghan/jysk/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whetstone"
 url: /dublin/whetstone/
-shop: Friseur
+shop: hairdresser
 ---

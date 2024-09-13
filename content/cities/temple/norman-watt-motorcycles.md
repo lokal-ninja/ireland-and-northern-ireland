@@ -1,5 +1,5 @@
 ---
 title: "Norman Watt Motorcycles"
 url: /temple/norman-watt-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

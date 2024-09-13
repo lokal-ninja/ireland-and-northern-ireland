@@ -1,5 +1,5 @@
 ---
 title: "VILA"
 url: /kilkenny/vila/
-shop: Kleidung
+shop: clothes
 ---

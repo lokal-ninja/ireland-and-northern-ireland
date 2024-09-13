@@ -1,5 +1,5 @@
 ---
 title: "Carnival Supermarket"
 url: /galway/carnival-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castore"
 url: /dublin/castore/
-shop: Allgemein
+shop: shop
 ---

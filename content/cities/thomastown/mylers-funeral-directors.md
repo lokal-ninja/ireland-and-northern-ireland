@@ -1,5 +1,5 @@
 ---
 title: "Mylers Funeral Directors"
 url: /thomastown/mylers-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

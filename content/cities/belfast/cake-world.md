@@ -1,5 +1,5 @@
 ---
 title: "Cake World"
 url: /belfast/cake-world/
-shop: Konditorei
+shop: pastry
 ---

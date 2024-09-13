@@ -1,5 +1,5 @@
 ---
 title: "ViVO"
 url: /enniskillen/vivo/
-shop: Lebensmittel
+shop: convenience
 ---

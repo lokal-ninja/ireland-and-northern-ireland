@@ -1,5 +1,5 @@
 ---
 title: "Window Warehouse (Rosscarbery)"
 url: /rosscarbery-co-cork/window-warehouse-rosscarbery/
-shop: Türen
+shop: doors
 ---

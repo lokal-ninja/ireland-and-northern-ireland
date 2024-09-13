@@ -1,5 +1,5 @@
 ---
 title: "Carousel"
 url: /dublin/carousel/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant Express"
 url: /drogheda/eurogiant-express/
-shop: Kramladen
+shop: variety store
 ---

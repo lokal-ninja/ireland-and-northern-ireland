@@ -1,5 +1,5 @@
 ---
 title: "Undertaker"
 url: /paulstown/undertaker/
-shop: Bestattungen
+shop: funeral directors
 ---

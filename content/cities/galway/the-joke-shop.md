@@ -1,5 +1,5 @@
 ---
 title: "The Joke Shop"
 url: /galway/the-joke-shop/
-shop: Partyzubehör
+shop: party
 ---

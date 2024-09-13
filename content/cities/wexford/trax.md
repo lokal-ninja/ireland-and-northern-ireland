@@ -1,5 +1,5 @@
 ---
 title: "Trax"
 url: /wexford/trax/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beunique"
 url: /ballymoney/beunique/
-shop: Kleidung
+shop: clothes
 ---

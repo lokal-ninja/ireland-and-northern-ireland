@@ -1,5 +1,5 @@
 ---
 title: "Salon 71"
 url: /dun-laoghaire/salon-71/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /cork/skechers/
-shop: Schuhe
+shop: shoes
 ---

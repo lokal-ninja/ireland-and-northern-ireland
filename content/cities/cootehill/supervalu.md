@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /cootehill/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

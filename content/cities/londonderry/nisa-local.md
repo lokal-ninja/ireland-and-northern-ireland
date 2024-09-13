@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /londonderry/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

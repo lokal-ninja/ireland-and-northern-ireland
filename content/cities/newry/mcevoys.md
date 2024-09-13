@@ -1,5 +1,5 @@
 ---
 title: "McEvoy's"
 url: /newry/mcevoys/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /glanmire/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

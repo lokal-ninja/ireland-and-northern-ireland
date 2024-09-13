@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /tarbert/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

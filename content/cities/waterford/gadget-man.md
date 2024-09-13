@@ -1,5 +1,5 @@
 ---
 title: "Gadget Man"
 url: /waterford/gadget-man/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /waterford/dealz-michael-street/
-shop: Kramladen
+shop: variety store
 ---

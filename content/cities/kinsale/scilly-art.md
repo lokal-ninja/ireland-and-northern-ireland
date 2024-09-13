@@ -1,5 +1,5 @@
 ---
 title: "Scilly Art"
 url: /kinsale/scilly-art/
-shop: Basteln
+shop: craft
 ---

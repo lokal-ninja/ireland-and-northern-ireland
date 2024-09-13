@@ -1,5 +1,5 @@
 ---
 title: "etran"
 url: /lusk/etran/
-shop: Fahrrad
+shop: bicycle
 ---

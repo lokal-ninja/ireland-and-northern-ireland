@@ -1,5 +1,5 @@
 ---
 title: "Winemark"
 url: /newtownabbey/winemark/
-shop: Wein
+shop: wine
 ---

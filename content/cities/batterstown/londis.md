@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /batterstown/londis/
-shop: Lebensmittel
+shop: convenience
 ---

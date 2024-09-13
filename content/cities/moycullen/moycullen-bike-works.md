@@ -1,5 +1,5 @@
 ---
 title: "Moycullen Bike Works"
 url: /moycullen/moycullen-bike-works/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /bangor/cex/
-shop: Elektronik
+shop: electronics
 ---

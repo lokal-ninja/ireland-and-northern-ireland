@@ -1,5 +1,5 @@
 ---
 title: "Pirtek"
 url: /galway/pirtek/
-shop: Autowerkstatt
+shop: car repair
 ---

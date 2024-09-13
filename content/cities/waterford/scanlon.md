@@ -1,5 +1,5 @@
 ---
 title: "Scanlon"
 url: /waterford/scanlon/
-shop: Autoteile
+shop: car parts
 ---

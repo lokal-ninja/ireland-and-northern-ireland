@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /johnstown/centra/
-shop: Lebensmittel
+shop: convenience
 ---

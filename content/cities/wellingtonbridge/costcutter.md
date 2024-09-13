@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /wellingtonbridge/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

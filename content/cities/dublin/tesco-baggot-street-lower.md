@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /dublin/tesco-baggot-street-lower/
-shop: Supermarkt
+shop: supermarket
 ---

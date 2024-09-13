@@ -1,5 +1,5 @@
 ---
 title: "FX Buckley"
 url: /dublin/fx-buckley/
-shop: Metzgerei
+shop: butcher
 ---

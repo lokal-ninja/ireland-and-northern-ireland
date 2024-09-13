@@ -1,5 +1,5 @@
 ---
 title: "Caulfield Industrial"
 url: /athlone/caulfield-industrial/
-shop: Eisenwaren
+shop: hardware
 ---

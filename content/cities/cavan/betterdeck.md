@@ -1,5 +1,5 @@
 ---
 title: "BetterDeck"
 url: /cavan/betterdeck/
-shop: Fußböden
+shop: flooring
 ---

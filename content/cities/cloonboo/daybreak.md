@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /cloonboo/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

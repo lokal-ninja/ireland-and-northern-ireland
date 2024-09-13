@@ -1,5 +1,5 @@
 ---
 title: "Offex"
 url: /kells/offex/
-shop: Schreibwaren
+shop: office supplies
 ---

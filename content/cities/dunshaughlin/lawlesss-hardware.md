@@ -1,5 +1,5 @@
 ---
 title: "Lawless's Hardware"
 url: /dunshaughlin/lawlesss-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

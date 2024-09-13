@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /tullow/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

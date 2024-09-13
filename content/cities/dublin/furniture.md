@@ -1,5 +1,5 @@
 ---
 title: "Furniture _________"
 url: /dublin/furniture/
-shop: Möbel
+shop: furniture
 ---

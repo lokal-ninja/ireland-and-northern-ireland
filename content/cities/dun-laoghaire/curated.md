@@ -1,5 +1,5 @@
 ---
 title: "Curated"
 url: /dun-laoghaire/curated/
-shop: Raumausstattung
+shop: interior decoration
 ---

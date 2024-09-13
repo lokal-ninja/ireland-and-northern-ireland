@@ -1,5 +1,5 @@
 ---
 title: "Winemark"
 url: /ballymena/winemark/
-shop: Wein
+shop: wine
 ---

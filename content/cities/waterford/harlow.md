@@ -1,5 +1,5 @@
 ---
 title: "Harlow"
 url: /waterford/harlow/
-shop: Schmuck
+shop: jewelry
 ---

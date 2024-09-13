@@ -1,5 +1,5 @@
 ---
 title: "Jalanda"
 url: /gorey/jalanda/
-shop: Kleidung
+shop: clothes
 ---

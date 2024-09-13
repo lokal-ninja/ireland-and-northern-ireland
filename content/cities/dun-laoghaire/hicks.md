@@ -1,5 +1,5 @@
 ---
 title: "Hick's"
 url: /dun-laoghaire/hicks/
-shop: Metzgerei
+shop: butcher
 ---

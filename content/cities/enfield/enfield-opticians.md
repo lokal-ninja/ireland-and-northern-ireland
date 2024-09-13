@@ -1,5 +1,5 @@
 ---
 title: "Enfield Opticians"
 url: /enfield/enfield-opticians/
-shop: Optiker
+shop: optician
 ---

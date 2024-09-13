@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /donegal/eurogiant/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sean Collins' Garage"
 url: /drimoleague/sean-collins-garage/
-shop: Autohaus
+shop: car
 ---

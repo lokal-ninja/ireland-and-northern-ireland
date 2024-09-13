@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /ardee/mace/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mark O'Connor"
 url: /dunshaughlin/mark-oconnor/
-shop: Autowerkstatt
+shop: car repair
 ---

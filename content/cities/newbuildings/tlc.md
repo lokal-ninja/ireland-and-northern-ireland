@@ -1,5 +1,5 @@
 ---
 title: "TLC"
 url: /newbuildings/tlc/
-shop: Kosmetik
+shop: beauty
 ---

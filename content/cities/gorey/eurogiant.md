@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /gorey/eurogiant/
-shop: Kramladen
+shop: variety store
 ---

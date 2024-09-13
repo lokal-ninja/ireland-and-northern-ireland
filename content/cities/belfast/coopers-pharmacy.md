@@ -1,5 +1,5 @@
 ---
 title: "Cooper's Pharmacy"
 url: /belfast/coopers-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

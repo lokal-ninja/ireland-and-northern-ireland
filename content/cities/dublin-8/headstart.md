@@ -1,5 +1,5 @@
 ---
 title: "Headstart"
 url: /dublin-8/headstart/
-shop: Friseur
+shop: hairdresser
 ---

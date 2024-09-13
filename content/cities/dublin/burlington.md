@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /dublin/burlington/
-shop: Immobilien
+shop: estate agent
 ---

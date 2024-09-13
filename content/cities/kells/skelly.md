@@ -1,5 +1,5 @@
 ---
 title: "Skelly"
 url: /kells/skelly/
-shop: Allgemein
+shop: shop
 ---

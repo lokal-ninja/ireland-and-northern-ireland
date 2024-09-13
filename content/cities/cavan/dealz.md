@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /cavan/dealz/
-shop: Kramladen
+shop: variety store
 ---

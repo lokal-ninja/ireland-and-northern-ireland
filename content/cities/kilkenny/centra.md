@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /kilkenny/centra/
-shop: Lebensmittel
+shop: convenience
 ---

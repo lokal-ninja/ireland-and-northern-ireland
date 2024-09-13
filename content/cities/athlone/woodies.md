@@ -1,5 +1,5 @@
 ---
 title: "Woodie's"
 url: /athlone/woodies/
-shop: Baumarkt
+shop: doityourself
 ---

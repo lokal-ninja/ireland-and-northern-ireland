@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /belfast/centra-ravenswood-park/
-shop: Lebensmittel
+shop: convenience
 ---

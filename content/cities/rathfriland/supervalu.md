@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /rathfriland/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

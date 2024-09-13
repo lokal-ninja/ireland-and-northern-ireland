@@ -1,5 +1,5 @@
 ---
 title: "Childvision"
 url: /dublin/childvision/
-shop: Gebrauchtwaren
+shop: charity
 ---

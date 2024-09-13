@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /dublin/centra-kilmore-road/
-shop: Lebensmittel
+shop: convenience
 ---

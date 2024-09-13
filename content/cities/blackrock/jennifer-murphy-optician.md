@@ -1,5 +1,5 @@
 ---
 title: "Jennifer Murphy Optician"
 url: /blackrock/jennifer-murphy-optician/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Triggerfish Cookshop"
 url: /blackrock/the-triggerfish-cookshop/
-shop: Haushaltsartikel
+shop: houseware
 ---

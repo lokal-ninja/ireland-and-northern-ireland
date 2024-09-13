@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /castleisland/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

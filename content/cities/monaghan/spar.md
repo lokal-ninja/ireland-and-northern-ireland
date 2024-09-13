@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /monaghan/spar/
-shop: Lebensmittel
+shop: convenience
 ---

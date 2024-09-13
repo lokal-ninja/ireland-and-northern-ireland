@@ -1,5 +1,5 @@
 ---
 title: "Hairways"
 url: /greenisland/hairways/
-shop: Friseur
+shop: hairdresser
 ---

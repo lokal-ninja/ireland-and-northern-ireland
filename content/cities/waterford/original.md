@@ -1,5 +1,5 @@
 ---
 title: "Original"
 url: /waterford/original/
-shop: Massage
+shop: massage
 ---

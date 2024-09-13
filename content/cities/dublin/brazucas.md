@@ -1,5 +1,5 @@
 ---
 title: "Brazuca's"
 url: /dublin/brazucas/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cavan/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

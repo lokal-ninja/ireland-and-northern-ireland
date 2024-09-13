@@ -1,5 +1,5 @@
 ---
 title: "Redmond"
 url: /gorey/redmond/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reads"
 url: /dundrum/reads/
-shop: Schreibwaren
+shop: office supplies
 ---

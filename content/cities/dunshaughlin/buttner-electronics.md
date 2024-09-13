@@ -1,5 +1,5 @@
 ---
 title: "Buttner Electronics"
 url: /dunshaughlin/buttner-electronics/
-shop: Elektronik
+shop: electronics
 ---

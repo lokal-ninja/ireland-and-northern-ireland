@@ -1,5 +1,5 @@
 ---
 title: "Salon Nova"
 url: /dublin/salon-nova/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
 url: /sligo/homebase-carraroe-retail-park/
-shop: Baumarkt
+shop: doityourself
 ---

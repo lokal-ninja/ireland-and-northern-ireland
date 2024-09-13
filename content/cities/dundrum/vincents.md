@@ -1,5 +1,5 @@
 ---
 title: "Vincents"
 url: /dundrum/vincents/
-shop: Gebrauchtwaren
+shop: charity
 ---

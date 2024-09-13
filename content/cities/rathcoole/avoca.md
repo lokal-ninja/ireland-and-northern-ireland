@@ -1,5 +1,5 @@
 ---
 title: "Avoca"
 url: /rathcoole/avoca/
-shop: Supermarkt
+shop: supermarket
 ---

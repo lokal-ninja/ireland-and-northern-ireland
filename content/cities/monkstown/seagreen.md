@@ -1,5 +1,5 @@
 ---
 title: "Seagreen"
 url: /monkstown/seagreen/
-shop: Kleidung
+shop: clothes
 ---

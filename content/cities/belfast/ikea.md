@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /belfast/ikea/
-shop: Möbel
+shop: furniture
 ---

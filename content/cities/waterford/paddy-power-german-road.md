@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /waterford/paddy-power-german-road/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kells Art Studios"
 url: /kells/kells-art-studios/
-shop: Kunst
+shop: art
 ---

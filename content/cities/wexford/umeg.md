@@ -1,5 +1,5 @@
 ---
 title: "Umeg"
 url: /wexford/umeg/
-shop: Tattoo
+shop: tattoo
 ---

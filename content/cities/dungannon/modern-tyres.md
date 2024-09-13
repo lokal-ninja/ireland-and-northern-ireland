@@ -1,5 +1,5 @@
 ---
 title: "Modern Tyres"
 url: /dungannon/modern-tyres/
-shop: Reifen
+shop: tyres
 ---

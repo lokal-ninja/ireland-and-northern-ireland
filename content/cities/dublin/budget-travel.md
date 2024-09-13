@@ -1,5 +1,5 @@
 ---
 title: "Budget Travel"
 url: /dublin/budget-travel/
-shop: Reisebüro
+shop: travel agency
 ---

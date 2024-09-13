@@ -1,5 +1,5 @@
 ---
 title: "McCarthy's"
 url: /cork/mccarthys/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dk Barbers Tallaght"
 url: /tallaght/dk-barbers-tallaght/
-shop: Friseur
+shop: hairdresser
 ---

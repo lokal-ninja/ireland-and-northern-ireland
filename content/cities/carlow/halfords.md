@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /carlow/halfords/
-shop: Autoteile
+shop: car parts
 ---

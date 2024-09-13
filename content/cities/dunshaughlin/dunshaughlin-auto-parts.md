@@ -1,5 +1,5 @@
 ---
 title: "Dunshaughlin Auto Parts"
 url: /dunshaughlin/dunshaughlin-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

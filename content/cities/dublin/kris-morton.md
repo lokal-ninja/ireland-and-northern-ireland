@@ -1,5 +1,5 @@
 ---
 title: "Kris Morton"
 url: /dublin/kris-morton/
-shop: Friseur
+shop: hairdresser
 ---

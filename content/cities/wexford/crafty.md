@@ -1,5 +1,5 @@
 ---
 title: "Crafty"
 url: /wexford/crafty/
-shop: Wolle
+shop: wool
 ---

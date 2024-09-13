@@ -1,5 +1,5 @@
 ---
 title: "Party Town Marquees"
 url: /omagh/party-town-marquees/
-shop: Partyzubehör
+shop: party
 ---

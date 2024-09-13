@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /gorey/dealz/
-shop: Kramladen
+shop: variety store
 ---

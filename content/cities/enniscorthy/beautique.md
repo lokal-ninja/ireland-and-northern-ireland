@@ -1,5 +1,5 @@
 ---
 title: "Beautique"
 url: /enniscorthy/beautique/
-shop: Kosmetik
+shop: beauty
 ---

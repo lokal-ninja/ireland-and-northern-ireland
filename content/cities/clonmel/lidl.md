@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /clonmel/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /armagh/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

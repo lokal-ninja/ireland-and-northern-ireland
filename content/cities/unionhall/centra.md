@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /unionhall/centra/
-shop: Lebensmittel
+shop: convenience
 ---

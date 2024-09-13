@@ -1,5 +1,5 @@
 ---
 title: "Snap IFSC"
 url: /dublin/snap-ifsc/
-shop: Schreibwaren
+shop: office supplies
 ---

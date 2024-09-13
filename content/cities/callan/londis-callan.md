@@ -1,5 +1,5 @@
 ---
 title: "Londis Callan"
 url: /callan/londis-callan/
-shop: Lebensmittel
+shop: convenience
 ---

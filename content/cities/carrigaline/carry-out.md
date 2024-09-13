@@ -1,5 +1,5 @@
 ---
 title: "Carry Out"
 url: /carrigaline/carry-out/
-shop: Spirituosen
+shop: alcohol
 ---

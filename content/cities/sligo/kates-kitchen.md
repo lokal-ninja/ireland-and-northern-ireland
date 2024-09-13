@@ -1,5 +1,5 @@
 ---
 title: "Kate's Kitchen"
 url: /sligo/kates-kitchen/
-shop: Feinkost
+shop: deli
 ---

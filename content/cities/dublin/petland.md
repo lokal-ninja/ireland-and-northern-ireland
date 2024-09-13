@@ -1,5 +1,5 @@
 ---
 title: "Petland"
 url: /dublin/petland/
-shop: Tiere
+shop: pet
 ---

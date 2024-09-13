@@ -1,5 +1,5 @@
 ---
 title: "Cork Gearbox Centre"
 url: /little-island/cork-gearbox-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

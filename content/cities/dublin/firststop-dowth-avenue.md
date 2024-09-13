@@ -1,5 +1,5 @@
 ---
 title: "FirstStop"
 url: /dublin/firststop-dowth-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

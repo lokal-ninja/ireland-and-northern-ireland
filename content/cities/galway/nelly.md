@@ -1,5 +1,5 @@
 ---
 title: "Nelly"
 url: /galway/nelly/
-shop: Kleidung
+shop: clothes
 ---

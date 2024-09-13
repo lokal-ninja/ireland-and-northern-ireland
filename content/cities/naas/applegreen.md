@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /naas/applegreen/
-shop: Lebensmittel
+shop: convenience
 ---

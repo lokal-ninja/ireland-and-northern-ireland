@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /portarlington/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

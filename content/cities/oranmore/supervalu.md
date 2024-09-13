@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /oranmore/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

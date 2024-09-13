@@ -1,5 +1,5 @@
 ---
 title: "PC Solutions"
 url: /tralee/pc-solutions/
-shop: Computer
+shop: computer
 ---

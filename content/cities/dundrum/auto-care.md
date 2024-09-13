@@ -1,5 +1,5 @@
 ---
 title: "Auto Care"
 url: /dundrum/auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

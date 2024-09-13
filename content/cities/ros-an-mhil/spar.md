@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ros-an-mhil/spar/
-shop: Lebensmittel
+shop: convenience
 ---

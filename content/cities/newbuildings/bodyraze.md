@@ -1,5 +1,5 @@
 ---
 title: "Bodyraze"
 url: /newbuildings/bodyraze/
-shop: Kosmetik
+shop: beauty
 ---

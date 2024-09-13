@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /portlaoise/halfords/
-shop: Autoteile
+shop: car parts
 ---

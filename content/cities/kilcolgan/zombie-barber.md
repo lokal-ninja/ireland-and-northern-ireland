@@ -1,5 +1,5 @@
 ---
 title: "Zombie Barber"
 url: /kilcolgan/zombie-barber/
-shop: Friseur
+shop: hairdresser
 ---

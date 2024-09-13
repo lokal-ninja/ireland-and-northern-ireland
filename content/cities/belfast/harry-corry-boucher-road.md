@@ -1,5 +1,5 @@
 ---
 title: "Harry Corry"
 url: /belfast/harry-corry-boucher-road/
-shop: Raumausstattung
+shop: interior decoration
 ---

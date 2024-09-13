@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /leixlip/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

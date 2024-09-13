@@ -1,5 +1,5 @@
 ---
 title: "Kingdom of Sweets"
 url: /dublin/kingdom-of-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

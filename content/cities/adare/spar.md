@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /adare/spar/
-shop: Lebensmittel
+shop: convenience
 ---

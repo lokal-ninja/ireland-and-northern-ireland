@@ -1,5 +1,5 @@
 ---
 title: "Petmania"
 url: /tullamore/petmania/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /galway/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

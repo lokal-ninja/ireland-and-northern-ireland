@@ -1,5 +1,5 @@
 ---
 title: "Gerald Perry Motors"
 url: /dublin/gerald-perry-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

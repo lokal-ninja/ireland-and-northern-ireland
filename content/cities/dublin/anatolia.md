@@ -1,5 +1,5 @@
 ---
 title: "Anatolia"
 url: /dublin/anatolia/
-shop: Supermarkt
+shop: supermarket
 ---

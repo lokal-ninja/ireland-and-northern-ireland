@@ -1,5 +1,5 @@
 ---
 title: "Mc Guirk's Golf"
 url: /swords/mc-guirks-golf/
-shop: Kleidung
+shop: clothes
 ---

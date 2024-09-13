@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /newbridge/londis/
-shop: Lebensmittel
+shop: convenience
 ---

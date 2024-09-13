@@ -1,5 +1,5 @@
 ---
 title: "O'Learys Garage"
 url: /wexford/olearys-garage/
-shop: Autohaus
+shop: car
 ---

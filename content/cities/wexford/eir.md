@@ -1,5 +1,5 @@
 ---
 title: "Eir"
 url: /wexford/eir/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chadwicks"
 url: /midleton/chadwicks/
-shop: Eisenwaren
+shop: hardware
 ---

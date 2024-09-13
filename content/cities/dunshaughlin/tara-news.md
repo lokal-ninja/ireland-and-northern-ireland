@@ -1,5 +1,5 @@
 ---
 title: "Tara News"
 url: /dunshaughlin/tara-news/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /tralee/dunnes-stores/
-shop: Supermarkt
+shop: supermarket
 ---

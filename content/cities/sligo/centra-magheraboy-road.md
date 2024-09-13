@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /sligo/centra-magheraboy-road/
-shop: Supermarkt
+shop: supermarket
 ---

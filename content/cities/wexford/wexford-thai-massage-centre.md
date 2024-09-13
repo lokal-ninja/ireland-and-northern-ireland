@@ -1,5 +1,5 @@
 ---
 title: "Wexford Thai Massage Centre"
 url: /wexford/wexford-thai-massage-centre/
-shop: Massage
+shop: massage
 ---

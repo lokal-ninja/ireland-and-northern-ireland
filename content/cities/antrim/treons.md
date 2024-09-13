@@ -1,5 +1,5 @@
 ---
 title: "Treons"
 url: /antrim/treons/
-shop: Elektronik
+shop: electronics
 ---

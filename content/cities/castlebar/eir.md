@@ -1,5 +1,5 @@
 ---
 title: "Eir"
 url: /castlebar/eir/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shaws (Almost Nationwide) Stores"
 url: /fermoy/shaws-almost-nationwide-stores/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Muldoons"
 url: /kells/muldoons/
-shop: Allgemein
+shop: shop
 ---

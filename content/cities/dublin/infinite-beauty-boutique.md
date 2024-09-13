@@ -1,5 +1,5 @@
 ---
 title: "Infinite Beauty Boutique"
 url: /dublin/infinite-beauty-boutique/
-shop: Kosmetik
+shop: beauty
 ---

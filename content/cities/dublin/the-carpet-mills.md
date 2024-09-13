@@ -1,5 +1,5 @@
 ---
 title: "The Carpet Mills"
 url: /dublin/the-carpet-mills/
-shop: Teppiche
+shop: carpet
 ---

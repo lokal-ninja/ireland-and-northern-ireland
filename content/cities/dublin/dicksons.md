@@ -1,5 +1,5 @@
 ---
 title: "Dicksons"
 url: /dublin/dicksons/
-shop: Schmuck
+shop: jewelry
 ---

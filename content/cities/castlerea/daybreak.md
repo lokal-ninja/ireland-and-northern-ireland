@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /castlerea/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /newtownards/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

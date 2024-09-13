@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /newcastle-west/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

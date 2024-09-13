@@ -1,5 +1,5 @@
 ---
 title: "Go Glaze"
 url: /dun-laoghaire/go-glaze/
-shop: Glaserei
+shop: glaziery
 ---

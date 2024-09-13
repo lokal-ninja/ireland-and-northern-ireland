@@ -1,5 +1,5 @@
 ---
 title: "Cezanne"
 url: /dublin/cezanne/
-shop: Friseur
+shop: hairdresser
 ---

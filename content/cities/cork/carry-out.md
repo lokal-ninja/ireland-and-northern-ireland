@@ -1,5 +1,5 @@
 ---
 title: "Carry Out"
 url: /cork/carry-out/
-shop: Spirituosen
+shop: alcohol
 ---

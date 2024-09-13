@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /grange/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

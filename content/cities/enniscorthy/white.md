@@ -1,5 +1,5 @@
 ---
 title: "White"
 url: /enniscorthy/white/
-shop: Allgemein
+shop: shop
 ---

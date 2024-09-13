@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /craughwell/spar/
-shop: Lebensmittel
+shop: convenience
 ---

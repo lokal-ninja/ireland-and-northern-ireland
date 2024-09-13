@@ -1,5 +1,5 @@
 ---
 title: "Porter"
 url: /cork/porter/
-shop: Zeitungen
+shop: newsagent
 ---

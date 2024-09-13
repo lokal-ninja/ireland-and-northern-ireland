@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /sligo/smyths/
-shop: Spielzeug
+shop: toys
 ---

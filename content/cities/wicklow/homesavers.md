@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /wicklow/homesavers/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "So-Lo Stores"
 url: /letterkenny/so-lo-stores/
-shop: Kramladen
+shop: variety store
 ---

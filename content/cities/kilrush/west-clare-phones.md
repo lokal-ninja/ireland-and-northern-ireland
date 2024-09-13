@@ -1,5 +1,5 @@
 ---
 title: "West Clare Phones"
 url: /kilrush/west-clare-phones/
-shop: Handy
+shop: mobile phone
 ---

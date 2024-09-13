@@ -1,5 +1,5 @@
 ---
 title: "Modern Nutrition"
 url: /bray/modern-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

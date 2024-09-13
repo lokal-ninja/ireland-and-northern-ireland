@@ -1,5 +1,5 @@
 ---
 title: "Donnelly Group Motorstore"
 url: /dungannon/donnelly-group-motorstore/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ardkeen Hire"
 url: /waterford/ardkeen-hire/
-shop: Werkzeuge
+shop: tools
 ---

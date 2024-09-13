@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /fermoy/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

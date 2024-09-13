@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /dublin/ladbrokes-saint-agnes-road/
-shop: Wettbüro
+shop: bookmaker
 ---

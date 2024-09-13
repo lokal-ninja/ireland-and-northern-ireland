@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cahersiveen/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

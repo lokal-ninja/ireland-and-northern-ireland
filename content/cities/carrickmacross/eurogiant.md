@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /carrickmacross/eurogiant/
-shop: Kramladen
+shop: variety store
 ---

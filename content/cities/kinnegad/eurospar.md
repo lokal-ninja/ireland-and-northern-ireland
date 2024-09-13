@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /kinnegad/eurospar/
-shop: Supermarkt
+shop: supermarket
 ---

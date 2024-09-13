@@ -1,5 +1,5 @@
 ---
 title: "RDC Paving"
 url: /clondalkin/rdc-paving/
-shop: Allgemein
+shop: shop
 ---

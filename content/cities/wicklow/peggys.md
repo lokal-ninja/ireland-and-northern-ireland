@@ -1,5 +1,5 @@
 ---
 title: "Peggy's"
 url: /wicklow/peggys/
-shop: Lebensmittel
+shop: convenience
 ---

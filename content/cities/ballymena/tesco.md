@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /ballymena/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /dublin/aldi-coolock-drive/
-shop: Supermarkt
+shop: supermarket
 ---

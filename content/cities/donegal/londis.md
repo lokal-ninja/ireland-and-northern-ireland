@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /donegal/londis/
-shop: Lebensmittel
+shop: convenience
 ---

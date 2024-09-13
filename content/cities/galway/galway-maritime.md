@@ -1,5 +1,5 @@
 ---
 title: "Galway Maritime"
 url: /galway/galway-maritime/
-shop: Boot
+shop: boat
 ---

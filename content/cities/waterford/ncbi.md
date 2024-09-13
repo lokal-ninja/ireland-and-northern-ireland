@@ -1,5 +1,5 @@
 ---
 title: "NCBI"
 url: /waterford/ncbi/
-shop: Gebrauchtwaren
+shop: charity
 ---

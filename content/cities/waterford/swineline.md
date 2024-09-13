@@ -1,5 +1,5 @@
 ---
 title: "Swineline"
 url: /waterford/swineline/
-shop: Tattoo
+shop: tattoo
 ---

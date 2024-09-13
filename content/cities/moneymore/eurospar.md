@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /moneymore/eurospar/
-shop: Supermarkt
+shop: supermarket
 ---

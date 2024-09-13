@@ -1,5 +1,5 @@
 ---
 title: "Highlife"
 url: /dublin/highlife/
-shop: Reisebüro
+shop: travel agency
 ---

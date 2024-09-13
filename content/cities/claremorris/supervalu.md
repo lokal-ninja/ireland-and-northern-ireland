@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /claremorris/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

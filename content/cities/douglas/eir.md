@@ -1,5 +1,5 @@
 ---
 title: "Eir"
 url: /douglas/eir/
-shop: Handy
+shop: mobile phone
 ---

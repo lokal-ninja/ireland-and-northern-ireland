@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /athy/centra/
-shop: Lebensmittel
+shop: convenience
 ---

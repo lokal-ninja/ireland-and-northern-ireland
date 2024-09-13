@@ -1,5 +1,5 @@
 ---
 title: "Nourish Health Food"
 url: /dublin/nourish-health-food/
-shop: Bioladen
+shop: health food
 ---

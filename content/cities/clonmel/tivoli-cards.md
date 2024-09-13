@@ -1,5 +1,5 @@
 ---
 title: "Tivoli Cards"
 url: /clonmel/tivoli-cards/
-shop: Schreibwaren
+shop: office supplies
 ---

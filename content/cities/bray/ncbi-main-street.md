@@ -1,5 +1,5 @@
 ---
 title: "NCBI"
 url: /bray/ncbi-main-street/
-shop: Gebrauchtwaren
+shop: charity
 ---

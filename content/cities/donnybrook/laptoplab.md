@@ -1,5 +1,5 @@
 ---
 title: "Laptoplab"
 url: /donnybrook/laptoplab/
-shop: Computer
+shop: computer
 ---

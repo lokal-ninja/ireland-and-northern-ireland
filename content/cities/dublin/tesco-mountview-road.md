@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /dublin/tesco-mountview-road/
-shop: Supermarkt
+shop: supermarket
 ---

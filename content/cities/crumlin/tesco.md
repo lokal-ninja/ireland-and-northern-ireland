@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /crumlin/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

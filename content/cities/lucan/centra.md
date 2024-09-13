@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /lucan/centra/
-shop: Lebensmittel
+shop: convenience
 ---

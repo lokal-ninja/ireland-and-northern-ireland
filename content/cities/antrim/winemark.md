@@ -1,5 +1,5 @@
 ---
 title: "Winemark"
 url: /antrim/winemark/
-shop: Wein
+shop: wine
 ---

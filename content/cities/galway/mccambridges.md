@@ -1,5 +1,5 @@
 ---
 title: "McCambridges"
 url: /galway/mccambridges/
-shop: Feinkost
+shop: deli
 ---

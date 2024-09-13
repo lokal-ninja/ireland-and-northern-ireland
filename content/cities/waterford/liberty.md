@@ -1,5 +1,5 @@
 ---
 title: "Liberty"
 url: /waterford/liberty/
-shop: Gebrauchtwaren
+shop: charity
 ---

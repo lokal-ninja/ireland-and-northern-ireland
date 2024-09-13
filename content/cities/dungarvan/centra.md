@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /dungarvan/centra/
-shop: Lebensmittel
+shop: convenience
 ---

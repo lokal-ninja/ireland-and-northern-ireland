@@ -1,5 +1,5 @@
 ---
 title: "Glamour Lounge"
 url: /belfast/glamour-lounge/
-shop: Kosmetik
+shop: beauty
 ---

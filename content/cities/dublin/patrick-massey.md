@@ -1,5 +1,5 @@
 ---
 title: "Patrick Massey"
 url: /dublin/patrick-massey/
-shop: Bestattungen
+shop: funeral directors
 ---

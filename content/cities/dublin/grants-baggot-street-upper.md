@@ -1,5 +1,5 @@
 ---
 title: "Grants"
 url: /dublin/grants-baggot-street-upper/
-shop: Kopieren
+shop: copyshop
 ---

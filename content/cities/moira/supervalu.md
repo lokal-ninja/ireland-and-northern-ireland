@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /moira/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lisavaird Co-op"
 url: /clonakilty/lisavaird-co-op-lisavaird/
-shop: Baumarkt
+shop: doityourself
 ---

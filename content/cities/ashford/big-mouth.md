@@ -1,5 +1,5 @@
 ---
 title: "Big Mouth"
 url: /ashford/big-mouth/
-shop: Supermarkt
+shop: supermarket
 ---

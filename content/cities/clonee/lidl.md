@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /clonee/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

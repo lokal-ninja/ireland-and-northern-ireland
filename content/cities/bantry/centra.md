@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /bantry/centra/
-shop: Supermarkt
+shop: supermarket
 ---

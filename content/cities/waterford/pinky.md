@@ -1,5 +1,5 @@
 ---
 title: "Pinky"
 url: /waterford/pinky/
-shop: Kleidung
+shop: clothes
 ---

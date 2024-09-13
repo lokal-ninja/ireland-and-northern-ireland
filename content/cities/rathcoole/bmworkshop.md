@@ -1,5 +1,5 @@
 ---
 title: "BMworkshop"
 url: /rathcoole/bmworkshop/
-shop: Autowerkstatt
+shop: car repair
 ---

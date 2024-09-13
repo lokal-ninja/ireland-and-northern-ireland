@@ -1,5 +1,5 @@
 ---
 title: "Happy Campers"
 url: /wexford/happy-campers/
-shop: Wohnwagen
+shop: caravan
 ---

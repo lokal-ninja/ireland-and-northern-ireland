@@ -1,5 +1,5 @@
 ---
 title: "XL Stop and Shop"
 url: /enniskillen/xl-stop-and-shop/
-shop: Zeitungen
+shop: newsagent
 ---

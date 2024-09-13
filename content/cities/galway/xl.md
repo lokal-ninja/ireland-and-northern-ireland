@@ -1,5 +1,5 @@
 ---
 title: "XL"
 url: /galway/xl/
-shop: Lebensmittel
+shop: convenience
 ---

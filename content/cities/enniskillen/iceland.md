@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /enniskillen/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

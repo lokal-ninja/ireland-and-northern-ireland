@@ -1,5 +1,5 @@
 ---
 title: "Bubble Brothers"
 url: /little-island/bubble-brothers/
-shop: Wein
+shop: wine
 ---

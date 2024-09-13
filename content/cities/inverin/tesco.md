@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /inverin/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eir"
 url: /dublin/eir-malahide-road/
-shop: Handy
+shop: mobile phone
 ---

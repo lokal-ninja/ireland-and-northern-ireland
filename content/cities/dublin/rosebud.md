@@ -1,5 +1,5 @@
 ---
 title: "Rosebud"
 url: /dublin/rosebud/
-shop: Lebensmittel
+shop: convenience
 ---

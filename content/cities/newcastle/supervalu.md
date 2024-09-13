@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /newcastle/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leo O'Reilly Motorcycles"
 url: /dublin/leo-oreilly-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harry Corry"
 url: /athlone/harry-corry/
-shop: Raumausstattung
+shop: interior decoration
 ---

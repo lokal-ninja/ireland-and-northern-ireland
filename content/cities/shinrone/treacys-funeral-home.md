@@ -1,5 +1,5 @@
 ---
 title: "Treacy's Funeral Home"
 url: /shinrone/treacys-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

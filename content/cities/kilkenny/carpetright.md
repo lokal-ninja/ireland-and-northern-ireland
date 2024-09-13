@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /kilkenny/carpetright/
-shop: Teppiche
+shop: carpet
 ---

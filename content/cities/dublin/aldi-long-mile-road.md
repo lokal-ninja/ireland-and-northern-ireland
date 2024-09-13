@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /dublin/aldi-long-mile-road/
-shop: Supermarkt
+shop: supermarket
 ---

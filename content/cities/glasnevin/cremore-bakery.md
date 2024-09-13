@@ -1,5 +1,5 @@
 ---
 title: "Cremore Bakery"
 url: /glasnevin/cremore-bakery/
-shop: Bäckerei
+shop: bakery
 ---

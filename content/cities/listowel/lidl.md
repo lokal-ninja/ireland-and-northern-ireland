@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /listowel/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

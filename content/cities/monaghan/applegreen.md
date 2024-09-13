@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /monaghan/applegreen/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /waterville/centra/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galvin's Tyres"
 url: /bandon/galvins-tyres/
-shop: Reifen
+shop: tyres
 ---

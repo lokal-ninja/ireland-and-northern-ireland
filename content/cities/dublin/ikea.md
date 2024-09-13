@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /dublin/ikea/
-shop: Möbel
+shop: furniture
 ---

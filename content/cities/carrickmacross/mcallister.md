@@ -1,5 +1,5 @@
 ---
 title: "McAllister"
 url: /carrickmacross/mcallister/
-shop: Raumausstattung
+shop: interior decoration
 ---

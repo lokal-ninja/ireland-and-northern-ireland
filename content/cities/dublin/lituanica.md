@@ -1,5 +1,5 @@
 ---
 title: "Lituanica"
 url: /dublin/lituanica/
-shop: Allgemein
+shop: shop
 ---

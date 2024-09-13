@@ -1,5 +1,5 @@
 ---
 title: "The Supplement Store"
 url: /tallaght/the-supplement-store/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

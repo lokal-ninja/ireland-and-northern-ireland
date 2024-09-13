@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ballydesmond/centra/
-shop: Lebensmittel
+shop: convenience
 ---

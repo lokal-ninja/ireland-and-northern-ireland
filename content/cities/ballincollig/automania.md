@@ -1,5 +1,5 @@
 ---
 title: "Automania"
 url: /ballincollig/automania/
-shop: Autoteile
+shop: car parts
 ---

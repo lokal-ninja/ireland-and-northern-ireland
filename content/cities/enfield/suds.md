@@ -1,5 +1,5 @@
 ---
 title: "Suds"
 url: /enfield/suds/
-shop: Wäscherei
+shop: laundry
 ---

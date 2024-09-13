@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /rathdrum/centra/
-shop: Lebensmittel
+shop: convenience
 ---

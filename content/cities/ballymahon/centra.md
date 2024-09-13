@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ballymahon/centra/
-shop: Lebensmittel
+shop: convenience
 ---

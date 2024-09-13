@@ -1,5 +1,5 @@
 ---
 title: "TechStar"
 url: /limerick/techstar/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eir"
 url: /carrick-on-shannon/eir/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr. Price"
 url: /waterford/mr-price/
-shop: Kramladen
+shop: variety store
 ---

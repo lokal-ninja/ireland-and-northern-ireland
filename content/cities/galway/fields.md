@@ -1,5 +1,5 @@
 ---
 title: "Fields"
 url: /galway/fields/
-shop: Schmuck
+shop: jewelry
 ---

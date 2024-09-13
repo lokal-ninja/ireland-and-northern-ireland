@@ -1,5 +1,5 @@
 ---
 title: "George Conboy Electrical"
 url: /galway/george-conboy-electrical/
-shop: Elektrisch
+shop: electrical
 ---

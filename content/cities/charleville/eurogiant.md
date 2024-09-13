@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /charleville/eurogiant/
-shop: Kramladen
+shop: variety store
 ---

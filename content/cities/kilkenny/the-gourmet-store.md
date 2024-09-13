@@ -1,5 +1,5 @@
 ---
 title: "The Gourmet Store"
 url: /kilkenny/the-gourmet-store/
-shop: Feinkost
+shop: deli
 ---

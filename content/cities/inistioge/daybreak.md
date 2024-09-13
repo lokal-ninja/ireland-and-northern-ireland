@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /inistioge/daybreak/
-shop: Leerstehend
+shop: vacant
 ---

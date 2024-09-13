@@ -1,5 +1,5 @@
 ---
 title: "Laundrette"
 url: /swords/laundrette/
-shop: Wäscherei
+shop: laundry
 ---

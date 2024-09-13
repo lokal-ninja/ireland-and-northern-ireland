@@ -1,5 +1,5 @@
 ---
 title: "National Optometry Centre"
 url: /dublin/national-optometry-centre/
-shop: Optiker
+shop: optician
 ---

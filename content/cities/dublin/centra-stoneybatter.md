@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /dublin/centra-stoneybatter/
-shop: Lebensmittel
+shop: convenience
 ---

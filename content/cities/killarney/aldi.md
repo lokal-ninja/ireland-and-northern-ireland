@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /killarney/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

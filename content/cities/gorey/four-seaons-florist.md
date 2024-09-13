@@ -1,5 +1,5 @@
 ---
 title: "Four Seaons Florist"
 url: /gorey/four-seaons-florist/
-shop: Blumen
+shop: florist
 ---

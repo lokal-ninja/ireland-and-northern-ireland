@@ -1,5 +1,5 @@
 ---
 title: "harmony"
 url: /thomastown/harmony/
-shop: Bioladen
+shop: health food
 ---

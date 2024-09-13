@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /portlaoise/applegreen/
-shop: Lebensmittel
+shop: convenience
 ---

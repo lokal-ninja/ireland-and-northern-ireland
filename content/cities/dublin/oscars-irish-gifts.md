@@ -1,5 +1,5 @@
 ---
 title: "Oscar's Irish Gifts"
 url: /dublin/oscars-irish-gifts/
-shop: Andenken
+shop: gift
 ---

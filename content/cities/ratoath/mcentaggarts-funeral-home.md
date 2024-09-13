@@ -1,5 +1,5 @@
 ---
 title: "McEntaggarts Funeral Home"
 url: /ratoath/mcentaggarts-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

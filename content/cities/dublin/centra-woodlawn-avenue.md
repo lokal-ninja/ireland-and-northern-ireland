@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /dublin/centra-woodlawn-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

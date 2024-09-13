@@ -1,5 +1,5 @@
 ---
 title: "Ennis'"
 url: /ballycumber/ennis/
-shop: Lebensmittel
+shop: convenience
 ---

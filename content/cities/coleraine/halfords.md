@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /coleraine/halfords/
-shop: Autoteile
+shop: car parts
 ---

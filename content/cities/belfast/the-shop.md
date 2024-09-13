@@ -1,5 +1,5 @@
 ---
 title: "The Shop"
 url: /belfast/the-shop/
-shop: Lebensmittel
+shop: convenience
 ---

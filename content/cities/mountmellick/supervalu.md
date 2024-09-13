@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /mountmellick/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

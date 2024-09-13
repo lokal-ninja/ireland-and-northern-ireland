@@ -1,5 +1,5 @@
 ---
 title: "Enfield Discount Store"
 url: /enfield/enfield-discount-store/
-shop: Kramladen
+shop: variety store
 ---

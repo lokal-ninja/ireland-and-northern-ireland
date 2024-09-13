@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /enniscorthy/dealz/
-shop: Kramladen
+shop: variety store
 ---

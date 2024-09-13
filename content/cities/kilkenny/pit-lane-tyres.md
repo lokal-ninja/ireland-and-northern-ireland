@@ -1,5 +1,5 @@
 ---
 title: "Pit Lane Tyres"
 url: /kilkenny/pit-lane-tyres/
-shop: Reifen
+shop: tyres
 ---

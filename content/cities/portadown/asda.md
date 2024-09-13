@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /portadown/asda/
-shop: Supermarkt
+shop: supermarket
 ---

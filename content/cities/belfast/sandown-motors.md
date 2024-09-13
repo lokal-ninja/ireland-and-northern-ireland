@@ -1,5 +1,5 @@
 ---
 title: "Sandown Motors"
 url: /belfast/sandown-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

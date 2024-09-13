@@ -1,5 +1,5 @@
 ---
 title: "James Herren"
 url: /dublin/james-herren/
-shop: Kleidung
+shop: clothes
 ---

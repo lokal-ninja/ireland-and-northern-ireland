@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /donabate/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

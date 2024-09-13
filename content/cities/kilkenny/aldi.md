@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /kilkenny/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

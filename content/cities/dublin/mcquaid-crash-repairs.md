@@ -1,5 +1,5 @@
 ---
 title: "McQuaid Crash Repairs"
 url: /dublin/mcquaid-crash-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

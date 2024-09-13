@@ -1,5 +1,5 @@
 ---
 title: "Younique"
 url: /newry/younique/
-shop: Allgemein
+shop: shop
 ---

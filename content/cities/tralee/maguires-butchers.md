@@ -1,5 +1,5 @@
 ---
 title: "Maguire’s Butchers"
 url: /tralee/maguires-butchers/
-shop: Metzgerei
+shop: butcher
 ---

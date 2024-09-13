@@ -1,5 +1,5 @@
 ---
 title: "Mid-Antrim Animal Sanctuary"
 url: /antrim/mid-antrim-animal-sanctuary/
-shop: Gebrauchtwaren
+shop: charity
 ---

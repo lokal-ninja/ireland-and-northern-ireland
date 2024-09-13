@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /tramore/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

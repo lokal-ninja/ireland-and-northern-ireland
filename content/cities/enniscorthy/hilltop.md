@@ -1,5 +1,5 @@
 ---
 title: "Hilltop"
 url: /enniscorthy/hilltop/
-shop: Wäscherei
+shop: laundry
 ---

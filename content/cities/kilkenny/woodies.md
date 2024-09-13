@@ -1,5 +1,5 @@
 ---
 title: "Woodie's"
 url: /kilkenny/woodies/
-shop: Garten-Center
+shop: garden centre
 ---

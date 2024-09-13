@@ -1,5 +1,5 @@
 ---
 title: "Brennan Motors Kinsale"
 url: /kinsale/brennan-motors-kinsale/
-shop: Autowerkstatt
+shop: car repair
 ---

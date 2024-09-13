@@ -1,5 +1,5 @@
 ---
 title: "Feeney's Funeral Home"
 url: /williamstown/feeneys-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

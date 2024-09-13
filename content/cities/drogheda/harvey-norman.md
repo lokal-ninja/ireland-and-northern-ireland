@@ -1,5 +1,5 @@
 ---
 title: "Harvey Norman"
 url: /drogheda/harvey-norman/
-shop: Warenhaus
+shop: department store
 ---

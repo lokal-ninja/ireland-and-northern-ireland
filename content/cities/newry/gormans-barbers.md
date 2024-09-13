@@ -1,5 +1,5 @@
 ---
 title: "Gorman's Barbers"
 url: /newry/gormans-barbers/
-shop: Friseur
+shop: hairdresser
 ---

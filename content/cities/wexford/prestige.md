@@ -1,5 +1,5 @@
 ---
 title: "Prestige"
 url: /wexford/prestige/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Menarys"
 url: /armagh/menarys/
-shop: Warenhaus
+shop: department store
 ---

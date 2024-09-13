@@ -1,5 +1,5 @@
 ---
 title: "Boston Barber Bars"
 url: /waterford/boston-barber-bars/
-shop: Friseur
+shop: hairdresser
 ---

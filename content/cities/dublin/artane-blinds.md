@@ -1,5 +1,5 @@
 ---
 title: "Artane Blinds"
 url: /dublin/artane-blinds/
-shop: Jalousien
+shop: window blind
 ---

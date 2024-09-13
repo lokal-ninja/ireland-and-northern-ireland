@@ -1,5 +1,5 @@
 ---
 title: "Paul Ryan"
 url: /dublin/paul-ryan/
-shop: Instrumente
+shop: musical instrument
 ---

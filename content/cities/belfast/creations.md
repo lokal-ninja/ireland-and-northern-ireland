@@ -1,5 +1,5 @@
 ---
 title: "Creations"
 url: /belfast/creations/
-shop: Möbel
+shop: furniture
 ---

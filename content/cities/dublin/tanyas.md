@@ -1,5 +1,5 @@
 ---
 title: "Tanya's"
 url: /dublin/tanyas/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xpert Dry Cleaners"
 url: /deansgrange/xpert-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

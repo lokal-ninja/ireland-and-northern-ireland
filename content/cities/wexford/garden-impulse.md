@@ -1,5 +1,5 @@
 ---
 title: "Garden Impulse"
 url: /wexford/garden-impulse/
-shop: Garten-Center
+shop: garden centre
 ---

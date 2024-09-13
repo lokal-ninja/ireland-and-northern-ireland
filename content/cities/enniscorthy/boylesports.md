@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /enniscorthy/boylesports/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /kilronan/spar/
-shop: Lebensmittel
+shop: convenience
 ---

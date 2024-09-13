@@ -1,5 +1,5 @@
 ---
 title: "Bill's Shop"
 url: /cork/bills-shop/
-shop: Supermarkt
+shop: supermarket
 ---

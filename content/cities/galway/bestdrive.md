@@ -1,5 +1,5 @@
 ---
 title: "BestDrive"
 url: /galway/bestdrive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Rare Breed"
 url: /ratoath/the-rare-breed/
-shop: Metzgerei
+shop: butcher
 ---

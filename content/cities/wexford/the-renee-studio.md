@@ -1,5 +1,5 @@
 ---
 title: "The Renée Studio"
 url: /wexford/the-renee-studio/
-shop: Kosmetik
+shop: beauty
 ---

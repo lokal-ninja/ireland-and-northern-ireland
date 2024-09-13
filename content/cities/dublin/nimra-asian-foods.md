@@ -1,5 +1,5 @@
 ---
 title: "Nimra Asian Foods"
 url: /dublin/nimra-asian-foods/
-shop: Supermarkt
+shop: supermarket
 ---

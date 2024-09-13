@@ -1,5 +1,5 @@
 ---
 title: "Sneem Tavern"
 url: /sneem/sneem-tavern-south-square/
-shop: Lebensmittel
+shop: convenience
 ---

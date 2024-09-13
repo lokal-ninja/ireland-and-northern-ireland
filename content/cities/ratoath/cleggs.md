@@ -1,5 +1,5 @@
 ---
 title: "Cleggs"
 url: /ratoath/cleggs/
-shop: Schuhe
+shop: shoes
 ---

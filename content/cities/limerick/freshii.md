@@ -1,5 +1,5 @@
 ---
 title: "Freshii"
 url: /limerick/freshii/
-shop: Bäckerei
+shop: bakery
 ---

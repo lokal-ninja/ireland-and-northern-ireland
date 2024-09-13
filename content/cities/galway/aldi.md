@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /galway/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

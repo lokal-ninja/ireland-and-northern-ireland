@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /dublin/spar-fitzmaurice-road/
-shop: Lebensmittel
+shop: convenience
 ---

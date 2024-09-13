@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /limerick/eurogiant/
-shop: Kramladen
+shop: variety store
 ---

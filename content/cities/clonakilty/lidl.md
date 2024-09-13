@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /clonakilty/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

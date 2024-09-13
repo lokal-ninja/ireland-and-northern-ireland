@@ -1,5 +1,5 @@
 ---
 title: "Sisu"
 url: /waterford/sisu/
-shop: Kosmetik
+shop: beauty
 ---

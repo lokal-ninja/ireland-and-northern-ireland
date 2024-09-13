@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /dublin/mace-saint-gabriels-road/
-shop: Lebensmittel
+shop: convenience
 ---

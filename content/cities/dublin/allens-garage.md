@@ -1,5 +1,5 @@
 ---
 title: "Allens Garage"
 url: /dublin/allens-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

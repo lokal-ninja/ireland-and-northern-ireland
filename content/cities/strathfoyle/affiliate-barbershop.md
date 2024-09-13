@@ -1,5 +1,5 @@
 ---
 title: "Affiliate Barbershop"
 url: /strathfoyle/affiliate-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

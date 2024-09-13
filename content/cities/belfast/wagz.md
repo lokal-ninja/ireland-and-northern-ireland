@@ -1,5 +1,5 @@
 ---
 title: "Wagz"
 url: /belfast/wagz/
-shop: Tiersalon
+shop: pet grooming
 ---

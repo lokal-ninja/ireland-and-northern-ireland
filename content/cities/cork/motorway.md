@@ -1,5 +1,5 @@
 ---
 title: "Motorway"
 url: /cork/motorway/
-shop: Autoteile
+shop: car parts
 ---

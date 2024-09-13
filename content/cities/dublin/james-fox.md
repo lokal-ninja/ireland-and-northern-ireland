@@ -1,5 +1,5 @@
 ---
 title: "James Fox"
 url: /dublin/james-fox/
-shop: Andenken
+shop: gift
 ---

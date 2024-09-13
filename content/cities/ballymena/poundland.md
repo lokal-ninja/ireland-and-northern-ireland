@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /ballymena/poundland/
-shop: Kramladen
+shop: variety store
 ---

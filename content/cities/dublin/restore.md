@@ -1,5 +1,5 @@
 ---
 title: "Restore"
 url: /dublin/restore/
-shop: Bioladen
+shop: health food
 ---

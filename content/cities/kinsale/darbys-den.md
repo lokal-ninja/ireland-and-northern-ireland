@@ -1,5 +1,5 @@
 ---
 title: "Darby's Den"
 url: /kinsale/darbys-den/
-shop: Kleidung
+shop: clothes
 ---

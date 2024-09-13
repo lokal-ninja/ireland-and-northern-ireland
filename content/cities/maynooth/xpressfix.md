@@ -1,5 +1,5 @@
 ---
 title: "Xpressfix"
 url: /maynooth/xpressfix/
-shop: Handy
+shop: mobile phone
 ---

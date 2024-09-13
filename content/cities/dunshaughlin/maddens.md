@@ -1,5 +1,5 @@
 ---
 title: "Maddens"
 url: /dunshaughlin/maddens/
-shop: Baumarkt
+shop: doityourself
 ---

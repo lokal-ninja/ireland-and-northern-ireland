@@ -1,5 +1,5 @@
 ---
 title: "Accupuncture"
 url: /dublin/accupuncture/
-shop: Allgemein
+shop: shop
 ---

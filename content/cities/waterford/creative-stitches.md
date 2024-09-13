@@ -1,5 +1,5 @@
 ---
 title: "Creative Stitches"
 url: /waterford/creative-stitches/
-shop: Schneiderei
+shop: tailor
 ---

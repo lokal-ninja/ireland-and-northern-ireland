@@ -1,5 +1,5 @@
 ---
 title: "CHQ"
 url: /dublin/chq/
-shop: Einkaufszentrum
+shop: mall
 ---

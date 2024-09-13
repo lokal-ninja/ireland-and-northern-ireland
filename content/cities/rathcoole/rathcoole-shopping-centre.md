@@ -1,5 +1,5 @@
 ---
 title: "Rathcoole Shopping Centre"
 url: /rathcoole/rathcoole-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

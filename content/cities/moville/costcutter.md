@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /moville/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

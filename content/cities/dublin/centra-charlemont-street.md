@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /dublin/centra-charlemont-street/
-shop: Lebensmittel
+shop: convenience
 ---

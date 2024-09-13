@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /bray/subaru/
-shop: Autohaus
+shop: car
 ---

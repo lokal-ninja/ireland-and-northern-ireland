@@ -1,5 +1,5 @@
 ---
 title: "Farm House Foods"
 url: /dunshaughlin/farm-house-foods/
-shop: Metzgerei
+shop: butcher
 ---

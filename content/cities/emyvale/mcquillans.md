@@ -1,5 +1,5 @@
 ---
 title: "McQuillans"
 url: /emyvale/mcquillans/
-shop: Schreibwaren
+shop: office supplies
 ---

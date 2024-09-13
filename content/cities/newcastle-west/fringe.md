@@ -1,5 +1,5 @@
 ---
 title: "Fringe"
 url: /newcastle-west/fringe/
-shop: Friseur
+shop: hairdresser
 ---

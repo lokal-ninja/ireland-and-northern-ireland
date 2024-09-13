@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /clonakilty/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

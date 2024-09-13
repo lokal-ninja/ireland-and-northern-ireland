@@ -1,5 +1,5 @@
 ---
 title: "Nolans"
 url: /new-ross/nolans/
-shop: Allgemein
+shop: shop
 ---

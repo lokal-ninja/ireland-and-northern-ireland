@@ -1,5 +1,5 @@
 ---
 title: "Market Cross Shopping Centre"
 url: /kilkenny/market-cross-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

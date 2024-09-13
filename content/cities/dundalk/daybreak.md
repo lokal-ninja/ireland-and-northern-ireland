@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /dundalk/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

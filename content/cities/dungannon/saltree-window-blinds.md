@@ -1,5 +1,5 @@
 ---
 title: "Saltree Window Blinds"
 url: /dungannon/saltree-window-blinds/
-shop: Jalousien
+shop: window blind
 ---

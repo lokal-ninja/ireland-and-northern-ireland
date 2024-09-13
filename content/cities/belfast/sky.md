@@ -1,5 +1,5 @@
 ---
 title: "Sky"
 url: /belfast/sky/
-shop: Handy
+shop: mobile phone
 ---

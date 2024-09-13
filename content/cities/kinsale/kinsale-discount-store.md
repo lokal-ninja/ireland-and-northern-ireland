@@ -1,5 +1,5 @@
 ---
 title: "Kinsale Discount Store"
 url: /kinsale/kinsale-discount-store/
-shop: Kramladen
+shop: variety store
 ---

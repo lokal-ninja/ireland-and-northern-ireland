@@ -1,5 +1,5 @@
 ---
 title: "Petworld"
 url: /armagh/petworld/
-shop: Tiere
+shop: pet
 ---

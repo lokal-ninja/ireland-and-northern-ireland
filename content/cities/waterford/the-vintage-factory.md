@@ -1,5 +1,5 @@
 ---
 title: "The Vintage Factory"
 url: /waterford/the-vintage-factory/
-shop: Kleidung
+shop: clothes
 ---

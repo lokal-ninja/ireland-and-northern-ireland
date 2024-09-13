@@ -1,5 +1,5 @@
 ---
 title: "Fat Tony's"
 url: /galway/fat-tonys/
-shop: Friseur
+shop: hairdresser
 ---

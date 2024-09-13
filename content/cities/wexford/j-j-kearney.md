@@ -1,5 +1,5 @@
 ---
 title: "J.J. Kearney"
 url: /wexford/j-j-kearney/
-shop: Allgemein
+shop: shop
 ---

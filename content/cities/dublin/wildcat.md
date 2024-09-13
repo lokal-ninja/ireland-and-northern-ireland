@@ -1,5 +1,5 @@
 ---
 title: "Wildcat"
 url: /dublin/wildcat/
-shop: Tattoo
+shop: tattoo
 ---

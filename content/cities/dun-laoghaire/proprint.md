@@ -1,5 +1,5 @@
 ---
 title: "ProPrint"
 url: /dun-laoghaire/proprint/
-shop: Schreibwaren
+shop: office supplies
 ---

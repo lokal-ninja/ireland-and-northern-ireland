@@ -1,5 +1,5 @@
 ---
 title: "Brandon Auto Parts"
 url: /ashbourne/brandon-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

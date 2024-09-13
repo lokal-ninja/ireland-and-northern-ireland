@@ -1,5 +1,5 @@
 ---
 title: "Siopa Mhicí"
 url: /doiri-beaga/siopa-mhici/
-shop: Supermarkt
+shop: supermarket
 ---

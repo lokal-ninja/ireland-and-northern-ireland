@@ -1,5 +1,5 @@
 ---
 title: "Barberia"
 url: /lusk/barberia/
-shop: Friseur
+shop: hairdresser
 ---

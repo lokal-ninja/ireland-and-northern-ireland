@@ -1,5 +1,5 @@
 ---
 title: "Clean Freaks"
 url: /dublin/clean-freaks/
-shop: Wäscherei
+shop: laundry
 ---

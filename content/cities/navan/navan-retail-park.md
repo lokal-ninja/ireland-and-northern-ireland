@@ -1,5 +1,5 @@
 ---
 title: "Navan Retail Park"
 url: /navan/navan-retail-park/
-shop: Einkaufszentrum
+shop: mall
 ---

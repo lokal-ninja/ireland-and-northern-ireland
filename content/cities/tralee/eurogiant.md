@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /tralee/eurogiant/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WineFlair"
 url: /carrickfergus/wineflair/
-shop: Spirituosen
+shop: alcohol
 ---

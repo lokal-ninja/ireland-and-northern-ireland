@@ -1,5 +1,5 @@
 ---
 title: "Beautyphile"
 url: /galway/beautyphile/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Music Minds"
 url: /dublin/music-minds/
-shop: Instrumente
+shop: musical instrument
 ---

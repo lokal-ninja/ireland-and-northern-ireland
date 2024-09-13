@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /tallaght/dealz/
-shop: Kramladen
+shop: variety store
 ---

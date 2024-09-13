@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /ashbourne/boylesports/
-shop: Wettbüro
+shop: bookmaker
 ---

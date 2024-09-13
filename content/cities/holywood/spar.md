@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /holywood/spar/
-shop: Lebensmittel
+shop: convenience
 ---

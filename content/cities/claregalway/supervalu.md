@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /claregalway/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

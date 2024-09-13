@@ -1,5 +1,5 @@
 ---
 title: "Jack Kelly"
 url: /lusk/jack-kelly/
-shop: Autowerkstatt
+shop: car repair
 ---

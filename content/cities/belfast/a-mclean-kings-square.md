@@ -1,5 +1,5 @@
 ---
 title: "A. McLean"
 url: /belfast/a-mclean-kings-square/
-shop: Wettbüro
+shop: bookmaker
 ---

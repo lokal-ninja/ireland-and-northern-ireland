@@ -1,5 +1,5 @@
 ---
 title: "Cahoots"
 url: /dunshaughlin/cahoots/
-shop: Eisprodukte
+shop: ice cream
 ---

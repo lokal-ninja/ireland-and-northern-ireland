@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /cork/gap/
-shop: Kleidung
+shop: clothes
 ---

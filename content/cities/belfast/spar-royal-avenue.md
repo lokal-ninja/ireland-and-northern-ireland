@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /belfast/spar-royal-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

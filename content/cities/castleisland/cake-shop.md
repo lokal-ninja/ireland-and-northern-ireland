@@ -1,5 +1,5 @@
 ---
 title: "Cake Shop"
 url: /castleisland/cake-shop/
-shop: Bäckerei
+shop: bakery
 ---

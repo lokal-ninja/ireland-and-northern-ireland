@@ -1,5 +1,5 @@
 ---
 title: "Fieldmaster"
 url: /clonmel/fieldmaster/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hale"
 url: /limerick/hale/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

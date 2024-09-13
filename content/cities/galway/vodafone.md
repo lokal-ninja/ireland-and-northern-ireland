@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /galway/vodafone/
-shop: Handy
+shop: mobile phone
 ---

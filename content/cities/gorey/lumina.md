@@ -1,5 +1,5 @@
 ---
 title: "Lumina"
 url: /gorey/lumina/
-shop: Lampen
+shop: lamps
 ---

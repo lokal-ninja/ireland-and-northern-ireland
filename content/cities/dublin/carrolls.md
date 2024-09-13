@@ -1,5 +1,5 @@
 ---
 title: "Carroll's"
 url: /dublin/carrolls/
-shop: Andenken
+shop: gift
 ---

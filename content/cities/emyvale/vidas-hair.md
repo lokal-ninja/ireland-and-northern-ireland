@@ -1,5 +1,5 @@
 ---
 title: "Vida's Hair"
 url: /emyvale/vidas-hair/
-shop: Friseur
+shop: hairdresser
 ---

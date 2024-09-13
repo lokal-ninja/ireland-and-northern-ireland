@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /wexford/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

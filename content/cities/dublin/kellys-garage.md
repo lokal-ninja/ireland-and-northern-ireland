@@ -1,5 +1,5 @@
 ---
 title: "Kelly's Garage"
 url: /dublin/kellys-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

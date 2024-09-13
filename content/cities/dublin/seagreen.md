@@ -1,5 +1,5 @@
 ---
 title: "Seagreen"
 url: /dublin/seagreen/
-shop: Kleidung
+shop: clothes
 ---

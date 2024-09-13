@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /galway/paddy-power-newcastle-road/
-shop: Wettbüro
+shop: bookmaker
 ---

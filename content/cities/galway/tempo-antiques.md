@@ -1,5 +1,5 @@
 ---
 title: "Tempo Antiques"
 url: /galway/tempo-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

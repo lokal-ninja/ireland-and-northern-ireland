@@ -1,5 +1,5 @@
 ---
 title: "Callanan Lawnmowers"
 url: /ballincollig/callanan-lawnmowers/
-shop: Gartenmaschinen
+shop: garden machinery
 ---

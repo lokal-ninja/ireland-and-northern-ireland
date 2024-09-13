@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /waterford/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /drumahoe/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

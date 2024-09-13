@@ -1,5 +1,5 @@
 ---
 title: "The Vintage"
 url: /antrim/the-vintage/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /swords/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

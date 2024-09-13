@@ -1,5 +1,5 @@
 ---
 title: "Harry's Butchers"
 url: /cootehill/harrys-butchers/
-shop: Metzgerei
+shop: butcher
 ---

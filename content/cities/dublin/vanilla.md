@@ -1,5 +1,5 @@
 ---
 title: "Vanilla"
 url: /dublin/vanilla/
-shop: Friseur
+shop: hairdresser
 ---

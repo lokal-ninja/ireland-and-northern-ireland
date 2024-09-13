@@ -1,5 +1,5 @@
 ---
 title: "Cork Farm Machinery"
 url: /cork/cork-farm-machinery/
-shop: Autohaus
+shop: car
 ---

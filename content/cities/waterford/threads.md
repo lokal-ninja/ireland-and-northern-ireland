@@ -1,5 +1,5 @@
 ---
 title: "Threads"
 url: /waterford/threads/
-shop: Schneiderei
+shop: tailor
 ---

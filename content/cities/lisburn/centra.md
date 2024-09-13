@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /lisburn/centra/
-shop: Lebensmittel
+shop: convenience
 ---

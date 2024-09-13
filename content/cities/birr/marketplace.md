@@ -1,5 +1,5 @@
 ---
 title: "Marketplace"
 url: /birr/marketplace/
-shop: Allgemein
+shop: shop
 ---

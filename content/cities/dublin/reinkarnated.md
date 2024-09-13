@@ -1,5 +1,5 @@
 ---
 title: "Reinkarnated"
 url: /dublin/reinkarnated/
-shop: Tattoo
+shop: tattoo
 ---

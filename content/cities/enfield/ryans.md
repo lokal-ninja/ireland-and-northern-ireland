@@ -1,5 +1,5 @@
 ---
 title: "Ryans"
 url: /enfield/ryans/
-shop: Lebensmittel
+shop: convenience
 ---

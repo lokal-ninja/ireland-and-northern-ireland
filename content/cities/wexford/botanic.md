@@ -1,5 +1,5 @@
 ---
 title: "Botanic"
 url: /wexford/botanic/
-shop: Garten-Center
+shop: garden centre
 ---

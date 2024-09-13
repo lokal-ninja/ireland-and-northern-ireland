@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /dublin/eurospar-hanover-street-east/
-shop: Supermarkt
+shop: supermarket
 ---

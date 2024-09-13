@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /summerhill/centra/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hill Motors"
 url: /blackrock/hill-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

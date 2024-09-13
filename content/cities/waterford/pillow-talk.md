@@ -1,5 +1,5 @@
 ---
 title: "Pillow Talk"
 url: /waterford/pillow-talk/
-shop: Erotik
+shop: erotic
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stitch"
 url: /limerick/stitch/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /saggart/centra/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Forestside Shopping Centre"
 url: /belfast/forestside-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

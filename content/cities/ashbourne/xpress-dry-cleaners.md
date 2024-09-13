@@ -1,5 +1,5 @@
 ---
 title: "Xpress Dry Cleaners"
 url: /ashbourne/xpress-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /cavan/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crafty Cleaners"
 url: /carrickmacross/crafty-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

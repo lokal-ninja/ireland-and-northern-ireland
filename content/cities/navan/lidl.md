@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /navan/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "John Rattigan"
 url: /wexford/john-rattigan/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "cyclebike"
 url: /dublin/cyclebike/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /dundalk/eurogiant/
-shop: Kramladen
+shop: variety store
 ---

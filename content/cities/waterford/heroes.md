@@ -1,5 +1,5 @@
 ---
 title: "Heroes"
 url: /waterford/heroes/
-shop: Kleidung
+shop: clothes
 ---

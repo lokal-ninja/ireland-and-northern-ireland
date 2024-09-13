@@ -1,5 +1,5 @@
 ---
 title: "Hackett Fireplaces and Stoves"
 url: /gorey/hackett-fireplaces-and-stoves/
-shop: Raumausstattung
+shop: interior decoration
 ---

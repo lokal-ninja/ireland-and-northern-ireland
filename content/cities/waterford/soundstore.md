@@ -1,5 +1,5 @@
 ---
 title: "Soundstore"
 url: /waterford/soundstore/
-shop: Elektronik
+shop: electronics
 ---

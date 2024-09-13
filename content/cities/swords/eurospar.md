@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /swords/eurospar/
-shop: Supermarkt
+shop: supermarket
 ---

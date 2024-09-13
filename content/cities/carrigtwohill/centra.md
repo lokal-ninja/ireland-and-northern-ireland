@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /carrigtwohill/centra/
-shop: Supermarkt
+shop: supermarket
 ---

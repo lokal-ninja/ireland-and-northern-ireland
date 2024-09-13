@@ -1,5 +1,5 @@
 ---
 title: "Sky"
 url: /dundalk/sky/
-shop: Handy
+shop: mobile phone
 ---

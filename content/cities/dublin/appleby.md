@@ -1,5 +1,5 @@
 ---
 title: "Appleby"
 url: /dublin/appleby/
-shop: Schmuck
+shop: jewelry
 ---

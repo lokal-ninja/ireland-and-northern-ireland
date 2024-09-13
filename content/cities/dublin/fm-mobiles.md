@@ -1,5 +1,5 @@
 ---
 title: "FM Mobiles"
 url: /dublin/fm-mobiles/
-shop: Handy
+shop: mobile phone
 ---

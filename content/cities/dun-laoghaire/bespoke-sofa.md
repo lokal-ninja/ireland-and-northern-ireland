@@ -1,5 +1,5 @@
 ---
 title: "Bespoke Sofa"
 url: /dun-laoghaire/bespoke-sofa/
-shop: Möbel
+shop: furniture
 ---

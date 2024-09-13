@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /cork/vodafone/
-shop: Handy
+shop: mobile phone
 ---

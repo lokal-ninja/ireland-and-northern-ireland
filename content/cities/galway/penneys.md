@@ -1,5 +1,5 @@
 ---
 title: "Penneys"
 url: /galway/penneys/
-shop: Kleidung
+shop: clothes
 ---

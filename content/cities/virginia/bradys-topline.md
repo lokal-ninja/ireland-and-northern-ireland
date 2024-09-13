@@ -1,5 +1,5 @@
 ---
 title: "Brady's Topline"
 url: /virginia/bradys-topline/
-shop: Eisenwaren
+shop: hardware
 ---

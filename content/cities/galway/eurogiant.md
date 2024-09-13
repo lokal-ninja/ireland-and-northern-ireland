@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /galway/eurogiant/
-shop: Kramladen
+shop: variety store
 ---

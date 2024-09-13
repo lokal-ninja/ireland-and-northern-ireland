@@ -1,5 +1,5 @@
 ---
 title: "Citizens Information"
 url: /thurles/citizens-information/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /lemybrien/centra/
-shop: Lebensmittel
+shop: convenience
 ---

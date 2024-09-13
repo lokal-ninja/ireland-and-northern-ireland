@@ -1,5 +1,5 @@
 ---
 title: "Modin Shoes"
 url: /newcastle-west/modin-shoes/
-shop: Schuhe
+shop: shoes
 ---

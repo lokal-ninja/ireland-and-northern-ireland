@@ -1,5 +1,5 @@
 ---
 title: "The Corkscrew"
 url: /dublin/the-corkscrew/
-shop: Spirituosen
+shop: alcohol
 ---

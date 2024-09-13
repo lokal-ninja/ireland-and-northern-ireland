@@ -1,5 +1,5 @@
 ---
 title: "Bombay Bazaar"
 url: /dublin/bombay-bazaar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Avenue"
 url: /ashbourne/lavenue/
-shop: Allgemein
+shop: shop
 ---

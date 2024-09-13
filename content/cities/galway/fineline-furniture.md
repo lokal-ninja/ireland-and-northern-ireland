@@ -1,5 +1,5 @@
 ---
 title: "Fineline Furniture"
 url: /galway/fineline-furniture/
-shop: Möbel
+shop: furniture
 ---

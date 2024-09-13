@@ -1,5 +1,5 @@
 ---
 title: "Sunita's Beauty"
 url: /dun-laoghaire/sunitas-beauty/
-shop: Kosmetik
+shop: beauty
 ---

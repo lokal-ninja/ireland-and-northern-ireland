@@ -1,5 +1,5 @@
 ---
 title: "Murphy Autobody Repairs"
 url: /wexford/murphy-autobody-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

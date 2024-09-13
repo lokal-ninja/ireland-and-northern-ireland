@@ -1,5 +1,5 @@
 ---
 title: "Natural Foods"
 url: /cork/natural-foods/
-shop: Lebensmittel
+shop: convenience
 ---

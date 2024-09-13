@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /drogheda/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

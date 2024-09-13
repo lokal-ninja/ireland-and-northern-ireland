@@ -1,5 +1,5 @@
 ---
 title: "Inna Alternations"
 url: /stillorgan/inna-alternations/
-shop: Schneiderei
+shop: tailor
 ---

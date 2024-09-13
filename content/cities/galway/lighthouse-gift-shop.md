@@ -1,5 +1,5 @@
 ---
 title: "Lighthouse Gift Shop"
 url: /galway/lighthouse-gift-shop/
-shop: Andenken
+shop: gift
 ---

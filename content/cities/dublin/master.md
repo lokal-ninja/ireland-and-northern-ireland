@@ -1,5 +1,5 @@
 ---
 title: "Master"
 url: /dublin/master/
-shop: Metzgerei
+shop: butcher
 ---

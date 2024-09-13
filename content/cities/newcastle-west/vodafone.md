@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /newcastle-west/vodafone/
-shop: Handy
+shop: mobile phone
 ---

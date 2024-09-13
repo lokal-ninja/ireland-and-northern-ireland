@@ -1,5 +1,5 @@
 ---
 title: "Carraig Donn"
 url: /portlaoise/carraig-donn/
-shop: Kleidung
+shop: clothes
 ---

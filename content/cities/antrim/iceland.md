@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /antrim/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

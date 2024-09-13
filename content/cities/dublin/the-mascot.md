@@ -1,5 +1,5 @@
 ---
 title: "The Mascot"
 url: /dublin/the-mascot/
-shop: Lebensmittel
+shop: convenience
 ---

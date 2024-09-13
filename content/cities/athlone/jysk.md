@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /athlone/jysk/
-shop: Möbel
+shop: furniture
 ---

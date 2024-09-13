@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /kilkenny/aldi-waterford-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penneys"
 url: /portlaoise/penneys/
-shop: Kleidung
+shop: clothes
 ---

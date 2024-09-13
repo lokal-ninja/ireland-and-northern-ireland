@@ -1,5 +1,5 @@
 ---
 title: "Sky Tours"
 url: /dublin/sky-tours/
-shop: Reisebüro
+shop: travel agency
 ---

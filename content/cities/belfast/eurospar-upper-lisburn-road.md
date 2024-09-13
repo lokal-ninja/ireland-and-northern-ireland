@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /belfast/eurospar-upper-lisburn-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Maintenance Services"
 url: /dublin/auto-maintenance-services/
-shop: Autowerkstatt
+shop: car repair
 ---

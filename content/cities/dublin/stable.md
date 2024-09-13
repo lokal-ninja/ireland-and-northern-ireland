@@ -1,5 +1,5 @@
 ---
 title: "Stable"
 url: /dublin/stable/
-shop: Kleidung
+shop: clothes
 ---

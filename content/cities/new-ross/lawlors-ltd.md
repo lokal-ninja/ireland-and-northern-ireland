@@ -1,5 +1,5 @@
 ---
 title: "Lawlors Ltd."
 url: /new-ross/lawlors-ltd/
-shop: Kleidung
+shop: clothes
 ---

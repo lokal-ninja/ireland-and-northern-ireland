@@ -1,5 +1,5 @@
 ---
 title: "Liddy's"
 url: /ennis/liddys/
-shop: Supermarkt
+shop: supermarket
 ---

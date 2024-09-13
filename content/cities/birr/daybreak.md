@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /birr/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

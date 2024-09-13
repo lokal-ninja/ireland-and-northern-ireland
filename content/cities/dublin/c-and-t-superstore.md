@@ -1,5 +1,5 @@
 ---
 title: "C and T Superstore"
 url: /dublin/c-and-t-superstore/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

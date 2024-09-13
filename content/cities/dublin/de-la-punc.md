@@ -1,5 +1,5 @@
 ---
 title: "De La Punc"
 url: /dublin/de-la-punc/
-shop: Kleidung
+shop: clothes
 ---

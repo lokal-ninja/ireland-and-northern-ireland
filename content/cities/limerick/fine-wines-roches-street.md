@@ -1,5 +1,5 @@
 ---
 title: "Fine Wines"
 url: /limerick/fine-wines-roches-street/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Healthy Way"
 url: /leixlip/healthy-way/
-shop: Lebensmittel
+shop: convenience
 ---

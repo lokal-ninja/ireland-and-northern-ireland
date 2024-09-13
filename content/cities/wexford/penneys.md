@@ -1,5 +1,5 @@
 ---
 title: "Penneys"
 url: /wexford/penneys/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /downpatrick/mace/
-shop: Lebensmittel
+shop: convenience
 ---

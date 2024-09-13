@@ -1,5 +1,5 @@
 ---
 title: "Mulligans Pharmacy"
 url: /waterford/mulligans-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

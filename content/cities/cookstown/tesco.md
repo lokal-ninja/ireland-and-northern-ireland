@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /cookstown/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tech Hub"
 url: /new-ross/tech-hub/
-shop: Elektronik
+shop: electronics
 ---

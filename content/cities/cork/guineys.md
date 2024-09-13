@@ -1,5 +1,5 @@
 ---
 title: "Guineys"
 url: /cork/guineys/
-shop: Warenhaus
+shop: department store
 ---

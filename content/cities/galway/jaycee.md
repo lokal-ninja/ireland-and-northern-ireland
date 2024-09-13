@@ -1,5 +1,5 @@
 ---
 title: "Jaycee"
 url: /galway/jaycee/
-shop: Kopieren
+shop: copyshop
 ---

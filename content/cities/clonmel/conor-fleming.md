@@ -1,5 +1,5 @@
 ---
 title: "Conor Fleming"
 url: /clonmel/conor-fleming/
-shop: Optiker
+shop: optician
 ---

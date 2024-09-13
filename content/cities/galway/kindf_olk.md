@@ -1,5 +1,5 @@
 ---
 title: "Kindf_olk"
 url: /galway/kindf_olk/
-shop: Kleidung
+shop: clothes
 ---

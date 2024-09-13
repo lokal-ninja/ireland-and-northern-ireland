@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /dundalk/homesavers/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jones"
 url: /kilkenny/jones/
-shop: Schreibwaren
+shop: office supplies
 ---

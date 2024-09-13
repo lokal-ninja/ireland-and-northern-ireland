@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /skibbereen/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

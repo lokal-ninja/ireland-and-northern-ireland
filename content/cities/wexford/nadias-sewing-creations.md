@@ -1,5 +1,5 @@
 ---
 title: "Nadia's Sewing Creations"
 url: /wexford/nadias-sewing-creations/
-shop: Nähzubehör
+shop: sewing
 ---

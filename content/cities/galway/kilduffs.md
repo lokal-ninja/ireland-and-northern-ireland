@@ -1,5 +1,5 @@
 ---
 title: "Kilduff's"
 url: /galway/kilduffs/
-shop: Autowerkstatt
+shop: car repair
 ---

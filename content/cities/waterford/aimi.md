@@ -1,5 +1,5 @@
 ---
 title: "Aimi"
 url: /waterford/aimi/
-shop: Friseur
+shop: hairdresser
 ---

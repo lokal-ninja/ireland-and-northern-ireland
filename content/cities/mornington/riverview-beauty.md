@@ -1,5 +1,5 @@
 ---
 title: "Riverview Beauty"
 url: /mornington/riverview-beauty/
-shop: Kosmetik
+shop: beauty
 ---

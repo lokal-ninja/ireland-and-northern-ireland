@@ -1,5 +1,5 @@
 ---
 title: "The North Face"
 url: /dundrum/the-north-face/
-shop: Kleidung
+shop: clothes
 ---

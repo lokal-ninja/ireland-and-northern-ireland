@@ -1,5 +1,5 @@
 ---
 title: "McCarthy Butchers"
 url: /rathmore/mccarthy-butchers/
-shop: Metzgerei
+shop: butcher
 ---

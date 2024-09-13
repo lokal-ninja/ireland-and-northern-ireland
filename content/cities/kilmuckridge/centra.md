@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /kilmuckridge/centra/
-shop: Supermarkt
+shop: supermarket
 ---

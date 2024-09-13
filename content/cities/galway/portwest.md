@@ -1,5 +1,5 @@
 ---
 title: "Portwest"
 url: /galway/portwest/
-shop: Outdoor
+shop: outdoor
 ---

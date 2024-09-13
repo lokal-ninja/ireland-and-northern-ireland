@@ -1,5 +1,5 @@
 ---
 title: "Duffy Opticians"
 url: /gorey/duffy-opticians/
-shop: Optiker
+shop: optician
 ---

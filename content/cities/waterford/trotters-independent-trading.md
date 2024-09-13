@@ -1,5 +1,5 @@
 ---
 title: "Trotters Independent Trading"
 url: /waterford/trotters-independent-trading/
-shop: Möbel
+shop: furniture
 ---

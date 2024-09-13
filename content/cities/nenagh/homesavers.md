@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /nenagh/homesavers/
-shop: Haushaltsartikel
+shop: houseware
 ---

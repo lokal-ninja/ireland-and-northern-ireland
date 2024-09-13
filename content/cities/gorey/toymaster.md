@@ -1,5 +1,5 @@
 ---
 title: "Toymaster"
 url: /gorey/toymaster/
-shop: Spielzeug
+shop: toys
 ---

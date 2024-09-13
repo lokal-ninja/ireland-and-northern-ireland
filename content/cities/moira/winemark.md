@@ -1,5 +1,5 @@
 ---
 title: "Winemark"
 url: /moira/winemark/
-shop: Wein
+shop: wine
 ---

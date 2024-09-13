@@ -1,5 +1,5 @@
 ---
 title: "Newmarket Motors"
 url: /newmarket/newmarket-motors/
-shop: Autohaus
+shop: car
 ---

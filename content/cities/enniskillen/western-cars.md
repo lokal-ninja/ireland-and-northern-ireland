@@ -1,5 +1,5 @@
 ---
 title: "Western Cars"
 url: /enniskillen/western-cars/
-shop: Autohaus
+shop: car
 ---

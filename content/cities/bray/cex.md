@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /bray/cex/
-shop: Elektronik
+shop: electronics
 ---

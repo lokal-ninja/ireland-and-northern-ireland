@@ -1,5 +1,5 @@
 ---
 title: "Haworth"
 url: /dublin/haworth/
-shop: Möbel
+shop: furniture
 ---

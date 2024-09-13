@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /dublin/londis-fassaugh-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

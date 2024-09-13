@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /clondalkin/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

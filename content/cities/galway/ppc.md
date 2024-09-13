@@ -1,5 +1,5 @@
 ---
 title: "PPC"
 url: /galway/ppc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

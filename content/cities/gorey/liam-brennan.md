@@ -1,5 +1,5 @@
 ---
 title: "Liam Brennan"
 url: /gorey/liam-brennan/
-shop: Eisenwaren
+shop: hardware
 ---

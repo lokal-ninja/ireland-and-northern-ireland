@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /teemore/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /fordstown/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

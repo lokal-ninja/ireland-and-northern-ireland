@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /celbridge/eurogiant/
-shop: Kramladen
+shop: variety store
 ---

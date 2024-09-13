@@ -1,5 +1,5 @@
 ---
 title: "Booley"
 url: /galway/booley/
-shop: Outdoor
+shop: outdoor
 ---

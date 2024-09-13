@@ -1,5 +1,5 @@
 ---
 title: "Anne's Pantry"
 url: /wexford/annes-pantry/
-shop: Allgemein
+shop: shop
 ---

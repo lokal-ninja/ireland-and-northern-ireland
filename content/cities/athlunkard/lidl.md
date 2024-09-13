@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /athlunkard/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

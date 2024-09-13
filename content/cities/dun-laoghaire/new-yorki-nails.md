@@ -1,5 +1,5 @@
 ---
 title: "New YorKi Nails"
 url: /dun-laoghaire/new-yorki-nails/
-shop: Kosmetik
+shop: beauty
 ---

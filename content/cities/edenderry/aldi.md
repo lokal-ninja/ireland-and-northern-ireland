@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /edenderry/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

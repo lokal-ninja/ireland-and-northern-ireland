@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /limerick/centra-ennis-road/
-shop: Lebensmittel
+shop: convenience
 ---

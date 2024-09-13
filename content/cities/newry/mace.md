@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /newry/mace/
-shop: Lebensmittel
+shop: convenience
 ---

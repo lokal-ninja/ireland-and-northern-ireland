@@ -1,5 +1,5 @@
 ---
 title: "Fresh Catch"
 url: /dublin/fresh-catch/
-shop: Fisch
+shop: seafood
 ---

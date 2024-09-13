@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /stamullen/centra/
-shop: Lebensmittel
+shop: convenience
 ---

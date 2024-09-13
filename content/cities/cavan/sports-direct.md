@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /cavan/sports-direct/
-shop: Sport
+shop: sports
 ---

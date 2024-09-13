@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /belfast/co-op-food-rosetta-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deering Agri Supplies"
 url: /rosslea/deering-agri-supplies/
-shop: Baustoffe
+shop: trade
 ---

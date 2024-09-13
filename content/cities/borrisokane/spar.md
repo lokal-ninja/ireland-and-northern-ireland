@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /borrisokane/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /belfast/tesco-express-royal-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

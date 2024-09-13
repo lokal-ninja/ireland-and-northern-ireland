@@ -1,5 +1,5 @@
 ---
 title: "JMK Goldsmith"
 url: /kilkenny/jmk-goldsmith/
-shop: Schmuck
+shop: jewelry
 ---

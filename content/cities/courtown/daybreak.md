@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /courtown/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

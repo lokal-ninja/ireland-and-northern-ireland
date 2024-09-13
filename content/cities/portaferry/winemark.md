@@ -1,5 +1,5 @@
 ---
 title: "Winemark"
 url: /portaferry/winemark/
-shop: Wein
+shop: wine
 ---

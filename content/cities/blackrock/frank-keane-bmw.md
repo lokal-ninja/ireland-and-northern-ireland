@@ -1,5 +1,5 @@
 ---
 title: "Frank Keane BMW"
 url: /blackrock/frank-keane-bmw/
-shop: Autohaus
+shop: car
 ---

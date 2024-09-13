@@ -1,5 +1,5 @@
 ---
 title: "Beat It Music"
 url: /blackrock/beat-it-music/
-shop: Instrumente
+shop: musical instrument
 ---

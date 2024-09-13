@@ -1,5 +1,5 @@
 ---
 title: "Quinn's Pharmacy"
 url: /gort/quinns-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cartridge World"
 url: /letterkenny/cartridge-world/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /omagh/asda/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Culcita"
 url: /wexford/culcita/
-shop: Gartenmöbel
+shop: garden furniture
 ---

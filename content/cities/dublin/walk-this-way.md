@@ -1,5 +1,5 @@
 ---
 title: "Walk This Way"
 url: /dublin/walk-this-way/
-shop: Outdoor
+shop: outdoor
 ---

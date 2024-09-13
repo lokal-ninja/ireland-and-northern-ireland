@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /roundwood/centra/
-shop: Lebensmittel
+shop: convenience
 ---

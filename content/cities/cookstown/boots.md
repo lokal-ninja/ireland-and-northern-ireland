@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /cookstown/boots/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /midleton/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

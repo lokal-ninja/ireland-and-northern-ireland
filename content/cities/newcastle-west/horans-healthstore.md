@@ -1,5 +1,5 @@
 ---
 title: "Horans Healthstore"
 url: /newcastle-west/horans-healthstore/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "House of Handsome"
 url: /blackpool/house-of-handsome/
-shop: Friseur
+shop: hairdresser
 ---

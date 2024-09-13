@@ -1,5 +1,5 @@
 ---
 title: "Modern Tyres"
 url: /belfast/modern-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

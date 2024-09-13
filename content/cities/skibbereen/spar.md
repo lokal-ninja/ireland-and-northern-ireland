@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /skibbereen/spar/
-shop: Supermarkt
+shop: supermarket
 ---

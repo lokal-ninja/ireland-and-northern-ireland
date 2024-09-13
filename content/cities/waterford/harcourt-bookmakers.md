@@ -1,5 +1,5 @@
 ---
 title: "Harcourt Bookmakers"
 url: /waterford/harcourt-bookmakers/
-shop: Wettbüro
+shop: bookmaker
 ---

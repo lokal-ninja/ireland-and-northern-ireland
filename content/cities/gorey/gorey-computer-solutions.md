@@ -1,5 +1,5 @@
 ---
 title: "Gorey Computer Solutions"
 url: /gorey/gorey-computer-solutions/
-shop: Computer
+shop: computer
 ---

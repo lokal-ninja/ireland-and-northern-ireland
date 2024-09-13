@@ -1,5 +1,5 @@
 ---
 title: "Serendipity"
 url: /kilkenny/serendipity/
-shop: Kleidung
+shop: clothes
 ---

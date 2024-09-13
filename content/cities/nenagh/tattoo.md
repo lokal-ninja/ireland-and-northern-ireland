@@ -1,5 +1,5 @@
 ---
 title: "Tattoo"
 url: /nenagh/tattoo/
-shop: Tattoo
+shop: tattoo
 ---

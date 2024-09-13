@@ -1,5 +1,5 @@
 ---
 title: "Auntie Nellies"
 url: /galway/auntie-nellies/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Polonia"
 url: /ashbourne/polonia/
-shop: Supermarkt
+shop: supermarket
 ---

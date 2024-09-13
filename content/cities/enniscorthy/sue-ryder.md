@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /enniscorthy/sue-ryder/
-shop: Gebrauchtwaren
+shop: charity
 ---

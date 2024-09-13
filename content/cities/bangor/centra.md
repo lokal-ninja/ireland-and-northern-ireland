@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /bangor/centra/
-shop: Lebensmittel
+shop: convenience
 ---

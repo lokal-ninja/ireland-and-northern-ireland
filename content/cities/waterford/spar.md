@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /waterford/spar/
-shop: Lebensmittel
+shop: convenience
 ---

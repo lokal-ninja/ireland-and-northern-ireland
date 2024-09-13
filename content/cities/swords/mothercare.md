@@ -1,5 +1,5 @@
 ---
 title: "Mothercare"
 url: /swords/mothercare/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /ballincollig/vodafone/
-shop: Handy
+shop: mobile phone
 ---

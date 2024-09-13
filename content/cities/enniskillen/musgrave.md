@@ -1,5 +1,5 @@
 ---
 title: "Musgrave"
 url: /enniskillen/musgrave/
-shop: Großhandel
+shop: wholesale
 ---

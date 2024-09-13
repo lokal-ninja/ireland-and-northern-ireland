@@ -1,5 +1,5 @@
 ---
 title: "detail"
 url: /kilkenny/detail/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheehan's"
 url: /enniscorthy/sheehans/
-shop: Raumausstattung
+shop: interior decoration
 ---

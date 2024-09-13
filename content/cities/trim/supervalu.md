@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /trim/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jane"
 url: /kinsale/jane/
-shop: Kleidung
+shop: clothes
 ---

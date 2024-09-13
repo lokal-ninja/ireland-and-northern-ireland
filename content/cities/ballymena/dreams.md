@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /ballymena/dreams/
-shop: Betten
+shop: bed
 ---

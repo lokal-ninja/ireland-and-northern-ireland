@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cork/aldi-bishopstown-road/
-shop: Supermarkt
+shop: supermarket
 ---

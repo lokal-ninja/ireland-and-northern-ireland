@@ -1,5 +1,5 @@
 ---
 title: "Bizzy Fingers"
 url: /enniscorthy/bizzy-fingers/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vincent's"
 url: /greystones/vincents/
-shop: Gebrauchtwaren
+shop: charity
 ---

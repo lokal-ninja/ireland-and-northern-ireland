@@ -1,5 +1,5 @@
 ---
 title: "Higgins"
 url: /waterford/higgins/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /louisburgh/spar/
-shop: Lebensmittel
+shop: convenience
 ---

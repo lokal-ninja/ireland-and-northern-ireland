@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /swords/dealz/
-shop: Kramladen
+shop: variety store
 ---

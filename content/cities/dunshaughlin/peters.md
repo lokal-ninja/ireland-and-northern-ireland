@@ -1,5 +1,5 @@
 ---
 title: "Peter's"
 url: /dunshaughlin/peters/
-shop: Spirituosen
+shop: alcohol
 ---

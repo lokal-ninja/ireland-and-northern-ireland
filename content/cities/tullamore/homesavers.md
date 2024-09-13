@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /tullamore/homesavers/
-shop: Garten-Center
+shop: garden centre
 ---

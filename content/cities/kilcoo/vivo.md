@@ -1,5 +1,5 @@
 ---
 title: "ViVO"
 url: /kilcoo/vivo/
-shop: Lebensmittel
+shop: convenience
 ---

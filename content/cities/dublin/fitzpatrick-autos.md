@@ -1,5 +1,5 @@
 ---
 title: "Fitzpatrick Autos"
 url: /dublin/fitzpatrick-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /enniscorthy/centra/
-shop: Lebensmittel
+shop: convenience
 ---

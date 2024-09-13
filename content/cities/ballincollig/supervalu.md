@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /ballincollig/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

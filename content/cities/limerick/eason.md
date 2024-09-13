@@ -1,5 +1,5 @@
 ---
 title: "Eason"
 url: /limerick/eason/
-shop: Bücher
+shop: books
 ---

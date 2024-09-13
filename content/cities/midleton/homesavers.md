@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /midleton/homesavers/
-shop: Garten-Center
+shop: garden centre
 ---

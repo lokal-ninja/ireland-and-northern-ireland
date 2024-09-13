@@ -1,5 +1,5 @@
 ---
 title: "Monaghan Shopping Centre"
 url: /monaghan/monaghan-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

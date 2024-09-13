@@ -1,5 +1,5 @@
 ---
 title: "Claudine King"
 url: /dublin/claudine-king/
-shop: Kosmetik
+shop: beauty
 ---

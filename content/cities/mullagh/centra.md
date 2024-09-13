@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /mullagh/centra/
-shop: Lebensmittel
+shop: convenience
 ---

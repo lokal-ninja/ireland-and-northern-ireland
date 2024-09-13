@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
 url: /navan/homebase/
-shop: Baumarkt
+shop: doityourself
 ---

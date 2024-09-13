@@ -1,5 +1,5 @@
 ---
 title: "Thai Wellbeing"
 url: /waterford/thai-wellbeing/
-shop: Massage
+shop: massage
 ---

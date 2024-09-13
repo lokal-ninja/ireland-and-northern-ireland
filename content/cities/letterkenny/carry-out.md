@@ -1,5 +1,5 @@
 ---
 title: "Carry Out"
 url: /letterkenny/carry-out/
-shop: Spirituosen
+shop: alcohol
 ---

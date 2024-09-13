@@ -1,5 +1,5 @@
 ---
 title: "Guiney's"
 url: /dublin/guineys/
-shop: Leerstehend
+shop: vacant
 ---

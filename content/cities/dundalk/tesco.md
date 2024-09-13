@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /dundalk/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

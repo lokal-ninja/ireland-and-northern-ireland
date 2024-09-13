@@ -1,5 +1,5 @@
 ---
 title: "J C O'Shea"
 url: /killarney/j-c-oshea/
-shop: Spirituosen
+shop: alcohol
 ---

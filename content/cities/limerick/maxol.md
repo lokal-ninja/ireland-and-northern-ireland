@@ -1,5 +1,5 @@
 ---
 title: "Maxol"
 url: /limerick/maxol/
-shop: Lebensmittel
+shop: convenience
 ---

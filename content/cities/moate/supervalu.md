@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /moate/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

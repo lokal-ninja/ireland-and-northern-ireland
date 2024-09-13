@@ -1,5 +1,5 @@
 ---
 title: "Kameleon"
 url: /dublin/kameleon/
-shop: Friseur
+shop: hairdresser
 ---

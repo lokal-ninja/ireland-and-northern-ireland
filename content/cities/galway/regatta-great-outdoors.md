@@ -1,5 +1,5 @@
 ---
 title: "Regatta Great Outdoors"
 url: /galway/regatta-great-outdoors/
-shop: Outdoor
+shop: outdoor
 ---

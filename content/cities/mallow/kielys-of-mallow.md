@@ -1,5 +1,5 @@
 ---
 title: "Kiely's of Mallow"
 url: /mallow/kielys-of-mallow/
-shop: Autohaus
+shop: car
 ---

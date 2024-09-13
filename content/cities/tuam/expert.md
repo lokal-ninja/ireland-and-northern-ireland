@@ -1,5 +1,5 @@
 ---
 title: "Expert"
 url: /tuam/expert/
-shop: Elektronik
+shop: electronics
 ---

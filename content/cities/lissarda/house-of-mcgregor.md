@@ -1,5 +1,5 @@
 ---
 title: "House of McGregor"
 url: /lissarda/house-of-mcgregor/
-shop: Möbel
+shop: furniture
 ---

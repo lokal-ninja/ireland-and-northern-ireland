@@ -1,5 +1,5 @@
 ---
 title: "Waterford Centre of Wellbeing"
 url: /waterford/waterford-centre-of-wellbeing/
-shop: Bioladen
+shop: health food
 ---

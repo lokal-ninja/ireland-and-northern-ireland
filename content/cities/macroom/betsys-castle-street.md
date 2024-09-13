@@ -1,5 +1,5 @@
 ---
 title: "Betsy's"
 url: /macroom/betsys-castle-street/
-shop: Blumen
+shop: florist
 ---

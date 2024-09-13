@@ -1,5 +1,5 @@
 ---
 title: "Indi"
 url: /waterford/indi/
-shop: Kleidung
+shop: clothes
 ---

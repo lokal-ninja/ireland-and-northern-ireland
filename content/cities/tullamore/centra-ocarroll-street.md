@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /tullamore/centra-ocarroll-street/
-shop: Lebensmittel
+shop: convenience
 ---

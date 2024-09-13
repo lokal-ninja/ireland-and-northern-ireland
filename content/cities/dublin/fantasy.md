@@ -1,5 +1,5 @@
 ---
 title: "Fantasy"
 url: /dublin/fantasy/
-shop: Friseur
+shop: hairdresser
 ---

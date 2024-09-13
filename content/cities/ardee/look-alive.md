@@ -1,5 +1,5 @@
 ---
 title: "Look Alive"
 url: /ardee/look-alive/
-shop: Kosmetik
+shop: beauty
 ---

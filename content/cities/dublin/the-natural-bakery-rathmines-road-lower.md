@@ -1,5 +1,5 @@
 ---
 title: "The Natural Bakery"
 url: /dublin/the-natural-bakery-rathmines-road-lower/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Full of Beans"
 url: /waterford/full-of-beans/
-shop: Bioladen
+shop: health food
 ---

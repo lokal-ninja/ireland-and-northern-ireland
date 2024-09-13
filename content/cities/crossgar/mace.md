@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /crossgar/mace/
-shop: Lebensmittel
+shop: convenience
 ---

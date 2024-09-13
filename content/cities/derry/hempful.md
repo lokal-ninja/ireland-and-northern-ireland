@@ -1,5 +1,5 @@
 ---
 title: "Hempful"
 url: /derry/hempful/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

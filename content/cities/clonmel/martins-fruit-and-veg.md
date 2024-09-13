@@ -1,5 +1,5 @@
 ---
 title: "Martin's Fruit and Veg"
 url: /clonmel/martins-fruit-and-veg/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

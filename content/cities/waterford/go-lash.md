@@ -1,5 +1,5 @@
 ---
 title: "Go Lash"
 url: /waterford/go-lash/
-shop: Kosmetik
+shop: beauty
 ---

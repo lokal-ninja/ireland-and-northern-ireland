@@ -1,5 +1,5 @@
 ---
 title: "NK Footwear"
 url: /wexford/nk-footwear/
-shop: Schuhe
+shop: shoes
 ---

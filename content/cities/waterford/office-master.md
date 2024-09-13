@@ -1,5 +1,5 @@
 ---
 title: "Office Master"
 url: /waterford/office-master/
-shop: Schreibwaren
+shop: office supplies
 ---

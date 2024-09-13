@@ -1,5 +1,5 @@
 ---
 title: "Hale"
 url: /waterford/hale/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

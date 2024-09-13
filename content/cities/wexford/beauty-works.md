@@ -1,5 +1,5 @@
 ---
 title: "Beauty Works"
 url: /wexford/beauty-works/
-shop: Friseur
+shop: hairdresser
 ---

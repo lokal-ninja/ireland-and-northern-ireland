@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /warrenpoint/eurospar/
-shop: Supermarkt
+shop: supermarket
 ---

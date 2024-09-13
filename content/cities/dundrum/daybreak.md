@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /dundrum/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

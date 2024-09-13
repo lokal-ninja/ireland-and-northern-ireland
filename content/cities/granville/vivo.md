@@ -1,5 +1,5 @@
 ---
 title: "ViVO"
 url: /granville/vivo/
-shop: Lebensmittel
+shop: convenience
 ---

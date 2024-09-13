@@ -1,5 +1,5 @@
 ---
 title: "Tanning Shop"
 url: /dublin/tanning-shop/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /limerick/card-factory/
-shop: Andenken
+shop: gift
 ---

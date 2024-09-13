@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /newbridge/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

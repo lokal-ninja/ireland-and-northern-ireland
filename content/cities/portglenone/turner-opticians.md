@@ -1,5 +1,5 @@
 ---
 title: "Turner Opticians"
 url: /portglenone/turner-opticians/
-shop: Optiker
+shop: optician
 ---

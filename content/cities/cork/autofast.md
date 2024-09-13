@@ -1,5 +1,5 @@
 ---
 title: "AutoFast"
 url: /cork/autofast/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MODified"
 url: /kilkenny/modified/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

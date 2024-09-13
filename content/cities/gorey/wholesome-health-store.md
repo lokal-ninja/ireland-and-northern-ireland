@@ -1,5 +1,5 @@
 ---
 title: "Wholesome Health Store"
 url: /gorey/wholesome-health-store/
-shop: Feinkost
+shop: deli
 ---

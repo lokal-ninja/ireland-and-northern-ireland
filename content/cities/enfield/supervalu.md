@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /enfield/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

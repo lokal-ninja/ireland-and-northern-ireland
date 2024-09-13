@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /galway/select/
-shop: Elektronik
+shop: electronics
 ---

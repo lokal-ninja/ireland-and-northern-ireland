@@ -1,5 +1,5 @@
 ---
 title: "Hahessy"
 url: /castlecomer/hahessy/
-shop: Möbel
+shop: furniture
 ---

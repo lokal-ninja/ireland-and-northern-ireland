@@ -1,5 +1,5 @@
 ---
 title: "Martin Gear"
 url: /dublin/martin-gear/
-shop: Schmuck
+shop: jewelry
 ---

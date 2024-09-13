@@ -1,5 +1,5 @@
 ---
 title: "Royal Thai"
 url: /dublin/royal-thai/
-shop: Massage
+shop: massage
 ---

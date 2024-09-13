@@ -1,5 +1,5 @@
 ---
 title: "Protocol"
 url: /swords/protocol/
-shop: Kleidung
+shop: clothes
 ---

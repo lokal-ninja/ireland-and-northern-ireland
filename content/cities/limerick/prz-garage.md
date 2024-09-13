@@ -1,5 +1,5 @@
 ---
 title: "PRZ Garage"
 url: /limerick/prz-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

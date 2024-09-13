@@ -1,5 +1,5 @@
 ---
 title: "WeFix"
 url: /galway/wefix/
-shop: Handy
+shop: mobile phone
 ---

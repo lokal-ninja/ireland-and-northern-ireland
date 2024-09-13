@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ballygawley/centra/
-shop: Lebensmittel
+shop: convenience
 ---

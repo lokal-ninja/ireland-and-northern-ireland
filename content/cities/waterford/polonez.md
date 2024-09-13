@@ -1,5 +1,5 @@
 ---
 title: "Polonez"
 url: /waterford/polonez/
-shop: Lebensmittel
+shop: convenience
 ---

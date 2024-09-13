@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /kinnegad/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

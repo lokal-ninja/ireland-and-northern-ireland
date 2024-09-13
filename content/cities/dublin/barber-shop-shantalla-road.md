@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop"
 url: /dublin/barber-shop-shantalla-road/
-shop: Friseur
+shop: hairdresser
 ---

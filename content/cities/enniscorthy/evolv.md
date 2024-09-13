@@ -1,5 +1,5 @@
 ---
 title: "Evolv"
 url: /enniscorthy/evolv/
-shop: Bioladen
+shop: health food
 ---

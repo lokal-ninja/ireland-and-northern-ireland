@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /dublin/lidl-rathfarnham-road/
-shop: Supermarkt
+shop: supermarket
 ---

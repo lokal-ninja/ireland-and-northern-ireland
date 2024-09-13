@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /kilkenny/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

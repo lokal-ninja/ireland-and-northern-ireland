@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /carrickfergus/eurospar/
-shop: Supermarkt
+shop: supermarket
 ---

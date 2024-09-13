@@ -1,5 +1,5 @@
 ---
 title: "Kieran O'Gorman"
 url: /kilkenny/kieran-ogorman/
-shop: Kosmetik
+shop: beauty
 ---

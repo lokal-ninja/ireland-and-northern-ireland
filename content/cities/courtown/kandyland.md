@@ -1,5 +1,5 @@
 ---
 title: "Kandyland"
 url: /courtown/kandyland/
-shop: Süßwaren
+shop: confectionery
 ---

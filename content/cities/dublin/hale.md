@@ -1,5 +1,5 @@
 ---
 title: "Hale"
 url: /dublin/hale/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dealz"
 url: /tullamore/dealz/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woodie's"
 url: /clonmel/woodies/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Byrnes Convenience Store"
 url: /geashill/byrnes-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

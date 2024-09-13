@@ -1,5 +1,5 @@
 ---
 title: "C.A."
 url: /swords/c-a/
-shop: Reifen
+shop: tyres
 ---

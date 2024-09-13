@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /dublin/spar-mountjoy-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winemark"
 url: /newtownards/winemark/
-shop: Wein
+shop: wine
 ---

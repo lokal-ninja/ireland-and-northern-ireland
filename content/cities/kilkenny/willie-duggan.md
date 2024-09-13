@@ -1,5 +1,5 @@
 ---
 title: "Willie Duggan"
 url: /kilkenny/willie-duggan/
-shop: Lampen
+shop: lamps
 ---

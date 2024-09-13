@@ -1,5 +1,5 @@
 ---
 title: "Penneys"
 url: /drogheda/penneys/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /dunmanway/londis/
-shop: Supermarkt
+shop: supermarket
 ---

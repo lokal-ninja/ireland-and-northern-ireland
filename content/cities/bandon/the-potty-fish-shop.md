@@ -1,5 +1,5 @@
 ---
 title: "The Potty Fish Shop"
 url: /bandon/the-potty-fish-shop/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blair House Charcuterie"
 url: /rathmore/blair-house-charcuterie/
-shop: Metzgerei
+shop: butcher
 ---

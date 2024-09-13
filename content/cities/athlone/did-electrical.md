@@ -1,5 +1,5 @@
 ---
 title: "DID Electrical"
 url: /athlone/did-electrical/
-shop: Elektronik
+shop: electronics
 ---

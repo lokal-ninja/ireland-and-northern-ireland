@@ -1,5 +1,5 @@
 ---
 title: "DID Electrical"
 url: /stillorgan/did-electrical/
-shop: Elektronik
+shop: electronics
 ---

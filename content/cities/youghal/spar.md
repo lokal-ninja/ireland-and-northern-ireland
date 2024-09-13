@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /youghal/spar/
-shop: Lebensmittel
+shop: convenience
 ---

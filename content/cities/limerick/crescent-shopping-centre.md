@@ -1,5 +1,5 @@
 ---
 title: "Crescent Shopping Centre"
 url: /limerick/crescent-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

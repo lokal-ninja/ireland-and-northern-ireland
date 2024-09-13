@@ -1,5 +1,5 @@
 ---
 title: "Eir"
 url: /ballincollig/eir/
-shop: Handy
+shop: mobile phone
 ---

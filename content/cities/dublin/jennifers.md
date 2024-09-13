@@ -1,5 +1,5 @@
 ---
 title: "Jennifers'"
 url: /dublin/jennifers/
-shop: Nähzubehör
+shop: sewing
 ---

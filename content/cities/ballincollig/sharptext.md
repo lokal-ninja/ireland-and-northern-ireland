@@ -1,5 +1,5 @@
 ---
 title: "Sharptext"
 url: /ballincollig/sharptext/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brereton Carpets"
 url: /greystones/brereton-carpets/
-shop: Haushaltsartikel
+shop: houseware
 ---

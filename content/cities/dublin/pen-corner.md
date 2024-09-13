@@ -1,5 +1,5 @@
 ---
 title: "Pen Corner"
 url: /dublin/pen-corner/
-shop: Schreibwaren
+shop: office supplies
 ---

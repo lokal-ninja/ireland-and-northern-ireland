@@ -1,5 +1,5 @@
 ---
 title: "DPL"
 url: /wexford/dpl/
-shop: Baustoffe
+shop: trade
 ---

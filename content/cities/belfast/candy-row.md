@@ -1,5 +1,5 @@
 ---
 title: "Candy Row"
 url: /belfast/candy-row/
-shop: Allgemein
+shop: shop
 ---

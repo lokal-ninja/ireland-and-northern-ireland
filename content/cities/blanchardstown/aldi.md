@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /blanchardstown/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

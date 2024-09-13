@@ -1,5 +1,5 @@
 ---
 title: "Newe U"
 url: /wexford/newe-u/
-shop: Friseur
+shop: hairdresser
 ---

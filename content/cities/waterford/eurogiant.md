@@ -1,5 +1,5 @@
 ---
 title: "EuroGiant"
 url: /waterford/eurogiant/
-shop: Kramladen
+shop: variety store
 ---

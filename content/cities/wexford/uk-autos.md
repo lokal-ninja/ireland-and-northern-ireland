@@ -1,5 +1,5 @@
 ---
 title: "UK Autos"
 url: /wexford/uk-autos/
-shop: Autohaus
+shop: car
 ---

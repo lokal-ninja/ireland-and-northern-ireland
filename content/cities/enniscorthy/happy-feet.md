@@ -1,5 +1,5 @@
 ---
 title: "Happy Feet"
 url: /enniscorthy/happy-feet/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Liffey Mills"
 url: /shinrone/liffey-mills/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

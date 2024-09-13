@@ -1,5 +1,5 @@
 ---
 title: "Tradewinds"
 url: /wexford/tradewinds/
-shop: Kleidung
+shop: clothes
 ---

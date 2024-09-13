@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /tallaght/halfords/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Car Styling"
 url: /rathcoole/car-styling/
-shop: Autowerkstatt
+shop: car repair
 ---

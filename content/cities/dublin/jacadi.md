@@ -1,5 +1,5 @@
 ---
 title: "Jacadi"
 url: /dublin/jacadi/
-shop: Kleidung
+shop: clothes
 ---

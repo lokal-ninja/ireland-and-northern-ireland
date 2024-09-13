@@ -1,5 +1,5 @@
 ---
 title: "Vincent's"
 url: /waterford/vincents/
-shop: Gebrauchtwaren
+shop: charity
 ---

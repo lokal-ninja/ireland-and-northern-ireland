@@ -1,5 +1,5 @@
 ---
 title: "HSS Hire"
 url: /cork/hss-hire/
-shop: Werkzeuge
+shop: tools
 ---

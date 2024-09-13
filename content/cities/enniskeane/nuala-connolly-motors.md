@@ -1,5 +1,5 @@
 ---
 title: "Nuala Connolly Motors"
 url: /enniskeane/nuala-connolly-motors/
-shop: Autohaus
+shop: car
 ---

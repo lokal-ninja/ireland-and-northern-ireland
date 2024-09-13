@@ -1,5 +1,5 @@
 ---
 title: "Maher's"
 url: /dublin/mahers/
-shop: Spirituosen
+shop: alcohol
 ---

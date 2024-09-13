@@ -1,5 +1,5 @@
 ---
 title: "Flemings"
 url: /dublin/flemings/
-shop: Lebensmittel
+shop: convenience
 ---

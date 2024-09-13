@@ -1,5 +1,5 @@
 ---
 title: "SMF"
 url: /lusk/smf/
-shop: Autoteile
+shop: car parts
 ---

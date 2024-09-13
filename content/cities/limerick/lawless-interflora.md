@@ -1,5 +1,5 @@
 ---
 title: "Lawless Interflora"
 url: /limerick/lawless-interflora/
-shop: Blumen
+shop: florist
 ---

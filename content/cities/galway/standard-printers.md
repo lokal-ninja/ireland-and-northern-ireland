@@ -1,5 +1,5 @@
 ---
 title: "Standard Printers"
 url: /galway/standard-printers/
-shop: Kopieren
+shop: copyshop
 ---

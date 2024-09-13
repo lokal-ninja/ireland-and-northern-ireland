@@ -1,5 +1,5 @@
 ---
 title: "McGarry's"
 url: /clones/mcgarrys/
-shop: Kleidung
+shop: clothes
 ---

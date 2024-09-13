@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Tyre Company"
 url: /dublin/phoenix-tyre-company/
-shop: Autoteile
+shop: car parts
 ---

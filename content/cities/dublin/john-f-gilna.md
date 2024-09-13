@@ -1,5 +1,5 @@
 ---
 title: "John F GIlna"
 url: /dublin/john-f-gilna/
-shop: Optiker
+shop: optician
 ---

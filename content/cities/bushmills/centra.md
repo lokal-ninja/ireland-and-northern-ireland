@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /bushmills/centra/
-shop: Lebensmittel
+shop: convenience
 ---

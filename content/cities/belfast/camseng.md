@@ -1,5 +1,5 @@
 ---
 title: "Camseng"
 url: /belfast/camseng/
-shop: Supermarkt
+shop: supermarket
 ---

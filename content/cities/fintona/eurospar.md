@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /fintona/eurospar/
-shop: Supermarkt
+shop: supermarket
 ---

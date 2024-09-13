@@ -1,5 +1,5 @@
 ---
 title: "Antica"
 url: /dublin/antica/
-shop: Allgemein
+shop: shop
 ---

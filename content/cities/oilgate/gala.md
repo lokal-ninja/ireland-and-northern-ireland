@@ -1,5 +1,5 @@
 ---
 title: "Gala"
 url: /oilgate/gala/
-shop: Lebensmittel
+shop: convenience
 ---

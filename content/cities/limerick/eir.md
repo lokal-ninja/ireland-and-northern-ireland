@@ -1,5 +1,5 @@
 ---
 title: "Eir"
 url: /limerick/eir/
-shop: Handy
+shop: mobile phone
 ---

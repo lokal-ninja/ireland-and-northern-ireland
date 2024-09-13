@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /sligo/centra-castle-street/
-shop: Lebensmittel
+shop: convenience
 ---

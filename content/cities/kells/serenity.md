@@ -1,5 +1,5 @@
 ---
 title: "Serenity"
 url: /kells/serenity/
-shop: Allgemein
+shop: shop
 ---

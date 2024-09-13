@@ -1,5 +1,5 @@
 ---
 title: "Nine Lives"
 url: /kilkenny/nine-lives/
-shop: Kleidung
+shop: clothes
 ---

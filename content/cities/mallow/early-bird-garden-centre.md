@@ -1,5 +1,5 @@
 ---
 title: "Early Bird Garden Centre"
 url: /mallow/early-bird-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /killenaule/centra/
-shop: Supermarkt
+shop: supermarket
 ---

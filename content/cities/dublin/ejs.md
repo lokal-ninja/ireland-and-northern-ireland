@@ -1,5 +1,5 @@
 ---
 title: "EJ's"
 url: /dublin/ejs/
-shop: Lebensmittel
+shop: convenience
 ---

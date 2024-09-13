@@ -1,5 +1,5 @@
 ---
 title: "Vincent's"
 url: /dun-laoghaire/vincents/
-shop: Gebrauchtwaren
+shop: charity
 ---

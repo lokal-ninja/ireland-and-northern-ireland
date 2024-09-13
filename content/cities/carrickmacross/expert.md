@@ -1,5 +1,5 @@
 ---
 title: "Expert"
 url: /carrickmacross/expert/
-shop: Elektronik
+shop: electronics
 ---

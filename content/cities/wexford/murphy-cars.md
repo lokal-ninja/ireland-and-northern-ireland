@@ -1,5 +1,5 @@
 ---
 title: "Murphy Cars"
 url: /wexford/murphy-cars/
-shop: Autohaus
+shop: car
 ---

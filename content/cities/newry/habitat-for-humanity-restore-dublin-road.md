@@ -1,5 +1,5 @@
 ---
 title: "Habitat for Humanity ReStore"
 url: /newry/habitat-for-humanity-restore-dublin-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

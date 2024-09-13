@@ -1,5 +1,5 @@
 ---
 title: "Born Clothing"
 url: /galway/born-clothing-headford-road/
-shop: Kleidung
+shop: clothes
 ---

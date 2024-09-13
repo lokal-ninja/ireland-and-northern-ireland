@@ -1,5 +1,5 @@
 ---
 title: "CW Distributors"
 url: /galway/cw-distributors/
-shop: Allgemein
+shop: shop
 ---

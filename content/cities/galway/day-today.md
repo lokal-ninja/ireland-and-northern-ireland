@@ -1,5 +1,5 @@
 ---
 title: "Day-Today"
 url: /galway/day-today/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woodstyles"
 url: /dublin/woodstyles/
-shop: Allgemein
+shop: shop
 ---

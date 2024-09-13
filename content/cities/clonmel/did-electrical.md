@@ -1,5 +1,5 @@
 ---
 title: "DID Electrical"
 url: /clonmel/did-electrical/
-shop: Elektronik
+shop: electronics
 ---

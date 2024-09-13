@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /newtownards/home-bargains/
-shop: Kramladen
+shop: variety store
 ---

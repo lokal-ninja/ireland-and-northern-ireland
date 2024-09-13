@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /kill/eurospar/
-shop: Supermarkt
+shop: supermarket
 ---

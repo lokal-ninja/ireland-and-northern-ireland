@@ -1,5 +1,5 @@
 ---
 title: "Golden Discs"
 url: /wexford/golden-discs/
-shop: Musik
+shop: music
 ---

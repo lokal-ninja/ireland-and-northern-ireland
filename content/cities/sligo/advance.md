@@ -1,5 +1,5 @@
 ---
 title: "Advance"
 url: /sligo/advance/
-shop: Autowerkstatt
+shop: car repair
 ---

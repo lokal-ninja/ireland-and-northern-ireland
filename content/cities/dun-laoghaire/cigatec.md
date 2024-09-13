@@ -1,5 +1,5 @@
 ---
 title: "Cigatec"
 url: /dun-laoghaire/cigatec/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

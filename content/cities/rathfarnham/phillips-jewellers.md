@@ -1,5 +1,5 @@
 ---
 title: "Phillips Jewellers"
 url: /rathfarnham/phillips-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

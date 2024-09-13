@@ -1,5 +1,5 @@
 ---
 title: "Childvision"
 url: /dublin/childvision-grace-park-road/
-shop: Garten-Center
+shop: garden centre
 ---

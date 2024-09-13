@@ -1,5 +1,5 @@
 ---
 title: "Petmania"
 url: /galway/petmania/
-shop: Tiere
+shop: pet
 ---

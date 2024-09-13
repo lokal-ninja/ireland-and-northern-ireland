@@ -1,5 +1,5 @@
 ---
 title: "Fuschia"
 url: /schull/fuschia/
-shop: Kleidung
+shop: clothes
 ---

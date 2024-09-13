@@ -1,5 +1,5 @@
 ---
 title: "O'Flynn's"
 url: /waterford/oflynns/
-shop: Metzgerei
+shop: butcher
 ---

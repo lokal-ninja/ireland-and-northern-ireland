@@ -1,5 +1,5 @@
 ---
 title: "Urban Cutz"
 url: /belfast/urban-cutz/
-shop: Friseur
+shop: hairdresser
 ---

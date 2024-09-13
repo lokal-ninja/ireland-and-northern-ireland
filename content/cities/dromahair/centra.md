@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /dromahair/centra/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ratoath/spar/
-shop: Lebensmittel
+shop: convenience
 ---

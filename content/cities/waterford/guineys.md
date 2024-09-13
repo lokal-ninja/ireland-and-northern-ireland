@@ -1,5 +1,5 @@
 ---
 title: "Guineys"
 url: /waterford/guineys/
-shop: Warenhaus
+shop: department store
 ---

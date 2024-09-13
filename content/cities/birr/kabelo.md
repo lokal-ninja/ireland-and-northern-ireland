@@ -1,5 +1,5 @@
 ---
 title: "Kabelo"
 url: /birr/kabelo/
-shop: Kleidung
+shop: clothes
 ---

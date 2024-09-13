@@ -1,5 +1,5 @@
 ---
 title: "Eir"
 url: /waterford/eir/
-shop: Handy
+shop: mobile phone
 ---

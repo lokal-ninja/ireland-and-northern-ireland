@@ -1,5 +1,5 @@
 ---
 title: "Stock Design"
 url: /dublin/stock-design/
-shop: Andenken
+shop: gift
 ---

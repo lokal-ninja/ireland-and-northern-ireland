@@ -1,5 +1,5 @@
 ---
 title: "Studio One"
 url: /ratoath/studio-one/
-shop: Friseur
+shop: hairdresser
 ---

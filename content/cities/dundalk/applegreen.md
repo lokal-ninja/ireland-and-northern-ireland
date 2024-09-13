@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /dundalk/applegreen/
-shop: Lebensmittel
+shop: convenience
 ---

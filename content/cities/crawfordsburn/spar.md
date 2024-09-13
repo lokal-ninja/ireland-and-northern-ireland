@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /crawfordsburn/spar/
-shop: Lebensmittel
+shop: convenience
 ---

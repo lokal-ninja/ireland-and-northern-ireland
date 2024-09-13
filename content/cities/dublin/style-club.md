@@ -1,5 +1,5 @@
 ---
 title: "Style Club"
 url: /dublin/style-club/
-shop: Friseur
+shop: hairdresser
 ---

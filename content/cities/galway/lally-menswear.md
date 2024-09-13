@@ -1,5 +1,5 @@
 ---
 title: "Lally Menswear"
 url: /galway/lally-menswear/
-shop: Kleidung
+shop: clothes
 ---

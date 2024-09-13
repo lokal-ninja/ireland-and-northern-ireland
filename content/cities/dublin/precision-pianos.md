@@ -1,5 +1,5 @@
 ---
 title: "Precision Pianos"
 url: /dublin/precision-pianos/
-shop: Instrumente
+shop: musical instrument
 ---

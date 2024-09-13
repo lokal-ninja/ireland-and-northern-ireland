@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /dublin/pandora-henry-street/
-shop: Schmuck
+shop: jewelry
 ---

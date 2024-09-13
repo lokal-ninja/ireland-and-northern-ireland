@@ -1,5 +1,5 @@
 ---
 title: "IRepair"
 url: /port-laoise/irepair/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /coleraine/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

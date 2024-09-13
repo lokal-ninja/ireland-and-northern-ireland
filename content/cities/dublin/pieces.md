@@ -1,5 +1,5 @@
 ---
 title: "Pieces"
 url: /dublin/pieces/
-shop: Raumausstattung
+shop: interior decoration
 ---

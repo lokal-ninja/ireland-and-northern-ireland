@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /athlone/homesavers/
-shop: Garten-Center
+shop: garden centre
 ---

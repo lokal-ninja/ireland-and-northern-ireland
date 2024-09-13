@@ -1,5 +1,5 @@
 ---
 title: "Maibe Carey"
 url: /kilkenny/maibe-carey/
-shop: Friseur
+shop: hairdresser
 ---

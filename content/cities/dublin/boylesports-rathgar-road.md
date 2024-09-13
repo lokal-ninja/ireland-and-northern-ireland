@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /dublin/boylesports-rathgar-road/
-shop: Wettbüro
+shop: bookmaker
 ---

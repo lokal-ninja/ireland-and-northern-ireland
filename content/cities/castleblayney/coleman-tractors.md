@@ -1,5 +1,5 @@
 ---
 title: "Coleman Tractors"
 url: /castleblayney/coleman-tractors/
-shop: Allgemein
+shop: shop
 ---

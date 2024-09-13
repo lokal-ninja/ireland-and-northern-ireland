@@ -1,5 +1,5 @@
 ---
 title: "Lakeland Storage"
 url: /cavan/lakeland-storage/
-shop: Mieten
+shop: storage rental
 ---

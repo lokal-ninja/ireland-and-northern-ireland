@@ -1,5 +1,5 @@
 ---
 title: "Sofatime"
 url: /newtownabbey/sofatime/
-shop: Möbel
+shop: furniture
 ---

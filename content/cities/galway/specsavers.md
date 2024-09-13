@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /galway/specsavers/
-shop: Optiker
+shop: optician
 ---

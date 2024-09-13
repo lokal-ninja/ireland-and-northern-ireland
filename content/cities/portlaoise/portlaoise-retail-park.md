@@ -1,5 +1,5 @@
 ---
 title: "Portlaoise Retail Park"
 url: /portlaoise/portlaoise-retail-park/
-shop: Einkaufszentrum
+shop: mall
 ---

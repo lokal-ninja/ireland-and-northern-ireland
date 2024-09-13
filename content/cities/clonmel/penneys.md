@@ -1,5 +1,5 @@
 ---
 title: "Penneys"
 url: /clonmel/penneys/
-shop: Kleidung
+shop: clothes
 ---

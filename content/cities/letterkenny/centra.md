@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /letterkenny/centra/
-shop: Lebensmittel
+shop: convenience
 ---

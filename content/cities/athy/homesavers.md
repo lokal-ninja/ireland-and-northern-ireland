@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /athy/homesavers/
-shop: Garten-Center
+shop: garden centre
 ---

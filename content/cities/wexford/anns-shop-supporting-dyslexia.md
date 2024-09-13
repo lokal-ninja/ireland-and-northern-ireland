@@ -1,5 +1,5 @@
 ---
 title: "Ann's Shop Supporting Dyslexia"
 url: /wexford/anns-shop-supporting-dyslexia/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tadhg O'Connor"
 url: /newcastle-west/tadhg-oconnor/
-shop: Eisenwaren
+shop: hardware
 ---

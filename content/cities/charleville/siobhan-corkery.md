@@ -1,5 +1,5 @@
 ---
 title: "Siobhan Corkery"
 url: /charleville/siobhan-corkery/
-shop: Optiker
+shop: optician
 ---

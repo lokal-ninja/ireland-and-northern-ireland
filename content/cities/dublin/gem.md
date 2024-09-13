@@ -1,5 +1,5 @@
 ---
 title: "Gem"
 url: /dublin/gem/
-shop: Kosmetik
+shop: beauty
 ---

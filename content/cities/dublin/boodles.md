@@ -1,5 +1,5 @@
 ---
 title: "Boodles"
 url: /dublin/boodles/
-shop: Schmuck
+shop: jewelry
 ---

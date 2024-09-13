@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /paulstown/applegreen/
-shop: Lebensmittel
+shop: convenience
 ---

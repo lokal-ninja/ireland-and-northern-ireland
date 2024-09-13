@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /athlunkard/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

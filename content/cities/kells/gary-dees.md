@@ -1,5 +1,5 @@
 ---
 title: "Gary Dee's"
 url: /kells/gary-dees/
-shop: Friseur
+shop: hairdresser
 ---

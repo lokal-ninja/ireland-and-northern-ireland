@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /dublin/supervalu-walkinstown-road/
-shop: Supermarkt
+shop: supermarket
 ---

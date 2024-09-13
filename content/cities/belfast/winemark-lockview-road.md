@@ -1,5 +1,5 @@
 ---
 title: "Winemark"
 url: /belfast/winemark-lockview-road/
-shop: Wein
+shop: wine
 ---

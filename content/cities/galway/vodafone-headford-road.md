@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /galway/vodafone-headford-road/
-shop: Handy
+shop: mobile phone
 ---

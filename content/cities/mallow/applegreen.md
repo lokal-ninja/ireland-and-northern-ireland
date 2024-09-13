@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /mallow/applegreen/
-shop: Lebensmittel
+shop: convenience
 ---

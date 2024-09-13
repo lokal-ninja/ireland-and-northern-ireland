@@ -1,5 +1,5 @@
 ---
 title: "Gabriels Barbers"
 url: /manorhamilton/gabriels-barbers/
-shop: Friseur
+shop: hairdresser
 ---

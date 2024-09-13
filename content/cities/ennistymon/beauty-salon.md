@@ -1,5 +1,5 @@
 ---
 title: "Beauty Salon"
 url: /ennistymon/beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /collinstown/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

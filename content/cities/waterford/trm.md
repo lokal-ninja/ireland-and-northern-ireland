@@ -1,5 +1,5 @@
 ---
 title: "TRM"
 url: /waterford/trm/
-shop: Kleidung
+shop: clothes
 ---

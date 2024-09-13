@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /athy/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

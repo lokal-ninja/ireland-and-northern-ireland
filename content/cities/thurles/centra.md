@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /thurles/centra/
-shop: Lebensmittel
+shop: convenience
 ---

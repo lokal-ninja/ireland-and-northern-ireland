@@ -1,5 +1,5 @@
 ---
 title: "Halos"
 url: /nenagh/halos/
-shop: Friseur
+shop: hairdresser
 ---

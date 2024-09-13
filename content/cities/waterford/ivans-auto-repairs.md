@@ -1,5 +1,5 @@
 ---
 title: "Ivan's Auto Repairs"
 url: /waterford/ivans-auto-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

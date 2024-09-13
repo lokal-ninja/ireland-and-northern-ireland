@@ -1,5 +1,5 @@
 ---
 title: "FreeWheeling"
 url: /dublin/freewheeling/
-shop: Fahrrad
+shop: bicycle
 ---

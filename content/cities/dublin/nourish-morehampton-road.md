@@ -1,5 +1,5 @@
 ---
 title: "Nourish"
 url: /dublin/nourish-morehampton-road/
-shop: Bioladen
+shop: health food
 ---

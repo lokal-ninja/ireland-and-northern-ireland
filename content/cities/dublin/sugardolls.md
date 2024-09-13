@@ -1,5 +1,5 @@
 ---
 title: "SugarDolls"
 url: /dublin/sugardolls/
-shop: Kosmetik
+shop: beauty
 ---

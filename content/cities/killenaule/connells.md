@@ -1,5 +1,5 @@
 ---
 title: "Connells"
 url: /killenaule/connells/
-shop: Autowerkstatt
+shop: car repair
 ---

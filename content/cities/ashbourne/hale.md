@@ -1,5 +1,5 @@
 ---
 title: "Hale"
 url: /ashbourne/hale/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

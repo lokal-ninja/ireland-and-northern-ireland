@@ -1,5 +1,5 @@
 ---
 title: "Truffle"
 url: /galway/truffle/
-shop: Schokolade
+shop: chocolate
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwoods"
 url: /kilkenny/sherwoods/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /carrigaline/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

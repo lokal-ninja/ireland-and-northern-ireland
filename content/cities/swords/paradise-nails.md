@@ -1,5 +1,5 @@
 ---
 title: "Paradise Nails"
 url: /swords/paradise-nails/
-shop: Kosmetik
+shop: beauty
 ---

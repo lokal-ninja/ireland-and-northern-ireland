@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
 url: /enniskerry/mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

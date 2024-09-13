@@ -1,5 +1,5 @@
 ---
 title: "Books Upstairs"
 url: /dublin/books-upstairs/
-shop: Bücher
+shop: books
 ---

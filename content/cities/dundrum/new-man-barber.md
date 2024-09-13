@@ -1,5 +1,5 @@
 ---
 title: "New Man Barber"
 url: /dundrum/new-man-barber/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phillip's Workwear"
 url: /dublin/phillips-workwear/
-shop: Kleidung
+shop: clothes
 ---

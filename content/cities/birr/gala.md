@@ -1,5 +1,5 @@
 ---
 title: "Gala"
 url: /birr/gala/
-shop: Lebensmittel
+shop: convenience
 ---

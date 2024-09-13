@@ -1,5 +1,5 @@
 ---
 title: "Nesta"
 url: /deansgrange/nesta/
-shop: Mieten
+shop: storage rental
 ---

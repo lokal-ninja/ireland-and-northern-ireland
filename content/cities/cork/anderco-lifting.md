@@ -1,5 +1,5 @@
 ---
 title: "Anderco Lifting"
 url: /cork/anderco-lifting/
-shop: Allgemein
+shop: shop
 ---

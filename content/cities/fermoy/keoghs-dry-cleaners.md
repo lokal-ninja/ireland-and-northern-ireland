@@ -1,5 +1,5 @@
 ---
 title: "Keoghs Dry Cleaners"
 url: /fermoy/keoghs-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

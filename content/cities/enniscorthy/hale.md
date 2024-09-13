@@ -1,5 +1,5 @@
 ---
 title: "Hale"
 url: /enniscorthy/hale/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Healthwise"
 url: /gweedore/healthwise/
-shop: Drogerie
+shop: chemist
 ---

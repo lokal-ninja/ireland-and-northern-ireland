@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /newtownabbey/dreams/
-shop: Betten
+shop: bed
 ---

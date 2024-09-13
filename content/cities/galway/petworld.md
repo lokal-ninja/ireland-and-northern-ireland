@@ -1,5 +1,5 @@
 ---
 title: "Petworld"
 url: /galway/petworld/
-shop: Tiere
+shop: pet
 ---

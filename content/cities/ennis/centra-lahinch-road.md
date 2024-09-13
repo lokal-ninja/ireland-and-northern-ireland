@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ennis/centra-lahinch-road/
-shop: Lebensmittel
+shop: convenience
 ---

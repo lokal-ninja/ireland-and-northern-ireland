@@ -1,5 +1,5 @@
 ---
 title: "AgeAction"
 url: /galway/ageaction/
-shop: Gebrauchtwaren
+shop: charity
 ---

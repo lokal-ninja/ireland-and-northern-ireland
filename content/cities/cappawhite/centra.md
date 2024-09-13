@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /cappawhite/centra/
-shop: Lebensmittel
+shop: convenience
 ---

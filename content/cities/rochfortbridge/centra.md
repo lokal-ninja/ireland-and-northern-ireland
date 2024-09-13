@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /rochfortbridge/centra/
-shop: Lebensmittel
+shop: convenience
 ---

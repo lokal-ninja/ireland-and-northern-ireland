@@ -1,5 +1,5 @@
 ---
 title: "Spirit Clothing"
 url: /longford/spirit-clothing/
-shop: Kleidung
+shop: clothes
 ---

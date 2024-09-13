@@ -1,5 +1,5 @@
 ---
 title: "Liffey Motor Services"
 url: /dublin/liffey-motor-services/
-shop: Autowerkstatt
+shop: car repair
 ---

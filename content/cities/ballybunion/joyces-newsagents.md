@@ -1,5 +1,5 @@
 ---
 title: "Joyce's Newsagents"
 url: /ballybunion/joyces-newsagents/
-shop: Lebensmittel
+shop: convenience
 ---

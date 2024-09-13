@@ -1,5 +1,5 @@
 ---
 title: "Poundland Discount Shop"
 url: /belfast/poundland-discount-shop/
-shop: Supermarkt
+shop: supermarket
 ---

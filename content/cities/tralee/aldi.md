@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /tralee/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FunTech"
 url: /limerick/funtech/
-shop: Handy
+shop: mobile phone
 ---

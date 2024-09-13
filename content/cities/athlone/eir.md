@@ -1,5 +1,5 @@
 ---
 title: "Eir"
 url: /athlone/eir/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lorluna"
 url: /wexford/lorluna/
-shop: Andenken
+shop: gift
 ---

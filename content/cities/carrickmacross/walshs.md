@@ -1,5 +1,5 @@
 ---
 title: "Walsh's"
 url: /carrickmacross/walshs/
-shop: Süßwaren
+shop: confectionery
 ---

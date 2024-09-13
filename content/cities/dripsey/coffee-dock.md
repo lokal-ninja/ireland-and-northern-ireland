@@ -1,5 +1,5 @@
 ---
 title: "Coffee dock"
 url: /dripsey/coffee-dock/
-shop: Kaffee
+shop: coffee
 ---

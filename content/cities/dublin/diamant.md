@@ -1,5 +1,5 @@
 ---
 title: "Diamant"
 url: /dublin/diamant/
-shop: Schmuck
+shop: jewelry
 ---

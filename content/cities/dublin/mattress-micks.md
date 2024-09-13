@@ -1,5 +1,5 @@
 ---
 title: "Mattress Mick's"
 url: /dublin/mattress-micks/
-shop: Möbel
+shop: furniture
 ---

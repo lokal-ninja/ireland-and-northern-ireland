@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /enniskillen/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

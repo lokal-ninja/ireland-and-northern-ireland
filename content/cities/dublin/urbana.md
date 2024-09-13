@@ -1,5 +1,5 @@
 ---
 title: "Urbana"
 url: /dublin/urbana/
-shop: Kosmetik
+shop: beauty
 ---

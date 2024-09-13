@@ -1,5 +1,5 @@
 ---
 title: "Winemark"
 url: /mallusk/winemark/
-shop: Wein
+shop: wine
 ---

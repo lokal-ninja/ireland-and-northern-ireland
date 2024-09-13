@@ -1,5 +1,5 @@
 ---
 title: "Mikes Bikes"
 url: /dun-laoghaire/mikes-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

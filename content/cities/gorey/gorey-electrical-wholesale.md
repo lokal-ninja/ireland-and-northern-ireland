@@ -1,5 +1,5 @@
 ---
 title: "Gorey Electrical Wholesale"
 url: /gorey/gorey-electrical-wholesale/
-shop: Elektrisch
+shop: electrical
 ---

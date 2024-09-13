@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /kinsealy/eurospar/
-shop: Supermarkt
+shop: supermarket
 ---

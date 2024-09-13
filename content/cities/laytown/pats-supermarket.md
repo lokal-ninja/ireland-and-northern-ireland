@@ -1,5 +1,5 @@
 ---
 title: "Pats Supermarket"
 url: /laytown/pats-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

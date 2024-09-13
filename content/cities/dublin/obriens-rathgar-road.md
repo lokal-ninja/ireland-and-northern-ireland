@@ -1,5 +1,5 @@
 ---
 title: "O'Briens"
 url: /dublin/obriens-rathgar-road/
-shop: Spirituosen
+shop: alcohol
 ---

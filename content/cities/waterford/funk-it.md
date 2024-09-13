@@ -1,5 +1,5 @@
 ---
 title: "Funk It"
 url: /waterford/funk-it/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

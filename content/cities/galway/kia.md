@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /galway/kia/
-shop: Autohaus
+shop: car
 ---

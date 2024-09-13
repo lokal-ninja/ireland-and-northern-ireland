@@ -1,5 +1,5 @@
 ---
 title: "Clearout"
 url: /enniscorthy/clearout/
-shop: Allgemein
+shop: shop
 ---

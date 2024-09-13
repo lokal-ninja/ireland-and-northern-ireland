@@ -1,5 +1,5 @@
 ---
 title: "Next Door"
 url: /gorey/next-door/
-shop: Spirituosen
+shop: alcohol
 ---

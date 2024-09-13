@@ -1,5 +1,5 @@
 ---
 title: "Phil's Fashion"
 url: /cork/phils-fashion/
-shop: Möbel
+shop: furniture
 ---

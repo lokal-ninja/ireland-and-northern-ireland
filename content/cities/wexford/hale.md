@@ -1,5 +1,5 @@
 ---
 title: "Hale"
 url: /wexford/hale/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

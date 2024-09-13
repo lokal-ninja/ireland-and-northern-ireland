@@ -1,5 +1,5 @@
 ---
 title: "Three."
 url: /coleraine/three/
-shop: Handy
+shop: mobile phone
 ---

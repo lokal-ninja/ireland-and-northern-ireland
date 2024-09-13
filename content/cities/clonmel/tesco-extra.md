@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /clonmel/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

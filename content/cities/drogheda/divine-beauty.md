@@ -1,5 +1,5 @@
 ---
 title: "Divine Beauty"
 url: /drogheda/divine-beauty/
-shop: Kosmetik
+shop: beauty
 ---

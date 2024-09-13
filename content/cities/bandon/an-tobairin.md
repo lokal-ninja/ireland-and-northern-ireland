@@ -1,5 +1,5 @@
 ---
 title: "An Tobairín"
 url: /bandon/an-tobairin/
-shop: Bioladen
+shop: health food
 ---

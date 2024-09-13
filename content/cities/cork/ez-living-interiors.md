@@ -1,5 +1,5 @@
 ---
 title: "EZ Living Interiors"
 url: /cork/ez-living-interiors/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Finglas Auto Parts"
 url: /dublin/finglas-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

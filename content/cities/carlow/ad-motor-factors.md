@@ -1,5 +1,5 @@
 ---
 title: "AD Motor Factors"
 url: /carlow/ad-motor-factors/
-shop: Autoteile
+shop: car parts
 ---

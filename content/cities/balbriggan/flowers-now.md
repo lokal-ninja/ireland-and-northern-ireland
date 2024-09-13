@@ -1,5 +1,5 @@
 ---
 title: "Flowers Now"
 url: /balbriggan/flowers-now/
-shop: Blumen
+shop: florist
 ---

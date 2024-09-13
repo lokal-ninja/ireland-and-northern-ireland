@@ -1,5 +1,5 @@
 ---
 title: "Eir"
 url: /fermoy/eir/
-shop: Handy
+shop: mobile phone
 ---

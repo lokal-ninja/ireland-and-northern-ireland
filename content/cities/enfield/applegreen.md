@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /enfield/applegreen/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Signet Jewellers"
 url: /kildare-town/signet-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

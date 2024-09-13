@@ -1,5 +1,5 @@
 ---
 title: "Millenium Motors"
 url: /dublin/millenium-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

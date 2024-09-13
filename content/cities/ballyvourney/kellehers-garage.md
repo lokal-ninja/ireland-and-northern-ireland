@@ -1,5 +1,5 @@
 ---
 title: "Kelleher's Garage"
 url: /ballyvourney/kellehers-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

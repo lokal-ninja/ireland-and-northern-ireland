@@ -1,5 +1,5 @@
 ---
 title: "Opel"
 url: /buttevant/opel/
-shop: Autohaus
+shop: car
 ---

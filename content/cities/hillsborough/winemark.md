@@ -1,5 +1,5 @@
 ---
 title: "Winemark"
 url: /hillsborough/winemark/
-shop: Wein
+shop: wine
 ---

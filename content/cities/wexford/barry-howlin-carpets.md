@@ -1,5 +1,5 @@
 ---
 title: "Barry Howlin Carpets"
 url: /wexford/barry-howlin-carpets/
-shop: Teppiche
+shop: carpet
 ---

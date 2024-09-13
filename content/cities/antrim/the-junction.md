@@ -1,5 +1,5 @@
 ---
 title: "The Junction"
 url: /antrim/the-junction/
-shop: Einkaufszentrum
+shop: mall
 ---

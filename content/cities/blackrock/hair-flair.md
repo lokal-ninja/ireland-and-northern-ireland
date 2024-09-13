@@ -1,5 +1,5 @@
 ---
 title: "Hair Flair"
 url: /blackrock/hair-flair/
-shop: Friseur
+shop: hairdresser
 ---

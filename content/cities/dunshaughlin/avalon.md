@@ -1,5 +1,5 @@
 ---
 title: "Avalon"
 url: /dunshaughlin/avalon/
-shop: Computer
+shop: computer
 ---

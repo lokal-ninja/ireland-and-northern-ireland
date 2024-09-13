@@ -1,5 +1,5 @@
 ---
 title: "LKQ"
 url: /wexford/lkq/
-shop: Autoteile
+shop: car parts
 ---

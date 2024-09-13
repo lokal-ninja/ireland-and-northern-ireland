@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /newtownabbey/centra-mayfield-link/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Sweeney O'Rourke Ltd"
+title: "Sweeney O'Rourke Ltd."
 url: /dublin/sweeney-orourke-ltd/
-shop: Haushaltsartikel
+shop: houseware
 ---

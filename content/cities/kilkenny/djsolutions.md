@@ -1,5 +1,5 @@
 ---
 title: "DJSolutions"
 url: /kilkenny/djsolutions/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jamisons"
 url: /dervock/jamisons/
-shop: Autowerkstatt
+shop: car repair
 ---

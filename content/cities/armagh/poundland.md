@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /armagh/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /mount-merrion/michaels/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /newcastle/supervalu-graydon-road/
-shop: Supermarkt
+shop: supermarket
 ---

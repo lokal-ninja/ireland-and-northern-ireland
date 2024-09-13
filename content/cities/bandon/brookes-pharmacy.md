@@ -1,5 +1,5 @@
 ---
 title: "Brookes Pharmacy"
 url: /bandon/brookes-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

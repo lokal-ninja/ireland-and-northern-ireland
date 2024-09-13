@@ -1,5 +1,5 @@
 ---
 title: "Moroney"
 url: /kilfenora/moroney/
-shop: Leerstehend
+shop: vacant
 ---

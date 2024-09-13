@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /monaghan/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

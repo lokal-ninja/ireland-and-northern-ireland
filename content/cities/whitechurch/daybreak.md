@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /whitechurch/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

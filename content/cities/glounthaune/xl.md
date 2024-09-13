@@ -1,5 +1,5 @@
 ---
 title: "XL"
 url: /glounthaune/xl/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Purple House"
 url: /bray/purple-house/
-shop: Gebrauchtwaren
+shop: charity
 ---

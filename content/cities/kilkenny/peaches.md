@@ -1,5 +1,5 @@
 ---
 title: "Peaches"
 url: /kilkenny/peaches/
-shop: Kleidung
+shop: clothes
 ---

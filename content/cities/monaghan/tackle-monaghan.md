@@ -1,5 +1,5 @@
 ---
 title: "Tackle Monaghan"
 url: /monaghan/tackle-monaghan/
-shop: Angeln
+shop: fishing
 ---

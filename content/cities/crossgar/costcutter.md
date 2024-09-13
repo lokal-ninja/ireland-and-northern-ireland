@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /crossgar/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

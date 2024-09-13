@@ -1,5 +1,5 @@
 ---
 title: "The Book Centre"
 url: /wexford/the-book-centre/
-shop: Bücher
+shop: books
 ---

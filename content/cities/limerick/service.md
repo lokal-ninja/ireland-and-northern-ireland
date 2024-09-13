@@ -1,5 +1,5 @@
 ---
 title: "Service"
 url: /limerick/service/
-shop: Handy
+shop: mobile phone
 ---

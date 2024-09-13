@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /galway/trespass/
-shop: Outdoor
+shop: outdoor
 ---

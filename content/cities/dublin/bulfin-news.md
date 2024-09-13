@@ -1,5 +1,5 @@
 ---
 title: "Bulfin News"
 url: /dublin/bulfin-news/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wheelspin"
 url: /dublin/wheelspin/
-shop: Autoteile
+shop: car parts
 ---

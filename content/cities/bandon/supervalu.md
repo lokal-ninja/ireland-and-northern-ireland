@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
 url: /bandon/supervalu/
-shop: Supermarkt
+shop: supermarket
 ---

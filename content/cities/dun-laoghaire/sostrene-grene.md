@@ -1,5 +1,5 @@
 ---
 title: "Søstrene Grene"
 url: /dun-laoghaire/sostrene-grene/
-shop: Raumausstattung
+shop: interior decoration
 ---

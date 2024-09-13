@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /dublin/spar-ellis-quay-2/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /lismore/centra/
-shop: Lebensmittel
+shop: convenience
 ---

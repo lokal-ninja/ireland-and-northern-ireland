@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /galway/river-island/
-shop: Kleidung
+shop: clothes
 ---

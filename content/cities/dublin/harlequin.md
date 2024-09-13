@@ -1,5 +1,5 @@
 ---
 title: "Harlequin"
 url: /dublin/harlequin/
-shop: Kleidung
+shop: clothes
 ---

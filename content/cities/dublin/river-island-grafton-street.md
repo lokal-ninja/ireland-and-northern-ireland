@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /dublin/river-island-grafton-street/
-shop: Kleidung
+shop: clothes
 ---

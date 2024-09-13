@@ -1,5 +1,5 @@
 ---
 title: "Brooks"
 url: /riverchapel/brooks/
-shop: Supermarkt
+shop: supermarket
 ---

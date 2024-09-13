@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /craigavon/dunnes-stores/
-shop: Kleidung
+shop: clothes
 ---

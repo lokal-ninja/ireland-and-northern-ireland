@@ -1,5 +1,5 @@
 ---
 title: "Planet Retro"
 url: /galway/planet-retro/
-shop: Kleidung
+shop: clothes
 ---

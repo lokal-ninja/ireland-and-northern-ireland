@@ -1,5 +1,5 @@
 ---
 title: "Cummins Car Centre"
 url: /ennis/cummins-car-centre/
-shop: Autohaus
+shop: car
 ---

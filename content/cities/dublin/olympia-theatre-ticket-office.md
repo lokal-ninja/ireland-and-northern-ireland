@@ -1,5 +1,5 @@
 ---
 title: "Olympia Theatre Ticket Office"
 url: /dublin/olympia-theatre-ticket-office/
-shop: Tickets
+shop: ticket
 ---

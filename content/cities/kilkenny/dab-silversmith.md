@@ -1,5 +1,5 @@
 ---
 title: "DAB Silversmith"
 url: /kilkenny/dab-silversmith/
-shop: Schmuck
+shop: jewelry
 ---

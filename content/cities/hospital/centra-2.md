@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /hospital/centra-2/
-shop: Lebensmittel
+shop: convenience
 ---

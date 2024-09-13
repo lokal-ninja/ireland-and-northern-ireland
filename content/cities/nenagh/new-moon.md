@@ -1,5 +1,5 @@
 ---
 title: "New Moon"
 url: /nenagh/new-moon/
-shop: Kleidung
+shop: clothes
 ---

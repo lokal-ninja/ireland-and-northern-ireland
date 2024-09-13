@@ -1,5 +1,5 @@
 ---
 title: "Amelia's Angels"
 url: /dublin/amelias-angels/
-shop: Andenken
+shop: gift
 ---

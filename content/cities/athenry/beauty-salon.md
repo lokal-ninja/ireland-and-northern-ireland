@@ -1,5 +1,5 @@
 ---
 title: "Beauty Salon"
 url: /athenry/beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mackin Travel"
 url: /enniscorthy/mackin-travel/
-shop: Reisebüro
+shop: travel agency
 ---

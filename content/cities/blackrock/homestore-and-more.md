@@ -1,5 +1,5 @@
 ---
 title: "Homestore and More"
 url: /blackrock/homestore-and-more/
-shop: Warenhaus
+shop: department store
 ---

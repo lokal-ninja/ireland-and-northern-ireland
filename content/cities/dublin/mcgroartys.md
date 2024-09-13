@@ -1,5 +1,5 @@
 ---
 title: "McGroarty's"
 url: /dublin/mcgroartys/
-shop: Lebensmittel
+shop: convenience
 ---

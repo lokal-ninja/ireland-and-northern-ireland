@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /gorey/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

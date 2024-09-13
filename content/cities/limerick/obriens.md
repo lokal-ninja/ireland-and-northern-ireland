@@ -1,5 +1,5 @@
 ---
 title: "O'Briens"
 url: /limerick/obriens/
-shop: Spirituosen
+shop: alcohol
 ---

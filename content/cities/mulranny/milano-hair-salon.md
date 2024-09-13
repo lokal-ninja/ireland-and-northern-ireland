@@ -1,5 +1,5 @@
 ---
 title: "Milano Hair Salon"
 url: /mulranny/milano-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

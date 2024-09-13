@@ -1,5 +1,5 @@
 ---
 title: "Dunnes Stores"
 url: /omagh/dunnes-stores/
-shop: Supermarkt
+shop: supermarket
 ---

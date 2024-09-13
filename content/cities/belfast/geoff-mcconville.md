@@ -1,5 +1,5 @@
 ---
 title: "Geoff McConville"
 url: /belfast/geoff-mcconville/
-shop: Optiker
+shop: optician
 ---

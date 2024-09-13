@@ -1,5 +1,5 @@
 ---
 title: "Redmonds"
 url: /dublin/redmonds/
-shop: Spirituosen
+shop: alcohol
 ---

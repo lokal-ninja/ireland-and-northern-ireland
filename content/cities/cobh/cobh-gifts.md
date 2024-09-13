@@ -1,5 +1,5 @@
 ---
 title: "Cobh Gifts"
 url: /cobh/cobh-gifts/
-shop: Andenken
+shop: gift
 ---

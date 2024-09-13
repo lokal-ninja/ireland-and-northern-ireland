@@ -1,5 +1,5 @@
 ---
 title: "Wexford Communication Services"
 url: /wexford/wexford-communication-services/
-shop: Handy
+shop: mobile phone
 ---

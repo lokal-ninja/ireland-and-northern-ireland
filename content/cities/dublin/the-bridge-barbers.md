@@ -1,5 +1,5 @@
 ---
 title: "The Bridge Barbers"
 url: /dublin/the-bridge-barbers/
-shop: Friseur
+shop: hairdresser
 ---

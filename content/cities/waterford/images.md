@@ -1,5 +1,5 @@
 ---
 title: "Images"
 url: /waterford/images/
-shop: Friseur
+shop: hairdresser
 ---

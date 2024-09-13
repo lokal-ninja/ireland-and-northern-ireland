@@ -1,5 +1,5 @@
 ---
 title: "Bufab"
 url: /wexford/bufab/
-shop: Autoteile
+shop: car parts
 ---

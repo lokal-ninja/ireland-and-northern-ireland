@@ -1,5 +1,5 @@
 ---
 title: "MCS Carpets"
 url: /swords/mcs-carpets/
-shop: Fußböden
+shop: flooring
 ---

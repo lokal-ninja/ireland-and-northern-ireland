@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /limerick/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nissan Fermoy"
 url: /fermoy/nissan-fermoy/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /strandhill/centra/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /portlaoise/centra/
-shop: Lebensmittel
+shop: convenience
 ---

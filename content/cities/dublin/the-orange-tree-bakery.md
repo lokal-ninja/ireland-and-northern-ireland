@@ -1,5 +1,5 @@
 ---
 title: "The Orange Tree Bakery"
 url: /dublin/the-orange-tree-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evolution"
 url: /waterford/evolution/
-shop: Kleidung
+shop: clothes
 ---

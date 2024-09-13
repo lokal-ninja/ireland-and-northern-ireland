@@ -1,5 +1,5 @@
 ---
 title: "Royal Flowers"
 url: /enniscorthy/royal-flowers/
-shop: Blumen
+shop: florist
 ---

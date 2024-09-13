@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /dungarvan/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

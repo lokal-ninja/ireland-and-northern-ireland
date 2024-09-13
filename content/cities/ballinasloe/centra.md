@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ballinasloe/centra/
-shop: Lebensmittel
+shop: convenience
 ---

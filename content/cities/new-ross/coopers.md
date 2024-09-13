@@ -1,5 +1,5 @@
 ---
 title: "Cooper's"
 url: /new-ross/coopers/
-shop: Kleidung
+shop: clothes
 ---

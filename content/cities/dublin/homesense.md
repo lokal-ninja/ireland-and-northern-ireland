@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /dublin/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

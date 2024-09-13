@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /letterkenny/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

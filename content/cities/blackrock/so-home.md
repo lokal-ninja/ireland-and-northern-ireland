@@ -1,5 +1,5 @@
 ---
 title: "Só Home"
 url: /blackrock/so-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

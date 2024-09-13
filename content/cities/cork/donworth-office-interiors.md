@@ -1,5 +1,5 @@
 ---
 title: "Donworth Office Interiors"
 url: /cork/donworth-office-interiors/
-shop: Möbel
+shop: furniture
 ---

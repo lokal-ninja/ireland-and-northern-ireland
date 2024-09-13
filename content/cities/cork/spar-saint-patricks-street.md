@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /cork/spar-saint-patricks-street/
-shop: Lebensmittel
+shop: convenience
 ---

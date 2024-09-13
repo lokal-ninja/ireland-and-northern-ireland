@@ -1,5 +1,5 @@
 ---
 title: "Enibas"
 url: /kinsale/enibas/
-shop: Schmuck
+shop: jewelry
 ---

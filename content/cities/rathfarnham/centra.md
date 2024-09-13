@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /rathfarnham/centra/
-shop: Lebensmittel
+shop: convenience
 ---

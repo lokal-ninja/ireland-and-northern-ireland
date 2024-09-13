@@ -1,5 +1,5 @@
 ---
 title: "Kirwan's"
 url: /camolin/kirwans/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H.Samuel"
 url: /dublin/h-samuel/
-shop: Schmuck
+shop: jewelry
 ---

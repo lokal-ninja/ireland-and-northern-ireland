@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /lurgan/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eir"
 url: /cork/eir/
-shop: Handy
+shop: mobile phone
 ---

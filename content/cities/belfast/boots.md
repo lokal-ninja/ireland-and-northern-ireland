@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /belfast/boots/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /dingle-daingean-ui-chuis/centra/
-shop: Lebensmittel
+shop: convenience
 ---

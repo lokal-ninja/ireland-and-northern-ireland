@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /derry/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

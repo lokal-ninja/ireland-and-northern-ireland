@@ -1,5 +1,5 @@
 ---
 title: "Simon Reilly"
 url: /kilkenny/simon-reilly/
-shop: Friseur
+shop: hairdresser
 ---

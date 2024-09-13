@@ -1,5 +1,5 @@
 ---
 title: "Hair Design"
 url: /enfield/hair-design/
-shop: Friseur
+shop: hairdresser
 ---

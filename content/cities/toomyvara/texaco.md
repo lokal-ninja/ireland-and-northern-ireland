@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /toomyvara/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

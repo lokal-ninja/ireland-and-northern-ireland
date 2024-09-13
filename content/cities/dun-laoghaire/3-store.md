@@ -1,5 +1,5 @@
 ---
 title: "3 Store"
 url: /dun-laoghaire/3-store/
-shop: Handy
+shop: mobile phone
 ---

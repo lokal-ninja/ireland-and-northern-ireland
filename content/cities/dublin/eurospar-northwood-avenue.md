@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /dublin/eurospar-northwood-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

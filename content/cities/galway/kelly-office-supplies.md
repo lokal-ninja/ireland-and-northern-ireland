@@ -1,5 +1,5 @@
 ---
 title: "Kelly Office Supplies"
 url: /galway/kelly-office-supplies/
-shop: Schreibwaren
+shop: office supplies
 ---

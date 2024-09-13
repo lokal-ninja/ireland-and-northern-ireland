@@ -1,5 +1,5 @@
 ---
 title: "Blush"
 url: /blackrock/blush/
-shop: Kosmetik
+shop: beauty
 ---

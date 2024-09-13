@@ -1,5 +1,5 @@
 ---
 title: "Cunnane"
 url: /loughrea/cunnane/
-shop: Schmuck
+shop: jewelry
 ---

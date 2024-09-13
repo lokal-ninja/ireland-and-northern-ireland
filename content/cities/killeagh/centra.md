@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /killeagh/centra/
-shop: Lebensmittel
+shop: convenience
 ---

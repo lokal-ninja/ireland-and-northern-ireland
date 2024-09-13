@@ -1,5 +1,5 @@
 ---
 title: "Ryans Design Interiors"
 url: /waterford/ryans-design-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

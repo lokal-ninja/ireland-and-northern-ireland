@@ -1,5 +1,5 @@
 ---
 title: "Mahon Point Shopping Centre"
 url: /cork/mahon-point-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

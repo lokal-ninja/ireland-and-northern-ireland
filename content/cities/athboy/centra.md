@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /athboy/centra/
-shop: Lebensmittel
+shop: convenience
 ---

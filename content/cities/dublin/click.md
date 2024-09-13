@@ -1,5 +1,5 @@
 ---
 title: "Click"
 url: /dublin/click/
-shop: Handy
+shop: mobile phone
 ---

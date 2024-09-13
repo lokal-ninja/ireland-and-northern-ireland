@@ -1,5 +1,5 @@
 ---
 title: "Skyfall"
 url: /gorey/skyfall/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Express Signs"
 url: /dublin/express-signs/
-shop: Allgemein
+shop: shop
 ---

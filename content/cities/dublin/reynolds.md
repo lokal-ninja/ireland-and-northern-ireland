@@ -1,5 +1,5 @@
 ---
 title: "Reynolds"
 url: /dublin/reynolds/
-shop: Lebensmittel
+shop: convenience
 ---

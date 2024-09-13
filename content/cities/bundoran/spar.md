@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bundoran/spar/
-shop: Lebensmittel
+shop: convenience
 ---

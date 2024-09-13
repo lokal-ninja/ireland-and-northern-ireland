@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /clonakilty/vodafone/
-shop: Handy
+shop: mobile phone
 ---

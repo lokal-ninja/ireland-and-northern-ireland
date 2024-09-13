@@ -1,5 +1,5 @@
 ---
 title: "Curves"
 url: /gorey/curves/
-shop: Kosmetik
+shop: beauty
 ---

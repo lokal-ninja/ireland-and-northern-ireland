@@ -1,5 +1,5 @@
 ---
 title: "ASHA"
 url: /dublin/asha/
-shop: Kleidung
+shop: clothes
 ---

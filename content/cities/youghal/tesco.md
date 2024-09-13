@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /youghal/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

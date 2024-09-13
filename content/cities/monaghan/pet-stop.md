@@ -1,5 +1,5 @@
 ---
 title: "Pet Stop"
 url: /monaghan/pet-stop/
-shop: Tiere
+shop: pet
 ---

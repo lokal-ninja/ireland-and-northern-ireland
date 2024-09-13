@@ -1,5 +1,5 @@
 ---
 title: "Homeworld"
 url: /ratoath/homeworld/
-shop: Partyzubehör
+shop: party
 ---

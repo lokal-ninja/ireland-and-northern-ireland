@@ -1,5 +1,5 @@
 ---
 title: "Crafty Bride"
 url: /kilkenny/crafty-bride/
-shop: Allgemein
+shop: shop
 ---

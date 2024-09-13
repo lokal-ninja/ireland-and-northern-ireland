@@ -1,5 +1,5 @@
 ---
 title: "Surfdock Watersports"
 url: /dublin/surfdock-watersports/
-shop: Sport
+shop: sports
 ---

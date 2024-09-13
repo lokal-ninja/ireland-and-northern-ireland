@@ -1,5 +1,5 @@
 ---
 title: "Homesavers"
 url: /newcastle-west/homesavers/
-shop: Kramladen
+shop: variety store
 ---

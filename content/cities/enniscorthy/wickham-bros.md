@@ -1,5 +1,5 @@
 ---
 title: "Wickham Bros."
 url: /enniscorthy/wickham-bros/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercury"
 url: /kilkenny/mercury/
-shop: Großhandel
+shop: wholesale
 ---

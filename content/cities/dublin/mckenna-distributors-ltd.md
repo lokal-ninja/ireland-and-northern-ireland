@@ -1,5 +1,5 @@
 ---
 title: "McKenna Distributors Ltd."
 url: /dublin/mckenna-distributors-ltd/
-shop: Elektrisch
+shop: electrical
 ---

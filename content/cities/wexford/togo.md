@@ -1,5 +1,5 @@
 ---
 title: "ToGo"
 url: /wexford/togo/
-shop: Dorfladen
+shop: general
 ---

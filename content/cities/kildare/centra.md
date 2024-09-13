@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /kildare/centra/
-shop: Lebensmittel
+shop: convenience
 ---

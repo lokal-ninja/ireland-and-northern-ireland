@@ -1,5 +1,5 @@
 ---
 title: "Vincent's"
 url: /dublin/vincents/
-shop: Gebrauchtwaren
+shop: charity
 ---

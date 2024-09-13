@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /wexford/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

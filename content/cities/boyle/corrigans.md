@@ -1,5 +1,5 @@
 ---
 title: "Corrigans"
 url: /boyle/corrigans/
-shop: Schuhe
+shop: shoes
 ---

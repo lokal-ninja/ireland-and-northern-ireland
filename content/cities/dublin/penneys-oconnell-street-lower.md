@@ -1,5 +1,5 @@
 ---
 title: "Penneys"
 url: /dublin/penneys-oconnell-street-lower/
-shop: Kleidung
+shop: clothes
 ---

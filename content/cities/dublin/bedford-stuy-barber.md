@@ -1,5 +1,5 @@
 ---
 title: "Bedford Stuy Barber"
 url: /dublin/bedford-stuy-barber/
-shop: Friseur
+shop: hairdresser
 ---

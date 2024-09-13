@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /galway/tesco-express-doughiska-road/
-shop: Lebensmittel
+shop: convenience
 ---

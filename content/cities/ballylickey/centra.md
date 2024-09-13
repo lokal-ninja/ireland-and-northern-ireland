@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /ballylickey/centra/
-shop: Supermarkt
+shop: supermarket
 ---

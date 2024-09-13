@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /youghal/vodafone/
-shop: Handy
+shop: mobile phone
 ---

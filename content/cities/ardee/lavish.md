@@ -1,5 +1,5 @@
 ---
 title: "Lavish"
 url: /ardee/lavish/
-shop: Leerstehend
+shop: vacant
 ---

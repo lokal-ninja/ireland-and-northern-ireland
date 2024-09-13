@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /raheny/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /roscommon/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

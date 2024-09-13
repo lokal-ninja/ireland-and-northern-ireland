@@ -1,5 +1,5 @@
 ---
 title: "Reflections"
 url: /newbridge/reflections/
-shop: Kleidung
+shop: clothes
 ---

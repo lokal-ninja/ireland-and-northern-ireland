@@ -1,5 +1,5 @@
 ---
 title: "Quinn's Next Door Off-licence"
 url: /dublin/quinns-next-door-off-licence/
-shop: Spirituosen
+shop: alcohol
 ---

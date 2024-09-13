@@ -1,5 +1,5 @@
 ---
 title: "Centra"
 url: /drogheda/centra/
-shop: Lebensmittel
+shop: convenience
 ---

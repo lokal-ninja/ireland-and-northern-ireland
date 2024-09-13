@@ -1,5 +1,5 @@
 ---
 title: "Wilds"
 url: /glandore/wilds/
-shop: Andenken
+shop: gift
 ---

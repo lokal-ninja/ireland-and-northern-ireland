@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /cork/dfs/
-shop: Möbel
+shop: furniture
 ---

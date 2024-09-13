@@ -1,5 +1,5 @@
 ---
 title: "Petstop"
 url: /sligo/petstop/
-shop: Tiere
+shop: pet
 ---

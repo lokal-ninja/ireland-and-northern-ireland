@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /rostrevor/spar/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asian Food"
 url: /dublin/asian-food/
-shop: Lebensmittel
+shop: convenience
 ---
