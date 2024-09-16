@@ -1,11 +1,11 @@
 id: 1125956970
-type: way
+type: node
 latitude: 52.33723
 longitude: -6.46056
 postcode: ""
 city: Wexford
-street: "South Main Street"
-housenumber: 
-phone: "+353 53 914 2200"
+street: South Main Street
+housenumber: ""
+phone: +353 53 914 2200
 opening_hours: ""
-website: "https://www.hores.ie/"
+website: https://www.hores.ie/

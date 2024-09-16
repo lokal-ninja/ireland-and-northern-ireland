@@ -1,11 +1,12 @@
 id: 230479382
-type: way
+type: node
 latitude: 53.34003
 longitude: -6.26045
 postcode: ""
 city: Dublin
-street: "St. Stephen's Green"
-housenumber: 1
+street: St. Stephen's Green
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We 10:00-19:00; Th 10:00-20:00; Fr 10:00-19:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://www.reiss.com/ie/en"
+opening_hours: Mo-We 10:00-19:00; Th 10:00-20:00; Fr 10:00-19:00; Sa 09:00-18:00;
+    Su 11:00-18:00
+website: https://www.reiss.com/ie/en

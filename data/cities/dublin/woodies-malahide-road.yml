@@ -1,11 +1,11 @@
 id: 42422818
-type: way
+type: node
 latitude: 53.39508
 longitude: -6.19129
 postcode: ""
 city: Dublin
-street: "Malahide Road"
-housenumber: 
-phone: "(01) 848 5923"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.woodies.ie/"
+street: Malahide Road
+housenumber: ""
+phone: (01) 848 5923
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.woodies.ie/

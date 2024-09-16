@@ -4,8 +4,8 @@ latitude: 52.34061
 longitude: -6.46261
 postcode: ""
 city: Wexford
-street: "North Main Street"
-housenumber: 74
+street: North Main Street
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://linnoco.com/"
+website: https://linnoco.com/

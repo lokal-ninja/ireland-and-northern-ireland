@@ -1,11 +1,11 @@
 id: 616106312
-type: way
+type: node
 latitude: 54.57277
 longitude: -5.99299
-postcode: "BT11 9EB"
+postcode: BT11 9EB
 city: Belfast
-street: "Andersonstown Road"
-housenumber: 200
+street: Andersonstown Road
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

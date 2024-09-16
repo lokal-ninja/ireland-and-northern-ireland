@@ -1,11 +1,11 @@
 id: 208114285
-type: way
+type: node
 latitude: 51.87809
 longitude: -9.58381
 postcode: ""
 city: Kenmare
-street: "Henry Street"
-housenumber: 26
-phone: "+353 6466411857"
-opening_hours: "Mo-Su 08:00-18:00"
+street: Henry Street
+housenumber: "26"
+phone: +353 6466411857
+opening_hours: Mo-Su 08:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.70583
 longitude: -8.52388
 postcode: ""
 city: Kinsale
-street: "Market Street"
-housenumber: 15
-phone: "+353 21 477 3384"
+street: Market Street
+housenumber: "15"
+phone: +353 21 477 3384
 opening_hours: ""
-website: "https://weaversofireland.com"
+website: https://weaversofireland.com

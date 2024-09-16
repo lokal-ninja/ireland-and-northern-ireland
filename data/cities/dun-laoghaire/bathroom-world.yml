@@ -1,11 +1,11 @@
 id: 615555400
-type: way
+type: node
 latitude: 53.28276
 longitude: -6.15029
 postcode: ""
 city: Dún Laoghaire
-street: "Kill Avenue"
-housenumber: 29
-phone: "+353-1-284-3494"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-17:00; Sa 09:00-13:00; PH,Su off"
-website: "http://www.dpl.ie/bathroomworld/bwwhit.htm"
+street: Kill Avenue
+housenumber: "29"
+phone: +353-1-284-3494
+opening_hours: Mo-Fr 08:30-13:00,14:00-17:00; Sa 09:00-13:00; PH,Su off
+website: http://www.dpl.ie/bathroomworld/bwwhit.htm

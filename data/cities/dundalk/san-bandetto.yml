@@ -1,11 +1,11 @@
 id: 1051587636
-type: way
+type: node
 latitude: 54.00626
 longitude: -6.37388
-postcode: "A91 AF80"
+postcode: A91 AF80
 city: Dundalk
-street: "Point Road"
-housenumber: 64
+street: Point Road
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

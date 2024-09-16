@@ -1,11 +1,11 @@
 id: 249210751
-type: way
+type: node
 latitude: 53.34795
 longitude: -6.25986
-postcode: "D01 CK02"
+postcode: D01 CK02
 city: Dublin
-street: "O'Connell Street Lower"
-housenumber: 49
+street: O'Connell Street Lower
+housenumber: "49"
 phone: "+35315691038"
-opening_hours: "Mo-Sa 10:00-18:30, Su 12:00-18:00"
-website: "https://stores.footlocker.ie/en/ie-d/dublin/49-lower-oconnell-street-205_31_04703.html"
+opening_hours: Mo-Sa 10:00-18:30, Su 12:00-18:00
+website: https://stores.footlocker.ie/en/ie-d/dublin/49-lower-oconnell-street-205_31_04703.html

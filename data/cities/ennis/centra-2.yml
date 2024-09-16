@@ -1,11 +1,11 @@
 id: 220333853
-type: way
+type: node
 latitude: 52.83843
 longitude: -8.97801
 postcode: ""
 city: Ennis
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/munster/clare/clonroadmore"
+website: https://centra.ie/locate/munster/clare/clonroadmore

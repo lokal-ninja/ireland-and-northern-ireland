@@ -1,11 +1,11 @@
 id: 1085094162
-type: way
+type: node
 latitude: 54.30549
 longitude: -8.17598
 postcode: ""
 city: Manorhamilton
-street: "New Line"
-housenumber: 7
+street: New Line
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

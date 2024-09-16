@@ -1,11 +1,11 @@
 id: 781194206
-type: way
+type: node
 latitude: 52.54452
 longitude: -7.39526
 postcode: ""
 city: Callan
-street: "West Street"
-housenumber: 
+street: West Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00"
-website: "https://www.aldi.ie/"
+opening_hours: Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00
+website: https://www.aldi.ie/

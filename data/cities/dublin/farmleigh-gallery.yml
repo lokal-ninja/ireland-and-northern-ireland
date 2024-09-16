@@ -4,8 +4,9 @@ latitude: 53.36464
 longitude: -6.36194
 postcode: ""
 city: Dublin
-street: "White's Road"
-housenumber: 
+street: White's Road
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Su 10:00-13:00,14:00-17:00; Mo 10:00-13:00,14:00-17:00 Bank Holiday Mondays"
-website: "https://www.farmleigh.ie/gallery/"
+opening_hours: Tu-Su 10:00-13:00,14:00-17:00; Mo 10:00-13:00,14:00-17:00 "Bank Holiday
+    Mondays"
+website: https://www.farmleigh.ie/gallery/

@@ -1,11 +1,11 @@
 id: 194557078
-type: way
+type: node
 latitude: 53.50664
 longitude: -8.88204
 postcode: ""
 city: Tuam
-street: "Galway Road"
-housenumber: 
-phone: "+353-93-26411"
-opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-17:00"
-website: "https://www.alhayesmotors.com/"
+street: Galway Road
+housenumber: ""
+phone: +353-93-26411
+opening_hours: Tu-Fr 09:00-18:00, Sa 09:00-17:00
+website: https://www.alhayesmotors.com/

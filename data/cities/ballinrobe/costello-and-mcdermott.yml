@@ -1,11 +1,11 @@
 id: 1230122540
-type: way
+type: node
 latitude: 53.63606
 longitude: -9.23828
 postcode: ""
 city: Ballinrobe
-street: "Castlebar road"
-housenumber: 
-phone: "(094) 954 1039"
-opening_hours: "Mo-Fr 08:30-17:30"
+street: Castlebar road
+housenumber: ""
+phone: (094) 954 1039
+opening_hours: Mo-Fr 08:30-17:30
 website: ""

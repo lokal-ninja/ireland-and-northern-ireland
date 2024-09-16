@@ -4,8 +4,8 @@ latitude: 53.35004
 longitude: -6.26078
 postcode: ""
 city: Dublin
-street: "O'Connell Street Upper"
-housenumber: 65
-phone: "+353-1-9121411"
-opening_hours: "Mo 11:30-18:00; Tu,We 12:00-18:00; Th 12:30-18:30; Fr-Su 12:30-18:00"
-website: "https://www.thearanstore.com/"
+street: O'Connell Street Upper
+housenumber: "65"
+phone: +353-1-9121411
+opening_hours: Mo 11:30-18:00; Tu,We 12:00-18:00; Th 12:30-18:30; Fr-Su 12:30-18:00
+website: https://www.thearanstore.com/

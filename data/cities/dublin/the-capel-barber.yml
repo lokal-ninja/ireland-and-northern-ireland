@@ -1,11 +1,11 @@
 id: 229061159
-type: way
+type: node
 latitude: 53.34767
 longitude: -6.26863
 postcode: ""
 city: Dublin
-street: "Capel Street"
-housenumber: 143
+street: Capel Street
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

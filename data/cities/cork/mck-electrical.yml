@@ -1,11 +1,11 @@
 id: 103230268
-type: way
+type: node
 latitude: 51.87367
 longitude: -8.48163
 postcode: ""
 city: Cork
-street: "Togher Industrial Estate"
-housenumber: 
-phone: "+353 21 497 5201"
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:00; Sa 07:30-13:30"
-website: "https://www.mckelectrical.com"
+street: Togher Industrial Estate
+housenumber: ""
+phone: +353 21 497 5201
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:00; Sa 07:30-13:30
+website: https://www.mckelectrical.com

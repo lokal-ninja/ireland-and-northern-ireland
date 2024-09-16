@@ -1,11 +1,11 @@
 id: 679252912
-type: way
+type: node
 latitude: 53.37284
 longitude: -6.25218
 postcode: ""
 city: Dublin
-street: "Drumcondra Road Upper"
-housenumber: 122
+street: Drumcondra Road Upper
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

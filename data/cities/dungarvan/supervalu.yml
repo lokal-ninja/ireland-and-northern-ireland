@@ -1,11 +1,11 @@
 id: 42233984
-type: way
+type: node
 latitude: 52.08989
 longitude: -7.61926
 postcode: ""
 city: Dungarvan
-street: "Main Street (Parnell Street)"
-housenumber: 51
+street: Main Street (Parnell Street)
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

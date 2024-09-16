@@ -1,11 +1,11 @@
 id: 277853236
-type: way
+type: node
 latitude: 53.0653
 longitude: -8.8168
 postcode: ""
 city: Gort
-street: "Georges Street"
-housenumber: 
+street: Georges Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/connacht/galway/gort"
+website: https://centra.ie/locate/connacht/galway/gort

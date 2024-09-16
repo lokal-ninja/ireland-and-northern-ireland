@@ -1,11 +1,11 @@
 id: 22726828
-type: way
+type: node
 latitude: 53.35309
 longitude: -6.45997
 postcode: ""
 city: Lucan
-street: "Hillcrest Walk"
-housenumber: 
+street: Hillcrest Walk
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/"
+website: https://www.tesco.ie/

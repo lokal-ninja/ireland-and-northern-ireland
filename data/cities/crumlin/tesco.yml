@@ -1,11 +1,11 @@
 id: 268093126
-type: way
+type: node
 latitude: 54.61906
 longitude: -6.2129
-postcode: "BT29 4UP"
+postcode: BT29 4UP
 city: Crumlin
-street: "Main Street"
-housenumber: 2
+street: Main Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 261251629
-type: way
+type: node
 latitude: 53.34389
 longitude: -6.25957
 postcode: ""
 city: Dublin
-street: "Grafton Street"
-housenumber: 114
-phone: "+353 1 6711111"
+street: Grafton Street
+housenumber: "114"
+phone: +353 1 6711111
 opening_hours: ""
-website: "https://www.houseofireland.com/"
+website: https://www.houseofireland.com/

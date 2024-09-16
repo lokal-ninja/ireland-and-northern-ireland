@@ -1,11 +1,11 @@
 id: 741347519
-type: way
+type: node
 latitude: 54.71598
 longitude: -5.80616
-postcode: "BT38 7DG"
+postcode: BT38 7DG
 city: Carrickfergus
-street: "Antrim Street"
-housenumber: 12
+street: Antrim Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

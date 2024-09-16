@@ -1,11 +1,11 @@
 id: 666151246
-type: way
+type: node
 latitude: 52.24509
 longitude: -7.13
 postcode: ""
 city: Waterford
-street: "Cork Road"
-housenumber: 
+street: Cork Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.circlek.ie/station/circle-k-crystal"
+website: https://www.circlek.ie/station/circle-k-crystal

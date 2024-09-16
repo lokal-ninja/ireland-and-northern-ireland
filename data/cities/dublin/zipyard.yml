@@ -1,11 +1,11 @@
 id: 273206924
-type: way
+type: node
 latitude: 53.3411
 longitude: -6.25891
 postcode: ""
 city: Dublin
-street: "Anne Street South"
-housenumber: 15
+street: Anne Street South
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.thezipyard.ie/store-locator/dublin/south-anne-street/"
+website: https://www.thezipyard.ie/store-locator/dublin/south-anne-street/

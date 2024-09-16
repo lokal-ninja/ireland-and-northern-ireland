@@ -4,8 +4,8 @@ latitude: 53.34216
 longitude: -6.26441
 postcode: ""
 city: Dublin
-street: "Fade Street"
-housenumber: 12
-phone: "+353-1-6770598"
-opening_hours: "Mo-We 09:00-18:00, Th 09:00-19:00, Fr-Sa 09:00-18:00"
-website: "https://www.davidmarshall.ie/"
+street: Fade Street
+housenumber: "12"
+phone: +353-1-6770598
+opening_hours: Mo-We 09:00-18:00, Th 09:00-19:00, Fr-Sa 09:00-18:00
+website: https://www.davidmarshall.ie/

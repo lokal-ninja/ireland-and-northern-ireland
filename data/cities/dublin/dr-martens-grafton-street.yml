@@ -1,11 +1,11 @@
 id: 271686283
-type: way
+type: node
 latitude: 53.34191
 longitude: -6.26012
-postcode: "D02F798"
+postcode: D02F798
 city: Dublin
-street: "Grafton Street"
-housenumber: 83
+street: Grafton Street
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00"
-website: "https://www.drmartens.com/"
+opening_hours: Mo-Fr 09:00-20:00
+website: https://www.drmartens.com/

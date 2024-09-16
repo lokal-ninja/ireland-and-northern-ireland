@@ -1,11 +1,11 @@
 id: 58647472
-type: way
+type: node
 latitude: 53.29395
 longitude: -6.15222
 postcode: ""
 city: Monkstown
-street: "Monkstown Crescent"
-housenumber: 11
+street: Monkstown Crescent
+housenumber: "11"
 phone: ""
-opening_hours: "Mo, Tu 08:30-19:00; We-Fr 08:30-20:00; Sa 09:00-20:00; Su 09:00-19:00"
-website: "http://www.avoca.com/"
+opening_hours: Mo, Tu 08:30-19:00; We-Fr 08:30-20:00; Sa 09:00-20:00; Su 09:00-19:00
+website: http://www.avoca.com/

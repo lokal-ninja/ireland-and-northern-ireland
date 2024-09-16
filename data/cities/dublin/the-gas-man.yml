@@ -1,11 +1,11 @@
 id: 973143880
-type: way
+type: node
 latitude: 53.36711
 longitude: -6.29321
 postcode: ""
 city: Dublin
-street: "Fassaugh Avenue"
-housenumber: 28
-phone: "+353-1-8686022"
+street: Fassaugh Avenue
+housenumber: "28"
+phone: +353-1-8686022
 opening_hours: ""
-website: "http://www.the-gasman.ie/"
+website: http://www.the-gasman.ie/

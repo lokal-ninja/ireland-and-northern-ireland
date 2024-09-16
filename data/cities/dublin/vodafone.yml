@@ -1,11 +1,11 @@
 id: 230479371
-type: way
+type: node
 latitude: 53.34022
 longitude: -6.26061
 postcode: ""
 city: Dublin
-street: "Grafton Street"
-housenumber: 48
+street: Grafton Street
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-19:00; Sa 09:30-18:00; Th 09:00-20:00; PH,Su 12:00-18:00"
-website: "https://n.vodafone.ie/"
+opening_hours: Mo-We,Fr 09:00-19:00; Sa 09:30-18:00; Th 09:00-20:00; PH,Su 12:00-18:00
+website: https://n.vodafone.ie/

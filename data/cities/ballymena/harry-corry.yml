@@ -1,11 +1,11 @@
 id: 544912268
-type: way
+type: node
 latitude: 54.86152
 longitude: -6.27345
 postcode: ""
 city: Ballymena
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.harrycorry.com/"
+website: https://www.harrycorry.com/

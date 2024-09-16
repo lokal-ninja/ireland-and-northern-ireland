@@ -1,11 +1,11 @@
 id: 230566043
-type: way
+type: node
 latitude: 53.3403
 longitude: -6.26087
-postcode: "D02 NY74"
+postcode: D02 NY74
 city: Dublin
-street: "Grafton Street"
-housenumber: 57
+street: Grafton Street
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-We,Fr 10:00-18:30; Th 10:00-19:00; Sa 09:30-19:00; Su 11:00-18:00"
-website: "https://www.lifestylesports.com/"
+opening_hours: Mo-We,Fr 10:00-18:30; Th 10:00-19:00; Sa 09:30-19:00; Su 11:00-18:00
+website: https://www.lifestylesports.com/

@@ -1,11 +1,11 @@
 id: 584903409
-type: way
+type: node
 latitude: 52.5049
 longitude: -6.56968
 postcode: ""
 city: Enniscorthy
-street: "Island Road"
-housenumber: 
+street: Island Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://tsvc.ie/"
+website: https://tsvc.ie/

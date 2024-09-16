@@ -1,11 +1,11 @@
 id: 1173822063
-type: way
+type: node
 latitude: 54.85131
 longitude: -5.81928
 postcode: ""
 city: Larne
-street: "Broadway"
-housenumber: 
+street: Broadway
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://winemark.com/store/broadway/"
+website: https://winemark.com/store/broadway/

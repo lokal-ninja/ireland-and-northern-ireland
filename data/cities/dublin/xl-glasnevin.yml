@@ -1,11 +1,11 @@
 id: 673414894
-type: way
+type: node
 latitude: 53.37439
 longitude: -6.26907
 postcode: ""
 city: Dublin
-street: "Glasnevin Hill"
-housenumber: 30
+street: Glasnevin Hill
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.34218
 longitude: -6.26357
 postcode: ""
 city: Dublin
-street: "Drury Street"
-housenumber: 22
-phone: "+353 87 3318767"
-opening_hours: "Tu-Fr 12:30-18:00; Sa 11:00-18:00"
-website: "https://www.tbdonline.ie/"
+street: Drury Street
+housenumber: "22"
+phone: +353 87 3318767
+opening_hours: Tu-Fr 12:30-18:00; Sa 11:00-18:00
+website: https://www.tbdonline.ie/

@@ -1,11 +1,11 @@
 id: 1284897409
-type: way
+type: node
 latitude: 54.58977
 longitude: -5.93692
 postcode: ""
 city: Belfast
-street: "Sandy Row"
-housenumber: 153
+street: Sandy Row
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

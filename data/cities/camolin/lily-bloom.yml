@@ -1,11 +1,11 @@
 id: 165123769
-type: way
+type: node
 latitude: 52.61657
 longitude: -6.42428
 postcode: ""
 city: Camolin
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lilybloom.ie/"
+website: https://www.lilybloom.ie/

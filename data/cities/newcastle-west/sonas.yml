@@ -2,10 +2,10 @@ id: 10821576226
 type: node
 latitude: 52.45159
 longitude: -9.0602
-postcode: "V42 Y685"
+postcode: V42 Y685
 city: Newcastle West
-street: "The Square"
-housenumber: 9
-phone: "+353 69 78944"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.sonashealthfoods.ie/"
+street: The Square
+housenumber: "9"
+phone: +353 69 78944
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.sonashealthfoods.ie/

@@ -1,11 +1,11 @@
 id: 568518255
-type: way
+type: node
 latitude: 53.3671
 longitude: -6.29372
 postcode: ""
 city: Dublin
-street: "Fassaugh Avenue"
-housenumber: 36
+street: Fassaugh Avenue
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

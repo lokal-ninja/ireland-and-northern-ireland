@@ -1,11 +1,11 @@
 id: 864835543
-type: way
+type: node
 latitude: 52.5472
 longitude: -9.4785
 postcode: ""
 city: Ballylongford
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/munster/kerry/ballylongford"
+website: https://centra.ie/locate/munster/kerry/ballylongford

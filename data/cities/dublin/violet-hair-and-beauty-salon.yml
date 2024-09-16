@@ -1,11 +1,11 @@
 id: 980706487
-type: way
+type: node
 latitude: 53.34862
 longitude: -6.26845
 postcode: ""
 city: Dublin
-street: "Mary Street"
-housenumber: 
+street: Mary Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

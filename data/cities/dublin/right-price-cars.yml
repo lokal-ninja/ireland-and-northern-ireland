@@ -1,11 +1,11 @@
 id: 1207980637
-type: way
+type: node
 latitude: 53.33106
 longitude: -6.34471
 postcode: ""
 city: Dublin
-street: "Bluebell Avenue"
-housenumber: 
-phone: "+353-1-4601000"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-16:00"
-website: "https://www.rightpricecars.ie/"
+street: Bluebell Avenue
+housenumber: ""
+phone: +353-1-4601000
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-16:00
+website: https://www.rightpricecars.ie/

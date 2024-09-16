@@ -1,11 +1,11 @@
 id: 145583825
-type: way
+type: node
 latitude: 54.86116
 longitude: -6.27534
-postcode: "BT42 3ES"
+postcode: BT42 3ES
 city: Ballymena
-street: "Larne Road Link"
-housenumber: 
-phone: "+44 28 25646020"
-opening_hours: "Mo-Fr 09:00-21:00, Sa 09:00-20:00, Su 13:00-19:00"
-website: "https://www.therange.co.uk/stores/ballymena"
+street: Larne Road Link
+housenumber: ""
+phone: +44 28 25646020
+opening_hours: Mo-Fr 09:00-21:00, Sa 09:00-20:00, Su 13:00-19:00
+website: https://www.therange.co.uk/stores/ballymena

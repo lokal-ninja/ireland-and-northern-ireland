@@ -1,11 +1,11 @@
 id: 259805986
-type: way
+type: node
 latitude: 54.24698
 longitude: -6.96977
 postcode: ""
 city: Monaghan
-street: "Monaghan Shopping Centre"
-housenumber: 
+street: Monaghan Shopping Centre
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.monaghanshoppingcentre.ie/"
+website: https://www.monaghanshoppingcentre.ie/

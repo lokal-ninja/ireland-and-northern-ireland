@@ -4,8 +4,8 @@ latitude: 53.34322
 longitude: -6.26259
 postcode: ""
 city: Dublin
-street: "Exchequer Street"
-housenumber: 29
-phone: "+353 16779004"
-opening_hours: "Mo-Fr 10:30-18:30; Sa 10:00-18:00; Su 12:30-18:00"
-website: "https://musicmaker.ie/"
+street: Exchequer Street
+housenumber: "29"
+phone: +353 16779004
+opening_hours: Mo-Fr 10:30-18:30; Sa 10:00-18:00; Su 12:30-18:00
+website: https://musicmaker.ie/

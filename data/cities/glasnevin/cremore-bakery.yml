@@ -1,11 +1,11 @@
 id: 958564199
-type: way
+type: node
 latitude: 53.3822
 longitude: -6.27769
-postcode: "D11 P275"
+postcode: D11 P275
 city: Glasnevin
-street: "Glasilawn Avenue"
-housenumber: 19
-phone: "+353 1 804 1942"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-15:00"
+street: Glasilawn Avenue
+housenumber: "19"
+phone: +353 1 804 1942
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-15:00
 website: ""

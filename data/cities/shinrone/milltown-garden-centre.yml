@@ -1,11 +1,11 @@
 id: 553029237
-type: way
+type: node
 latitude: 52.96551
 longitude: -7.89318
 postcode: ""
 city: Shinrone
-street: "Milltown Road"
-housenumber: 
+street: Milltown Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:30"
-website: "https://www.milltowngardencentre.com/"
+opening_hours: Mo-Sa 09:00-18:30
+website: https://www.milltowngardencentre.com/

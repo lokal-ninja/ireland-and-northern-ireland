@@ -1,11 +1,11 @@
 id: 950198562
-type: way
+type: node
 latitude: 54.5001
 longitude: -8.19156
 postcode: ""
 city: Ballyshannon
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/ulster/donegal/ballyshannon"
+website: https://centra.ie/locate/ulster/donegal/ballyshannon

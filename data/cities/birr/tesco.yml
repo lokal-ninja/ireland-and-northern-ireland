@@ -1,11 +1,11 @@
 id: 183821911
-type: way
+type: node
 latitude: 53.09041
 longitude: -7.90983
 postcode: ""
 city: Birr
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/"
+website: https://www.tesco.ie/

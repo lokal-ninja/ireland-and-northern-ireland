@@ -1,11 +1,11 @@
 id: 173774657
-type: way
+type: node
 latitude: 53.27575
 longitude: -7.49463
 postcode: ""
 city: Tullamore
-street: "Patrick Street"
-housenumber: 
+street: Patrick Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00; Su 13:00-17:00"
-website: "https://www.elverys.ie/store/Tullamore%20Patrick%20Street"
+opening_hours: Mo-Sa 09:30-18:00; Su 13:00-17:00
+website: https://www.elverys.ie/store/Tullamore%20Patrick%20Street

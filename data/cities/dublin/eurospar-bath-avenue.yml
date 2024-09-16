@@ -1,11 +1,11 @@
 id: 96255050
-type: way
+type: node
 latitude: 53.33703
 longitude: -6.23369
 postcode: ""
 city: Dublin
-street: "Bath Avenue"
-housenumber: 
+street: Bath Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.eurospar.ie/"
+website: https://www.eurospar.ie/

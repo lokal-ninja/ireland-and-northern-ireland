@@ -4,8 +4,8 @@ latitude: 52.33943
 longitude: -6.46264
 postcode: ""
 city: Wexford
-street: "North Main Street"
-housenumber: 43
+street: North Main Street
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://www.three.ie/stores/three-store-wexford"
+opening_hours: Mo-Sa 09:30-18:00
+website: https://www.three.ie/stores/three-store-wexford

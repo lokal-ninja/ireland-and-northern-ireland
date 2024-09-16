@@ -1,11 +1,11 @@
 id: 910662642
-type: way
+type: node
 latitude: 54.85155
 longitude: -5.81911
-postcode: "BT40 1SP"
+postcode: BT40 1SP
 city: Larne
-street: "Main Street"
-housenumber: 46
+street: Main Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

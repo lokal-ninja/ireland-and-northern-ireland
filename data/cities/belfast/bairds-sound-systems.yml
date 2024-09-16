@@ -1,11 +1,11 @@
 id: 440925746
-type: way
+type: node
 latitude: 54.61165
 longitude: -5.92354
-postcode: "BT15 1JJ"
+postcode: BT15 1JJ
 city: Belfast
-street: "York Street"
-housenumber: 208
+street: York Street
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

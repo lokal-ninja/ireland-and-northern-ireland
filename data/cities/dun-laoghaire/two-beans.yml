@@ -4,8 +4,8 @@ latitude: 53.29447
 longitude: -6.1415
 postcode: ""
 city: Dún Laoghaire
-street: "George's Street Lower"
-housenumber: 11
+street: George's Street Lower
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00; Sa 09:00-16:00; PH,Su 10:00-16:00"
-website: "https://www.twobeans.ie/"
+opening_hours: Mo-Fr 08:00-16:00; Sa 09:00-16:00; PH,Su 10:00-16:00
+website: https://www.twobeans.ie/

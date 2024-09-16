@@ -1,11 +1,11 @@
 id: 1000739827
-type: way
+type: node
 latitude: 52.50197
 longitude: -6.57671
 postcode: ""
 city: Enniscorthy
-street: "Ross Road"
-housenumber: 
+street: Ross Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://staffordfuels.ie/"
+website: https://staffordfuels.ie/

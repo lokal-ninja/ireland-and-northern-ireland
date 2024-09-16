@@ -1,11 +1,11 @@
 id: 101593649
-type: way
+type: node
 latitude: 53.26812
 longitude: -8.93026
 postcode: ""
 city: Oranmore
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/connacht/galway/oranmore"
+website: https://centra.ie/locate/connacht/galway/oranmore

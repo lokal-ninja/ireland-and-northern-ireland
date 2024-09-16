@@ -1,11 +1,11 @@
 id: 361186886
-type: way
+type: node
 latitude: 52.60752
 longitude: -9.10069
 postcode: ""
 city: Foynes
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/munster/limerick/foynes"
+website: https://centra.ie/locate/munster/limerick/foynes

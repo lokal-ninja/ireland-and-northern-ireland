@@ -1,11 +1,11 @@
 id: 78220690
-type: way
+type: node
 latitude: 51.88558
 longitude: -8.39511
 postcode: ""
 city: Cork
-street: "Mahon Point Shopping Centre"
-housenumber: 
+street: Mahon Point Shopping Centre
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/"
+website: https://www.tesco.ie/

@@ -1,11 +1,11 @@
 id: 740958713
-type: way
+type: node
 latitude: 53.34901
 longitude: -6.25783
 postcode: ""
 city: Dublin
-street: "Marlborough Street"
-housenumber: 107
+street: Marlborough Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

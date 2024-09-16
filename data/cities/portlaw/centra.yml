@@ -1,11 +1,11 @@
 id: 42104905
-type: way
+type: node
 latitude: 52.28737
 longitude: -7.31878
 postcode: ""
 city: Portlaw
-street: "The Square"
-housenumber: 
+street: The Square
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/munster/waterford/portlaw"
+website: https://centra.ie/locate/munster/waterford/portlaw

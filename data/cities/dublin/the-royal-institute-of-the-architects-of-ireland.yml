@@ -1,11 +1,11 @@
 id: 113819783
-type: way
+type: node
 latitude: 53.34083
 longitude: -6.24955
 postcode: ""
 city: Dublin
-street: "Merrion Square North"
-housenumber: 8
-phone: "+353-1-6761703"
-opening_hours: "Mo-Fr 09:30-17:00"
-website: "https://www.riai.ie/"
+street: Merrion Square North
+housenumber: "8"
+phone: +353-1-6761703
+opening_hours: Mo-Fr 09:30-17:00
+website: https://www.riai.ie/

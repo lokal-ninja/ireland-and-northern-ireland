@@ -1,11 +1,11 @@
 id: 26345315
-type: way
+type: node
 latitude: 54.5128
 longitude: -6.05206
-postcode: "BT28 1AW"
+postcode: BT28 1AW
 city: Lisburn
-street: "Bow Street"
-housenumber: 
-phone: "+44-28-92675438"
-opening_hours: "Mo,Tu,Sa 09:00-18:00; We-Fr 09:00-21:00; Su 13:00-18:00"
-website: "https://www.bowstreetmall.co.uk/"
+street: Bow Street
+housenumber: ""
+phone: +44-28-92675438
+opening_hours: Mo,Tu,Sa 09:00-18:00; We-Fr 09:00-21:00; Su 13:00-18:00
+website: https://www.bowstreetmall.co.uk/

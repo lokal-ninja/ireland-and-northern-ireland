@@ -1,11 +1,11 @@
 id: 23750743
-type: way
+type: node
 latitude: 53.41254
 longitude: -6.34827
-postcode: "D15 CKF4"
+postcode: D15 CKF4
 city: Dublin
-street: "Northwest Business Park"
-housenumber: 
-phone: "+353 1 885 33 00"
-opening_hours: "Mo,Tu 07:00-17:00; We,Th 07:00-16:00; Fr 07:00-15:00"
-website: "http://lituanica.ie/wholesale/"
+street: Northwest Business Park
+housenumber: ""
+phone: +353 1 885 33 00
+opening_hours: Mo,Tu 07:00-17:00; We,Th 07:00-16:00; Fr 07:00-15:00
+website: http://lituanica.ie/wholesale/

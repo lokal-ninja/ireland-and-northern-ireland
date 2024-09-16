@@ -1,11 +1,11 @@
 id: 660270146
-type: way
+type: node
 latitude: 54.53318
 longitude: -5.82876
-postcode: "BT23 6BE"
+postcode: BT23 6BE
 city: Newtownards
-street: "Hillmount Drive"
-housenumber: 1
+street: Hillmount Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

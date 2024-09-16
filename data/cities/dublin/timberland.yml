@@ -1,11 +1,11 @@
 id: 249212456
-type: way
+type: node
 latitude: 53.34112
 longitude: -6.26002
 postcode: ""
 city: Dublin
-street: "Anne Street South"
-housenumber: 31
+street: Anne Street South
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.timberland.ie/"
+website: https://www.timberland.ie/

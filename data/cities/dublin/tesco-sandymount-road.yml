@@ -1,11 +1,11 @@
 id: 372477027
-type: way
+type: node
 latitude: 53.33333
 longitude: -6.21653
 postcode: ""
 city: Dublin
-street: "Sandymount Road"
-housenumber: 80
+street: Sandymount Road
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-21:00"
-website: "https://www.tesco.ie/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-21:00
+website: https://www.tesco.ie/

@@ -4,8 +4,8 @@ latitude: 53.35154
 longitude: -6.25327
 postcode: ""
 city: Dublin
-street: "James Joyce Street"
-housenumber: 9
-phone: "+353 1 894 4769"
-opening_hours: "Tu-We 10:00-18:00, Th-Sa 10:00-19:00"
-website: "https://www.perfectlady.ie/"
+street: James Joyce Street
+housenumber: "9"
+phone: +353 1 894 4769
+opening_hours: Tu-We 10:00-18:00, Th-Sa 10:00-19:00
+website: https://www.perfectlady.ie/

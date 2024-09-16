@@ -4,8 +4,8 @@ latitude: 53.35106
 longitude: -6.25046
 postcode: ""
 city: Dublin
-street: "Amiens Street"
-housenumber: 16
-phone: "+353 1 8560045"
-opening_hours: "Mo-Sa 08:00-18:30, Su 09:30-18:30"
-website: "https://railtoursireland.com/"
+street: Amiens Street
+housenumber: "16"
+phone: +353 1 8560045
+opening_hours: Mo-Sa 08:00-18:30, Su 09:30-18:30
+website: https://railtoursireland.com/

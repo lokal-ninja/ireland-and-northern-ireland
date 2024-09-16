@@ -1,11 +1,11 @@
 id: 949208535
-type: way
+type: node
 latitude: 55.1363
 longitude: -8.10392
 postcode: ""
 city: Falcarragh
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/ulster/donegal/falcarragh"
+website: https://centra.ie/locate/ulster/donegal/falcarragh

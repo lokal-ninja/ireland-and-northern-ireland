@@ -1,11 +1,11 @@
 id: 233797901
-type: way
+type: node
 latitude: 53.34845
 longitude: -6.25796
 postcode: ""
 city: Dublin
-street: "Abbey Street Lower"
-housenumber: 31
+street: Abbey Street Lower
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

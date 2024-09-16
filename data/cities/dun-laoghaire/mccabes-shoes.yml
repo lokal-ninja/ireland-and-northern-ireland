@@ -1,11 +1,11 @@
 id: 58693079
-type: way
+type: node
 latitude: 53.29265
 longitude: -6.13705
 postcode: ""
 city: Dún Laoghaire
-street: "George's Street Lower"
-housenumber: 67
-phone: "+353 1 284 1367"
+street: George's Street Lower
+housenumber: "67"
+phone: +353 1 284 1367
 opening_hours: ""
-website: "https://mccabeshoes.com/"
+website: https://mccabeshoes.com/

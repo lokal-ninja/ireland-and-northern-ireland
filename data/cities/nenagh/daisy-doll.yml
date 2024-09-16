@@ -1,11 +1,11 @@
 id: 75077195
-type: way
+type: node
 latitude: 52.86338
 longitude: -8.2006
 postcode: ""
 city: Nenagh
-street: "Mitchell Street"
-housenumber: 27
+street: Mitchell Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

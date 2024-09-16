@@ -1,11 +1,11 @@
 id: 556869849
-type: way
+type: node
 latitude: 53.72439
 longitude: -8.9989
 postcode: ""
 city: Claremorris
-street: "Kilcolman Road"
-housenumber: 
+street: Kilcolman Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/"
+website: https://www.tesco.ie/

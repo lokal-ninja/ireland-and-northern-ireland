@@ -1,11 +1,11 @@
 id: 561372020
-type: way
+type: node
 latitude: 53.37167
 longitude: -6.25297
 postcode: ""
 city: Dublin
-street: "Drumcondra Road Upper"
-housenumber: 90
+street: Drumcondra Road Upper
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "https://www.corrigansbutchers.com/"
+website: https://www.corrigansbutchers.com/

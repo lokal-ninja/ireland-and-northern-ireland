@@ -4,8 +4,8 @@ latitude: 54.27057
 longitude: -8.47299
 postcode: ""
 city: Sligo
-street: "Castle Street"
-housenumber: 3
+street: Castle Street
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:45-18:15"
-website: "https://kateskitchen.ie/"
+opening_hours: Mo-Sa 08:45-18:15
+website: https://kateskitchen.ie/

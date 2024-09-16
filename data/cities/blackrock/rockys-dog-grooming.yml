@@ -4,8 +4,8 @@ latitude: 53.30049
 longitude: -6.17537
 postcode: ""
 city: Blackrock
-street: "Main Street"
-housenumber: 77
+street: Main Street
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 09:15-17:00; Sa 09:30-17:00; Su off"
-website: "http://www.blackrockflowers.com/"
+opening_hours: Mo-Fr 09:15-17:00; Sa 09:30-17:00; Su off
+website: http://www.blackrockflowers.com/

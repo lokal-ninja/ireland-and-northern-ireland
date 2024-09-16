@@ -1,11 +1,11 @@
 id: 658013583
-type: way
+type: node
 latitude: 54.64531
 longitude: -5.81674
-postcode: "BT18 0NE"
+postcode: BT18 0NE
 city: Belfast
-street: "Bangor Road"
-housenumber: 41
+street: Bangor Road
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

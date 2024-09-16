@@ -1,11 +1,11 @@
 id: 361696261
-type: way
+type: node
 latitude: 52.06025
 longitude: -9.50331
 postcode: ""
 city: Killarney
-street: "Fairhill"
-housenumber: 1
+street: Fairhill
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

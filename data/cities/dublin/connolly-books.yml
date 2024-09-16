@@ -2,10 +2,10 @@ id: 5792729759
 type: node
 latitude: 53.34499
 longitude: -6.26652
-postcode: "D02 Y306"
+postcode: D02 Y306
 city: Dublin
-street: "Essex Street East"
-housenumber: 43
+street: Essex Street East
+housenumber: "43"
 phone: ""
-opening_hours: ""
-website: "https://www.connollybooks.org/"
+opening_hours: Tu-Sa 10:00-19:30
+website: https://www.connollybooks.org/

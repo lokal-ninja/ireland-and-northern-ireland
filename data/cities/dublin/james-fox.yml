@@ -4,8 +4,8 @@ latitude: 53.34411
 longitude: -6.25962
 postcode: ""
 city: Dublin
-street: "Grafton Street"
-housenumber: 119
+street: Grafton Street
+housenumber: "119"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:30-18:30"
-website: "https://www.jamesfox.ie/"
+opening_hours: Mo-Sa 10:00-20:00; Su 12:30-18:30
+website: https://www.jamesfox.ie/

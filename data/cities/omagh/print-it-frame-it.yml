@@ -1,11 +1,11 @@
 id: 1108045566
-type: way
+type: node
 latitude: 54.6003
 longitude: -7.30067
-postcode: "BT78 1EH"
+postcode: BT78 1EH
 city: Omagh
-street: "Market Street"
-housenumber: 6
+street: Market Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

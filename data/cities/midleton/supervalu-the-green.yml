@@ -1,11 +1,11 @@
 id: 162541406
-type: way
+type: node
 latitude: 51.88842
 longitude: -8.41841
 postcode: ""
 city: Midleton
-street: "The Green"
-housenumber: 
-phone: "+353-21-4631570"
+street: The Green
+housenumber: ""
+phone: +353-21-4631570
 opening_hours: ""
-website: "https://supervalu.ie"
+website: https://supervalu.ie

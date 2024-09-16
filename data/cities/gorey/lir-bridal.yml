@@ -4,8 +4,8 @@ latitude: 52.67579
 longitude: -6.29456
 postcode: ""
 city: Gorey
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
-opening_hours: "By appointment only"
-website: "https://www.lirbridal.ie/"
+opening_hours: '"By appointment only"'
+website: https://www.lirbridal.ie/

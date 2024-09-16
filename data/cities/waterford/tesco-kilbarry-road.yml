@@ -1,11 +1,11 @@
 id: 98026798
-type: way
+type: node
 latitude: 52.23752
 longitude: -7.13979
 postcode: ""
 city: Waterford
-street: "Kilbarry Road"
-housenumber: 
+street: Kilbarry Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/"
+website: https://www.tesco.ie/

@@ -1,11 +1,11 @@
 id: 1168792460
-type: way
+type: node
 latitude: 54.57101
 longitude: -5.90217
-postcode: "BT6 0LR"
+postcode: BT6 0LR
 city: Belfast
-street: "Rosetta Road"
-housenumber: 69
+street: Rosetta Road
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "https://www.coop.co.uk/store-finder/BT6-0LR/69-rosetta-road"
+website: https://www.coop.co.uk/store-finder/BT6-0LR/69-rosetta-road

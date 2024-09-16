@@ -1,11 +1,11 @@
 id: 1035207837
-type: way
+type: node
 latitude: 53.27767
 longitude: -6.11105
 postcode: ""
 city: Dalkey
-street: "Barnhill Road"
-housenumber: 13
+street: Barnhill Road
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

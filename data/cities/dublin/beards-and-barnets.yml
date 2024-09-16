@@ -4,8 +4,9 @@ latitude: 53.34487
 longitude: -6.2642
 postcode: ""
 city: Dublin
-street: "Temple Lane South"
-housenumber: 
-phone: "+353-85-787-7778"
-opening_hours: "Mo-Tu 10:00-18:00; We 10:00-19:00; Th 10:00-19:30; Sa 10:00-18:00; Su off"
+street: Temple Lane South
+housenumber: ""
+phone: +353-85-787-7778
+opening_hours: Mo-Tu 10:00-18:00; We 10:00-19:00; Th 10:00-19:30; Sa 10:00-18:00;
+    Su off
 website: ""

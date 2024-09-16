@@ -1,11 +1,11 @@
 id: 736600486
-type: way
+type: node
 latitude: 54.58949
 longitude: -5.84596
 postcode: ""
 city: Belfast
-street: "King's Road"
-housenumber: 
+street: King's Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/BT5-7EJ/kings-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/BT5-7EJ/kings-road

@@ -1,11 +1,11 @@
 id: 292660547
-type: way
+type: node
 latitude: 55.12566
 longitude: -6.04276
-postcode: "BT44 0PH"
+postcode: BT44 0PH
 city: Cushendun
-street: "Main Street"
-housenumber: 5
+street: Main Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

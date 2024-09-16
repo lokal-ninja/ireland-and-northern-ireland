@@ -1,11 +1,11 @@
 id: 200171653
-type: way
+type: node
 latitude: 52.26624
 longitude: -6.74881
 postcode: ""
 city: Wellingtonbridge
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://wallaces.ie/supervalu/"
+website: https://wallaces.ie/supervalu/

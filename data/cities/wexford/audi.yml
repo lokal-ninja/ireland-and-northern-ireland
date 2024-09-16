@@ -1,11 +1,11 @@
 id: 712352151
-type: way
+type: node
 latitude: 52.3577
 longitude: -6.45314
-postcode: "Y35 ED2Y"
+postcode: Y35 ED2Y
 city: Wexford
-street: "Crosstown"
-housenumber: 
-phone: "+353 53 919 2100"
-opening_hours: "Mo-Sa 09:00-18:00; Su off"
-website: "https://www.audiwexford.ie/"
+street: Crosstown
+housenumber: ""
+phone: +353 53 919 2100
+opening_hours: Mo-Sa 09:00-18:00; Su off
+website: https://www.audiwexford.ie/

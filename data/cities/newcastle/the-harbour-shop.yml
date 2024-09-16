@@ -1,11 +1,11 @@
 id: 1091580309
-type: way
+type: node
 latitude: 54.19971
 longitude: -5.88966
-postcode: "BT33 0EY"
+postcode: BT33 0EY
 city: Newcastle
 street: ""
-housenumber: 57
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

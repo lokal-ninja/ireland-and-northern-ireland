@@ -1,11 +1,11 @@
 id: 906706901
-type: way
+type: node
 latitude: 53.20185
 longitude: -6.11008
 postcode: ""
 city: Bray
-street: "Main Street"
-housenumber: 38
+street: Main Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

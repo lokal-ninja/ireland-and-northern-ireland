@@ -4,8 +4,9 @@ latitude: 53.45503
 longitude: -6.21876
 postcode: ""
 city: Swords
-street: "Malahide Road"
-housenumber: 
-phone: "+353-1-8084845"
-opening_hours: "Mo 09:00-18:00; Tu 09:00-18:30; We-Fr 09:00-21:00; Sa 09:00-18:00; Su 11:00-18:00"
+street: Malahide Road
+housenumber: ""
+phone: +353-1-8084845
+opening_hours: Mo 09:00-18:00; Tu 09:00-18:30; We-Fr 09:00-21:00; Sa 09:00-18:00;
+    Su 11:00-18:00
 website: ""

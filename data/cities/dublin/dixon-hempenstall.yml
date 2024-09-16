@@ -1,11 +1,11 @@
 id: 261270518
-type: way
+type: node
 latitude: 53.34344
 longitude: -6.25977
 postcode: ""
 city: Dublin
-street: "Suffolk Street"
-housenumber: 14
+street: Suffolk Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.dublinopticians.ie/"
+website: https://www.dublinopticians.ie/

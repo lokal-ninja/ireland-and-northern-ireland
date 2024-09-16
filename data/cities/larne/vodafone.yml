@@ -1,11 +1,11 @@
 id: 378330318
-type: way
+type: node
 latitude: 54.85084
 longitude: -5.81678
-postcode: "BT40 1JS"
+postcode: BT40 1JS
 city: Larne
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+447585204248"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-17:00"
-website: "https://www.vodafone.co.uk/"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-17:00
+website: https://www.vodafone.co.uk/

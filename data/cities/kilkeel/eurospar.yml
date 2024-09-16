@@ -1,11 +1,11 @@
 id: 965979246
-type: way
+type: node
 latitude: 54.06066
 longitude: -6.00964
 postcode: ""
 city: Kilkeel
-street: "Greencastle Street"
-housenumber: 55
+street: Greencastle Street
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

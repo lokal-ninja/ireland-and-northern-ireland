@@ -1,11 +1,12 @@
 id: 690558504
-type: way
+type: node
 latitude: 54.60913
 longitude: -5.92581
-postcode: "BT15 1WA"
+postcode: BT15 1WA
 city: Belfast
 street: ""
-housenumber: 
-phone: "+44 344 332 5657"
-opening_hours: "Mo,Tu 10:00-19:00; We 10:00-20:00; Th,Fr 10:00-21:00; Sa 09:30-18:00; Su 13:00-18:00"
-website: "https://www.sportsdirect.com/Belfast%20-%20Yorkgate-store-0657?storecode=657&slong=-5.93012&slat=54.597285"
+housenumber: ""
+phone: +44 344 332 5657
+opening_hours: Mo,Tu 10:00-19:00; We 10:00-20:00; Th,Fr 10:00-21:00; Sa 09:30-18:00;
+    Su 13:00-18:00
+website: https://www.sportsdirect.com/Belfast%20-%20Yorkgate-store-0657?storecode=657&slong=-5.93012&slat=54.597285

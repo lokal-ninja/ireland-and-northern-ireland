@@ -4,8 +4,8 @@ latitude: 53.34328
 longitude: -6.24428
 postcode: ""
 city: Dublin
-street: "Pearse Street"
-housenumber: 96
-phone: "+353-1-6773111"
-opening_hours: "Mo-Fr 08:15-19:00; Sa 10:00-17:00"
-website: "https://www.freewheeling.ie/"
+street: Pearse Street
+housenumber: "96"
+phone: +353-1-6773111
+opening_hours: Mo-Fr 08:15-19:00; Sa 10:00-17:00
+website: https://www.freewheeling.ie/

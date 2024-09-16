@@ -1,11 +1,11 @@
 id: 235287888
-type: way
+type: node
 latitude: 53.33549
 longitude: -6.28998
-postcode: "D08 WN40"
+postcode: D08 WN40
 city: Dublin
-street: "Cork Street"
-housenumber: 52
-phone: "+353 1 4541164"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.cfmf.ie/"
+street: Cork Street
+housenumber: "52"
+phone: +353 1 4541164
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.cfmf.ie/

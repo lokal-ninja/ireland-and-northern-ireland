@@ -1,11 +1,11 @@
 id: 469400095
-type: way
+type: node
 latitude: 54.95037
 longitude: -8.35348
 postcode: ""
 city: Dungloe
-street: "Carnmore Road"
-housenumber: 
+street: Carnmore Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00"
-website: "https://www.aldi.ie/"
+opening_hours: Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00
+website: https://www.aldi.ie/

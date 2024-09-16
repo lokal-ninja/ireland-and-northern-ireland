@@ -1,11 +1,11 @@
 id: 1239192953
-type: way
+type: node
 latitude: 54.59275
 longitude: -5.92572
-postcode: "BT2 8JE"
+postcode: BT2 8JE
 city: Belfast
-street: "Cromac Street"
-housenumber: 153
+street: Cromac Street
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

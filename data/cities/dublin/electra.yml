@@ -4,8 +4,8 @@ latitude: 53.32233
 longitude: -6.23686
 postcode: ""
 city: Dublin
-street: "Donnybrook Road"
-housenumber: 12
-phone: "+353-1-538-1230"
-opening_hours: "Mo off; Tu-Sa 09:30-17:30; Su off"
-website: "https://www.electra.ie/"
+street: Donnybrook Road
+housenumber: "12"
+phone: +353-1-538-1230
+opening_hours: Mo off; Tu-Sa 09:30-17:30; Su off
+website: https://www.electra.ie/

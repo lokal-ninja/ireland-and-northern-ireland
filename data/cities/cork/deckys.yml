@@ -1,11 +1,11 @@
 id: 782360258
-type: way
+type: node
 latitude: 51.92072
 longitude: -8.45953
-postcode: "T23 YW81"
+postcode: T23 YW81
 city: Cork
-street: "Glenheights Road"
-housenumber: 52
+street: Glenheights Road
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00; Tu-Fr 08:00-21:00"
+opening_hours: Mo-Su 08:00-20:00; Tu-Fr 08:00-21:00
 website: ""

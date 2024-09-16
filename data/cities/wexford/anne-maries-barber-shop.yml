@@ -4,8 +4,8 @@ latitude: 52.33624
 longitude: -6.46152
 postcode: ""
 city: Wexford
-street: "Peter Street"
-housenumber: 
+street: Peter Street
+housenumber: ""
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

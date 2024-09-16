@@ -1,11 +1,11 @@
 id: 1060432611
-type: way
+type: node
 latitude: 53.38523
 longitude: -6.15409
-postcode: "D5"
+postcode: D5
 city: Dublin
-street: "Greendale Road"
-housenumber: 
+street: Greendale Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

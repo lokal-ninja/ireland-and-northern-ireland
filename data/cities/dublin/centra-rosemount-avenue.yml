@@ -1,11 +1,11 @@
 id: 738944190
-type: way
+type: node
 latitude: 53.3803
 longitude: -6.19858
 postcode: ""
 city: Dublin
-street: "Rosemount Avenue"
-housenumber: 
+street: Rosemount Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/leinster/dublin/5/rosemount"
+website: https://centra.ie/locate/leinster/dublin/5/rosemount

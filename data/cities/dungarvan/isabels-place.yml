@@ -4,8 +4,8 @@ latitude: 52.08929
 longitude: -7.62007
 postcode: ""
 city: Dungarvan
-street: "Main Street (Parnell Street)"
-housenumber: 63
+street: Main Street (Parnell Street)
+housenumber: "63"
 phone: "+353830679764"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-16:00"
-website: "https://isabelsplace.ie"
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-16:00
+website: https://isabelsplace.ie

@@ -1,11 +1,11 @@
 id: 220624650
-type: way
+type: node
 latitude: 53.39869
 longitude: -6.66478
 postcode: ""
 city: Kilcock
-street: "The Harbour"
-housenumber: 
+street: The Harbour
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.lidl.ie/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.lidl.ie/

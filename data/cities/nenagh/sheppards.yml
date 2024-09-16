@@ -1,11 +1,11 @@
 id: 65564725
-type: way
+type: node
 latitude: 52.86396
 longitude: -8.19879
 postcode: ""
 city: Nenagh
-street: "Pearse Street"
-housenumber: 55
+street: Pearse Street
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

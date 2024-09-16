@@ -1,11 +1,11 @@
 id: 1005951337
-type: way
+type: node
 latitude: 52.09146
 longitude: -7.62576
 postcode: ""
 city: Dungarvan
-street: "John Treacy Street"
-housenumber: 
+street: John Treacy Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.aldi.ie"
+website: https://www.aldi.ie

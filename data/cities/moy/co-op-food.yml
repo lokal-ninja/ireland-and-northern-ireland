@@ -1,11 +1,11 @@
 id: 469307413
-type: way
+type: node
 latitude: 54.4476
 longitude: -6.69486
-postcode: "BT71 7SH"
+postcode: BT71 7SH
 city: Moy
-street: "Dungannon Street"
-housenumber: 10
+street: Dungannon Street
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 13:00-18:00"
-website: "https://www.coop.co.uk/store-finder/BT71-7SH/10-dungannon-street"
+opening_hours: Mo-Sa 07:00-22:00; Su 13:00-18:00
+website: https://www.coop.co.uk/store-finder/BT71-7SH/10-dungannon-street

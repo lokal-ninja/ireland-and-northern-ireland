@@ -1,11 +1,11 @@
 id: 375458701
-type: way
+type: node
 latitude: 54.62119
 longitude: -6.21459
-postcode: "BT29 4XL"
+postcode: BT29 4XL
 city: Crumlin
-street: "Mill Road"
-housenumber: 3
+street: Mill Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

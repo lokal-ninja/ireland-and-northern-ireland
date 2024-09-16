@@ -1,11 +1,11 @@
 id: 966043230
-type: way
+type: node
 latitude: 53.3648
 longitude: -6.28665
 postcode: ""
 city: Dublin
-street: "Fassaugh Road"
-housenumber: 44
-phone: "+353-1-8680301"
+street: Fassaugh Road
+housenumber: "44"
+phone: +353-1-8680301
 opening_hours: ""
-website: "https://edentherapy.ie/"
+website: https://edentherapy.ie/

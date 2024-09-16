@@ -1,11 +1,11 @@
 id: 265488823
-type: way
+type: node
 latitude: 54.85188
 longitude: -6.36599
-postcode: "BT42 1JZ"
+postcode: BT42 1JZ
 city: Ahoghill
-street: "The Diamond"
-housenumber: 4
-phone: "+44 28 2587 1158"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: The Diamond
+housenumber: "4"
+phone: +44 28 2587 1158
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

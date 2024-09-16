@@ -1,11 +1,11 @@
 id: 698049332
-type: way
+type: node
 latitude: 53.34452
 longitude: -6.2635
-postcode: "D02 VN23"
+postcode: D02 VN23
 city: Dublin
-street: "Fownes Street Upper"
-housenumber: 3
+street: Fownes Street Upper
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-19:00"
-website: "https://www.vintagevaperooms.com/"
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-19:00
+website: https://www.vintagevaperooms.com/

@@ -1,11 +1,11 @@
 id: 87357637
-type: way
+type: node
 latitude: 52.26352
 longitude: -9.67857
 postcode: ""
 city: Tralee
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/"
+website: https://www.tesco.ie/

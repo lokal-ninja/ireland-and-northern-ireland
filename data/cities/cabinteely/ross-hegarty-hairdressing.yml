@@ -1,11 +1,11 @@
 id: 137827027
-type: way
+type: node
 latitude: 53.26112
 longitude: -6.15007
 postcode: ""
 city: Cabinteely
-street: "Johnstown Road"
-housenumber: 1
-phone: "+353 1 2859 444"
-opening_hours: "Mo,Su off; Tu-We 09:30-18:00; Th-Fr 09:30-20:00; Sa 09:00-17:00"
-website: "https://rosshegarty.com/"
+street: Johnstown Road
+housenumber: "1"
+phone: +353 1 2859 444
+opening_hours: Mo,Su off; Tu-We 09:30-18:00; Th-Fr 09:30-20:00; Sa 09:00-17:00
+website: https://rosshegarty.com/

@@ -1,11 +1,11 @@
 id: 544911310
-type: way
+type: node
 latitude: 54.8625
 longitude: -6.27518
 postcode: ""
 city: Ballymena
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://community.petsathome.com/store/ballymena/"
+website: https://community.petsathome.com/store/ballymena/

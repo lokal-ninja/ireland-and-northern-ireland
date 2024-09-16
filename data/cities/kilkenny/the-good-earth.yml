@@ -1,11 +1,11 @@
 id: 233536184
-type: way
+type: node
 latitude: 52.65222
 longitude: -7.25226
 postcode: ""
 city: Kilkenny
-street: "Saint Kieran's Street"
-housenumber: 43
+street: Saint Kieran's Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

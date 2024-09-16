@@ -1,11 +1,11 @@
 id: 696901399
-type: way
+type: node
 latitude: 53.34998
 longitude: -6.25969
 postcode: ""
 city: Dublin
-street: "North Earl Street"
-housenumber: 28
+street: North Earl Street
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.dunnesstores.com/"
+website: https://www.dunnesstores.com/

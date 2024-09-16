@@ -1,11 +1,11 @@
 id: 148530921
-type: way
+type: node
 latitude: 54.60733
 longitude: -5.96871
-postcode: "BT13 3LD"
+postcode: BT13 3LD
 city: Belfast
-street: "Ballygomartin Road"
-housenumber: 2
+street: Ballygomartin Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

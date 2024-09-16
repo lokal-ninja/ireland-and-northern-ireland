@@ -1,11 +1,11 @@
 id: 55354013
-type: way
+type: node
 latitude: 53.34119
 longitude: -6.35251
 postcode: ""
 city: Dublin
-street: "Ballyfermot Road"
-housenumber: 
+street: Ballyfermot Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/"
+website: https://www.tesco.ie/

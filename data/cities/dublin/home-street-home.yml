@@ -4,8 +4,8 @@ latitude: 53.31973
 longitude: -6.27897
 postcode: ""
 city: Dublin
-street: "Harold's Cross Road"
-housenumber: 294
+street: Harold's Cross Road
+housenumber: "294"
 phone: ""
-opening_hours: "Tu-Sa 10:00-18:00; Su 11:00-17:00; Mo off"
-website: "https://homestreethome.ie/"
+opening_hours: Tu-Sa 10:00-18:00; Su 11:00-17:00; Mo off
+website: https://homestreethome.ie/

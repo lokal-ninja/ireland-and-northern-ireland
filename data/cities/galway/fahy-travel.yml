@@ -4,8 +4,8 @@ latitude: 53.27181
 longitude: -9.05474
 postcode: ""
 city: Galway
-street: "Bridge Street"
-housenumber: 2
-phone: "+353 91 594 747"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-17:30; Sa-Su off; PH off"
-website: "https://www.fahytravel.ie/"
+street: Bridge Street
+housenumber: "2"
+phone: +353 91 594 747
+opening_hours: Mo-Fr 09:30-13:00,14:00-17:30; Sa-Su off; PH off
+website: https://www.fahytravel.ie/

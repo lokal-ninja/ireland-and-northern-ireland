@@ -1,11 +1,11 @@
 id: 266948524
-type: way
+type: node
 latitude: 53.34778
 longitude: -6.26129
 postcode: ""
 city: Dublin
-street: "Middle Abbey Street"
-housenumber: 62
+street: Middle Abbey Street
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

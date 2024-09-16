@@ -1,11 +1,11 @@
 id: 1176565784
-type: way
+type: node
 latitude: 54.33311
 longitude: -6.27255
-postcode: "BT32 4LF"
+postcode: BT32 4LF
 city: Banbridge
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 08:00-21:00; Th-Fr 08:00-22:00; Sa 08:00-20:00; Su 13:00-18:00"
-website: "https://www.marksandspencer.com/stores/banbridge-foodhall-1617"
+opening_hours: Mo-We 08:00-21:00; Th-Fr 08:00-22:00; Sa 08:00-20:00; Su 13:00-18:00
+website: https://www.marksandspencer.com/stores/banbridge-foodhall-1617

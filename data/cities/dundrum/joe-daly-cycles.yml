@@ -1,11 +1,11 @@
 id: 107425296
-type: way
+type: node
 latitude: 53.29374
 longitude: -6.24617
 postcode: ""
 city: Dundrum
-street: "Dundrum Road;Lower Main Street"
-housenumber: 
-phone: "01 298 1485"
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-19:00; Fr-Sa 09:00-18:00; Su off"
-website: "https://www.joedalycycles.com/"
+street: Dundrum Road;Lower Main Street
+housenumber: ""
+phone: 01 298 1485
+opening_hours: Mo-We 09:00-18:00; Th 09:00-19:00; Fr-Sa 09:00-18:00; Su off
+website: https://www.joedalycycles.com/

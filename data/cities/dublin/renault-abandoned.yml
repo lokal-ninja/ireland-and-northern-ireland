@@ -5,7 +5,7 @@ longitude: -6.23164
 postcode: ""
 city: Dublin
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "disused"
+opening_hours: '"disused"'
 website: ""

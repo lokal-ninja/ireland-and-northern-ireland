@@ -1,11 +1,11 @@
 id: 325147049
-type: way
+type: node
 latitude: 53.34976
 longitude: -6.26088
 postcode: ""
 city: Dublin
-street: "Henry Street"
-housenumber: 33
+street: Henry Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.lush.com/uk/en/shops/lush-cosmetics-henry-street?id=UKD02"
+website: https://www.lush.com/uk/en/shops/lush-cosmetics-henry-street?id=UKD02

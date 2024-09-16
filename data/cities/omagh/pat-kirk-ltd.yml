@@ -1,11 +1,11 @@
 id: 547956307
-type: way
+type: node
 latitude: 54.60235
 longitude: -7.31757
 postcode: ""
 city: Omagh
-street: "Brookmount Road"
-housenumber: 53
-phone: "+44 28 8225 8200"
+street: Brookmount Road
+housenumber: "53"
+phone: +44 28 8225 8200
 opening_hours: ""
-website: "https://www.patkirk.com/"
+website: https://www.patkirk.com/

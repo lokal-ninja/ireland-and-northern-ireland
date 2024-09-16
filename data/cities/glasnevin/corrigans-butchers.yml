@@ -1,11 +1,11 @@
 id: 958601191
-type: way
+type: node
 latitude: 53.38268
 longitude: -6.27676
-postcode: "D11 FYH3"
+postcode: D11 FYH3
 city: Glasnevin
-street: "Fitzmaurice Road"
-housenumber: 1
-phone: "+353 1 834 4643"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00"
+street: Fitzmaurice Road
+housenumber: "1"
+phone: +353 1 834 4643
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1009382772
-type: way
+type: node
 latitude: 53.1339
 longitude: -6.73993
 postcode: ""
 city: Kilcullen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/leinster/kildare/kilcullen"
+website: https://centra.ie/locate/leinster/kildare/kilcullen

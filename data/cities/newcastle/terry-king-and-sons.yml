@@ -1,11 +1,11 @@
 id: 816904196
-type: way
+type: node
 latitude: 54.22075
 longitude: -5.88833
-postcode: "BT33 0LN"
+postcode: BT33 0LN
 city: Newcastle
-street: "Dundrum Road"
-housenumber: 84
+street: Dundrum Road
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

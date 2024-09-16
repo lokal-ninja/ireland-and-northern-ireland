@@ -1,11 +1,11 @@
 id: 268783846
-type: way
+type: node
 latitude: 53.27206
 longitude: -7.82806
 postcode: ""
 city: Ferbane
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:30-20:00"
-website: "https://centra.ie/locate/leinster/offaly/ferbane"
+opening_hours: Mo-Sa 08:00-21:00; Su 08:30-20:00
+website: https://centra.ie/locate/leinster/offaly/ferbane

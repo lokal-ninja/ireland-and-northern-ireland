@@ -1,11 +1,11 @@
 id: 273206926
-type: way
+type: node
 latitude: 53.34108
 longitude: -6.25876
 postcode: ""
 city: Dublin
-street: "Anne Street South"
-housenumber: 17
+street: Anne Street South
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.thejewelcasket.ie/"
+website: https://www.thejewelcasket.ie/

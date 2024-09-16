@@ -1,11 +1,11 @@
 id: 56388143
-type: way
+type: node
 latitude: 52.7951
 longitude: -6.16087
 postcode: ""
 city: Arklow
-street: "Wexford Road"
-housenumber: 
+street: Wexford Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.tesco.ie/store-locator/arklow/wexford-road"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.tesco.ie/store-locator/arklow/wexford-road

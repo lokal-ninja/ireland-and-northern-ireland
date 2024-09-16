@@ -1,11 +1,11 @@
 id: 353983720
-type: way
+type: node
 latitude: 53.3495
 longitude: -6.25981
 postcode: ""
 city: Dublin
-street: "O'Connell Street Lower"
-housenumber: 29
+street: O'Connell Street Lower
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.brereton.ie/"
+website: https://www.brereton.ie/

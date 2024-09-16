@@ -4,8 +4,8 @@ latitude: 53.3465
 longitude: -6.26437
 postcode: ""
 city: Dublin
-street: "Ormond Quay Lower"
-housenumber: 30
-phone: "+353-1-8727589"
-opening_hours: "Mo-Su 12:00-18:00"
-website: "https://colourworks.ie/"
+street: Ormond Quay Lower
+housenumber: "30"
+phone: +353-1-8727589
+opening_hours: Mo-Su 12:00-18:00
+website: https://colourworks.ie/

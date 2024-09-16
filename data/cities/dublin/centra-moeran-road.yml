@@ -1,11 +1,11 @@
 id: 500288060
-type: way
+type: node
 latitude: 53.31708
 longitude: -6.32137
 postcode: ""
 city: Dublin
-street: "Moeran Road"
-housenumber: 
+street: Moeran Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/leinster/dublin/12/cromwellsfort-road"
+website: https://centra.ie/locate/leinster/dublin/12/cromwellsfort-road

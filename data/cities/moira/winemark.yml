@@ -2,10 +2,10 @@ id: 5181261552
 type: node
 latitude: 54.47969
 longitude: -6.23094
-postcode: "BT67 0LE"
+postcode: BT67 0LE
 city: Moira
-street: "Main Street"
-housenumber: 16
+street: Main Street
+housenumber: "16"
 phone: ""
-opening_hours: "PH,Su-We 10:00-21:00; Th-Sa 10:00-22:00"
-website: "https://winemark.com/"
+opening_hours: PH,Su-We 10:00-21:00; Th-Sa 10:00-22:00
+website: https://winemark.com/

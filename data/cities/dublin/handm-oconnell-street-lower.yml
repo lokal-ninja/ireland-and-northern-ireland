@@ -1,11 +1,11 @@
 id: 1222688188
-type: way
+type: node
 latitude: 53.34931
 longitude: -6.25965
-postcode: "D01H6K0"
+postcode: D01H6K0
 city: Dublin
-street: "O'Connell Street Lower"
+street: O'Connell Street Lower
 housenumber: 18-27
 phone: ""
 opening_hours: ""
-website: "https://www2.hm.com/en_ie/index.html"
+website: https://www2.hm.com/en_ie/index.html

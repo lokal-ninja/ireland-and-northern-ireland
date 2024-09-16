@@ -1,11 +1,11 @@
 id: 209923768
-type: way
+type: node
 latitude: 52.83854
 longitude: -8.96589
 postcode: ""
 city: Ennis
-street: "Quin Road"
-housenumber: 
+street: Quin Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su off"
-website: "https://piersemotors.ie"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su off
+website: https://piersemotors.ie

@@ -1,11 +1,11 @@
 id: 958601190
-type: way
+type: node
 latitude: 53.38268
 longitude: -6.27689
 postcode: ""
 city: Glasnevin
-street: "Fitzmaurice Road"
-housenumber: 3
+street: Fitzmaurice Road
+housenumber: "3"
 phone: "+35318568484"
-opening_hours: "Tu-Fr 9:30-20:00; Sa 9:00-17:00"
+opening_hours: Tu-Fr 9:30-20:00; Sa 9:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 91018520
-type: way
+type: node
 latitude: 52.34314
 longitude: -6.4675
 postcode: ""
 city: Wexford
-street: "1798 Street"
-housenumber: 
-phone: "+353 53 912 1527"
-opening_hours: "Mo-Sa 08:30-17:00; Su off"
-website: "https://www.firststop.ie/branch-selector/fast-fit-wexford"
+street: 1798 Street
+housenumber: ""
+phone: +353 53 912 1527
+opening_hours: Mo-Sa 08:30-17:00; Su off
+website: https://www.firststop.ie/branch-selector/fast-fit-wexford

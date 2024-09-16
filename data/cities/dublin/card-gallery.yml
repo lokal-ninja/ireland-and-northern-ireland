@@ -1,11 +1,11 @@
 id: 249260474
-type: way
+type: node
 latitude: 53.34137
 longitude: -6.26025
 postcode: ""
 city: Dublin
-street: "Grafton Street"
-housenumber: 31
+street: Grafton Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.cardgallery.ie/"
+website: https://www.cardgallery.ie/

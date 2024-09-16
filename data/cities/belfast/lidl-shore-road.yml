@@ -1,11 +1,11 @@
 id: 151506725
-type: way
+type: node
 latitude: 54.6267
 longitude: -5.92423
-postcode: "BT15 3QA"
+postcode: BT15 3QA
 city: Belfast
-street: "Shore Road"
-housenumber: 196
+street: Shore Road
+housenumber: "196"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl-ni.co.uk/"
+website: https://www.lidl-ni.co.uk/

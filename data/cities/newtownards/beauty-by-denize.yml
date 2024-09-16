@@ -1,11 +1,11 @@
 id: 626142941
-type: way
+type: node
 latitude: 54.59323
 longitude: -5.70192
-postcode: "BT23 4LW"
+postcode: BT23 4LW
 city: Newtownards
-street: "Mill Street"
-housenumber: 87
+street: Mill Street
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.6753
 longitude: -6.29547
 postcode: ""
 city: Gorey
-street: "Main Street"
-housenumber: 67
+street: Main Street
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://myselectgrocer.com/"
+website: https://myselectgrocer.com/

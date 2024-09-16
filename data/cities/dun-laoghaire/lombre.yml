@@ -4,8 +4,9 @@ latitude: 53.28222
 longitude: -6.14386
 postcode: ""
 city: Dún Laoghaire
-street: "Glenageary Road Upper"
+street: Glenageary Road Upper
 housenumber: Unit 8
-phone: "+353-1-538-8880"
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-21:00; Fr 09:00-20:00; Sa 09:00-18:00; Su off"
-website: "https://lombre.ie/"
+phone: +353-1-538-8880
+opening_hours: Mo-We 09:00-18:00; Th 09:00-21:00; Fr 09:00-20:00; Sa 09:00-18:00;
+    Su off
+website: https://lombre.ie/

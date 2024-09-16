@@ -1,11 +1,11 @@
 id: 148311535
-type: way
+type: node
 latitude: 51.95956
 longitude: -7.85337
 postcode: ""
 city: Youghal
-street: "Tallow Street"
-housenumber: 
+street: Tallow Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/store-locator/youghal/mill-road"
+website: https://www.tesco.ie/store-locator/youghal/mill-road

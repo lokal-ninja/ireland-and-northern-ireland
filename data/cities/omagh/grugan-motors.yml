@@ -1,11 +1,11 @@
 id: 573671624
-type: way
+type: node
 latitude: 54.61547
 longitude: -7.29968
-postcode: "BT79 7HX"
+postcode: BT79 7HX
 city: Omagh
-street: "Gortin Road"
-housenumber: 45
-phone: "+44 2882 258479"
-opening_hours: "Mo-Sa 09:00-17:30"
-website: "https://www.gruganmotors.com/"
+street: Gortin Road
+housenumber: "45"
+phone: +44 2882 258479
+opening_hours: Mo-Sa 09:00-17:30
+website: https://www.gruganmotors.com/

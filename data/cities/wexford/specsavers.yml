@@ -4,8 +4,8 @@ latitude: 52.33744
 longitude: -6.46107
 postcode: ""
 city: Wexford
-street: "South Main Street"
-housenumber: 25
-phone: "+353 53 912 1446"
-opening_hours: "Mo-Sa 10:00-14:00, Su off"
-website: "https://www.specsavers.ie/stores/wexford"
+street: South Main Street
+housenumber: "25"
+phone: +353 53 912 1446
+opening_hours: Mo-Sa 10:00-14:00, Su off
+website: https://www.specsavers.ie/stores/wexford

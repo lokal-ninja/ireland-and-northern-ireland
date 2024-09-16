@@ -1,11 +1,11 @@
 id: 718432396
-type: way
+type: node
 latitude: 53.3618
 longitude: -6.25291
 postcode: ""
 city: Dublin
-street: "Jones's Road"
-housenumber: 14
-phone: "+353 1 8365733"
+street: Jones's Road
+housenumber: "14"
+phone: +353 1 8365733
 opening_hours: ""
-website: "https://phoenixtyres.ie/"
+website: https://phoenixtyres.ie/

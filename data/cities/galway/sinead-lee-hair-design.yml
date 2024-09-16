@@ -4,8 +4,8 @@ latitude: 53.27121
 longitude: -9.05317
 postcode: ""
 city: Galway
-street: "Cross Street Lower"
-housenumber: 2
-phone: "+353 91 534 904"
-opening_hours: "Mo-We 08:00-18:00; Th-Fr 08:00-20:00; Sa 08:00-16:00; Su,PH off"
-website: "https://sineadlee.com/"
+street: Cross Street Lower
+housenumber: "2"
+phone: +353 91 534 904
+opening_hours: Mo-We 08:00-18:00; Th-Fr 08:00-20:00; Sa 08:00-16:00; Su,PH off
+website: https://sineadlee.com/

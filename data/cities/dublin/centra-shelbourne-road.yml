@@ -4,8 +4,8 @@ latitude: 53.33147
 longitude: -6.23153
 postcode: ""
 city: Dublin
-street: "Shelbourne Road"
-housenumber: 160
+street: Shelbourne Road
+housenumber: "160"
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/leinster/dublin/4/ballsbridge"
+website: https://centra.ie/locate/leinster/dublin/4/ballsbridge

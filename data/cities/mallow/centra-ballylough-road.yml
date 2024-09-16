@@ -1,11 +1,11 @@
 id: 182676960
-type: way
+type: node
 latitude: 52.14442
 longitude: -8.6434
 postcode: ""
 city: Mallow
-street: "Ballylough Road"
-housenumber: 
+street: Ballylough Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/munster/cork/spa-glen"
+website: https://centra.ie/locate/munster/cork/spa-glen

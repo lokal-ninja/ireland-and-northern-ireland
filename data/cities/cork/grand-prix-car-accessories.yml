@@ -1,11 +1,11 @@
 id: 762066210
-type: way
+type: node
 latitude: 51.90825
 longitude: -8.47376
 postcode: ""
 city: Cork
-street: "Watercourse Road"
-housenumber: 10
-phone: "+353  21 450 7440"
-opening_hours: "Mo-We 09:00-18:00; Th-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://www.facebook.com/grandprixplates/"
+street: Watercourse Road
+housenumber: "10"
+phone: +353  21 450 7440
+opening_hours: Mo-We 09:00-18:00; Th-Sa 09:00-21:00; Su 10:00-18:00
+website: https://www.facebook.com/grandprixplates/

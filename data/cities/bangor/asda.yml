@@ -1,11 +1,11 @@
 id: 673992089
-type: way
+type: node
 latitude: 54.66034
 longitude: -5.6683
-postcode: "BT20 4SD"
+postcode: BT20 4SD
 city: Bangor
-street: "Market Lane"
-housenumber: 2
+street: Market Lane
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 13:00-18:00"
-website: "https://storelocator.asda.com/northern-ireland/bangor/89-105-main-st"
+opening_hours: Mo-Sa 08:00-22:00; Su 13:00-18:00
+website: https://storelocator.asda.com/northern-ireland/bangor/89-105-main-st

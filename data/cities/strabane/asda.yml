@@ -1,11 +1,11 @@
 id: 264202975
-type: way
+type: node
 latitude: 54.83096
 longitude: -7.46914
-postcode: "BT82 8EW"
+postcode: BT82 8EW
 city: Strabane
-street: "Branch Road"
-housenumber: 2
+street: Branch Road
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 08:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 13:00-18:00"
-website: "https://storelocator.asda.com/northern-ireland/strabane/2-branch-road"
+opening_hours: Mo 08:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 13:00-18:00
+website: https://storelocator.asda.com/northern-ireland/strabane/2-branch-road

@@ -1,11 +1,11 @@
 id: 93494675
-type: way
+type: node
 latitude: 52.34271
 longitude: -6.46406
-postcode: "Y35 CD60"
+postcode: Y35 CD60
 city: Wexford
-street: "Redmond Place"
-housenumber: 
-phone: "+353 53 912 2433"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-17:00"
-website: "https://bestdrive.ie/branches/wexford/"
+street: Redmond Place
+housenumber: ""
+phone: +353 53 912 2433
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-17:00
+website: https://bestdrive.ie/branches/wexford/

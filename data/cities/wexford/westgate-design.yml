@@ -1,11 +1,11 @@
 id: 854973891
-type: way
+type: node
 latitude: 52.33912
 longitude: -6.46118
 postcode: ""
 city: Wexford
-street: "North Main Street"
-housenumber: 22
+street: North Main Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://westgatedesign.ie/"
+website: https://westgatedesign.ie/

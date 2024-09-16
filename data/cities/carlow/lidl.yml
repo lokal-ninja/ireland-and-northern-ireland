@@ -1,11 +1,11 @@
 id: 389983471
-type: way
+type: node
 latitude: 52.83348
 longitude: -6.91117
 postcode: ""
 city: Carlow
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-21:00"
-website: "https://www.lidl.ie/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-21:00
+website: https://www.lidl.ie/

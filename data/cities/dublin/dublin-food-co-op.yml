@@ -4,8 +4,9 @@ latitude: 53.34237
 longitude: -6.31019
 postcode: ""
 city: Dublin
-street: "Inchicore Road"
-housenumber: 
-phone: "+353 1 45 44 258"
-opening_hours: "Mo-Fr 08:00-19:00, Sa-Su 09:00-18:00 || PH 09:00-18:00 Bank Holiday Mondays"
-website: "https://www.dublinfood.coop/"
+street: Inchicore Road
+housenumber: ""
+phone: +353 1 45 44 258
+opening_hours: Mo-Fr 08:00-19:00, Sa-Su 09:00-18:00 || PH 09:00-18:00 "Bank Holiday
+    Mondays"
+website: https://www.dublinfood.coop/

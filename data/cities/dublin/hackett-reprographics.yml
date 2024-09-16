@@ -1,11 +1,11 @@
 id: 233248399
-type: way
+type: node
 latitude: 53.33778
 longitude: -6.25145
 postcode: ""
 city: Dublin
-street: "Baggot Street Lower"
-housenumber: 17
+street: Baggot Street Lower
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 852547146
-type: way
+type: node
 latitude: 53.51281
 longitude: -6.53903
 postcode: ""
 city: Dunshaughlin
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.aldi.ie/"
+website: https://www.aldi.ie/

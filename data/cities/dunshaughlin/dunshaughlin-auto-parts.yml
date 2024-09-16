@@ -4,8 +4,8 @@ latitude: 53.51372
 longitude: -6.54113
 postcode: ""
 city: Dunshaughlin
-street: "Main Street"
-housenumber: 1
+street: Main Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.dunshaughlinautoparts.com/"
+website: http://www.dunshaughlinautoparts.com/

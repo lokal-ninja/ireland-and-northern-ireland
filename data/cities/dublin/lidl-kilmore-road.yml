@@ -1,11 +1,11 @@
 id: 209438400
-type: way
+type: node
 latitude: 53.3858
 longitude: -6.2137
 postcode: ""
 city: Dublin
-street: "Kilmore Road"
-housenumber: 
+street: Kilmore Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.ie/"
+website: https://www.lidl.ie/

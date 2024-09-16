@@ -4,8 +4,9 @@ latitude: 53.28994
 longitude: -6.13085
 postcode: ""
 city: Dún Laoghaire
-street: "Georges Street Upper"
-housenumber: 52
-phone: "+353-1-214-0066"
-opening_hours: "Mo-Tu 10:00-19:00; We 10:00-19:30; Th 10:00-20:00; Fr 10:00-19:30; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://newyorkinails.com/"
+street: Georges Street Upper
+housenumber: "52"
+phone: +353-1-214-0066
+opening_hours: Mo-Tu 10:00-19:00; We 10:00-19:30; Th 10:00-20:00; Fr 10:00-19:30;
+    Sa 10:00-19:00; Su 11:00-18:00
+website: https://newyorkinails.com/

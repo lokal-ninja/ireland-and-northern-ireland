@@ -1,11 +1,11 @@
 id: 1072364155
-type: way
+type: node
 latitude: 54.41224
 longitude: -6.4555
-postcode: "BT62 3DN"
+postcode: BT62 3DN
 city: Portadown
-street: "Armagh Road"
-housenumber: 103
+street: Armagh Road
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

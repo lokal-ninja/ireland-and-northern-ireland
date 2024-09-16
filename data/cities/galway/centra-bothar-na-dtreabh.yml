@@ -1,11 +1,11 @@
 id: 753792912
-type: way
+type: node
 latitude: 53.29021
 longitude: -9.00681
 postcode: ""
 city: Galway
-street: "Bóthar Na dTreabh"
-housenumber: 
+street: Bóthar Na dTreabh
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://centra.ie/locate/connacht/galway/ballybrit"
+opening_hours: 24/7
+website: https://centra.ie/locate/connacht/galway/ballybrit

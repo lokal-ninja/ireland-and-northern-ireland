@@ -1,11 +1,11 @@
 id: 780648470
-type: way
+type: node
 latitude: 55.02663
 longitude: -7.17864
-postcode: "BT47 3AA"
+postcode: BT47 3AA
 city: Eglinton
-street: "Main Street"
-housenumber: 7
+street: Main Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

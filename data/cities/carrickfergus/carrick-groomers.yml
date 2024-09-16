@@ -1,11 +1,11 @@
 id: 1230135951
-type: way
+type: node
 latitude: 54.71738
 longitude: -5.81873
-postcode: "BT38 8AZ"
+postcode: BT38 8AZ
 city: Carrickfergus
-street: "Ellis Street"
-housenumber: 101
+street: Ellis Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

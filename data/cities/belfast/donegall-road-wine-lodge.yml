@@ -1,11 +1,11 @@
 id: 1250759927
-type: way
+type: node
 latitude: 54.58861
 longitude: -5.94488
 postcode: ""
 city: Belfast
-street: "Donegall Road"
-housenumber: 192
+street: Donegall Road
+housenumber: "192"
 phone: ""
 opening_hours: ""
 website: ""

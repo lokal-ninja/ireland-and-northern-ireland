@@ -4,8 +4,8 @@ latitude: 53.34656
 longitude: -6.27939
 postcode: ""
 city: Dublin
-street: "Arran Quay"
-housenumber: 37
-phone: "+353 1 872 3108"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-19:00"
-website: "https://www.paxad.ie/mrtubs"
+street: Arran Quay
+housenumber: "37"
+phone: +353 1 872 3108
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-19:00
+website: https://www.paxad.ie/mrtubs

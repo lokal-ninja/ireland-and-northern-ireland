@@ -1,11 +1,11 @@
 id: 660343261
-type: way
+type: node
 latitude: 53.34657
 longitude: -6.26436
 postcode: ""
 city: Dublin
-street: "Ormond Quay Lower"
-housenumber: 31
+street: Ormond Quay Lower
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://cycleways.com/"
+website: https://cycleways.com/

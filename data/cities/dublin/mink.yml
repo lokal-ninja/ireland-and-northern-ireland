@@ -4,8 +4,8 @@ latitude: 53.32147
 longitude: -6.23536
 postcode: ""
 city: Dublin
-street: "Donnybrook Road"
-housenumber: 45
+street: Donnybrook Road
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-We 10:00-20:00, Th-Fr 10:00-21:00, Sa 09:00-18:00"
-website: "https://www.mink.ie/"
+opening_hours: Mo-We 10:00-20:00, Th-Fr 10:00-21:00, Sa 09:00-18:00
+website: https://www.mink.ie/

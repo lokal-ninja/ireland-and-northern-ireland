@@ -1,11 +1,11 @@
 id: 230479379
-type: way
+type: node
 latitude: 53.34063
 longitude: -6.26065
 postcode: ""
 city: Dublin
-street: "Grafton Street"
-housenumber: 42
+street: Grafton Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://www.tedbaker.com/ie/stores/DUBLIN---TED-BAKER/70076?country=IE"
+website: https://www.tedbaker.com/ie/stores/DUBLIN---TED-BAKER/70076?country=IE

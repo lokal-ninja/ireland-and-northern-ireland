@@ -1,11 +1,11 @@
 id: 301007195
-type: way
+type: node
 latitude: 53.34897
 longitude: -6.26027
 postcode: ""
 city: Dublin
-street: "O'Connell Street Lower"
-housenumber: 39
-phone: "+353-1-656-6666"
-opening_hours: "Mo-We 08:30-20:00; Th-Fr 08:30-21:00; Sa 08:30-19:00; Su 10:30-19:00"
-website: "https://www.primark.com/en-ie/stores/dublin/39-oconnell-street"
+street: O'Connell Street Lower
+housenumber: "39"
+phone: +353-1-656-6666
+opening_hours: Mo-We 08:30-20:00; Th-Fr 08:30-21:00; Sa 08:30-19:00; Su 10:30-19:00
+website: https://www.primark.com/en-ie/stores/dublin/39-oconnell-street

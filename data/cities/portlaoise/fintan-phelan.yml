@@ -1,11 +1,11 @@
 id: 152275590
-type: way
+type: node
 latitude: 53.03378
 longitude: -7.30152
-postcode: "R32 A024"
+postcode: R32 A024
 city: Portlaoise
-street: "Market Square"
-housenumber: 14
+street: Market Square
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

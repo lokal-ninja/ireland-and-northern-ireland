@@ -2,10 +2,10 @@ id: 7468490560
 type: node
 latitude: 54.59837
 longitude: -5.92638
-postcode: "BT1 4QG"
+postcode: BT1 4QG
 city: Belfast
-street: "Victoria Square"
-housenumber: 171
+street: Victoria Square
+housenumber: "171"
 phone: ""
 opening_hours: ""
 website: ""

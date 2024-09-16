@@ -1,11 +1,11 @@
 id: 877290972
-type: way
+type: node
 latitude: 53.29172
 longitude: -6.32151
 postcode: ""
 city: Dublin
-street: "Tallaght Road"
-housenumber: 
-phone: "+353-1- 5346727"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://wbsireland.ie/"
+street: Tallaght Road
+housenumber: ""
+phone: +353-1- 5346727
+opening_hours: Mo-Sa 09:00-17:00
+website: https://wbsireland.ie/

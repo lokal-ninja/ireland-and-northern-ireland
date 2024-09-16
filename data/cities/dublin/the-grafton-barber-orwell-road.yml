@@ -4,8 +4,9 @@ latitude: 53.31157
 longitude: -6.27455
 postcode: ""
 city: Dublin
-street: "Orwell Road"
+street: Orwell Road
 housenumber: 10a
 phone: ""
-opening_hours: "Mo-We 09:30-18:30; Th 09:30-19:30; Fr 09:30-19:00; Sa 09:00-18:00; PH,Su off"
+opening_hours: Mo-We 09:30-18:30; Th 09:30-19:30; Fr 09:30-19:00; Sa 09:00-18:00;
+    PH,Su off
 website: ""

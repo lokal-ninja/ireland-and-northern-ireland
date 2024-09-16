@@ -1,11 +1,11 @@
 id: 741013951
-type: way
+type: node
 latitude: 53.36212
 longitude: -6.25937
 postcode: ""
 city: Dublin
-street: "Drumcondra Road Lower"
-housenumber: 6
+street: Drumcondra Road Lower
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

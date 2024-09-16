@@ -1,11 +1,11 @@
 id: 541678616
-type: way
+type: node
 latitude: 51.75003
 longitude: -9.54895
 postcode: ""
 city: Glengarriff
-street: "Main Street"
-housenumber: 
-phone: "+353 27 63488"
+street: Main Street
+housenumber: ""
+phone: +353 27 63488
 opening_hours: ""
-website: "https://www.glengarriff.org/quills"
+website: https://www.glengarriff.org/quills

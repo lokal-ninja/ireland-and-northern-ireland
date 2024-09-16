@@ -1,11 +1,11 @@
 id: 445174995
-type: way
+type: node
 latitude: 53.33898
 longitude: -6.30026
 postcode: ""
 city: Dublin
-street: "South Circular Road"
-housenumber: 578
+street: South Circular Road
+housenumber: "578"
 phone: ""
 opening_hours: ""
 website: ""

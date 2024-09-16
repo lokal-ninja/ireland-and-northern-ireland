@@ -1,11 +1,11 @@
 id: 526607517
-type: way
+type: node
 latitude: 53.39764
 longitude: -6.2466
 postcode: ""
 city: Dublin
-street: "Santry Avenue"
-housenumber: 
-phone: "+353-1-8425299"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00, Sa 09:00-13:00"
-website: "https://www.heitonbuckley.ie/"
+street: Santry Avenue
+housenumber: ""
+phone: +353-1-8425299
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00, Sa 09:00-13:00
+website: https://www.heitonbuckley.ie/

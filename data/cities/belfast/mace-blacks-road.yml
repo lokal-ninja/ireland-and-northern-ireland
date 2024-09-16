@@ -1,11 +1,11 @@
 id: 516603521
-type: way
+type: node
 latitude: 54.56389
 longitude: -6.00231
-postcode: "BT10 0NF"
+postcode: BT10 0NF
 city: Belfast
-street: "Blacks Road"
-housenumber: 120
+street: Blacks Road
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

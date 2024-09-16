@@ -1,11 +1,11 @@
 id: 273647939
-type: way
+type: node
 latitude: 53.34253
 longitude: -6.26236
 postcode: ""
 city: Dublin
-street: "William Street South"
-housenumber: 11
+street: William Street South
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

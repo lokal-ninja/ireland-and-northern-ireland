@@ -1,11 +1,11 @@
 id: 971275799
-type: way
+type: node
 latitude: 53.36708
 longitude: -6.29273
 postcode: ""
 city: Dublin
-street: "Fassaugh Avenue"
-housenumber: 24
+street: Fassaugh Avenue
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

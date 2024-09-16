@@ -4,8 +4,8 @@ latitude: 53.32294
 longitude: -6.29524
 postcode: ""
 city: Dublin
-street: "Sundrive Road"
-housenumber: 108
-phone: "+353 1 4925977"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-14:00"
-website: "http://www.cambridgemotorco.ie/"
+street: Sundrive Road
+housenumber: "108"
+phone: +353 1 4925977
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-14:00
+website: http://www.cambridgemotorco.ie/

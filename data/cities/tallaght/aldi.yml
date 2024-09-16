@@ -5,7 +5,7 @@ longitude: -6.37706
 postcode: ""
 city: Tallaght
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; PH,Su 09:00-21:00"
-website: "https://www.aldi.ie/"
+opening_hours: Mo-Sa 09:00-22:00; PH,Su 09:00-21:00
+website: https://www.aldi.ie/

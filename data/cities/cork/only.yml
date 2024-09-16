@@ -4,8 +4,8 @@ latitude: 51.89902
 longitude: -8.47273
 postcode: ""
 city: Cork
-street: "Opera Lane"
-housenumber: 3
+street: Opera Lane
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://only.com/"
+website: http://only.com/

@@ -4,8 +4,8 @@ latitude: 53.27296
 longitude: -9.05248
 postcode: ""
 city: Galway
-street: "Shop Street"
-housenumber: 37
+street: Shop Street
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-We,Sa 09:30-18:00; Th-Fr 09:30-19:00; Su,PH 12:00-18:00"
-website: "https://ie.ecco.com/en-IE"
+opening_hours: Mo-We,Sa 09:30-18:00; Th-Fr 09:30-19:00; Su,PH 12:00-18:00
+website: https://ie.ecco.com/en-IE

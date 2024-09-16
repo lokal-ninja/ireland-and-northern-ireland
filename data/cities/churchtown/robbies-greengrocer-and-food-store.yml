@@ -1,11 +1,11 @@
 id: 1010338883
-type: way
+type: node
 latitude: 53.29521
 longitude: -6.25948
-postcode: "D14 KH93"
+postcode: D14 KH93
 city: Churchtown
-street: "Churchtown Road Upper"
-housenumber: 92
+street: Churchtown Road Upper
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

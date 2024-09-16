@@ -4,8 +4,9 @@ latitude: 53.2822
 longitude: -9.032
 postcode: ""
 city: Galway
-street: "Wellpark Retail Centre"
-housenumber: 9
-phone: "+353 91 730 684"
-opening_hours: "Mo-We 09:30-18:00; Th 09:30-20:00; Fr 09:30-19:00; Sa 10:00-18:00; Su 12:00-18:00"
-website: "https://www.homefocus.ie/"
+street: Wellpark Retail Centre
+housenumber: "9"
+phone: +353 91 730 684
+opening_hours: Mo-We 09:30-18:00; Th 09:30-20:00; Fr 09:30-19:00; Sa 10:00-18:00;
+    Su 12:00-18:00
+website: https://www.homefocus.ie/

@@ -1,11 +1,11 @@
 id: 291640262
-type: way
+type: node
 latitude: 53.36953
 longitude: -6.25426
 postcode: ""
 city: Dublin
-street: "Drumcondra Road Upper"
-housenumber: 
+street: Drumcondra Road Upper
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/"
+website: https://www.tesco.ie/

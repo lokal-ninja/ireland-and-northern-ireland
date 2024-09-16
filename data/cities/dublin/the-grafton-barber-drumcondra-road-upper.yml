@@ -1,11 +1,11 @@
 id: 679933312
-type: way
+type: node
 latitude: 53.3721
 longitude: -6.25268
 postcode: ""
 city: Dublin
-street: "Drumcondra Road Upper"
-housenumber: 102
-phone: "+353 1 857 6766"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su closed"
-website: "https://graftonbarbers.com/drumcondra/"
+street: Drumcondra Road Upper
+housenumber: "102"
+phone: +353 1 857 6766
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su closed
+website: https://graftonbarbers.com/drumcondra/

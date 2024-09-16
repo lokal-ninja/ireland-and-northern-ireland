@@ -1,11 +1,11 @@
 id: 1137576105
-type: way
+type: node
 latitude: 54.67118
 longitude: -5.984
-postcode: "BT36 4GX"
+postcode: BT36 4GX
 city: Newtownabbey
-street: "Mayfield Link"
-housenumber: 10
+street: Mayfield Link
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

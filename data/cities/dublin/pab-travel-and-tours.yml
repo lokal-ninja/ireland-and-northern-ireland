@@ -1,11 +1,11 @@
 id: 250501872
-type: way
+type: node
 latitude: 53.348
 longitude: -6.26244
 postcode: ""
 city: Dublin
-street: "Middle Abbey Street"
-housenumber: 53
-phone: "+353 1 8719819"
+street: Middle Abbey Street
+housenumber: "53"
+phone: +353 1 8719819
 opening_hours: ""
-website: "https://www.pabtours.com/"
+website: https://www.pabtours.com/

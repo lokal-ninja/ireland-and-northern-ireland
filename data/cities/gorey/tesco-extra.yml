@@ -1,11 +1,11 @@
 id: 256318560
-type: way
+type: node
 latitude: 52.67289
 longitude: -6.30135
 postcode: ""
 city: Gorey
-street: "Paul Funge Boulevard"
-housenumber: 
+street: Paul Funge Boulevard
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 08:00-22:00"
-website: "https://www.tesco.ie/store-locator/gorey/ramstown-lower"
+opening_hours: Mo-Sa 07:00-23:00; Su 08:00-22:00
+website: https://www.tesco.ie/store-locator/gorey/ramstown-lower

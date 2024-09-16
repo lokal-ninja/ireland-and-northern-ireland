@@ -1,11 +1,11 @@
 id: 178495636
-type: way
+type: node
 latitude: 52.26991
 longitude: -6.3974
 postcode: ""
 city: Wexford
-street: "Grange Road"
-housenumber: 
+street: Grange Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.londis.ie/"
+website: https://www.londis.ie/

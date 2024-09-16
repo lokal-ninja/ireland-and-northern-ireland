@@ -1,11 +1,11 @@
 id: 177806548
-type: way
+type: node
 latitude: 52.65094
 longitude: -7.2526
 postcode: ""
 city: Kilkenny
-street: "High Street"
-housenumber: 9
+street: High Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://www.manningtravel.ie/"
+website: http://www.manningtravel.ie/

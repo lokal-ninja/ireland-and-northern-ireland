@@ -1,11 +1,11 @@
 id: 594580720
-type: way
+type: node
 latitude: 55.02933
 longitude: -6.36778
-postcode: "BT44 9AY"
+postcode: BT44 9AY
 city: Dunloy
-street: "Lisboy Road"
-housenumber: 123
+street: Lisboy Road
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

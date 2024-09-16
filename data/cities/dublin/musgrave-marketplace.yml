@@ -1,11 +1,11 @@
 id: 42508037
-type: way
+type: node
 latitude: 53.40446
 longitude: -6.27075
 postcode: ""
 city: Dublin
-street: "Ballymun Industrial Estate"
-housenumber: 
+street: Ballymun Industrial Estate
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.musgravemarketplace.ie/"
+website: https://www.musgravemarketplace.ie/

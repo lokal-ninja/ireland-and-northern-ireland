@@ -1,11 +1,11 @@
 id: 70749450
-type: way
+type: node
 latitude: 53.29938
 longitude: -6.2089
 postcode: ""
 city: Mount Merrion
-street: "The Rise"
-housenumber: 25
+street: The Rise
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

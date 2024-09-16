@@ -1,11 +1,11 @@
 id: 1115510809
-type: way
+type: node
 latitude: 54.25695
 longitude: -5.84664
 postcode: ""
 city: Dundrum
-street: "Main Street"
-housenumber: 165
+street: Main Street
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

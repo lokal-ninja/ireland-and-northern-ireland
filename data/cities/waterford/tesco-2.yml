@@ -1,11 +1,11 @@
 id: 42744352
-type: way
+type: node
 latitude: 52.25444
 longitude: -7.11198
 postcode: ""
 city: Waterford
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/store-locator/waterford/bath-street"
+website: https://www.tesco.ie/store-locator/waterford/bath-street

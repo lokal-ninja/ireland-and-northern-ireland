@@ -1,11 +1,11 @@
 id: 210976323
-type: way
+type: node
 latitude: 52.38742
 longitude: -9.29824
 postcode: ""
 city: Abbeyfeale
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/"
+website: https://www.tesco.ie/

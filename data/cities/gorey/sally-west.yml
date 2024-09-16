@@ -4,8 +4,8 @@ latitude: 52.67547
 longitude: -6.29576
 postcode: ""
 city: Gorey
-street: "Main Street"
-housenumber: 42
+street: Main Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://sallywest.ie/"
+website: https://sallywest.ie/

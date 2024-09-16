@@ -1,11 +1,11 @@
 id: 696901428
-type: way
+type: node
 latitude: 53.34984
 longitude: -6.25819
 postcode: ""
 city: Dublin
-street: "Marlborough Street"
-housenumber: 93
-phone: "+353-1-5378666"
+street: Marlborough Street
+housenumber: "93"
+phone: +353-1-5378666
 opening_hours: ""
-website: "http://www.skylinetravel.ie/"
+website: http://www.skylinetravel.ie/

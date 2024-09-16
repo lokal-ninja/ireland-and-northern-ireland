@@ -1,11 +1,11 @@
 id: 454534560
-type: way
+type: node
 latitude: 51.54877
 longitude: -9.26655
-postcode: "P81 HH64"
+postcode: P81 HH64
 city: Skibbereen
-street: "Main Street"
-housenumber: 27
+street: Main Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

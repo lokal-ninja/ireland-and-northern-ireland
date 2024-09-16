@@ -1,11 +1,11 @@
 id: 669511218
-type: way
+type: node
 latitude: 54.60458
 longitude: -5.92596
-postcode: "BT1 2NX"
+postcode: BT1 2NX
 city: Belfast
-street: "Great Patrick Street"
-housenumber: 
-phone: "+44 28 9023 5791"
-opening_hours: "Mo-We 09:00-17:00; Th 09:00-19:30; Fr 09:00-15:45; Sa 09:00-14:00"
-website: "https://www.beggsandpartners.com/"
+street: Great Patrick Street
+housenumber: ""
+phone: +44 28 9023 5791
+opening_hours: Mo-We 09:00-17:00; Th 09:00-19:30; Fr 09:00-15:45; Sa 09:00-14:00
+website: https://www.beggsandpartners.com/

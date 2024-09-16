@@ -4,8 +4,8 @@ latitude: 53.29475
 longitude: -6.14206
 postcode: ""
 city: Dún Laoghaire
-street: "George's Street Lower"
-housenumber: 4
-phone: "+353 1 284 5566"
-opening_hours: "Mo-Th 12:00-02:00; Fr-Sa 12:00-03:00; Su 12:00-01:00"
-website: "https://www.pizzamax.ie/"
+street: George's Street Lower
+housenumber: "4"
+phone: +353 1 284 5566
+opening_hours: Mo-Th 12:00-02:00; Fr-Sa 12:00-03:00; Su 12:00-01:00
+website: https://www.pizzamax.ie/

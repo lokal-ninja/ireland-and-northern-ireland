@@ -1,11 +1,11 @@
 id: 829104802
-type: way
+type: node
 latitude: 52.47388
 longitude: -8.16077
-postcode: "E34 W240"
+postcode: E34 W240
 city: Tipperary
-street: "Main Street"
-housenumber: 72
-phone: "+353 (0)62 51 252"
-opening_hours: "Mo-Sa 09:00-18:00; PH off"
-website: "https://www.orahellysports.ie/"
+street: Main Street
+housenumber: "72"
+phone: +353 (0)62 51 252
+opening_hours: Mo-Sa 09:00-18:00; PH off
+website: https://www.orahellysports.ie/

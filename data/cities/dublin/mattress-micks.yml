@@ -1,11 +1,11 @@
 id: 394989724
-type: way
+type: node
 latitude: 53.34343
 longitude: -6.24527
 postcode: ""
 city: Dublin
-street: "Pearse Street"
-housenumber: 73
+street: Pearse Street
+housenumber: "73"
 phone: ""
 opening_hours: ""
-website: "https://www.mattressmick.ie/"
+website: https://www.mattressmick.ie/

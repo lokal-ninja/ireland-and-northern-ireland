@@ -4,8 +4,9 @@ latitude: 53.33346
 longitude: -6.26433
 postcode: ""
 city: Dublin
-street: "Charlotte Way"
-housenumber: 
-phone: "+353 1 4763808"
-opening_hours: "Tu 10:00-19:00, We 08:00-19:00, Th 08:00-21:00, Fr 08:00-19:00, Sa 09:00-17:00, Su 11:00-17:00"
-website: "https://moyo.ie/"
+street: Charlotte Way
+housenumber: ""
+phone: +353 1 4763808
+opening_hours: Tu 10:00-19:00, We 08:00-19:00, Th 08:00-21:00, Fr 08:00-19:00, Sa
+    09:00-17:00, Su 11:00-17:00
+website: https://moyo.ie/

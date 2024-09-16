@@ -1,11 +1,11 @@
 id: 190493265
-type: way
+type: node
 latitude: 52.80055
 longitude: -6.73782
 postcode: ""
 city: Tullow
-street: "Abbey Street"
-housenumber: 
+street: Abbey Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/"
+website: https://www.tesco.ie/

@@ -1,11 +1,11 @@
 id: 620545681
-type: way
+type: node
 latitude: 54.58883
 longitude: -5.69116
-postcode: "BT23 4XE"
+postcode: BT23 4XE
 city: Newtownards
-street: "Castlebawn Drive"
-housenumber: 5
+street: Castlebawn Drive
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

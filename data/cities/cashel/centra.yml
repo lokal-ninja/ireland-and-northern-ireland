@@ -1,11 +1,11 @@
 id: 898180802
-type: way
+type: node
 latitude: 52.51371
 longitude: -7.88749
 postcode: ""
 city: Cashel
-street: "The Green"
-housenumber: 
+street: The Green
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://centra.ie/locate/munster/tipperary/cashel"
+website: https://centra.ie/locate/munster/tipperary/cashel

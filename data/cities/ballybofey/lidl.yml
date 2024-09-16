@@ -1,11 +1,11 @@
 id: 180477682
-type: way
+type: node
 latitude: 54.79788
 longitude: -7.78435
 postcode: ""
 city: Ballybofey
-street: "Donegal Road"
-housenumber: 
+street: Donegal Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 8:00-21:00, Su 09:30-19:00"
-website: "https://www.lidl.ie/"
+opening_hours: Mo-Sa 8:00-21:00, Su 09:30-19:00
+website: https://www.lidl.ie/

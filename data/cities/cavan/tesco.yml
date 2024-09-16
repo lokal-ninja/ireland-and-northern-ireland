@@ -1,11 +1,11 @@
 id: 149931278
-type: way
+type: node
 latitude: 53.99092
 longitude: -7.35905
 postcode: ""
 city: Cavan
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.ie/"
+website: https://www.tesco.ie/

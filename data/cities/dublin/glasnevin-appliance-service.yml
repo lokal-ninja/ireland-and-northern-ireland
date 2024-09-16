@@ -1,11 +1,11 @@
 id: 818086243
-type: way
+type: node
 latitude: 53.37941
 longitude: -6.26575
-postcode: "D09 A9P5"
+postcode: D09 A9P5
 city: Dublin
-street: "Saint Mobhi Road"
-housenumber: 3
-phone: "+353 1 857 0221"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-15:00; PH off"
-website: "https://www.glasnevinappliances.ie/"
+street: Saint Mobhi Road
+housenumber: "3"
+phone: +353 1 857 0221
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-15:00; PH off
+website: https://www.glasnevinappliances.ie/

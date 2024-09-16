@@ -4,8 +4,8 @@ latitude: 53.39739
 longitude: -6.29494
 postcode: ""
 city: Dublin
-street: "Finglas Business Centre"
-housenumber: 50
-phone: "+353 1 8640700"
-opening_hours: "by appointment"
-website: "https://www.dresscode.ie/"
+street: Finglas Business Centre
+housenumber: "50"
+phone: +353 1 8640700
+opening_hours: '"by appointment"'
+website: https://www.dresscode.ie/

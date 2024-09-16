@@ -4,8 +4,9 @@ latitude: 53.34295
 longitude: -6.26165
 postcode: ""
 city: Dublin
-street: "Wicklow Street"
-housenumber: 26
+street: Wicklow Street
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-We 10:00-19:00; Th 10:00-20:00; Fr 10:00-19:00; Sa 09:30-19:00; Su 12:00-18:00"
-website: "https://www.sizeofficial.ie/store-locator/dublin/251/"
+opening_hours: Mo-We 10:00-19:00; Th 10:00-20:00; Fr 10:00-19:00; Sa 09:30-19:00;
+    Su 12:00-18:00
+website: https://www.sizeofficial.ie/store-locator/dublin/251/

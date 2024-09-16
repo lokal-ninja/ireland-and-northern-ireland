@@ -4,8 +4,8 @@ latitude: 51.90129
 longitude: -8.47005
 postcode: ""
 city: Cork
-street: "Bridge Street"
-housenumber: 5
+street: Bridge Street
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su,PH 12:00-18:00"
-website: "https://unbound.ie"
+opening_hours: Mo-Sa 10:00-18:00; Su,PH 12:00-18:00
+website: https://unbound.ie

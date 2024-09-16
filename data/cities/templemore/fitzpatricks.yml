@@ -4,8 +4,8 @@ latitude: 52.79734
 longitude: -7.83253
 postcode: ""
 city: Templemore
-street: "Main Street"
-housenumber: 86
-phone: "+353-504-31555"
-opening_hours: "07:00-22:00"
+street: Main Street
+housenumber: "86"
+phone: +353-504-31555
+opening_hours: 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 178410505
-type: way
+type: node
 latitude: 52.86287
 longitude: -8.19206
 postcode: ""
 city: Nenagh
-street: "Dublin Road"
-housenumber: 
+street: Dublin Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We,Sa 09:00-19:00; Th,Fr 09:00-21:00; Su 10:00-19:00"
-website: "https://www.homesavers.ie/store-locations/1024-nenagh-tipperary"
+opening_hours: Mo-We,Sa 09:00-19:00; Th,Fr 09:00-21:00; Su 10:00-19:00
+website: https://www.homesavers.ie/store-locations/1024-nenagh-tipperary

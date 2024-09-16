@@ -2,10 +2,11 @@ id: 11387440043
 type: node
 latitude: 53.28638
 longitude: -6.24113
-postcode: "D16 XN22"
+postcode: D16 XN22
 city: Dundrum
-street: "Sandyford Road"
+street: Sandyford Road
 housenumber: Unit 4-6 Level 4
 phone: "012157958"
-opening_hours: "We-Fr 09:00-21:00; Tu 09:00-20:00; Mo 09:00-19:00; Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://edvardandpink.ie/"
+opening_hours: We-Fr 09:00-21:00; Tu 09:00-20:00; Mo 09:00-19:00; Sa 09:00-18:00;
+    Su 11:00-17:00
+website: https://edvardandpink.ie/

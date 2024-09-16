@@ -1,11 +1,11 @@
 id: 244989696
-type: way
+type: node
 latitude: 53.34489
 longitude: -6.25269
 postcode: ""
 city: Dublin
-street: "Pearse Street"
-housenumber: 34
+street: Pearse Street
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.sweeneyorourke.com/"
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.sweeneyorourke.com/

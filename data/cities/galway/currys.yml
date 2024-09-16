@@ -1,11 +1,11 @@
 id: 78474068
-type: way
+type: node
 latitude: 53.28166
 longitude: -9.04964
 postcode: ""
 city: Galway
-street: "Headford Road"
-housenumber: 
+street: Headford Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.currys.ie/"
+website: https://www.currys.ie/
