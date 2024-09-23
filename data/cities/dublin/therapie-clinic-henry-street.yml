@@ -6,6 +6,7 @@ postcode: ""
 city: Dublin
 street: Henry Street
 housenumber: ""
-phone: ""
-opening_hours: ""
-website: ""
+phone: +353 1 912 8115
+opening_hours: Mo-We 10:00-20:00; Th 10:00-21:00; Fr 10:00-20:00; Sa 09:00-18:00;
+    Su closed
+website: https://therapieclinic.com/locations/henry-street

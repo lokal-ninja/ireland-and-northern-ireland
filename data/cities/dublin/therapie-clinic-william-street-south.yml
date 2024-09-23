@@ -6,6 +6,7 @@ postcode: ""
 city: Dublin
 street: William Street South
 housenumber: ""
-phone: ""
-opening_hours: ""
-website: https://www.therapieclinic.com/our-clinics/dublin/south-william-street/
+phone: +353 1 223 8712
+opening_hours: Mo 10:00-21:00; Tu 10:00-18:00; We 10:00-20:00; Th 09:00-20:00; Fr
+    10:00-19:00; Sa 09:00-18:00; Su closed
+website: https://therapieclinic.com/locations/south-william-street
