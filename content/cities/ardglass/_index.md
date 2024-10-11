@@ -1,6 +1,6 @@
 ---
 title: Ardglass
 url: /ardglass/
-latitude: 54.263
-longitude: -5.61
+latitude: 54.262
+longitude: -5.608
 ---
