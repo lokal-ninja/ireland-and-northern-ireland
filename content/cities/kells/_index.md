@@ -1,6 +1,6 @@
 ---
 title: Kells
 url: /kells/
-latitude: 53.729
-longitude: -6.883
+latitude: 53.727
+longitude: -6.878
 ---
