@@ -1,6 +1,6 @@
 ---
 title: Clough
 url: /clough/
-latitude: 54.293
-longitude: -5.837
+latitude: 52.643
+longitude: -6.342
 ---
