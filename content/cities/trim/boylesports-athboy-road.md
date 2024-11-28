@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
-url: /trim/boylesports-2/
+url: /trim/boylesports-athboy-road/
 shop: bookmaker
 ---
