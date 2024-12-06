@@ -1,5 +1,5 @@
 ---
 title: "Golf Shop"
-url: /corballis-donabate/golf-shop/
+url: /donabate/golf-shop/
 shop: sports
 ---

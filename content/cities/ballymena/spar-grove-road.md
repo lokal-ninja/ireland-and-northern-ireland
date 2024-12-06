@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /ballymena/spar-doury-road/
+url: /ballymena/spar-grove-road/
 shop: convenience
 ---

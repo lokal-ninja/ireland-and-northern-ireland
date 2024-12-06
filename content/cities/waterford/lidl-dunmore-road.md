@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /waterford/lidl-tramore-road/
+url: /waterford/lidl-dunmore-road/
 shop: supermarket
 ---
