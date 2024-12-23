@@ -1,6 +1,6 @@
 ---
 title: Maynooth
 url: /maynooth/
-latitude: 53.374
-longitude: -6.588
+latitude: 53.381
+longitude: -6.593
 ---
