@@ -1,6 +1,6 @@
 ---
 title: Donabate
 url: /donabate/
-latitude: 53.487
-longitude: -6.149
+latitude: 53.484
+longitude: -6.154
 ---

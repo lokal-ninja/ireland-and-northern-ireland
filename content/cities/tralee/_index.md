@@ -1,6 +1,6 @@
 ---
 title: Tralee
 url: /tralee/
-latitude: 52.269
-longitude: -9.71
+latitude: 52.265
+longitude: -9.68
 ---
