@@ -1,6 +1,6 @@
 ---
 title: Antrim
 url: /antrim/
-latitude: 54.713
-longitude: -6.212
+latitude: 54.724
+longitude: -6.231
 ---

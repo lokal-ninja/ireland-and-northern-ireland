@@ -1,5 +1,5 @@
 ---
 title: "Oakberry"
 url: /blackrock/oakberry/
-shop: shop
+shop: ice cream
 ---
