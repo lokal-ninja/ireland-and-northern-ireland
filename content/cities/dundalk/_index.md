@@ -1,6 +1,6 @@
 ---
 title: Dundalk
 url: /dundalk/
-latitude: 53.99
-longitude: -6.378
+latitude: 53.996
+longitude: -6.396
 ---
