@@ -1,5 +1,5 @@
 ---
 title: "Constantia"
 url: /dunboyne/constantia/
-shop: shop
+shop: gift
 ---
