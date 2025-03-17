@@ -1,11 +1,12 @@
 id: 1678139122
 type: node
-latitude: 53.72673
-longitude: -6.39059
+latitude: 53.7267
+longitude: -6.3902
 postcode: ""
 city: Drogheda
 street: M1 Retail Park
 housenumber: ""
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 09:00-18:00; Su 11:00-18:00;
+    PH 10:00-18:00
 website: ""

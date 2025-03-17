@@ -1,6 +1,6 @@
 ---
 title: Gweedore
 url: /gweedore/
-latitude: 55.061
-longitude: -8.301
+latitude: 55.064
+longitude: -8.3
 ---
