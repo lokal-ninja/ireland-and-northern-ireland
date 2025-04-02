@@ -1,6 +1,6 @@
 ---
 title: Mountmellick
 url: /mountmellick/
-latitude: 53.114
-longitude: -7.321
+latitude: 53.117
+longitude: -7.325
 ---
