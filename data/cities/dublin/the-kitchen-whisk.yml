@@ -7,5 +7,6 @@ city: Dublin
 street: Wicklow Street
 housenumber: ""
 phone: ""
-opening_hours: ""
+opening_hours: Mo-We 09:30-18:30; Th 09:30-20:00; Fr 09:30-19:00; Sa 09:30-19:00;
+    Su 11:00-18:00
 website: https://www.thekitchenwhisk.ie/
