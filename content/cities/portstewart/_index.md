@@ -1,6 +1,6 @@
 ---
 title: Portstewart
 url: /portstewart/
-latitude: 55.175
-longitude: -6.69
+latitude: 55.185
+longitude: -6.719
 ---
