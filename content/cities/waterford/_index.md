@@ -1,6 +1,6 @@
 ---
 title: Waterford
 url: /waterford/
-latitude: 52.252
-longitude: -7.117
+latitude: 52.231
+longitude: -7.141
 ---
