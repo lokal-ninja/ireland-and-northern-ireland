@@ -1,6 +1,6 @@
 ---
 title: Roundstone
 url: /roundstone/
-latitude: 53.396
-longitude: -9.919
+latitude: 53.392
+longitude: -9.916
 ---

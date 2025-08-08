@@ -2,5 +2,5 @@
 title: Delgany
 url: /delgany/
 latitude: 53.133
-longitude: -6.091
+longitude: -6.092
 ---

@@ -1,5 +1,5 @@
 ---
-title: "TirLán Garden Centre"
+title: "Tirlán Garden Centre"
 url: /castlelyons/tirlan-garden-centre/
 shop: garden centre
 ---
