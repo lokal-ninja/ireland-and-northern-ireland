@@ -1,6 +1,6 @@
 ---
-title: Birdhill,
+title: Birdhill
 url: /birdhill/
-latitude: 52.775
-longitude: -8.43
+latitude: 52.758
+longitude: -8.409
 ---

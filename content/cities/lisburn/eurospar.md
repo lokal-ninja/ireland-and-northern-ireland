@@ -1,5 +1,5 @@
 ---
 title: "Eurospar"
 url: /lisburn/eurospar/
-shop: supermarket
+shop: convenience
 ---
