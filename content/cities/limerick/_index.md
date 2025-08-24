@@ -1,6 +1,6 @@
 ---
 title: Limerick
 url: /limerick/
-latitude: 52.641
-longitude: -8.646
+latitude: 52.664
+longitude: -8.629
 ---
