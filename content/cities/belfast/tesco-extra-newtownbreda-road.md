@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
-url: /belfast/tesco-extra-knocknagoney-road/
+url: /belfast/tesco-extra-newtownbreda-road/
 shop: supermarket
 ---

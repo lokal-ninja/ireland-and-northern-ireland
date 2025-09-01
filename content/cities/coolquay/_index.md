@@ -1,6 +1,6 @@
 ---
 title: Coolquay
 url: /coolquay/
-latitude: 53.458
-longitude: -6.35
+latitude: 53.46
+longitude: -6.352
 ---

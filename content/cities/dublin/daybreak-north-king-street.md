@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
-url: /dublin/daybreak-harolds-cross-road/
+url: /dublin/daybreak-north-king-street/
 shop: convenience
 ---

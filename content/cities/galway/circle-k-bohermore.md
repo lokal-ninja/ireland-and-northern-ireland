@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /galway/circle-k-college-road/
+url: /galway/circle-k-bohermore/
 shop: convenience
 ---
