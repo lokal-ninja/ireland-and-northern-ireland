@@ -1,5 +1,5 @@
 ---
 title: "Dubray"
 url: /dublin/dubray/
-shop: sports
+shop: books
 ---

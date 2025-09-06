@@ -1,6 +1,6 @@
 ---
 title: Bansha
 url: /bansha/
-latitude: 52.447
-longitude: -8.063
+latitude: 52.45
+longitude: -8.066
 ---

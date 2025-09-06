@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /lahinch/spar/
-shop: supermarket
+shop: convenience
 ---
