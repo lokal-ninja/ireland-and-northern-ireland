@@ -1,5 +1,5 @@
 ---
-title: "____ Hardware"
+title: "Hardware"
 url: /dublin/hardware/
 shop: hardware
 ---
