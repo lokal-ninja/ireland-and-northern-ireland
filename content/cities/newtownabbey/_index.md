@@ -1,6 +1,6 @@
 ---
 title: Newtownabbey
 url: /newtownabbey/
-latitude: 54.656
-longitude: -5.934
+latitude: 54.678
+longitude: -5.985
 ---
