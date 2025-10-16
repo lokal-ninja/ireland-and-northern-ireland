@@ -1,5 +1,5 @@
 ---
 title: "Apple"
 url: /belfast/apple/
-shop: computer
+shop: electronics
 ---
