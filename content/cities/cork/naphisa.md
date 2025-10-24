@@ -1,5 +1,5 @@
 ---
 title: "Naphisa"
 url: /cork/naphisa/
-shop: boutique
+shop: clothes
 ---
