@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /lisburn/co-op-food-longstone-street/
+url: /lisburn/co-op-food-belsize-road/
 shop: convenience
 ---
