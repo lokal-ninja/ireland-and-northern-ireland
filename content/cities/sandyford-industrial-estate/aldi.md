@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /sandyford-industrial-estate/aldi/
 shop: supermarket
 ---
