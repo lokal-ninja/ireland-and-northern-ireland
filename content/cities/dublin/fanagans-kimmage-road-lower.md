@@ -1,5 +1,5 @@
 ---
 title: "Fanagans"
-url: /dublin/fanagans-lombard-street-east/
+url: /dublin/fanagans-kimmage-road-lower/
 shop: funeral directors
 ---

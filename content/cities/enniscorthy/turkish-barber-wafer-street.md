@@ -1,5 +1,5 @@
 ---
 title: "Turkish Barber"
-url: /enniscorthy/turkish-barber-rafter-street/
+url: /enniscorthy/turkish-barber-wafer-street/
 shop: hairdresser
 ---
