@@ -7,6 +7,6 @@ city: Cork
 street: Blackrock Road
 housenumber: ""
 phone: +353 21 461 4555
-opening_hours: Mo-Fr 08:00-17:00; Sa 08:30-17:00; Su 09:00-17:00; Oct-Feb Mo-Fr 09:00-16:00;
-    Oct-Feb Sa 08:30-17:00; Oct-Feb Su 09:00-17:00
+opening_hours: 'Mo-Fr 08:00-17:00; Sa 08:30-17:00; Su 09:00-17:00; Oct-Feb: Mo-Fr
+    09:00-16:00; Oct-Feb: Sa 08:30-17:00; Oct-Feb: Su 09:00-17:00'
 website: http://www.thenaturalfoodsbakery.com/
