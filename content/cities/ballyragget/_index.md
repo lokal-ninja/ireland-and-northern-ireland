@@ -1,6 +1,6 @@
 ---
 title: Ballyragget
 url: /ballyragget/
-latitude: 52.788
+latitude: 52.789
 longitude: -7.333
 ---
