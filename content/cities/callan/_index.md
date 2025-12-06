@@ -1,6 +1,6 @@
 ---
 title: Callan
 url: /callan/
-latitude: 52.544
-longitude: -7.391
+latitude: 52.546
+longitude: -7.39
 ---
