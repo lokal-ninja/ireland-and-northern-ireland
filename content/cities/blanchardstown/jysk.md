@@ -1,5 +1,5 @@
 ---
 title: "Jysk"
 url: /blanchardstown/jysk/
-shop: pet
+shop: furniture
 ---

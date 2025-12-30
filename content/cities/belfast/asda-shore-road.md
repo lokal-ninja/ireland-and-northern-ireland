@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /belfast/asda-kennedy-way/
+url: /belfast/asda-shore-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hairitage"
-url: /kells/hairitage-john-street/
+url: /kells/hairitage-circular-road/
 shop: hairdresser
 ---
