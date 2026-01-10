@@ -1,5 +1,5 @@
 ---
 title: "Semichem"
-url: /strabane/semichem/
+url: /dungannon/semichem/
 shop: chemist
 ---
