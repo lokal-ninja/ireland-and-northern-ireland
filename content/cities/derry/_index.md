@@ -1,6 +1,6 @@
 ---
 title: Derry
 url: /derry/
-latitude: 55.035
-longitude: -7.196
+latitude: 55.001
+longitude: -7.322
 ---

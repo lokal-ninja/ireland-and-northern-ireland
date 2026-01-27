@@ -1,6 +1,6 @@
 ---
 title: Portballintrae
 url: /portballintrae/
-latitude: 55.216
-longitude: -6.544
+latitude: 55.219
+longitude: -6.541
 ---
