@@ -1,6 +1,6 @@
 ---
 title: Rathfriland
 url: /rathfriland/
-latitude: 54.235
-longitude: -6.164
+latitude: 54.237
+longitude: -6.166
 ---

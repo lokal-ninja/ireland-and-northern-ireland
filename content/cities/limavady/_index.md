@@ -1,6 +1,6 @@
 ---
 title: Limavady
 url: /limavady/
-latitude: 55.05
-longitude: -6.954
+latitude: 55.051
+longitude: -6.926
 ---
