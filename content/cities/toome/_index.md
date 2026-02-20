@@ -1,6 +1,6 @@
 ---
 title: Toome
 url: /toome/
-latitude: 54.753
-longitude: -6.461
+latitude: 54.748
+longitude: -6.437
 ---
