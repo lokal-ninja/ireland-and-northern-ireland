@@ -1,6 +1,6 @@
 ---
 title: Aughnacloy
 url: /aughnacloy/
-latitude: 54.417
-longitude: -6.98
+latitude: 54.415
+longitude: -6.977
 ---
