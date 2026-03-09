@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /tralee/tesco/
-shop: convenience
+shop: supermarket
 ---
