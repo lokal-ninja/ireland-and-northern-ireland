@@ -1,6 +1,6 @@
 ---
 title: Portadown
 url: /portadown/
-latitude: 54.367
-longitude: -6.475
+latitude: 54.421
+longitude: -6.457
 ---

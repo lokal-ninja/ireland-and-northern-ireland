@@ -7,5 +7,6 @@ city: Rosscarbery
 street: ""
 housenumber: ""
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo-We 08:30-13:00,14:00-17:30; Th,Sa 08:30-13:00; Fr 08:30-13:00,14:00-17:00;
+    Su,PH off
+website: https://www.lisavairdco-op.ie
