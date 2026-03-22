@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /antrim/spar/
-shop: supermarket
+shop: convenience
 ---
