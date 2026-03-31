@@ -7,6 +7,5 @@ city: Sligo
 street: Carraroe Retail Park
 housenumber: ""
 phone: 071 918 8700
-opening_hours: Mon-Wed 09:30-18:00, Thu 09:30-21:00, Fri 09:30-20:00, Sat 09:30-18:00,
-    Sun 11:00-18:00
+opening_hours: Mo-We,Sa 09:30-18:00; Th 09:30-21:00; Fr 09:30-20:00; Su 11:00-18:00
 website: https://www.harveynorman.ie/
