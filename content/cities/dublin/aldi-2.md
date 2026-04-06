@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /dublin/aldi-2/
 shop: supermarket
 ---
