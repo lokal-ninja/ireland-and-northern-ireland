@@ -1,6 +1,6 @@
 ---
 title: Killeagh
 url: /killeagh/
-latitude: 51.942
+latitude: 51.941
 longitude: -7.994
 ---
