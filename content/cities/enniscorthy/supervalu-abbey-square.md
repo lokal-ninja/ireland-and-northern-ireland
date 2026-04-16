@@ -1,5 +1,5 @@
 ---
 title: "SuperValu"
-url: /enniscorthy/supervalu-duffry-gate/
+url: /enniscorthy/supervalu-abbey-square/
 shop: supermarket
 ---
