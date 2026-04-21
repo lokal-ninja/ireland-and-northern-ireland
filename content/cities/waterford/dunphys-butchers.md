@@ -1,5 +1,5 @@
 ---
-title: "Dunphys Butchers"
+title: "Dunphy's Butchers"
 url: /waterford/dunphys-butchers/
 shop: butcher
 ---
