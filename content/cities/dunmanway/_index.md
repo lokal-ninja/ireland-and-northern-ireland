@@ -1,6 +1,6 @@
 ---
 title: Dunmanway
 url: /dunmanway/
-latitude: 51.721
-longitude: -9.114
+latitude: 51.722
+longitude: -9.113
 ---
