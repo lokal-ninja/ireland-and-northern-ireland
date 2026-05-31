@@ -1,6 +1,6 @@
 ---
 title: Cahersiveen
 url: /cahersiveen/
-latitude: 51.941
-longitude: -10.238
+latitude: 51.947
+longitude: -10.224
 ---

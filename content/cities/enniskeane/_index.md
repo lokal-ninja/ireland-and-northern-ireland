@@ -1,6 +1,6 @@
 ---
 title: Enniskeane
 url: /enniskeane/
-latitude: 51.737
-longitude: -8.936
+latitude: 51.738
+longitude: -8.931
 ---

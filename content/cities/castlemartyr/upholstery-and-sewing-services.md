@@ -1,5 +1,5 @@
 ---
-title: "Upholstery And Sewing Services"
+title: "Upholstery & Sewing Services"
 url: /castlemartyr/upholstery-and-sewing-services/
 shop: sewing
 ---
