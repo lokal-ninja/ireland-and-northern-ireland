@@ -1,5 +1,5 @@
 ---
-title: RAmelton
+title: Ramelton
 url: /ramelton/
 latitude: 55.037
 longitude: -7.651

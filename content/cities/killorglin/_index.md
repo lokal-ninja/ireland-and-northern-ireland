@@ -1,6 +1,6 @@
 ---
 title: Killorglin
 url: /killorglin/
-latitude: 52.106
-longitude: -9.786
+latitude: 52.107
+longitude: -9.787
 ---
