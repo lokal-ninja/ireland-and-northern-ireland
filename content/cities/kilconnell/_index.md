@@ -2,5 +2,5 @@
 title: Kilconnell
 url: /kilconnell/
 latitude: 53.331
-longitude: -8.401
+longitude: -8.404
 ---
