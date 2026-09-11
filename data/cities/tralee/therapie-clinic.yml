@@ -7,6 +7,5 @@ city: Tralee
 street: ""
 housenumber: ""
 phone: ""
-opening_hours: Sunday  Closed  Monday  Closed  Tuesday  09:30 - 18:00  Wednesday  09:30
-    - 18:00  Thursday  09:30 - 19:00  Friday  09:30 - 19:00  Saturday  09:30 - 17:00
+opening_hours: Tu,We 09:30-18:00; Th,Fr 09:30-19:00; Sa 09:30-17:00
 website: ""

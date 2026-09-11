@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /belfast/spar-antrim-road-4/
-shop: supermarket
+shop: convenience
 ---

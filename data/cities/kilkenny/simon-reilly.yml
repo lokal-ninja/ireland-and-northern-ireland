@@ -7,5 +7,5 @@ city: Kilkenny
 street: High Street
 housenumber: "87"
 phone: ""
-opening_hours: We 09:30-18:00; Th,Fr 09:30-19:00; Sa 09:00-16:00 || 'by appointment'
+opening_hours: We 09:30-18:00; Th,Fr 09:30-19:00; Sa 09:00-16:00 || "by appointment"
 website: https://simonreilly.ie/

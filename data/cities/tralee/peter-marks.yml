@@ -7,7 +7,5 @@ city: Tralee
 street: The Square
 housenumber: ""
 phone: +353 66 712 6072
-opening_hours: monday 9.00am - 6.00pm tuesday 9.00am - 6.00pm wednesday 9.00am - 6.00pm
-    thursday 9.00am - 8.30pm friday 9.00am - 8.30pm saturday 9.00am - 5.30pm sunday
-    closed
+opening_hours: Mo-We 09:00-18:00; Th-Fr 09:00-20:30; Sa 09:00-17:30
 website: ""

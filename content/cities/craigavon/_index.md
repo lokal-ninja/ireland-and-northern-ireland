@@ -1,6 +1,6 @@
 ---
 title: Craigavon
 url: /craigavon/
-latitude: 54.45
-longitude: -6.39
+latitude: 54.479
+longitude: -6.23
 ---

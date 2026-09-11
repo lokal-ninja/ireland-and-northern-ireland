@@ -1,5 +1,5 @@
 ---
-title: "kelida hair salon"
+title: "Kelida Hair Salon"
 url: /cork/kelida-hair-salon/
 shop: beauty
 ---

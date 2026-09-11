@@ -7,6 +7,5 @@ city: Killorglin
 street: Lower Bridge Street
 housenumber: ""
 phone: +353 87 762 4143
-opening_hours: Mon  10:00 – 17:00  Tue  11:00 – 17:00  Wed  10:00 – 17:00  Thu  Closed  Fri  11:00
-    – 17:00  Sat  11:00 – 16:00  Sun  Closed
+opening_hours: Mo,We 10:00-17:00; Tu,Fr 11:00-17:00; Sa 11:00-16:00
 website: https://finderskeeperskerry.com/

@@ -1,6 +1,6 @@
 ---
 title: Downpatrick
 url: /downpatrick/
-latitude: 54.324
-longitude: -5.708
+latitude: 54.327
+longitude: -5.719
 ---

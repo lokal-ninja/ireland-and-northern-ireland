@@ -7,7 +7,5 @@ city: Tralee
 street: Boherbee
 housenumber: ""
 phone: +353 66 712 9961
-opening_hours: 'Monday : 08:00 - 17:30 Tuesday : 08:00 - 17:30 Wednesday : 08:00 -
-    17:30 Thursday : 08:00 - 17:30 Friday : 08:00 - 17:30 Saturday : 09:00 - 17:30
-    Sunday : Closed'
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-17:30; Su closed
 website: ""
