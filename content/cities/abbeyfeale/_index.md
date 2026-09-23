@@ -1,6 +1,6 @@
 ---
 title: Abbeyfeale
 url: /abbeyfeale/
-latitude: 52.386
-longitude: -9.301
+latitude: 52.387
+longitude: -9.302
 ---

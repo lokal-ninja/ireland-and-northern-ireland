@@ -1,6 +1,6 @@
 ---
 title: Carryduff
 url: /carryduff/
-latitude: 54.519
-longitude: -5.881
+latitude: 54.515
+longitude: -5.886
 ---
