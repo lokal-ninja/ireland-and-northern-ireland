@@ -1,6 +1,6 @@
 ---
 title: Dungiven
 url: /dungiven/
-latitude: 54.928
-longitude: -6.922
+latitude: 54.929
+longitude: -6.928
 ---
