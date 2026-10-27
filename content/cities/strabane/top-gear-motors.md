@@ -1,5 +1,5 @@
 ---
 title: "Top Gear Motors"
-url: /castlederg/top-gear-motors/
+url: /strabane/top-gear-motors/
 shop: car
 ---

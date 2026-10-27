@@ -1,5 +1,5 @@
 ---
 title: "Centra"
-url: /mullingar/centra-lynn-road/
+url: /mullingar/centra-ballinderry-road/
 shop: convenience
 ---

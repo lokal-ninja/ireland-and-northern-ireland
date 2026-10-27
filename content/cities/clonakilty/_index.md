@@ -1,6 +1,6 @@
 ---
 title: Clonakilty
 url: /clonakilty/
-latitude: 51.622
-longitude: -8.887
+latitude: 51.624
+longitude: -8.882
 ---

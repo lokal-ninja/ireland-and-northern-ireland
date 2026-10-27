@@ -2,5 +2,5 @@
 title: Greenisland
 url: /greenisland/
 latitude: 54.7
-longitude: -5.873
+longitude: -5.872
 ---
