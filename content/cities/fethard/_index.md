@@ -1,6 +1,6 @@
 ---
 title: Fethard
 url: /fethard/
-latitude: 52.463
-longitude: -7.704
+latitude: 52.468
+longitude: -7.692
 ---
