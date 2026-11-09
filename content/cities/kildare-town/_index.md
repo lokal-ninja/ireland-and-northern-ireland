@@ -1,6 +1,6 @@
 ---
 title: Kildare Town
 url: /kildare-town/
-latitude: 53.155
-longitude: -6.918
+latitude: 53.154
+longitude: -6.917
 ---

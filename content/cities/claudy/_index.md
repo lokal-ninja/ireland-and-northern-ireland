@@ -1,6 +1,6 @@
 ---
 title: Claudy
 url: /claudy/
-latitude: 54.913
-longitude: -7.153
+latitude: 54.914
+longitude: -7.164
 ---

@@ -2,5 +2,5 @@
 title: Dromcollogher
 url: /dromcollogher/
 latitude: 52.34
-longitude: -8.908
+longitude: -8.91
 ---
