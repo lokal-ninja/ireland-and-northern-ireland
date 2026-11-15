@@ -1,5 +1,5 @@
 ---
-title: "Alo nails bar"
+title: "Alo Nails Bar"
 url: /wexford/alo-nails-bar/
 shop: beauty
 ---
